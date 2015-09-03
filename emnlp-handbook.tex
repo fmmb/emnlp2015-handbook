@@ -1,0 +1,132 @@
+%% LyX 2.1.4 created this file.  For more info, see http://www.lyx.org/.
+%% Do not edit unless you really know what you are doing.
+\RequirePackage{fix-cm}
+\RequirePackage{fixltx2e}
+\documentclass[8pt]{extbook}
+\usepackage{bera}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[a5paper]{geometry}
+\geometry{verbose,tmargin=1.9cm,bmargin=1.9cm,lmargin=1.9cm,rmargin=1.2cm}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{3}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{calc}
+\usepackage{textcomp}
+\usepackage{url}
+\usepackage{pdfpages}
+\usepackage{makeidx}
+\makeindex
+\usepackage{graphicx}
+\usepackage[unicode=true,
+ bookmarks=true,bookmarksnumbered=false,bookmarksopen=false,
+ breaklinks=false,pdfborder={0 0 1},backref=false,colorlinks=false]
+ {hyperref}
+\hypersetup{pdftitle={EMNLP 2015 Handbook},
+ pdfauthor={Fernando Batista},
+ pdfsubject={EMNLP 2015},
+ pdfkeywords={EMNLP 2015, Handbook},
+ colorlinks, citecolor=dkblue, filecolor=dkblue, linkcolor=dkblue, urlcolor=blue}
+
+\makeatletter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% LyX specific LaTeX commands.
+%% Because html converters don't know tabularnewline
+\providecommand{\tabularnewline}{\\}
+%% A simple dot to overcome graphicx limitations
+\newcommand{\lyxdot}{.}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Textclass specific LaTeX commands.
+\usepackage{enumitem}		% customizable list environments
+\newlength{\lyxlabelwidth}      % auxiliary length 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% User specified LaTeX commands.
+\usepackage{biblatex}
+
+\usepackage{handbook}
+\usepackage{emnlp2015}
+
+\usepackage[Bjornstrup]{fncychap}
+
+\usepackage{color}
+\definecolor{mygray}{gray}{0.75}
+\definecolor{dkblue}{rgb}{0,0,0.4}
+
+\usepackage{marginnote}
+\usepackage{graphicx}
+\usepackage{ragged2e}
+\usepackage{multirow}
+
+\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/content/tutorials.bib}
+\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/content/workshops.bib}
+
+\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/auto/papers/papers.bib}
+\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/auto/tacl-final/papers.bib}
+
+\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/auto/CogACLL/papers.bib}
+\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/auto/DiscoMT15/papers.bib}
+\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/auto/LSDSem/papers.bib}
+\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/auto/Louhi15/papers.bib}
+\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/auto/VL15/papers.bib}
+\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/auto/WASSA15/papers.bib}
+\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/auto/WMT15/papers.bib}
+
+\makeatother
+
+\begin{document}
+\pagestyle{empty}
+
+\includepdf{content/images/frontcover}
+
+\vspace*{-1.2cm}
+\includegraphics[width=1\columnwidth]{content/images/culturgest-maps}
+
+\vfill{}
+
+
+\emph{Cover design by Sarah Almeida}
+
+\emph{Thanks to Matt Post for his helpful notes about creating a handbook}
+
+\emph{Handbook assembled by Fernando Batista}
+
+\cleardoublepage{}
+
+\include{content/overview}
+
+\cleardoublepage{}
+
+\frontmatter
+
+\pagestyle{plain}
+
+
+
+\tableofcontents{}
+
+\mainmatter
+
+\pagestyle{fancy}
+
+\include{content/conference-info}
+
+\include{content/tutorials}
+
+\include{content/workshops}\include{content/conference-days}
+
+\phantomsection
+\addcontentsline{toc}{chapter}{Author index}\printindex{}
+
+\pagestyle{empty}
+
+\include{content/ads}
+
+
+
+\include{content/backcover}
+\end{document}
