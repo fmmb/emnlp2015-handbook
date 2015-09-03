@@ -48,7 +48,7 @@ Now, generate the latex code for the main conference. The "-debug" option can be
 
 The resulting files must be included in your latex code, using the \input command.
 
-## Some comments
+## Some comments about LyX and biblatex
 
 I am using [LyX](http://www.lyx.org) to write my latex code. I find it particularly interesting for tables, but you can stick with latex if you want. In this repository I am keeping both versions, but be aware that the .tex files are being genberated by LyX and may not be updated, so look at the modification times.
 
@@ -72,8 +72,10 @@ The handbook requires the usage of [biblatex](https://www.ctan.org/pkg/biblatex)
 
 3) choose biber for bib processing
 
+## Notes concerning the data comming from softconf.
 
-
+The publication chairs are responsible for creating the schedule, and consequently, the order files. They will probably use schedule maker, from which you can import the order file. In fact, most of then will probably use excel or google docs to create/change the schedule and then export to schedule maker. You can get all the info, together with the order file, from proceedings.tgz that can be generated from the START system, and will probably be accessed by you using wget or curl.
+At some point, changes will mostly focus on the schedule, so downloading a huge file containing everything, just for extracting the order file may nopt be a good idea. Another option is to enter ACLPUB in START, go to the order tab and copy the contents of the order file. However, if the option "use schedule maker" is selected, you must click "import from schedule maker", making sure that the option "use schedule maker" is not changed. This way, you can generate the order file, iven if it will not be the source of information for the proceedings. You can then copy the result content to your local order file. 
 
 
 
