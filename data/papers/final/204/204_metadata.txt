@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#204
+FinalPaperTitle#=%=#Automatic recognition of habituals: a three-way classification of clausal aspect
+ShortPaperTitle#=%=#Automatic recognition of habituals: a three-way classification of clausal aspect
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Annemarie Friedrich
+JobTitle#==#
+Organization#==#Department of Computational Linguistics
+Campus Building C7.4
+66123 Saarbruecken, Germany
+Abstract#==#This paper provides the first fully automatic approach for classifying clauses
+with respect to their aspectual properties as habitual, episodic or static. We
+bring together two strands of previous work, which address only the related
+tasks of the episodic-habitual and stative-dynamic distinctions, respectively.
+Our method combines different sources of information found to be useful for
+these tasks. We are the first to exhaustively classify ALL clauses of a text,
+achieving up to 80% accuracy (baseline 58%) for the three-way classification
+task, and up to 85% accuracy for related subtasks (baselines 50% and 60%),
+outperforming previous work. In addition, we provide a new large corpus of
+Wikipedia texts labeled according to our linguistically motivated guidelines.
+Author{1}{Firstname}#=%=#Annemarie
+Author{1}{Lastname}#=%=#Friedrich
+Author{1}{Email}#=%=#afried@coli.uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Manfred
+Author{2}{Lastname}#=%=#Pinkal
+Author{2}{Email}#=%=#pinkal@coli.uni-sb.de
+Author{2}{Affiliation}#=%=#Saarland University
+
+==========

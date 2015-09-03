@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#228
+FinalPaperTitle#=%=#Improved Arabic Dialect Classification with Social Media Data
+ShortPaperTitle#=%=#Improved Arabic Dialect Classification with Social Media Data
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Fei Huang
+JobTitle#==#
+Organization#==#Facebook
+
+1 Facebook Way
+Menlo Park, CA 94025
+USA
+Abstract#==#Arabic dialect classification has been an important and challenging problem for
+Arabic language processing, especially for social media text analysis and
+machine translation. In this paper we propose  an approach to improving Arabic
+dialect classification with semi-supervised learning: multiple classifiers are
+trained with weakly supervised, strongly supervised, and unsupervised data.
+Their combination yields significant and consistent improvement on two
+different test sets. The dialect classification accuracy is improved by 5% over
+the strongly supervised classifier and 20% over the weakly supervised
+classifier. Furthermore, when applying the improved dialect classifier to build
+a Modern Standard Arabic (MSA) language model (LM), the new model size is
+reduced by 70% while the English-Arabic translation quality is improved  by 0.6
+BLEU point.
+Author{1}{Firstname}#=%=#Fei
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Email}#=%=#fhuang@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Facebook
+
+==========

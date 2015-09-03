@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#638
+FinalPaperTitle#=%=#Bilingual Structured Language Models for Statistical Machine Translation
+ShortPaperTitle#=%=#Bilingual Structured Language Models for Statistical Machine Translation
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ekaterina Garmash
+JobTitle#==#
+Organization#==#Informatics Institute, University of Amsterdam
+Science Park 904, 1098 XH Amsterdam, The Netherlands
+Abstract#==#This paper describes a novel target-side syntactic language model for
+phrase-based statistical machine translation, bilingual structured language
+model. Our approach represents a new way to adapt structured language models
+(Chelba and Jelinek, 2000) to statistical machine translation, and a first
+attempt to adapt them to phrase-based statistical machine translation. We
+propose a number of variations of the bilingual structured language model and
+evaluate them in a series of rescoring experiments. Rescoring of 1000-best
+translation lists produces statistically significant improvements of up to 0.7
+BLEU over a strong baseline for Chinese-English, but does not yield
+improvements for Arabic-English.
+Author{1}{Firstname}#=%=#Ekaterina
+Author{1}{Lastname}#=%=#Garmash
+Author{1}{Email}#=%=#katya.garmash@gmail.com
+Author{1}{Affiliation}#=%=#University of Amsterdam
+Author{2}{Firstname}#=%=#Christof
+Author{2}{Lastname}#=%=#Monz
+Author{2}{Email}#=%=#c.monz@uva.nl
+Author{2}{Affiliation}#=%=#University of Amsterdam
+
+==========

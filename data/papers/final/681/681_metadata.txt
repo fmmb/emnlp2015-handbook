@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#681
+FinalPaperTitle#=%=#Semi-supervised Chinese Word Segmentation based on Bilingual Information
+ShortPaperTitle#=%=#Semi-supervised Chinese Word Segmentation based on Bilingual Information
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Wei Chen
+JobTitle#==#
+Organization#==#Institute of Automation, Chinese Academy of Sciences
+Street Address:  95 Zhongguancun East Road, Beijing,China
+Zip Code:  100190
+Abstract#==#This paper presents a bilingual semi-supervised Chinese word segmentation (CWS)
+method that leverages the natural segmenting information of English sentences.
+The proposed method involves learning three levels of features, namely,
+character-level, phrase-level and sentence-level, provided by multiple
+sub-models. We use a sub-model of conditional random fields (CRF) to learn
+monolingual grammars, a sub-model based on character-based alignment to obtain
+explicit segmenting knowledge, and another sub-model based on transliteration
+similarity to detect out-of-vocabulary (OOV) words. Moreover, we propose a
+sub-model leveraging neural network to ensure the proper treatment of the
+semantic gap and a phrase-based translation sub-model to score the translation
+probability of the Chinese segmentation and its corresponding English
+sentences. A cascaded log-linear model is employed to combine these features to
+segment bilingual unlabeled data, the results of which are used to justify the
+original supervised CWS model. The evaluation shows that our method results in
+superior results compared with those of the state-of-the-art monolingual and
+bilingual semi-supervised models that have been reported in the literature.
+Author{1}{Firstname}#=%=#Wei
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#wei.chen.media@ia.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Bo
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Email}#=%=#xubo@ia.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+
+==========

@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#458
+FinalPaperTitle#=%=#Evaluation methods for unsupervised word embeddings
+ShortPaperTitle#=%=#Evaluation methods for unsupervised word embeddings
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Tobias Schnabel
+JobTitle#==#
+Organization#==#Cornell University
+Abstract#==#We present a comprehensive study of evaluation methods for  unsupervised
+embedding techniques that obtain meaningful representations of words from text.
+Different evaluations result in different orderings of embedding methods,
+calling into question the common assumption that there is one single optimal
+vector representation.
+We present new evaluation techniques that directly compare embeddings with
+respect to specific queries.
+These methods reduce bias, provide greater insight, and allow us to solicit
+data-driven relevance judgments rapidly and accurately through crowdsourcing.
+Author{1}{Firstname}#=%=#Tobias
+Author{1}{Lastname}#=%=#Schnabel
+Author{1}{Email}#=%=#tbs49@cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#Igor
+Author{2}{Lastname}#=%=#Labutov
+Author{2}{Email}#=%=#igor.labutov@gmail.com
+Author{2}{Affiliation}#=%=#Cornell University
+Author{3}{Firstname}#=%=#David
+Author{3}{Lastname}#=%=#Mimno
+Author{3}{Email}#=%=#dm655@cornell.edu
+Author{3}{Affiliation}#=%=#Cornell University
+Author{4}{Firstname}#=%=#Thorsten
+Author{4}{Lastname}#=%=#Joachims
+Author{4}{Email}#=%=#tj@cs.cornell.edu
+Author{4}{Affiliation}#=%=#Cornell University
+
+==========

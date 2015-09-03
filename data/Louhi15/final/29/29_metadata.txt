@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#29
+FinalPaperTitle#=%=#Effectively Crowdsourcing Radiology Report Annotations
+ShortPaperTitle#=%=#Effectively Crowdsourcing Radiology Report Annotations
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Anne Cocos
+JobTitle#==#
+Organization#==#Department of Biomedical and Health Informatics
+The Children's Hospital of Philadelphia
+3535 Market St.
+Suite 1024
+Philadelphia, PA 19104
+Abstract#==#Crowdsourcing platforms are a popular choice for researchers to gather text
+annotations quickly at scale. We investigate whether crowdsourced annotations
+are useful when the labeling task requires medical domain knowledge. Comparing
+a sentence classification model trained with expert-annotated sentences to the
+same model trained on crowd-labeled sentences, we find the crowdsourced
+training data to be just as effective as the manually produced dataset. We can
+improve the accuracy of the crowd-fueled model without collecting further
+labels by filtering out worker labels applied with low confidence.
+Author{1}{Firstname}#=%=#Anne
+Author{1}{Lastname}#=%=#Cocos
+Author{1}{Email}#=%=#acocos@seas.upenn.edu
+Author{1}{Affiliation}#=%=#University of Pennsylvania / The Children's Hospital of Philadelphia
+Author{2}{Firstname}#=%=#Aaron
+Author{2}{Lastname}#=%=#Masino
+Author{2}{Email}#=%=#MasinoA@email.chop.edu
+Author{2}{Affiliation}#=%=#The Children's Hospital of Philadelphia
+Author{3}{Firstname}#=%=#Ting
+Author{3}{Lastname}#=%=#Qian
+Author{3}{Email}#=%=#QIANT@email.chop.edu
+Author{3}{Affiliation}#=%=#The Children's Hospital of Philadelphia
+Author{4}{Firstname}#=%=#Ellie
+Author{4}{Lastname}#=%=#Pavlick
+Author{4}{Email}#=%=#elliepavlick@gmail.com
+Author{4}{Affiliation}#=%=#University of Pennsylvania
+Author{5}{Firstname}#=%=#Chris
+Author{5}{Lastname}#=%=#Callison-Burch
+Author{5}{Email}#=%=#ccb@upenn.edu
+Author{5}{Affiliation}#=%=#University of Pennsylvania
+
+==========

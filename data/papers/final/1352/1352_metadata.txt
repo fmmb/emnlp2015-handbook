@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1352
+FinalPaperTitle#=%=#Talking to the crowd: What do people react to in online discussions?
+ShortPaperTitle#=%=#Talking to the crowd: What do people react to in online discussions?
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Victoria Zayats
+JobTitle#==#
+Organization#==#University of Washington
+Abstract#==#This paper addresses the question of how language use affects community
+reaction to comments in online discussion forums, and the relative importance
+of the message vs. the messenger. A new comment ranking task is proposed based
+on community annotated karma in Reddit discussions, which controls for topic
+and timing of comments. Experimental work with discussion threads from six
+subreddits shows that the importance of different types of language features
+varies with the community of interest.
+Author{1}{Firstname}#=%=#Aaron
+Author{1}{Lastname}#=%=#Jaech
+Author{1}{Email}#=%=#ajaech@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Victoria
+Author{2}{Lastname}#=%=#Zayats
+Author{2}{Email}#=%=#vzayats@uw.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Hao
+Author{3}{Lastname}#=%=#Fang
+Author{3}{Email}#=%=#hfang@uw.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Mari
+Author{4}{Lastname}#=%=#Ostendorf
+Author{4}{Email}#=%=#mo@ee.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+Author{5}{Firstname}#=%=#Hannaneh
+Author{5}{Lastname}#=%=#Hajishirzi
+Author{5}{Email}#=%=#hannaneh@washington.edu
+Author{5}{Affiliation}#=%=#University of Washington
+
+==========

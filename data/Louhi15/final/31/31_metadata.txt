@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#31
+FinalPaperTitle#=%=#Predicting Continued Participation in Online Health Forums
+ShortPaperTitle#=%=#Predicting Continued Participation in Online Health Forums
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Farig Yousuf Sadeque
+JobTitle#==#Student
+Organization#==#University of Alabama at Birmingham
+Birmingham, AL 35294-1170
+Abstract#==#Online health forums provide advice and emotional solace to their users from a
+social network of people who have faced similar conditions. Continued
+participation of users is thus critical to their success. In this paper, we
+develop machine learning models for predicting whether or not a user will
+continue to participate in an online health forum. The prediction models are
+trained and tested over a large dataset collected from the support group based
+social networking site dailystrength.org. We find that our models can predict
+continued participation with over 83% accuracy after as little as 1 month
+observing the user’s activities, and that performance increases rapidly up to
+1 year of observation. We also show that features such as the time since a
+user’s last activity are consistently predictive regardless of the length of
+the observation period, while other features, such as the number of times a
+user replies to others, decrease in predictiveness as the observation period
+grows.
+Author{1}{Firstname}#=%=#Farig
+Author{1}{Lastname}#=%=#Sadeque
+Author{1}{Email}#=%=#farigys@uab.edu
+Author{1}{Affiliation}#=%=#University of Alabama at Birmingham
+Author{2}{Firstname}#=%=#Thamar
+Author{2}{Lastname}#=%=#Solorio
+Author{2}{Email}#=%=#solorio@cs.uh.edu
+Author{2}{Affiliation}#=%=#UH
+Author{3}{Firstname}#=%=#Ted
+Author{3}{Lastname}#=%=#Pedersen
+Author{3}{Email}#=%=#tpederse@d.umn.edu
+Author{3}{Affiliation}#=%=#University of Minnesota, Duluth
+Author{4}{Firstname}#=%=#Prasha
+Author{4}{Lastname}#=%=#Shrestha
+Author{4}{Email}#=%=#pshrestha3@uh.edu
+Author{4}{Affiliation}#=%=#University of Houston
+Author{5}{Firstname}#=%=#Steven
+Author{5}{Lastname}#=%=#Bethard
+Author{5}{Email}#=%=#bethard@cis.uab.edu
+Author{5}{Affiliation}#=%=#University of Alabama at Birmingham
+
+==========

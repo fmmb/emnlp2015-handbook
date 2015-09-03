@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#526
+FinalPaperTitle#=%=#Extracting Relations between Non-Standard Entities using Distant Supervision and Imitation Learning
+ShortPaperTitle#=%=#Extracting Relations between Non-Standard Entities using Distant Supervision and Imitation Learning
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Isabelle Augenstein
+JobTitle#==#
+Organization#==#Department of Computer Science
+Regent Court, 211 Portobello
+Sheffield, S1 4DP
+United Kingdom
+Abstract#==#Distantly supervised approaches have become popular in recent years as they
+allow training relation extractors without text-bound annotation, using instead
+known relations from a knowledge base and a large textual corpus from an
+appropriate domain.
+    While state of the art distant supervision approaches use off-the-shelf
+named entity recognition and classification NERC systems to identify relation
+arguments,  discrepancies in domain or genre between the data used for NERC
+training and the intended domain for the relation extractor can lead to low
+performance.
+    This is particularly problematic for ``non-standard'' named entities such
+as album which would fall into the MISC category.
+    We propose to ameliorate this issue by jointly training the named entity
+classifier and the relation extractor using imitation learning which reduces
+structured prediction learning to classification learning.
+    We further experiment with Web features different features and compare
+against using two off-the-shelf supervised NERC systems, Stanford NER and
+FIGER, for named entity classification.
+Our experiments show that imitation learning improves average precision by 4
+points over an one-stage classification model, while removing Web features
+results in a 6 points reduction. Compared to using FIGER and Stanford NER,
+average precision is 10 points and 19 points higher with our imitation learning
+approach.
+Author{1}{Firstname}#=%=#Isabelle
+Author{1}{Lastname}#=%=#Augenstein
+Author{1}{Email}#=%=#i.augenstein@sheffield.ac.uk
+Author{1}{Affiliation}#=%=#Department of Computer Science, The University of Sheffield
+Author{2}{Firstname}#=%=#Andreas
+Author{2}{Lastname}#=%=#Vlachos
+Author{2}{Email}#=%=#ucacavl@live.ucl.ac.uk
+Author{2}{Affiliation}#=%=#University College London
+Author{3}{Firstname}#=%=#Diana
+Author{3}{Lastname}#=%=#Maynard
+Author{3}{Email}#=%=#d.maynard@sheffield.ac.uk
+Author{3}{Affiliation}#=%=#Department of Computer Science, The University of Sheffield
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Rule-Based Pronominal Anaphora Treatment for Machine Translation
+ShortPaperTitle#=%=#Rule-Based Pronominal Anaphora Treatment for Machine Translation
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Sharid Loáiciga
+JobTitle#==#
+Organization#==#University of Geneva
+Abstract#==#In this paper we describe the rule-based MT system ITS-2 developed at the
+University of Geneva and submitted for the shared task on pronoun translation
+organized within the EMNLP15 DiscoMT Workshop. For improving pronoun 
+translation, an Anaphora Resolution (AR) step based on Chomsky's Binding Theory
+and Hobbs' algorithm has been implemented. Since this strategy works on 3rd
+person pronouns (i.e. "they", "it" translated as \textit{"elle", "elles", "il",
+"ils" only), absolute performance is affected. However, qualitative differences
+between the submitted system and a baseline without the AR procedure can be
+observed.
+Author{1}{Firstname}#=%=#Sharid
+Author{1}{Lastname}#=%=#Loáiciga
+Author{1}{Email}#=%=#sharid.loaiciga@unige.ch
+Author{1}{Affiliation}#=%=#University of Geneva
+Author{2}{Firstname}#=%=#Eric
+Author{2}{Lastname}#=%=#Wehrli
+Author{2}{Email}#=%=#eric.wehrli@unige.ch
+Author{2}{Affiliation}#=%=#University of Geneva
+
+==========

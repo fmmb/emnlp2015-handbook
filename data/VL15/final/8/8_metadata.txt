@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Understanding Urban Land Use through the Visualization of Points of Interest
+ShortPaperTitle#=%=#Understanding Urban Land Use through the Visualization of Points of Interest
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Evgheni Polisciuc
+JobTitle#==#
+Organization#==#Center for Informatics and Systems of the University of Coimbra, DEI, Polo 2, Pinhal de Marrocos, 3030-290 Coimbra, Portugal
+Abstract#==#Semantic data regarding points of interest in urban areas are hard to
+visualize. Due to the high number of points and categories they belong, as well
+as the associated textual information, maps become heavily cluttered and hard
+to read. Using traditional visualization techniques (e.g. dot distribution
+maps, typographic maps) partially solve this problem. Although, these
+techniques address different issues of the problem, their combination is hard
+and typically results in an efficient visualization. In our approach, we
+present a method to represent clusters of points of interest as shapes, which
+is based on vacuum package metaphor. The calculated shapes characterize sets of
+points and allow their use as containers for textual information. Additionally,
+we present a strategy for placing text onto polygons. The suggested method can
+be used in interactive visual exploration of semantic data distributed in
+space, and for creating maps with similar characteristics of dot distribution
+maps, but using shapes instead of points.
+Author{1}{Firstname}#=%=#Evgheni
+Author{1}{Lastname}#=%=#Polisciuc
+Author{1}{Email}#=%=#evgheni.pol@gmail.com
+Author{1}{Affiliation}#=%=#Department of Informatics Engineering, University of Coimbra
+Author{2}{Firstname}#=%=#Ana
+Author{2}{Lastname}#=%=#Alves
+Author{2}{Email}#=%=#ana@dei.uc.pt
+Author{2}{Affiliation}#=%=#Department of Informatics Engineering, University of Coimbra
+Author{3}{Firstname}#=%=#Penousal
+Author{3}{Lastname}#=%=#Machado
+Author{3}{Email}#=%=#machado@dei.uc.pt
+Author{3}{Affiliation}#=%=#Department of Informatics Engineering, University of Coimbra
+
+==========

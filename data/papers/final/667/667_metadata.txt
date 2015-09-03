@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#667
+FinalPaperTitle#=%=#Solving General Arithmetic Word Problems
+ShortPaperTitle#=%=#Solving General Arithmetic Word Problems
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Subhro Roy
+JobTitle#==#
+Organization#==#University of Illinois, Urbana Champaign,
+201 N. Goodwin Avenue, Urbana, IL-61801
+Abstract#==#This paper presents a novel approach to automatically solving arithmetic word
+problems. This is the first algorithmic approach that can handle arithmetic
+problems with multiple steps and operations, without depending on additional
+annotations or predefined templates. We develop a theory for expression trees
+that can be used to represent and evaluate the target arithmetic expressions;
+we use it to uniquely decompose the target arithmetic problem to multiple
+classification problems; we then compose an equation tree, combining these with
+world knowledge through a constrained inference framework. Our classifiers
+gain from the use of quantity schemas that sup- ports better extraction of
+features. Experimental results show that our method outperforms existing
+systems, achieving state of the art performance on benchmark datasets of
+arithmetic word problems.
+Author{1}{Firstname}#=%=#Subhro
+Author{1}{Lastname}#=%=#Roy
+Author{1}{Email}#=%=#sroy9@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois, Urbana Champaign
+Author{2}{Firstname}#=%=#Dan
+Author{2}{Lastname}#=%=#Roth
+Author{2}{Email}#=%=#danr@illinois.edu
+Author{2}{Affiliation}#=%=#University of Illinois, Urbana Champaign
+
+==========

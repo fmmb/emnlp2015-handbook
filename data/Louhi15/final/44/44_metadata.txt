@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#44
+FinalPaperTitle#=%=#Representing Clinical Notes for Adverse Drug Event Detection
+ShortPaperTitle#=%=#Representing Clinical Notes for Adverse Drug Event Detection
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Aron Henriksson
+JobTitle#==#
+Organization#==#Stockholm University, Sweden
+Abstract#==#Electronic health records have emerged as a promising source of information for
+pharmacovigilance. Adverse drug events are, however, known to be heavily
+underreported, which makes it important to develop capabilities to detect such
+information automatically in clinical text. While machine learning offers
+possible solutions, it remains unclear how best to represent clinical notes
+in a manner conducive to learning high-performing predictive models. Here, 42
+representations are explored in an empirical investigation using 27 real,
+clinical datasets, indicating that combining local and global (distributed)
+representations of words and named entities yields higher accuracy than using
+either in isolation. Subsequent analyses highlight the relative importance of
+various named entity classes for predicting adverse drug events.
+Author{1}{Firstname}#=%=#Aron
+Author{1}{Lastname}#=%=#Henriksson
+Author{1}{Email}#=%=#aronhen@dsv.su.se
+Author{1}{Affiliation}#=%=#Department of Computer and Systems Sciences (DSV), Stockholm University
+
+==========

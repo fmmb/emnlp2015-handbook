@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#933
+FinalPaperTitle#=%=#Online Sentence Novelty Scoring for Topical Document Streams
+ShortPaperTitle#=%=#Online Sentence Novelty Scoring for Topical Document Streams
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#sungjin lee
+JobTitle#==#
+Organization#==#Yahoo Labs
+229 West 43rd Street, New York, NY 10036, USA
+Abstract#==#The enormous amount of information on the Internet has raised the challenge of
+highlighting new information in the context of already viewed content. This
+type of intelligent interface can save users time and prevent frustration. Our
+goal is to scale out novelty detection to large web properties like Google and
+Yahoo News. We present a set of efficient, light-weight features for online
+novelty scoring and a fast nonlinear feature transformation method using Deep
+Neural Network. Our experimental results on the TREC 2004 datasets show that
+the proposed method is not only efficient but also very powerful, significantly
+surpassing the best challenge system at TREC 2004.
+Author{1}{Firstname}#=%=#Sungjin
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Email}#=%=#junion.sjlee@gmail.com
+Author{1}{Affiliation}#=%=#Yahoo Labs
+
+==========

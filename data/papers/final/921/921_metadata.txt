@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#921
+FinalPaperTitle#=%=#Event Detection and Factuality Assessment with Non-Expert Supervision
+ShortPaperTitle#=%=#Event Detection and Factuality Assessment with Non-Expert Supervision
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Kenton Lee
+JobTitle#==#
+Organization#==#Computer Science & Engineering
+University of Washington
+Seattle, WA 98195
+Abstract#==#Events are communicated in natural language with varying degrees of certainty.
+For example, if you are "hoping for a raise," it may be somewhat less likely
+than if you are "expecting" one. To study these distinctions, we present
+scalable, high-quality annotation schemes for event detection and fine-grained
+factuality assessment. We find that non-experts, with very little training, can
+reliably provide judgments about what events are mentioned and the extent to
+which the author thinks they actually happened. We also show how such data
+enables the development of regression models for fine-grained scalar factuality
+predictions that outperform strong baselines.
+Author{1}{Firstname}#=%=#Kenton
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Email}#=%=#kentonl@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Yoav
+Author{2}{Lastname}#=%=#Artzi
+Author{2}{Email}#=%=#yoav@cs.cornell.edu
+Author{2}{Affiliation}#=%=#Cornell University
+Author{3}{Firstname}#=%=#Yejin
+Author{3}{Lastname}#=%=#Choi
+Author{3}{Email}#=%=#yejin@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Luke
+Author{4}{Lastname}#=%=#Zettlemoyer
+Author{4}{Email}#=%=#lsz@cs.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+
+==========

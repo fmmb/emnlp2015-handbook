@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#72
+FinalPaperTitle#=%=#Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems
+ShortPaperTitle#=%=#Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Tsung-Hsien Wen
+JobTitle#==#
+Organization#==#Cambridge University Engineering Department
+Trumpington Street, Cambridge, CB2 1PZ, UK
+Abstract#==#Natural language generation (NLG) is a critical component of spoken dialogue
+and it has a significant impact both on usability and perceived quality.  Most
+NLG systems in common use employ rules and heuristics and tend to generate
+rigid and stylised responses without the natural variation of human language. 
+They are also not easily scaled to systems covering multiple domains and
+languages.
+This paper presents a statistical language generator based on a semantically
+controlled Long Short-term Memory (LSTM) structure.
+The LSTM generator can learn from unaligned data by jointly optimising sentence
+planning and surface realisation  using a simple cross entropy training
+criterion, and language variation can be easily achieved by sampling from
+output candidates.   
+With fewer heuristics, an objective evaluation in two differing test domains
+showed the proposed method improved performance compared to previous methods. 
+Human judges scored the LSTM system higher on informativeness and naturalness
+and overall preferred it to the other systems.
+Author{1}{Firstname}#=%=#Tsung-Hsien
+Author{1}{Lastname}#=%=#Wen
+Author{1}{Email}#=%=#thw28@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Milica
+Author{2}{Lastname}#=%=#Gasic
+Author{2}{Email}#=%=#mg436@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Nikola
+Author{3}{Lastname}#=%=#Mrkšić
+Author{3}{Email}#=%=#nm480@cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+Author{4}{Firstname}#=%=#Pei-Hao
+Author{4}{Lastname}#=%=#Su
+Author{4}{Email}#=%=#phs26@cam.ac.uk
+Author{4}{Affiliation}#=%=#University of Cambridge
+Author{5}{Firstname}#=%=#David
+Author{5}{Lastname}#=%=#Vandyke
+Author{5}{Email}#=%=#djv27@cam.ac.uk
+Author{5}{Affiliation}#=%=#University of Cambridge
+Author{6}{Firstname}#=%=#Steve
+Author{6}{Lastname}#=%=#Young
+Author{6}{Email}#=%=#sjy@eng.cam.ac.uk
+Author{6}{Affiliation}#=%=#Cambridge University
+
+==========

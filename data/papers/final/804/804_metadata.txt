@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#804
+FinalPaperTitle#=%=#Improving fast_align by Reordering
+ShortPaperTitle#=%=#Improving fast_align by Reordering
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Chenchen Ding
+JobTitle#==#
+Organization#==#National Institute of Information and Communications Technology
+3-5 Hikaridai, Seikacho, Sorakugun, Kyoto, 619-0289, Japan
+Abstract#==#fast_align is a simple, fast, and efficient approach for word alignment based
+on the IBM model 2. fast_align performs well for language pairs with relatively
+similar word orders; however, it does not perform well for language pairs with
+drastically different word orders. We propose a segmenting-reversing reordering
+process to solve this problem by alternately applying fast_align and reordering
+source sentences during training. Experimental results with Japanese-English
+translation demonstrate that the proposed approach improves the performance of
+fast_align significantly without the loss of efficiency. Experiments using
+other languages are also reported.
+Author{1}{Firstname}#=%=#Chenchen
+Author{1}{Lastname}#=%=#Ding
+Author{1}{Email}#=%=#chenchen.ding@nict.go.jp
+Author{1}{Affiliation}#=%=#NICT
+Author{2}{Firstname}#=%=#Masao
+Author{2}{Lastname}#=%=#Utiyama
+Author{2}{Email}#=%=#mutiyama@nict.go.jp
+Author{2}{Affiliation}#=%=#NICT
+Author{3}{Firstname}#=%=#Eiichiro
+Author{3}{Lastname}#=%=#Sumita
+Author{3}{Email}#=%=#eiichiro.sumita@nict.go.jp
+Author{3}{Affiliation}#=%=#NICT
+
+==========

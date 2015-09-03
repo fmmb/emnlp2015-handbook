@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#1062
+FinalPaperTitle#=%=#Sentence Modeling with Gated Recursive Neural Network
+ShortPaperTitle#=%=#Sentence Modeling with Gated Recursive Neural Network
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Xipeng Qiu
+JobTitle#==#
+Organization#==#Room 306-3, Computer Building, No 825, Zhangheng Road, Shanghai, China
+Institute of Media Computing, 
+School of Computer Science, Fudan University
+Abstract#==#Recently, neural network based sentence modeling methods have achieved great
+progress. Among these methods, the recursive neural networks (RecNNs) can
+effectively model the combination of the words in sentence. However, RecNNs
+need a given external topological structure, like syntactic tree.
+In this paper, we propose a gated recursive neural
+network (GRNN) to model sentences, which employs a full binary tree (FBT)
+structure to control the combinations in recursive structure. By introducing
+two kinds of gates, our model can better model the complicated combinations of
+features. Experiments on three text classification datasets show the
+effectiveness of our model.
+Author{1}{Firstname}#=%=#Xinchi
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#dalstonchen@gmail.com
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Xipeng
+Author{2}{Lastname}#=%=#Qiu
+Author{2}{Email}#=%=#xpqiu@fudan.edu.cn
+Author{2}{Affiliation}#=%=#Fudan University
+Author{3}{Firstname}#=%=#Chenxi
+Author{3}{Lastname}#=%=#Zhu
+Author{3}{Email}#=%=#13210240078@fudan.edu.cn
+Author{3}{Affiliation}#=%=#
+Author{4}{Firstname}#=%=#Shiyu
+Author{4}{Lastname}#=%=#Wu
+Author{4}{Email}#=%=#syu13@fudan.edu.cn
+Author{4}{Affiliation}#=%=#Fudan University
+Author{5}{Firstname}#=%=#Xuanjing
+Author{5}{Lastname}#=%=#Huang
+Author{5}{Email}#=%=#xjhuang@fudan.edu.cn
+Author{5}{Affiliation}#=%=#Fudan University
+
+==========

@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#1233
+FinalPaperTitle#=%=#Variable-Length Word Encodings for Neural Translation Models
+ShortPaperTitle#=%=#Variable-Length Word Encodings for Neural Translation Models
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Rohan Chitnis
+JobTitle#==#
+Organization#==#University of California, Berkeley
+Abstract#==#Recent work in neural machine translation has shown promising performance, but
+the most effective architectures do not scale naturally to large vocabulary
+sizes. We propose and compare three variable-length encoding schemes that
+represent a large vocabulary corpus using a much smaller vocabulary with no
+loss in information. Common words are unaffected by our encoding, but rare
+words are encoded using a sequence of two pseudo-words. Our method is simple
+and effective: it requires no complete dictionaries, learning procedures,
+increased training time, changes to the model, or new parameters. Compared to a
+baseline that replaces all rare words with an unknown word symbol, our best
+variable-length encoding strategy improves WMT English-French translation
+performance by up to 1.7 BLEU.
+Author{1}{Firstname}#=%=#Rohan
+Author{1}{Lastname}#=%=#Chitnis
+Author{1}{Email}#=%=#ronuchit@berkeley.edu
+Author{1}{Affiliation}#=%=#UC Berkeley
+Author{2}{Firstname}#=%=#John
+Author{2}{Lastname}#=%=#DeNero
+Author{2}{Email}#=%=#denero@cs.berkeley.edu
+Author{2}{Affiliation}#=%=#UC Berkeley
+
+==========

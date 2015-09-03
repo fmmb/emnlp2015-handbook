@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#Language Emergence in a Population of Artificial Agents Equipped with the Autotelic Principle
+ShortPaperTitle#=%=#Language Emergence in a Population of Artificial Agents Equipped with the Autotelic Principle
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Miquel Cornudella
+JobTitle#==#Research Assistant
+Organization#==#Sony CSL Paris
+Abstract#==#Experiments on the emergence of a shared language in a population of agents
+usually rely on the control of the complexity by the experimenter. In this
+article we show how agents provided with the autotelic principle, a system by
+which agents can regulate their own development, progressively develop an
+emerging language evolving from one word to multi-word utterances, increasing
+its discriminative power.
+Author{1}{Firstname}#=%=#Miquel
+Author{1}{Lastname}#=%=#Cornudella
+Author{1}{Email}#=%=#cornudella@csl.sony.fr
+Author{1}{Affiliation}#=%=#Sony CSL Paris
+Author{2}{Firstname}#=%=#Thierry
+Author{2}{Lastname}#=%=#Poibeau
+Author{2}{Email}#=%=#thierry.poibeau@ens.fr
+Author{2}{Affiliation}#=%=#Laboratoire LATTICE-CNRS
+
+==========

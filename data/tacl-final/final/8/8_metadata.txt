@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Combining Minimally-supervised Methods for Arabic Named Entity Recognition
+ShortPaperTitle#=%=#Combining Minimally-supervised Methods for Arabic Named Entity Recognition
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Maha Althobaiti
+JobTitle#==#
+Organization#==#University of Essex
+Wivenhoe Park
+Colchester CO4 3SQ
+UK
+Abstract#==#Supervised methods can achieve high performance on NLP tasks, such as Named
+Entity Recognition (NER), but new annotations are required for every new domain
+and/or genre change. This has motivated research in minimally supervised
+methods such as semisupervised learning and distant learning, but neither
+technique has yet achieved performance levels comparable to those of supervised
+methods. Semi-supervised methods tend to have very high precision but
+comparatively low recall, whereas distant learning tends to achieve higher
+recall but lower precision. This complementarity suggests that better results
+may be obtained by combining the two types of minimally supervised methods. In
+this paper we present a novel approach to Arabic NER using a combination of
+semi-supervised and distant learning techniques. We trained a semi-supervised
+NER classifier and another one using distant learning techniques, and then
+combined them using a variety of classifier combination schemes, including the
+Bayesian Classifier Combination (BCC) procedure recently proposed for sentiment
+analysis. According to our results, the BCC model leads to an increase in
+performance of 8 percentage points over the best base classifiers.
+Author{1}{Firstname}#=%=#Maha
+Author{1}{Lastname}#=%=#Althobaiti
+Author{1}{Email}#=%=#mjaltha@essex.ac.uk
+Author{1}{Affiliation}#=%=#University of Essex
+Author{2}{Firstname}#=%=#Udo
+Author{2}{Lastname}#=%=#Kruschwitz
+Author{2}{Email}#=%=#udo@essex.ac.uk
+Author{2}{Affiliation}#=%=#University of Essex
+Author{3}{Firstname}#=%=#Massimo
+Author{3}{Lastname}#=%=#Poesio
+Author{3}{Email}#=%=#poesio@essex.ac.uk
+Author{3}{Affiliation}#=%=#University of Essex
+
+==========

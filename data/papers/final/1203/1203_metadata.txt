@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#1203
+FinalPaperTitle#=%=#Summarization Based on Embedding Distributions
+ShortPaperTitle#=%=#Summarization Based on Embedding Distributions
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Hayato Kobayashi
+JobTitle#==#
+Organization#==#Hayato Kobayashi
+Yahoo Japan Corporation
+Abstract#==#In this study, we consider a summarization method using the document level
+similarity
+ based on embeddings, or distributed representations of words,
+where we assume that an embedding of each word can represent its ``meaning.''
+We formalize our task as the problem of maximizing a submodular function
+defined by the negative summation of the nearest neighbors' distances on
+ embedding distributions,
+ each of which represents a set of word embeddings in a document.
+We proved the submodularity of our objective function
+ and that our problem is asymptotically related to
+the KL-divergence between
+ the probability density functions that correspond to a document and its
+summary in a continuous space.
+An experiment using a real dataset demonstrated that our method performed
+better than the existing method
+ based on the sentence-level similarity.
+Author{1}{Firstname}#=%=#Hayato
+Author{1}{Lastname}#=%=#Kobayashi
+Author{1}{Email}#=%=#hayato.kobayashi@gmail.com
+Author{1}{Affiliation}#=%=#Yahoo Japan Corporation
+Author{2}{Firstname}#=%=#Masaki
+Author{2}{Lastname}#=%=#Noguchi
+Author{2}{Email}#=%=#manoguch@yahoo-corp.jp
+Author{2}{Affiliation}#=%=#Yahoo Japan Corporation
+Author{3}{Firstname}#=%=#Taichi
+Author{3}{Lastname}#=%=#Yatsuka
+Author{3}{Email}#=%=#tyatsuka@yahoo-corp.jp
+Author{3}{Affiliation}#=%=#Yahoo Japan Corporation
+
+==========

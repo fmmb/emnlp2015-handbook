@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#626
+FinalPaperTitle#=%=#Multi-Perspective Sentence Similarity Modeling with Convolutional Neural Networks
+ShortPaperTitle#=%=#Multi-Perspective Sentence Similarity Modeling with Convolutional Neural Networks
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Hua He
+JobTitle#==#
+Organization#==#University of Maryland College Park, MD, 20740
+Abstract#==#Modeling sentence similarity is complicated by the ambiguity and variability of
+linguistic expression. To cope with these challenges, we propose a model for
+comparing sentences that uses a multiplicity of perspectives. We first model
+each sentence using a convolutional neural network that extracts features at
+multiple levels of granularity and uses multiple types of pooling. We then
+compare our sentence representations at several granularities using multiple
+similarity metrics. We apply our model to three tasks, including the Microsoft
+Research paraphrase identification task and two SemEval semantic textual
+similarity tasks. We obtain strong performance on all tasks, rivaling or
+exceeding the state-of-the-art without using external resources like WordNet or
+parsers.
+Author{1}{Firstname}#=%=#Hua
+Author{1}{Lastname}#=%=#He
+Author{1}{Email}#=%=#huah@cs.umd.edu
+Author{1}{Affiliation}#=%=#University of Maryland, College Park
+Author{2}{Firstname}#=%=#Kevin
+Author{2}{Lastname}#=%=#Gimpel
+Author{2}{Email}#=%=#kgimpel@ttic.edu
+Author{2}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+Author{3}{Firstname}#=%=#Jimmy
+Author{3}{Lastname}#=%=#Lin
+Author{3}{Email}#=%=#jimmylin@umd.edu
+Author{3}{Affiliation}#=%=#University of Maryland
+
+==========

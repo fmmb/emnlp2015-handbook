@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#52
+FinalPaperTitle#=%=#Morphological Segmentation and OPUS for Finnish-English Machine Translation
+ShortPaperTitle#=%=#Morphological Segmentation and OPUS for Finnish-English Machine Translation
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Filip Ginter
+JobTitle#==#
+Organization#==#University of Turku
+Abstract#==#This paper describes baseline systems for Finnish-English and
+English-Finnish machine translation using standard phrase-based and
+factored models including morphological features. We experiment with
+compound splitting and morphological segmentation and study the effect
+of adding noisy out-of-domain data to the parallel and the monolingual
+training data. Our results stress the importance of training data and
+demonstrate the effectiveness of morphological pre-processing of Finnish.
+Author{1}{Firstname}#=%=#Jörg
+Author{1}{Lastname}#=%=#Tiedemann
+Author{1}{Email}#=%=#jorg.tiedemann@lingfil.uu.se
+Author{1}{Affiliation}#=%=#Uppsala University
+Author{2}{Firstname}#=%=#Filip
+Author{2}{Lastname}#=%=#Ginter
+Author{2}{Email}#=%=#ginter@cs.utu.fi
+Author{2}{Affiliation}#=%=#University of Turku
+Author{3}{Firstname}#=%=#Jenna
+Author{3}{Lastname}#=%=#Kanerva
+Author{3}{Email}#=%=#jmnybl@utu.fi
+Author{3}{Affiliation}#=%=#University of Turku
+
+==========

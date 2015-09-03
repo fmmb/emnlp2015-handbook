@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#952
+FinalPaperTitle#=%=#Better Summarization Evaluation with Word Embeddings for ROUGE
+ShortPaperTitle#=%=#Better Summarization Evaluation with Word Embeddings for ROUGE
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jun Ping Ng
+JobTitle#==#
+Organization#==#Bloomberg L.P.
+731 Lexington Ave, New York, NY 10022, USA
+Abstract#==#ROUGE is a widely adopted, automatic evaluation measure for text summarization.
+While it has been shown to correlate well with human judgements, it is biased
+towards surface lexical similarities. 
+This makes it unsuitable for the evaluation of abstractive summarization, or
+summaries with substantial paraphrasing. 
+We study the effectiveness of word embeddings to overcome this disadvantage of
+ROUGE.                                                                           
+Specifically, instead of measuring lexical overlaps, word embeddings
+are used to compute the semantic similarity of the words used in summaries
+instead. 
+Our experimental results show that our proposal is able to achieve better
+correlations with human judgements when measured with the Spearman and Kendall
+rank coefficients.
+Author{1}{Firstname}#=%=#Jun-Ping
+Author{1}{Lastname}#=%=#Ng
+Author{1}{Email}#=%=#ng.jun.ping@gmail.com
+Author{1}{Affiliation}#=%=#Bloomberg L.P.
+Author{2}{Firstname}#=%=#Viktoria
+Author{2}{Lastname}#=%=#Abrecht
+Author{2}{Email}#=%=#vkanchakousk@bloomberg.net
+Author{2}{Affiliation}#=%=#Bloomberg L.P.
+
+==========

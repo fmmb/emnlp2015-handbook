@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Predicting Pronoun Translation Using Syntactic, Morphological and Contextual Features from Parallel Data
+ShortPaperTitle#=%=#Predicting Pronoun Translation Using Syntactic, Morphological and Contextual Features from Parallel Data
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Sharid Loáiciga
+JobTitle#==#
+Organization#==#University of Geneva
+Abstract#==#In this paper we describe the systems submitted to the shared task on pronoun
+prediction organized within the EMNLP15 DiscoMT Workshop. The systems are
+trained on linguistically motivated features extracted from both sides of an
+English-French parallel corpus and their parses. We have used a parser that
+integrates morphological disambiguation and which handles the "replace_xx"
+placeholders explicitly.  In particular, we compare the relevance of three
+groups of features a) syntactic (from the English parse), b) morphological
+(from the French morphological analysis) and c) contextual (from the English
+sentence)-- for French pronoun prediction. A discussion on the role of these
+sets of features for each pronoun class is included.
+Author{1}{Firstname}#=%=#Sharid
+Author{1}{Lastname}#=%=#Loáiciga
+Author{1}{Email}#=%=#sharid.loaiciga@unige.ch
+Author{1}{Affiliation}#=%=#University of Geneva
+
+==========

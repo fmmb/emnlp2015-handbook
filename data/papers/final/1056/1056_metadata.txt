@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#1056
+FinalPaperTitle#=%=#Learning Word Meanings and Grammar for Describing Everyday Activities in Smart Environments
+ShortPaperTitle#=%=#Learning Word Meanings and Grammar for Describing Everyday Activities in Smart Environments
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Muhammad Attamimi
+JobTitle#==#
+Organization#==#
+Abstract#==#If intelligent systems are to interact with humans in a natural manner, the
+ability to describe daily life activities is important. To achieve this,
+sensing human activities by capturing multimodal information is necessary. In
+this study, we consider a smart environment for sensing activities with respect
+to realistic scenarios. We next propose a sentence generation system from
+observed multimodal information in a bottom up manner using multilayered
+multimodal latent Dirichlet allocation and Bayesian hidden Markov models. We
+evaluate the grammar learning and sentence generation as a complete process
+within a realistic setting. The experimental result reveals the effectiveness
+of the proposed method.
+Author{1}{Firstname}#=%=#Muhammad
+Author{1}{Lastname}#=%=#Attamimi
+Author{1}{Email}#=%=#muhammadattamimi2012@gmail.com
+Author{1}{Affiliation}#=%=#The University of Electro-Communications
+Author{2}{Firstname}#=%=#Yuji
+Author{2}{Lastname}#=%=#Ando
+Author{2}{Email}#=%=#ando@apple.ee.uec.ac.jp
+Author{2}{Affiliation}#=%=#The University of Electro-Communications
+Author{3}{Firstname}#=%=#Tomoaki
+Author{3}{Lastname}#=%=#Nakamura
+Author{3}{Email}#=%=#tnakamura@uec.ac.jp
+Author{3}{Affiliation}#=%=#The University of Electro-Communications
+Author{4}{Firstname}#=%=#Takayuki
+Author{4}{Lastname}#=%=#Nagai
+Author{4}{Email}#=%=#tnagai@ee.uec.ac.jp
+Author{4}{Affiliation}#=%=#The University of Electro-Communications
+Author{5}{Firstname}#=%=#Daichi
+Author{5}{Lastname}#=%=#Mochihashi
+Author{5}{Email}#=%=#daichi@ism.ac.jp
+Author{5}{Affiliation}#=%=#The Institute of Statistical Mathematics
+Author{6}{Firstname}#=%=#Ichiro
+Author{6}{Lastname}#=%=#Kobayashi
+Author{6}{Email}#=%=#koba@is.ocha.ac.jp
+Author{6}{Affiliation}#=%=#Ochanomizu University
+Author{7}{Firstname}#=%=#Hideki
+Author{7}{Lastname}#=%=#Asoh
+Author{7}{Email}#=%=#h.asoh@aist.go.jp
+Author{7}{Affiliation}#=%=#National Institute of Advanced Industrial Science and Technology
+
+==========

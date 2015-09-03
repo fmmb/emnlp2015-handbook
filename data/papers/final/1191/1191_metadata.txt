@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1191
+FinalPaperTitle#=%=#Adapting Phrase-based Machine Translation to Normalise Medical Terms in Social Media Messages
+ShortPaperTitle#=%=#Adapting Phrase-based Machine Translation to Normalise Medical Terms in Social Media Messages
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Nut Limsopatham
+JobTitle#==#
+Organization#==#Nut Limsopatham
+University of Cambridge
+Abstract#==#Previous studies have shown that health reports in social media, such as
+DailyStrength and Twitter, have potential for monitoring health conditions
+(e.g. adverse drug reactions, infectious diseases) in particular communities.
+However, in order for a machine to understand and make inferences on these
+health conditions, the ability to recognise when laymen's terms refer to a
+particular medical concept (i.e. text normalisation) is required. To achieve
+this, we propose to adapt an existing phrase-based machine translation (MT)
+technique and a vector representation of words to map between a social media
+phrase and a medical concept. We evaluate our proposed approach using a
+collection of phrases from tweets related to adverse drug reactions. Our
+experimental results show that the combination of a phrase-based MT technique
+and the similarity between word vector representations outperforms the
+baselines that apply only either of them by up to 55%.
+Author{1}{Firstname}#=%=#Nut
+Author{1}{Lastname}#=%=#Limsopatham
+Author{1}{Email}#=%=#nl347@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Nigel
+Author{2}{Lastname}#=%=#Collier
+Author{2}{Email}#=%=#nhc30@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+
+==========

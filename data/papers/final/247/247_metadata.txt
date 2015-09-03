@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#247
+FinalPaperTitle#=%=#Multilingual discriminative lexicalized phrase structure parsing
+ShortPaperTitle#=%=#Multilingual discriminative lexicalized phrase structure parsing
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Benoit Crabbe
+JobTitle#==#
+Organization#==#Université Paris Diderot et INRIA
+Abstract#==#We provide a generalization of discriminative lexicalized shift reduce
+parsing techniques for phrase structure grammar to a wide range of
+morphologically rich languages. The model is efficient and outperforms
+recent strong baselines on almost all languages considered. It takes advantage
+of a dependency based modelling of morphology and a shallow modelling of con-
+stituency boundaries.
+Author{1}{Firstname}#=%=#Benoit
+Author{1}{Lastname}#=%=#Crabbé
+Author{1}{Email}#=%=#benoit.crabbe@gmail.com
+Author{1}{Affiliation}#=%=#University Paris Diderot
+
+==========

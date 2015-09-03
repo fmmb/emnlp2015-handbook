@@ -1,0 +1,18 @@
+abbrev WMT
+type WORKSHOP
+title Tenth Workshop on Statistical Machine Translation
+url http://www.statmt.org/wmt15/
+booktitle Proceedings of the Tenth Workshop on Statistical Machine Translation
+month September
+year 2015
+location Lisbon, Portugal
+publisher Association for Computational Linguistics
+chairs Ondřej Bojar (Charles University in Prague)
+chairs Rajan Chatterjee (FBK)
+chairs Christian Federmann (MSR)
+chairs Barry Haddow (University of Edinburgh)
+chairs Chris Hokamp (Dublin City University)
+chairs Matthias Huck (University of Edinburgh)
+chairs Varvara Logacheva (University of Sheffield)
+chairs Pavel Pecina (Charles University in Prague)
+bib_url http://aclweb.org/anthology/W15-30%02d

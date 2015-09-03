@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#1387
+FinalPaperTitle#=%=#Reinforcing the Topic of Embeddings with Theta Pure Dependence for Text Classification
+ShortPaperTitle#=%=#Reinforcing the Topic of Embeddings with Theta Pure Dependence for Text Classification
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ning Xing
+JobTitle#==#
+Organization#==#Tianjin University
+No.92 Weijin Road, Nankai District, Tianjin, P.R. China
+Abstract#==#For sentiment classification, it is often recognized that embedding based on
+distributional hypothesis is weak in capturing sentiment
+contrast--contrasting words may have similar local context. Based on broader
+context, we propose to incorporate Theta Pure Dependence (TPD) into the
+Paragraph Vector method to reinforce topical and sentimental information. TPD
+has a theoretical guarantee that the word dependency is pure, i.e., the
+dependence pattern has the integral meaning whose underlying distribution can
+not be conditionally factorized. Our method outperforms the state-of-the-art
+performance on text classification tasks.
+Author{1}{Firstname}#=%=#Ning
+Author{1}{Lastname}#=%=#Xing
+Author{1}{Email}#=%=#xingning@tju.edu.cn
+Author{1}{Affiliation}#=%=#Tianjin University, China
+Author{2}{Firstname}#=%=#Yuexian
+Author{2}{Lastname}#=%=#Hou
+Author{2}{Email}#=%=#yxhou@tju.edu.cn
+Author{2}{Affiliation}#=%=#Tianjin University, China
+Author{3}{Firstname}#=%=#Peng
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#pzhang@tju.edu.cn
+Author{3}{Affiliation}#=%=#Tianjin University, China
+Author{4}{Firstname}#=%=#Wenjie
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#cswjli@comp.polyu.edu.hk
+Author{4}{Affiliation}#=%=#The Hong Kong Polytechnic University, Hong Kong
+Author{5}{Firstname}#=%=#Dawei
+Author{5}{Lastname}#=%=#Song
+Author{5}{Email}#=%=#dwsong@tju.edu.cn
+Author{5}{Affiliation}#=%=#Tianjin University, China
+
+==========

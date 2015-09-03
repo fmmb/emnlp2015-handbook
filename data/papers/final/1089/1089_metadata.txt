@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1089
+FinalPaperTitle#=%=#Named entity recognition with document-specific KB tag gazetteers
+ShortPaperTitle#=%=#Named entity recognition with document-specific KB tag gazetteers
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Will Radford
+JobTitle#==#
+Organization#==#Xerox Research Centre Europe
+6 chemin de Maupertuis
+38240 Meylan, France
+Abstract#==#We consider a novel setting for Named Entity Recognition (NER) where we have
+access to document-specific knowledge base tags. These tags consist of a
+canonical name from a knowledge base (KB) and entity type, but are not aligned
+to the text. We explore how to use KB tags to create document-specific
+gazetteers at inference time to improve NER. We find that this kind of
+supervision helps recognise organisations more than standard wide- coverage
+gazetteers. Moreover, augmenting document-specific gazetteers with KB
+information lets users specify fewer tags for the same performance, reducing
+cost.
+Author{1}{Firstname}#=%=#Will
+Author{1}{Lastname}#=%=#Radford
+Author{1}{Email}#=%=#wejradford@gmail.com
+Author{1}{Affiliation}#=%=#Xerox Research Centre Europe
+Author{2}{Firstname}#=%=#Xavier
+Author{2}{Lastname}#=%=#Carreras
+Author{2}{Email}#=%=#carreras@cs.upc.edu
+Author{2}{Affiliation}#=%=#Xerox Research Centre Europe
+Author{3}{Firstname}#=%=#James
+Author{3}{Lastname}#=%=#Henderson
+Author{3}{Email}#=%=#james.henderson@unige.ch
+Author{3}{Affiliation}#=%=#Xerox Research Centre Europe
+
+==========

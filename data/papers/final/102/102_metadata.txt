@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#102
+FinalPaperTitle#=%=#Hashtag Recommendation Using Dirichlet Process Mixture Models Incorporating Types of Hashtags
+ShortPaperTitle#=%=#Hashtag Recommendation Using Dirichlet Process Mixture Models Incorporating Types of Hashtags
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Qi Zhang
+JobTitle#==#
+Organization#==#Fudan University
+825 Zhangheng Road, Shanghai, P.R.China
+Abstract#==#In recent years, the task of recommending hashtags for microblogs has been
+given increasing attention. Various methods have been proposed to study the
+problem from different aspects. However, most of the recent studies have not
+considered the differences in the types or uses of hashtags. In this paper, we
+introduce a novel nonparametric Bayesian method for this task. Based on the
+Dirichlet Process Mixture Models (DPMM), we incorporate the type of hashtag as
+a hidden variable. The results of experiments on the data collected from a real
+world microblogging service demonstrate that the proposed method outperforms
+state-of-the-art methods that do not consider these aspects. By taking these
+aspects into consideration, the relative improvement of the proposed method
+over the state-of-the-art methods is around 12.2\% in F1- score.
+Author{1}{Firstname}#=%=#Yeyun
+Author{1}{Lastname}#=%=#Gong
+Author{1}{Email}#=%=#ye163yun@163.com
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Qi
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#qz@fudan.edu.cn
+Author{2}{Affiliation}#=%=#Fudan University
+Author{3}{Firstname}#=%=#Xuanjing
+Author{3}{Lastname}#=%=#Huang
+Author{3}{Email}#=%=#xjhuang@fudan.edu.cn
+Author{3}{Affiliation}#=%=#Fudan University
+
+==========

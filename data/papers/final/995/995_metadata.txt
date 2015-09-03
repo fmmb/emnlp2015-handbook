@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#995
+FinalPaperTitle#=%=#Extraction and generalisation of variables from scientific publications
+ShortPaperTitle#=%=#Extraction and generalisation of variables from scientific publications
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Erwin Marsi
+JobTitle#==#
+Organization#==#Norwegian University of Science and Technology
+7491 Trondheim, Norway
+Abstract#==#Scientific theories and models in Earth science typically involve changing
+variables and their complex interactions, including correlations, causal
+relations and chains of positive/negative feedback loops. Variables tend to be
+complex rather than atomic entities and expressed as noun phrases containing
+multiple modifiers, e.g. "oxygen depletion in the upper 500 m of the ocean" or
+"timing and magnitude of surface temperature evolution in the Southern
+Hemisphere in deglacial proxy records". Text mining from Earth science
+literature is therefore significantly different from biomedical text mining and
+requires different approaches and methods. Our approach aims at automatically
+locating and extracting variables and their direction of variation: increasing,
+decreasing or just changing. Variables are initially extracted by matching tree
+patterns onto the syntax trees of the source texts. Next, variables are
+generalised in order to enhance their similarity, facilitating hierarchical
+search and inference. This generalisation is accomplished by progressive
+pruning of syntax trees using a set of tree transformation operations. Text
+mining results are presented as a browsable variable hierarchy which allows
+users to inspect all mentions of a particular variable type in the text as well
+as any generalisations or specialisations. The approach is demonstrated on a
+corpus of 10k abstracts of Nature publications in the field of Marine science.
+We discuss experiences with this early prototype and outline a number of
+possible improvements and directions for future research.
+Author{1}{Firstname}#=%=#Erwin
+Author{1}{Lastname}#=%=#Marsi
+Author{1}{Email}#=%=#emarsi@idi.ntnu.no
+Author{1}{Affiliation}#=%=#Norwegian University of Science and Technology (NTNU)
+Author{2}{Firstname}#=%=#Pinar
+Author{2}{Lastname}#=%=#Öztürk
+Author{2}{Email}#=%=#pinar@idi.ntnu.no
+Author{2}{Affiliation}#=%=#Norwegian University of Science and Technology (NTNU)
+
+==========

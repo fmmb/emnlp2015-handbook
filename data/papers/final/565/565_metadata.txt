@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#565
+FinalPaperTitle#=%=#Generalized Agreement for Bidirectional Word Alignment
+ShortPaperTitle#=%=#Generalized Agreement for Bidirectional Word Alignment
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Chunyang Liu
+JobTitle#==#
+Organization#==#Department of Computer Science and Technology, Tsinghua University
+Room 4-506, FIT building, Tsinghua University, Beijing, China, 100084
+Abstract#==#While agreement-based joint training has proven to deliver state-of-the-art
+alignment accuracy, the produced word alignments are usually restricted to
+one-to-one mappings because of the hard constraint on agreement. We propose a
+general framework to allow for arbitrary loss functions that measure the
+disagreement between asymmetric alignments. The loss functions can not only be
+defined between asymmetric alignments but also between alignments and other
+latent structures such as phrase segmentation. We use a Viterbi EM algorithm to
+train the joint model since the inference is intractable. Experiments on
+Chinese-English translation show that joint training with generalized agreement
+achieves significant improvements over two state-of-the-art alignment methods.
+Author{1}{Firstname}#=%=#Chunyang
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#liuchunyang2012@gmail.com
+Author{1}{Affiliation}#=%=#Tsinghua University, Beijing, China
+Author{2}{Firstname}#=%=#Yang
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#liuyang2011@tsinghua.edu.cn
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Maosong
+Author{3}{Lastname}#=%=#Sun
+Author{3}{Email}#=%=#sms@tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Tsinghua University
+Author{4}{Firstname}#=%=#Huanbo
+Author{4}{Lastname}#=%=#Luan
+Author{4}{Email}#=%=#luanhuanbo@gmail.com
+Author{4}{Affiliation}#=%=#Tsinghua University
+Author{5}{Firstname}#=%=#Heng
+Author{5}{Lastname}#=%=#Yu
+Author{5}{Email}#=%=#h0517.yu@samsung.com
+Author{5}{Affiliation}#=%=#Samsung R&D Institute of China
+
+==========

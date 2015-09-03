@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Towards Opinion Mining from Reviews for the Prediction of Product Rankings
+ShortPaperTitle#=%=#Towards Opinion Mining from Reviews for the Prediction of Product Rankings
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Roman Klinger
+JobTitle#==#
+Organization#==#Universität Stuttgart
+Institut für Maschinelle Sprachverarbeitung
+Pfaffenwaldring 5 b
+70569 Stuttgart
+Germany
+Abstract#==#Opinion mining aims at summarizing the content of reviews for a specific brand,
+product, or manufacturer. However, the actual desire of a user is often one
+step further: Produce a ranking corresponding to specific needs such that a
+selection process is supported. In this work, we aim towards closing this gap.
+We present the task to rank products based on sentiment information and discuss
+necessary steps towards addressing this task. This includes, on the one hand,
+the identification of gold rankings as a fundament for an objective function
+and evaluation and, on the other hand, methods to rank products based on review
+information. To demonstrate early results on that task, we employ real world
+examples of rankings as gold standard that are of interest to potential
+customers as well as product managers, in our case the sales ranking provided
+by Amazon.com and the quality ranking by Snapsort.com. As baseline methods, we
+use the average star ratings and review frequencies. Our best text-based
+approximation of the sales ranking achieves a Spearman's correlation
+coefficient of ρ=0.23. On the Snapsort data, a ranking based on extracting
+comparisons leads to  ρ=0.51. In addition, we show that aspect-specific
+rankings can be used to measure the impact of specific aspects on the ranking.
+Author{1}{Firstname}#=%=#Wiltrud
+Author{1}{Lastname}#=%=#Kessler
+Author{1}{Email}#=%=#wiltrud.kessler@ims.uni-stuttgart.de
+Author{1}{Affiliation}#=%=#Institut für Maschinelle Sprachverarbeitung, University of Stuttgart
+Author{2}{Firstname}#=%=#Roman
+Author{2}{Lastname}#=%=#Klinger
+Author{2}{Email}#=%=#roman.klinger@ims.uni-stuttgart.de
+Author{2}{Affiliation}#=%=#University of Stuttgart
+Author{3}{Firstname}#=%=#Jonas
+Author{3}{Lastname}#=%=#Kuhn
+Author{3}{Email}#=%=#jonas@ims.uni-stuttgart.de
+Author{3}{Affiliation}#=%=#Stuttgart University
+
+==========

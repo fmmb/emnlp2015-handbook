@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#608
+FinalPaperTitle#=%=#Learning a Deep Hybrid Model for Semi-Supervised Text Classification
+ShortPaperTitle#=%=#A Deep Hybrid Model for Semi-Supervised Text Classification
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Alexander G. Ororbia II
+JobTitle#==#
+Organization#==#The Pennsylvania State University
+Abstract#==#We present a novel fine-tuning algorithm in a deep hybrid architecture for
+semi-supervised text classification.  During each increment of the online
+learning process, the fine-tuning algorithm serves as a top-down mechanism for
+pseudo-jointly modifying model parameters following a bottom-up generative
+learning pass. The resulting model, trained under what we call the
+Bottom-Up-Top-Down learning algorithm, is shown to outperform a variety of
+competitive models and baselines trained across a wide range of splits between
+supervised and unsupervised training data.
+Author{1}{Firstname}#=%=#Alexander
+Author{1}{Lastname}#=%=#Ororbia II
+Author{1}{Email}#=%=#ago109@psu.edu
+Author{1}{Affiliation}#=%=#The Pennsylvania State University
+Author{2}{Firstname}#=%=#C. Lee
+Author{2}{Lastname}#=%=#Giles
+Author{2}{Email}#=%=#giles@ist.psu.edu
+Author{2}{Affiliation}#=%=#The Pennsylvania State University
+Author{3}{Firstname}#=%=#David
+Author{3}{Lastname}#=%=#Reitter
+Author{3}{Email}#=%=#reitter@psu.edu
+Author{3}{Affiliation}#=%=#The Pennsylvania State University
+
+==========

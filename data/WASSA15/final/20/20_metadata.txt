@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Personality Traits on Twitter—or—How to Get 1,500 Personality Tests in a Week
+ShortPaperTitle#=%=#Personality Traits on Twitter—or—How to Get 1,500 Personality Tests in a Week
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Barbara Plank
+JobTitle#==#
+Organization#==#
+Abstract#==#Psychology research suggests that certain personality traits correlate with
+linguistic behavior. This correlation can be effectively modeled with
+statistical natural language processing techniques. Prediction accuracy
+generally improves with larger data samples, which also allows for more lexical
+features.
+Most existing work on personality prediction, however, focuses on small samples
+and closed-vocabulary investigations. Both factors limit the generality and
+statistical power of the results. In this paper, we explore the use of social
+media as a resource for large-scale, open-vocabulary personality detection. We
+analyze which features are predictive of which personality traits, and present
+a novel corpus of 1.2M English tweets annotated with Myers-Briggs personality
+type and gender. Our experiments show that social media data can provide
+sufficient linguistic evidence to reliably predict two of four personality
+dimensions.
+Author{1}{Firstname}#=%=#Barbara
+Author{1}{Lastname}#=%=#Plank
+Author{1}{Email}#=%=#bplank@gmail.com
+Author{1}{Affiliation}#=%=#University of Copenhagen
+Author{2}{Firstname}#=%=#Dirk
+Author{2}{Lastname}#=%=#Hovy
+Author{2}{Email}#=%=#mail@dirkhovy.com
+Author{2}{Affiliation}#=%=#Center for Language Technology, University of Copenhagen
+
+==========

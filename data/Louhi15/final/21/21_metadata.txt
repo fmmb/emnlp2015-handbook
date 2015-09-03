@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#Creating a rule based system for text mining of Norwegian breast cancer pathology reports
+ShortPaperTitle#=%=#Creating a rule based system for text mining of Norwegian breast cancer pathology reports
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Rebecka Weegar
+JobTitle#==#
+Organization#==#Department of Computer and Systems Sciences
+Stockholm University
+P.O. Box 7003
+164 07 Kista
+Sweden
+Abstract#==#National cancer registries collect cancer related information from multiple
+sources and make it available for research. Part of this information originates
+from pathology reports, and in this pre-study the possibility of a system for
+automatic extraction of information from Norwegian pathology reports is
+investigated. A set of 40 pathology reports describing breast cancer tissue
+samples has been used to develop a rule based system for information
+extraction.
+To validate the performance of this system its output has been compared to the
+data produced by experts doing manual encoding of the same pathology reports.
+On average, a precision of $80$\%, a recall of $98$\% and an F-score of $86$\%
+has been achieved, showing that such a system is indeed feasible.
+Author{1}{Firstname}#=%=#Rebecka
+Author{1}{Lastname}#=%=#Weegar
+Author{1}{Email}#=%=#rebeckaw@dsv.su.se
+Author{1}{Affiliation}#=%=#
+Author{2}{Firstname}#=%=#Hercules
+Author{2}{Lastname}#=%=#Dalianis
+Author{2}{Email}#=%=#hercules@dsv.su.se
+Author{2}{Affiliation}#=%=#DSV/Stockholm University
+
+==========

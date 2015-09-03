@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#1455
+FinalPaperTitle#=%=#Motivating Personality-aware Machine Translation
+ShortPaperTitle#=%=#Motivating Personality-aware Machine Translation
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Shachar Mirkin
+JobTitle#==#
+Organization#==#
+Abstract#==#Language use is known to be influenced by personality traits as well as by
+socio-demographic characteristics such as age or mother tongue. As a result, it
+is possible to automatically identify these traits of the author from her
+texts. It has recently been shown that knowledge of such dimensions can improve
+performance in NLP tasks such as topic and sentiment modeling. We posit that
+machine translation is another application that should be personalized. In
+order to motivate this, we explore whether translation preserves demographic
+and psychometric traits. We show that, largely, both translation of the source 
+training data into the target language, and the target test data into the
+source language has a detrimental effect on the accuracy of predicting author
+traits. We argue that this supports the need for personal and personality-aware
+machine translation models.
+Author{1}{Firstname}#=%=#Shachar
+Author{1}{Lastname}#=%=#Mirkin
+Author{1}{Email}#=%=#shacharm@il.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#Scott
+Author{2}{Lastname}#=%=#Nowson
+Author{2}{Email}#=%=#nowson@gmail.com
+Author{2}{Affiliation}#=%=#Xerox Research Centre Europe
+Author{3}{Firstname}#=%=#Caroline
+Author{3}{Lastname}#=%=#Brun
+Author{3}{Email}#=%=#caroline.brun@xrce.xerox.com
+Author{3}{Affiliation}#=%=#Xerox Research Centre Europe
+Author{4}{Firstname}#=%=#Julien
+Author{4}{Lastname}#=%=#Perez
+Author{4}{Email}#=%=#julien.perez@xrce.xerox.com
+Author{4}{Affiliation}#=%=#Xerox Reserach Centre Europe
+
+==========

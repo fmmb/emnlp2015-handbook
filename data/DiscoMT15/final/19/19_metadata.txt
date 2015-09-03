@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#Predicting Pronouns across Languages with Continuous Word Spaces
+ShortPaperTitle#=%=#Predicting Pronouns across Languages with Continuous Word Spaces
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#QUAN
+JobTitle#==#
+Organization#==#Erasmus Mundus Master Course in Language and Communication Technology, University of Malta
+Abstract#==#Predicting pronouns across languages from a language with less variation to one
+with much more is a hard task that requires many different types of
+information, such as morpho-syntactic infor- mation as well as lexical
+semantics and coreference. We assumed that continuous word spaces fed into a
+multi-layer perceptron enriched with morphological tags and coreference
+resolution would be able to capture many of the linguistic regularities we
+found. Our results show that the model captures most of the linguistic
+generalisations. Its macro-averaged F-score is among the top-3 systems
+submitted reaching 56.5%.
+Author{1}{Firstname}#=%=#Ngoc-Quan
+Author{1}{Lastname}#=%=#Pham
+Author{1}{Email}#=%=#ngoc-quan.pham.14@um.edu.mt
+Author{1}{Affiliation}#=%=#University of Malta
+Author{2}{Firstname}#=%=#Lonneke
+Author{2}{Lastname}#=%=#van der Plas
+Author{2}{Email}#=%=#lonneke.vanderplas@um.edu.mt
+Author{2}{Affiliation}#=%=#University of Malta
+
+==========

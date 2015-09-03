@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#A Document-Level SMT System with Integrated Pronoun Prediction
+ShortPaperTitle#=%=#A Document-Level SMT System with Integrated Pronoun Prediction
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Christian Hardmeier
+JobTitle#==#
+Organization#==#Uppsala University
+Department of Linguistics and Philology
+Box 635
+751 26 Uppsala, Sweden
+Abstract#==#This paper describes one of Uppsala University's submissions to the
+pronoun-focused machine translation (MT) shared task at DiscoMT 2015. The
+system is based on phrase-based statistical MT implemented with the
+document-level decoder Docent. It includes a neural network for pronoun
+prediction trained with latent anaphora resolution. At translation time,
+coreference information is obtained from the Stanford CoreNLP system.
+Author{1}{Firstname}#=%=#Christian
+Author{1}{Lastname}#=%=#Hardmeier
+Author{1}{Email}#=%=#christian.hardmeier@lingfil.uu.se
+Author{1}{Affiliation}#=%=#Uppsala University
+
+==========

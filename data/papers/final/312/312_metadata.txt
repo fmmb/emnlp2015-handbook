@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#312
+FinalPaperTitle#=%=#Open Extraction of Fine-Grained Political Statements
+ShortPaperTitle#=%=#Open Extraction of Fine-Grained Political Statements
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#David Bamman
+JobTitle#==#
+Organization#==#
+Abstract#==#Text data has recently been used as evidence in estimating the political
+ideologies of individuals, including political elites and social media users. 
+While inferences about people are often the intrinsic quantity of interest, we
+draw inspiration from open information extraction to identify a new task:
+inferring the political import of propositions like "Obama is a Socialist." We
+present several models that exploit the structure that exists between people
+and the assertions they make to learn latent positions of people and
+propositions at the same time, and we evaluate them on a novel dataset of
+propositions judged on a political spectrum.
+Author{1}{Firstname}#=%=#David
+Author{1}{Lastname}#=%=#Bamman
+Author{1}{Email}#=%=#dbamman@berkeley.edu
+Author{1}{Affiliation}#=%=#University of California, Berkeley
+Author{2}{Firstname}#=%=#Noah A.
+Author{2}{Lastname}#=%=#Smith
+Author{2}{Email}#=%=#nasmith@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#902
+FinalPaperTitle#=%=#Semi-Supervised Bootstrapping of Relationship Extractors with Distributional Semantics
+ShortPaperTitle#=%=#Semi-Supervised Bootstrapping of Relationship Extractors with Distributional Semantics
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#David Soares Batista
+JobTitle#==#
+Organization#==#INESC-ID - Lisboa
+
+Rua Alves Redol 9
+1000-029 Lisboa
+Portugal
+Abstract#==#Semi-supervised bootstrapping techniques for relationship extraction from text
+iteratively expand a set of initial seed relationships while limiting the
+semantic drift. We research bootstrapping for relationship extraction using
+word embeddings to find similar relationships. Experimental results show that
+relying on word embeddings achieves a better performance on the task of
+extracting four types of relationships from a collection of newswire documents
+when compared with a baseline using TF-IDF to find similar relationships.
+Author{1}{Firstname}#=%=#David S.
+Author{1}{Lastname}#=%=#Batista
+Author{1}{Email}#=%=#david.batista@ist.utl.pt
+Author{1}{Affiliation}#=%=#INESC-ID, Instituto Superior Técnico, Universidade de Lisboa
+Author{2}{Firstname}#=%=#Bruno
+Author{2}{Lastname}#=%=#Martins
+Author{2}{Email}#=%=#bruno.g.martins@ist.utl.pt
+Author{2}{Affiliation}#=%=#INESC-ID, Instituto Superior Técnico, Universidade de Lisboa
+Author{3}{Firstname}#=%=#Mário J.
+Author{3}{Lastname}#=%=#Silva
+Author{3}{Email}#=%=#mario.gaspar.silva@ist.utl.pt
+Author{3}{Affiliation}#=%=#INESC-ID, Instituto Superior Técnico, Universidade de Lisboa
+
+==========

@@ -1,0 +1,63 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Towards Reliable Automatic Multimodal Content Analysis
+ShortPaperTitle#=%=#Towards Reliable Automatic Multimodal Content Analysis
+NumberOfPages#=%=#2
+CopyrightSigned#=%=#Olli Philippe Lautenbacher
+JobTitle#==#
+Organization#==#University of Helsinki
+Department of Modern Languages
+Unioninkatu 40B
+00014 University of Helsinki
+Finland
+Abstract#==#This poster presents a pilot study for a new original interdisciplinary project
+which aims at creating an effective language-based access to large archives of
+audiovisual documents. The idea of the project is to combine data from both
+machine- and human-made description methods, namely Automatic Multimodal
+Content Analysis (AMCA)and human-made audio description (AD). In our
+semi-automatic method, automatically created descriptions can be edited by the
+human user, and then re-entered into the Automatic Content Analyser, thus
+enabling the system to gradually and recursively improve its own performance.
+
+In this pilot, a preliminary AMCA has already been made, based on earlier
+filmic contents that had been fed into the Analyser, giving lists of content
+descriptive concepts for each picture as an output. Another tool used for the
+visual description is automatic sentence-like caption generation per frame. On
+the audio side, an automatic transcription of the soundtrack speech has also
+been made, using voice recognition technology. Both the AMCA's output and the
+voice transcription are rated on a confidence basis. We also use eye tracking
+to identify any convergence patterns in the gaze positions of average viewers
+watching the documentary, which gives us further insight into the relevance of
+the visual element selection made by
+the AMCA. 
+
+In order to improve these automatic describers, three human audio descriptions
+of
+the same documentary excerpt have been ordered from professionals. The
+comparison of these ADs is an important step of the pilot, since it reveals
+what characteristics they share (or not) in terms of visual element selection,
+lexical choices (identicality of referents and words, level of abstraction
+etc.) and information structure. These human descriptions will serve to feed
+the Analyser, helping to filter its concept-suggestions in terms of relevance,
+adequacy and degree of precision and, eventually, enhance its output.
+Author{1}{Firstname}#=%=#Olli Philippe
+Author{1}{Lastname}#=%=#Lautenbacher
+Author{1}{Email}#=%=#olli-philippe.lautenbacher@helsinki.fi
+Author{1}{Affiliation}#=%=#University of Helsinki
+Author{2}{Firstname}#=%=#Liisa
+Author{2}{Lastname}#=%=#Tiittula
+Author{2}{Email}#=%=#liisa.tiittula@helsinki.fi
+Author{2}{Affiliation}#=%=#University of Helsinki
+Author{3}{Firstname}#=%=#Maija
+Author{3}{Lastname}#=%=#Hirvonen
+Author{3}{Email}#=%=#maija.hirvonen@helsinki.fi
+Author{3}{Affiliation}#=%=#University of Helsinki
+Author{4}{Firstname}#=%=#Jorma
+Author{4}{Lastname}#=%=#Laaksonen
+Author{4}{Email}#=%=#jorma.laaksonen@aalto.fi
+Author{4}{Affiliation}#=%=#Aalto University
+Author{5}{Firstname}#=%=#Mikko
+Author{5}{Lastname}#=%=#Kurimo
+Author{5}{Email}#=%=#mikko.kurimo@aalto.fi
+Author{5}{Affiliation}#=%=#Aalto University
+
+==========

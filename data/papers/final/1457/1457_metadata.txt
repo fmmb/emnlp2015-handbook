@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1457
+FinalPaperTitle#=%=#Noise or additional information? Leveraging crowdsource annotation item agreement for natural language tasks.
+ShortPaperTitle#=%=#Noise or additional information? Leveraging crowdsource annotation item agreement for natural language tasks.
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Emily K. Jamison
+JobTitle#==#
+Organization#==#Technische Universität Darmstadt
+Department of Computer Science
+Ubiquitous Knowledge Processing Lab
+Hochschulstraße 10
+64289 Darmstadt
+Germany
+Abstract#==#In order to reduce noise in training data, most natural language crowdsourcing
+annotation tasks gather redundant labels and aggregate them into an integrated
+label, which is provided to the classifier. However, aggregation discards
+potentially useful information from linguistically ambiguous instances. 
+For five natural language tasks, we pass item agreement on to the task
+classifier via soft labeling and low-agreement filtering of the training
+dataset. We find a statistically significant benefit from low item agreement
+training filtering in four of our five tasks, and no systematic benefit from
+soft labeling.
+Author{1}{Firstname}#=%=#Emily
+Author{1}{Lastname}#=%=#Jamison
+Author{1}{Email}#=%=#jamison@ukp.informatik.tu-darmstadt.de
+Author{1}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+Author{2}{Firstname}#=%=#Iryna
+Author{2}{Lastname}#=%=#Gurevych
+Author{2}{Email}#=%=#gurevych@ukp.informatik.tu-darmstadt.de
+Author{2}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+
+==========

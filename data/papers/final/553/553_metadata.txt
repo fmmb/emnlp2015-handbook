@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#553
+FinalPaperTitle#=%=#Improved Relation Extraction with Feature-Rich Compositional Embedding Models
+ShortPaperTitle#=%=#Improved Relation Extraction with Feature-Rich Compositional Embedding Models
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Mo Yu
+JobTitle#==#
+Organization#==#Harbin Institute of Technology
+No. 92 Xidazhi Street, Harbin, China
+Abstract#==#Compositional embedding models build a representation (or embedding) for a
+linguistic structure based on its component word embeddings. We propose a
+Feature-rich Compositional Embedding Model (FCM) for relation extraction that
+is expressive, generalizes to new domains, and is easy-to-implement. The key
+idea is to combine both (unlexicalized) hand-crafted features with learned
+word embeddings. The model is able to directly tackle the difficulties met by
+traditional compositional embeddings models, such as handling arbitrary types
+of sentence annotations and utilizing global information for composition. We
+test the proposed model on two relation extraction tasks, and demonstrate that
+our model outperforms both previous compositional models and traditional
+feature rich models on the ACE 2005 relation extraction task, and the SemEval
+2010 relation classification task. The combination of our model and a
+log-linear classifier with hand-crafted features gives state-of-the-art
+results. We made our implementation available for general use.
+Author{1}{Firstname}#=%=#Matthew R.
+Author{1}{Lastname}#=%=#Gormley
+Author{1}{Email}#=%=#mrg@cs.jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Mo
+Author{2}{Lastname}#=%=#Yu
+Author{2}{Email}#=%=#gflfof@gmail.com
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Lastname}#=%=#Dredze
+Author{3}{Email}#=%=#mdredze@cs.jhu.edu
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+
+==========

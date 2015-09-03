@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#Bridging Sentential and Discourse-level Semantics through Clausal Adjuncts
+ShortPaperTitle#=%=#Bridging Sentential and Discourse-level Semantics through Clausal Adjuncts
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Rashmi Prasad
+JobTitle#==#Assistant Professor
+Organization#==#University of Wisconsin-Milwaukee
+P.O. Box 413 
+Milwaukee, WI 53211
+Abstract#==#It is in PropBank's ARGM annotation of clausal adjuncts that
+sentential semantics meets discourse relation annotation in the Penn
+Discourse TreeBank. This paper discusses complementarities between the
+two annotation systems: How PropBank ARGM annotation can be used to
+seed annotation of additional discourse relations in the PDTB, and how PDTB
+annotation can be used to refine or enrich PropBank ARGM
+annotation.
+Author{1}{Firstname}#=%=#Rashmi
+Author{1}{Lastname}#=%=#Prasad
+Author{1}{Email}#=%=#prasadr@uwm.edu
+Author{1}{Affiliation}#=%=#University of Wisconsin-Milwaukee
+Author{2}{Firstname}#=%=#Bonnie
+Author{2}{Lastname}#=%=#Webber
+Author{2}{Email}#=%=#bonnie.webber@ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Alan
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Email}#=%=#alanlee@lexicontree.org
+Author{3}{Affiliation}#=%=#University of Pennsylvania
+Author{4}{Firstname}#=%=#Sameer
+Author{4}{Lastname}#=%=#Pradhan
+Author{4}{Email}#=%=#pradhan@bltek.com
+Author{4}{Affiliation}#=%=#Boulder Language Technologies
+Author{5}{Firstname}#=%=#Aravind
+Author{5}{Lastname}#=%=#Joshi
+Author{5}{Email}#=%=#joshi@seas.upenn.edu
+Author{5}{Affiliation}#=%=#
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#547
+FinalPaperTitle#=%=#Auto-Sizing Neural Networks: With Applications to n-gram Language Models
+ShortPaperTitle#=%=#Auto-Sizing Neural Networks: With Applications to n-gram Language Models
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Kenton Murray
+JobTitle#==#
+Organization#==#University of Notre Dame
+Notre Dame, IN, 46556
+Abstract#==#Neural networks have been shown to improve performance across a range of
+natural-language tasks while addressing some issues with traditional models
+such as size. However, designing and training them can be complicated.
+Frequently, researchers resort to repeated experimentation across a range of
+parameters to pick optimal settings. In this paper, we address the issue of
+choosing the correct number of units in the hidden layers. We introduce a
+method for automatically adjusting network size by pruning out hidden units
+through $\ell_{\infty,1}$ and $\ell_{2,1}$ regularization. We apply this method
+to language modeling and demonstrate its ability to correctly choose the number
+of hidden units while maintaining perplexity. We also include these models in a
+machine translation decoder and show that these smaller neural models maintain
+the significant improvements of their unpruned versions.
+Author{1}{Firstname}#=%=#Kenton
+Author{1}{Lastname}#=%=#Murray
+Author{1}{Email}#=%=#kmurray4@nd.edu
+Author{1}{Affiliation}#=%=#University of Notre Dame
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Chiang
+Author{2}{Email}#=%=#dchiang@nd.edu
+Author{2}{Affiliation}#=%=#University of Notre Dame
+
+==========

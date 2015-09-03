@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#An Analysis of Biomedical Tokenization: Problems and Strategies
+ShortPaperTitle#=%=#An Analysis of Biomedical Tokenization: Problems and Strategies
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Noa Cruz Diaz
+JobTitle#==#
+Organization#==#University of Huelva, Huelva, Spain.
+Abstract#==#Choosing the right tokenizer is a non-trivial task, especially in the
+biomedical domain, where it poses additional challenges, which if not resolved
+means the propagation of errors in successive Natural Language Processing
+analysis pipeline. This paper aims to identify these problematic cases and
+analyze the out-put that, a representative and widely used set of tokenizers,
+shows on them. This work will aid the decision making process of choosing the
+right strategy according to the down-stream application. In addition, it will
+help developers to create accurate tokenization tools or improve the existing
+ones. A total of 14 problematic cases were described, show-ing biomedical
+samples for each of them. The outputs of 12 tokenizers were provided and
+discussed in relation to the level of agree-ment among tools.
+Author{1}{Firstname}#=%=#Noa P.
+Author{1}{Lastname}#=%=#Cruz Diaz
+Author{1}{Email}#=%=#noacruz@hotmail.com
+Author{1}{Affiliation}#=%=#University of Huelva
+Author{2}{Firstname}#=%=#Manuel
+Author{2}{Lastname}#=%=#Maña López
+Author{2}{Email}#=%=#manuel.mana@dti.uhu.es
+Author{2}{Affiliation}#=%=#University of Huelva
+
+==========

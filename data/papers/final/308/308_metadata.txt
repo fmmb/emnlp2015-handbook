@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#308
+FinalPaperTitle#=%=#A Tableau Prover for Natural Logic and Language
+ShortPaperTitle#=%=#A Tableau Prover for Natural Logic and Language
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Lasha Abzianidze
+JobTitle#==#
+Organization#==#Tilburg University
+Room D 136
+PO Box 90153 5000 LE Tilburg
+Abstract#==#Modeling the entailment relation over sentences is one of the generic problems
+of natural language understanding. In order to account for this problem, we
+design a theorem prover for Natural Logic, a logic whose terms resemble natural
+language expressions. The prover is based on an analytic tableau method and
+employs syntactically and semantically motivated schematic rules. Pairing the
+prover with a preprocessor, which generates formulas of Natural Logic from
+linguistic expressions, results in a proof system for  natural language. It is
+shown that the system obtains a comparable accuracy (81%) on the unseen SICK
+data while achieving the state-of-the-art precision (98%).
+Author{1}{Firstname}#=%=#Lasha
+Author{1}{Lastname}#=%=#Abzianidze
+Author{1}{Email}#=%=#Lasha.Abzianidze@gmail.com
+Author{1}{Affiliation}#=%=#The Tilburg Center for Logic, Ethics, and Philosophy of Science
+
+==========

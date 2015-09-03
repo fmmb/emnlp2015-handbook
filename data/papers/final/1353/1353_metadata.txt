@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1353
+FinalPaperTitle#=%=#Semantic Relation Classification via Convolutional Neural Networks with Simple Negative Sampling
+ShortPaperTitle#=%=#Semantic Relation Classification via Convolutional Neural Networks with Simple Negative Sampling
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Yansong Feng
+JobTitle#==#
+Organization#==#Institute of Computer Science & Technology of Peking University
+128 Zhongguancun North Street, Haidian District, Beijing 100871, P.R.China
+Abstract#==#Syntactic features play an essential role in identifying relationship in a
+sentence. Previous neural network models often suffer from irrelevant
+information introduced when subjects and objects are in a long distance. In
+this paper, we propose to learn more robust relation representations from the
+shortest dependency path through a convolution neural network. We further
+propose a straightforward negative sampling strategy to improve the assignment
+of subjects and objects. Experimental results show that our method outperforms
+the state-of-the-art methods on the SemEval-2010 Task 8 dataset.
+Author{1}{Firstname}#=%=#Kun
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Email}#=%=#xukun@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Yansong
+Author{2}{Lastname}#=%=#Feng
+Author{2}{Email}#=%=#fengyansong@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Songfang
+Author{3}{Lastname}#=%=#Huang
+Author{3}{Email}#=%=#leinine@gmail.com
+Author{3}{Affiliation}#=%=#IBM China Research Lab
+Author{4}{Firstname}#=%=#Dongyan
+Author{4}{Lastname}#=%=#Zhao
+Author{4}{Email}#=%=#zhaodongyan@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+
+==========

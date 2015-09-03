@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#676
+FinalPaperTitle#=%=#Dual Decomposition Inference for Graphical Models over Strings
+ShortPaperTitle#=%=#Dual Decomposition Inference for Graphical Models over Strings
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Nanyun Peng
+JobTitle#==#
+Organization#==#Johns Hopkins University,
+Baltimore, MD 21218
+Abstract#==#We investigate dual decomposition for joint MAP inference of many strings.
+Given an arbitrary graphical model, we decompose it into small acyclic
+sub-models, whose MAP configurations can be found by finite-state composition
+and dynamic programming. We force the solutions of these subproblems to agree
+on overlapping variables, by tuning Lagrange multipliers for an adaptively
+expanding set of variable-length n-gram count features.
+This is the first inference method for arbitrary graphical models over strings
+that does not require approximations such as random sampling, message
+simplification, or a bound on string length. Provided that the inference method
+terminates, it gives a certificate of global optimality (though MAP inference
+in our setting is undecidable in general). On our global phonological inference
+problems, it always terminates, and achieves more accurate results than
+max-product and sum-product loopy belief propagation.
+Author{1}{Firstname}#=%=#Nanyun
+Author{1}{Lastname}#=%=#Peng
+Author{1}{Email}#=%=#pengnanyun@gmail.com
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Ryan
+Author{2}{Lastname}#=%=#Cotterell
+Author{2}{Email}#=%=#ryan.cotterell@gmail.com
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Firstname}#=%=#Jason
+Author{3}{Lastname}#=%=#Eisner
+Author{3}{Email}#=%=#jason@cs.jhu.edu
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+
+==========

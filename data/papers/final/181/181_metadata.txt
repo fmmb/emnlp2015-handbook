@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#181
+FinalPaperTitle#=%=#Navigating the Semantic Horizon using Relative Neighborhood Graphs
+ShortPaperTitle#=%=#Navigating the Semantic Horizon using Relative Neighborhood Graphs
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Magnus Sahlgren
+JobTitle#==#
+Organization#==#Gavagai
+Bondegatan 21
+11633 Stockholm
+Sweden
+Abstract#==#This paper introduces a novel way to navigate neighborhoods in distributional
+semantic models. The approach is based on relative neighborhood graphs, which
+uncover the topological structure of local neighborhoods in semantic space.
+This has the potential to overcome both the problem with selecting a proper k
+in k-NN search, and the problem that a ranked list of neighbors may conflate
+several different senses. We provide both qualitative and quantitative results
+that support the viability of the proposed method.
+Author{1}{Firstname}#=%=#Amaru
+Author{1}{Lastname}#=%=#Cuba Gyllensten
+Author{1}{Email}#=%=#amaru.cuba@gavagai.se
+Author{1}{Affiliation}#=%=#
+Author{2}{Firstname}#=%=#Magnus
+Author{2}{Lastname}#=%=#Sahlgren
+Author{2}{Email}#=%=#mange@gavagai.se
+Author{2}{Affiliation}#=%=#Gavagai
+
+==========

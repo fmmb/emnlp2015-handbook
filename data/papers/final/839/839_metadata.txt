@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#839
+FinalPaperTitle#=%=#Combining Discrete and Continuous Features for Deterministic Transition-based Dependency Parsing
+ShortPaperTitle#=%=#Combining Discrete and Continuous Features for Deterministic Transition-based Dependency Parsing
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#meishan zhang
+JobTitle#==#
+Organization#==#Singapore University of Technology & Design, 8 Somapah Road Singapore 487372
+Abstract#==#We investigate a combination of a traditional linear sparse feature model
+and a multi-layer neural network model for deterministic transition-based
+dependency parsing,
+by integrating the sparse features into the neural model.
+Correlations are drawn between the hybrid model and previous work on
+integrating word embedding features into a discrete linear model.
+By analyzing the results of various parsers on web-domain parsing,
+we show that the integrated model is a better way to combine traditional and
+embedding features compared with previous methods.
+Author{1}{Firstname}#=%=#Meishan
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#meishan_zhang@sutd.edu.sg
+Author{1}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{2}{Firstname}#=%=#Yue
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#872
+FinalPaperTitle#=%=#Unsupervised Negation Focus Identification with Word-Topic Graph Model
+ShortPaperTitle#=%=#Unsupervised Negation Focus Identification with Word-Topic Graph Model
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Bowei Zou
+JobTitle#==#
+Organization#==#Soochow University
+1 Shizi St., Suzhou, Jiangsu, China
+Abstract#==#Due to the commonality in natural language, negation focus plays a critical
+role in deep understanding of context. However, existing studies for negation
+focus identification major on supervised learning which is time-consuming and
+expensive due to manual preparation of annotated corpus. To address this
+problem, we propose an unsupervised word-topic graph model to represent and
+measure the focus candidates from both lexical and topic perspectives.
+Moreover, we propose a document-sensitive biased PageRank algorithm to optimize
+the ranking scores of focus candidates. Evaluation on the *SEM 2012 shared task
+corpus shows that our proposed method outperforms the state of the art on
+negation focus identification.
+Author{1}{Firstname}#=%=#Bowei
+Author{1}{Lastname}#=%=#Zou
+Author{1}{Email}#=%=#zoubowei@gmail.com
+Author{1}{Affiliation}#=%=#Natural Language Processing Lab, Soochow University
+Author{2}{Firstname}#=%=#Guodong
+Author{2}{Lastname}#=%=#Zhou
+Author{2}{Email}#=%=#gdzhou@suda.edu.cn
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#Qiaoming
+Author{3}{Lastname}#=%=#Zhu
+Author{3}{Email}#=%=#qmzhu@suda.edu.cn
+Author{3}{Affiliation}#=%=#Soochow University
+
+==========

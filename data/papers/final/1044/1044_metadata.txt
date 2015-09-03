@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#1044
+FinalPaperTitle#=%=#Fatal or not? Finding errors that lead to dialogue breakdowns in chat-oriented dialogue systems
+ShortPaperTitle#=%=#Fatal or not? Finding errors that lead to dialogue breakdowns in chat-oriented dialogue systems
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ryuichiro Higashinaka
+JobTitle#==#
+Organization#==#NTT Media Intelligence Laboratories, NTT Corporation
+1-1 Hikarinooka, Yokosuka, 239-0847 Japan
+Abstract#==#This paper aims to find errors that lead to dialogue breakdowns in
+chat-oriented dialogue systems. We collected chat dialogue data,
+annotated them with dialogue breakdown labels, and collected
+comments describing the error that led to the breakdown. By mining
+the comments, we first identified error types. Then, we calculated
+the correlation between an error type and the degree of dialogue
+breakdown it incurred, quantifying its impact on dialogue
+breakdown. This is the first study to quantitatively analyze error
+types and their effect in chat-oriented dialogue systems.
+Author{1}{Firstname}#=%=#Ryuichiro
+Author{1}{Lastname}#=%=#Higashinaka
+Author{1}{Email}#=%=#higashinaka.ryuichiro@lab.ntt.co.jp
+Author{1}{Affiliation}#=%=#NTT Media Intelligence Labs.
+Author{2}{Firstname}#=%=#Masahiro
+Author{2}{Lastname}#=%=#Mizukami
+Author{2}{Email}#=%=#masahiro-mi@is.naist.jp
+Author{2}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{3}{Firstname}#=%=#Kotaro
+Author{3}{Lastname}#=%=#Funakoshi
+Author{3}{Email}#=%=#funakoshi@jp.honda-ri.com
+Author{3}{Affiliation}#=%=#Honda Research Institute Japan Co., Ltd.
+Author{4}{Firstname}#=%=#Masahiro
+Author{4}{Lastname}#=%=#Araki
+Author{4}{Email}#=%=#araki@kit.jp
+Author{4}{Affiliation}#=%=#Kyoto Institute of Technology
+Author{5}{Firstname}#=%=#Hiroshi
+Author{5}{Lastname}#=%=#Tsukahara
+Author{5}{Email}#=%=#tukahara.oak@gmail.com
+Author{5}{Affiliation}#=%=#Denso IT Laboratory, Inc.
+Author{6}{Firstname}#=%=#Yuka
+Author{6}{Lastname}#=%=#Kobayashi
+Author{6}{Email}#=%=#yuka3.kobayashi@toshiba.co.jp
+Author{6}{Affiliation}#=%=#Toshiba Corporation
+
+==========

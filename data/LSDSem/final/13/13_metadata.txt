@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Identification and Disambiguation of Lexical Cues of Rhetorical Relations across Different Text Genres
+ShortPaperTitle#=%=#Identification and Disambiguation of Lexical Cues of Rhetorical Relations
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Taraneh Khazaei
+JobTitle#==#
+Organization#==#
+Abstract#==#Lexical cues are linguistic expressions that can signal the presence of a
+rhetorical relation. However, such cues can be ambiguous as they may signal
+more than one relation or may not always function as a relation indicator. In
+this study, we first conduct a corpus-based analysis to derive a set of n-grams
+as potential lexical cues. These cues are then utilized in graph-based
+probabilistic models to determine the syntactic context in which the cue is
+signaling the presence of a particular relation. Evaluation results are
+reported for various cues of the circumstance relation, confirming the value of
+syntactic features for the task of cue disambiguation in the context of
+Rhetorical Structure Theory. Moreover, using a graph to encode syntactic
+information is shown to be a more generalizable and effective approach compared
+to the direct usage of syntactic features.
+Author{1}{Firstname}#=%=#Taraneh
+Author{1}{Lastname}#=%=#Khazaei
+Author{1}{Email}#=%=#tkhazae@uwo.ca
+Author{1}{Affiliation}#=%=#University of Western Ontario
+Author{2}{Firstname}#=%=#Lu
+Author{2}{Lastname}#=%=#Xiao
+Author{2}{Email}#=%=#lxiao24@uwo.ca
+Author{2}{Affiliation}#=%=#University of Western Ontario
+Author{3}{Firstname}#=%=#Robert
+Author{3}{Lastname}#=%=#Mercer
+Author{3}{Email}#=%=#mercer@uwo.ca
+Author{3}{Affiliation}#=%=#University of Western Ontario
+
+==========

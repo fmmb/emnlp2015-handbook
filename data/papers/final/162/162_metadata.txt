@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#162
+FinalPaperTitle#=%=#A Neural Network Model for Low-Resource Universal Dependency Parsing
+ShortPaperTitle#=%=#A Neural Network Model for Low-Resource Universal Dependency Parsing
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#long duong
+JobTitle#==#
+Organization#==#Melbourne University, Parkville, Australia
+Abstract#==#Accurate dependency parsing requires large treebanks, which are only available
+for a few languages. 
+We propose a method that takes advantage of shared structure across languages
+to build a mature parser using less training data. We propose a model for
+learning a shared "universal" parser that operates over an inter-lingual
+continuous representation of language, along with language-specific mapping
+components.
+Compared with supervised learning, our methods give a consistent 8-10 %
+improvement across several treebanks in low-resource simulations.
+Author{1}{Firstname}#=%=#Long
+Author{1}{Lastname}#=%=#Duong
+Author{1}{Email}#=%=#longdt219@gmail.com
+Author{1}{Affiliation}#=%=#The University of Melbourne
+Author{2}{Firstname}#=%=#Trevor
+Author{2}{Lastname}#=%=#Cohn
+Author{2}{Email}#=%=#tcohn@unimelb.edu.au
+Author{2}{Affiliation}#=%=#University of Melbourne
+Author{3}{Firstname}#=%=#Steven
+Author{3}{Lastname}#=%=#Bird
+Author{3}{Email}#=%=#stevenbird1@gmail.com
+Author{3}{Affiliation}#=%=#University of Melbourne
+Author{4}{Firstname}#=%=#Paul
+Author{4}{Lastname}#=%=#Cook
+Author{4}{Email}#=%=#paul.cook@unb.ca
+Author{4}{Affiliation}#=%=#University of New Brunswick
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#An agent-based model of a historical word order change
+ShortPaperTitle#=%=#An agent-based model of a historical word order change
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jelke Bloem
+JobTitle#==#
+Organization#==#University of Amsterdam
+Spui 21
+1012 WX Amsterdam
+Netherlands
+Abstract#==#We aim to demonstrate that agent-based models can be a useful
+tool for historical linguists, by modeling the historical development of verbal
+cluster word order in Germanic languages. Our results show that the current
+order in German may have developed due to increased use of subordinate clauses,
+while the English order is predicted to be influenced by the grammaticalization
+of the verb 'to have'. The methodology we use makes few assumptions, making it
+broadly applicable to other phenomena of language change.
+Author{1}{Firstname}#=%=#Jelke
+Author{1}{Lastname}#=%=#Bloem
+Author{1}{Email}#=%=#j.bloem@uva.nl
+Author{1}{Affiliation}#=%=#University of Amsterdam
+Author{2}{Firstname}#=%=#Arjen
+Author{2}{Lastname}#=%=#Versloot
+Author{2}{Email}#=%=#a.p.versloot@uva.nl
+Author{2}{Affiliation}#=%=#University of Amsterdam
+Author{3}{Firstname}#=%=#Fred
+Author{3}{Lastname}#=%=#Weerman
+Author{3}{Email}#=%=#f.p.weerman@uva.nl
+Author{3}{Affiliation}#=%=#University of Amsterdam
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#A Graph-based Lattice Dependency Parser for Joint Morphological Segmentation and Syntactic Analysis
+ShortPaperTitle#=%=#A Graph-based Lattice Dependency Parser for Joint Morphological Segmentation and Syntactic Analysis
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Wolfgang Seeker
+JobTitle#==#
+Organization#==#Universität Stuttgart 
+Institut für Maschinelle Sprachverarbeitung 
+Pfaffenwaldring 5 b 
+D-70569 Stuttgart
+Abstract#==#Space-delimited words in Turkish and Hebrew text can be further segmented into
+meaningful units, but syntactic and semantic context is necessary to predict
+segmentation. At the same time, predicting correct syntactic structures relies
+on correct segmentation. We present a graph-based lattice dependency parser
+that operates on morphological lattices to represent different segmentations
+and morphological analyses for a given input sentence. The lattice parser
+predicts a dependency tree over a path in the lattice and thus solves the joint
+task of segmentation, morphological analysis, and syntactic parsing. We conduct
+experiments on the Turkish and the Hebrew treebank and show that the joint
+model outperforms three state-of-the-art pipeline systems on both data sets.
+Our work corroborates findings from constituency lattice parsing for Hebrew and
+presents the first results for full lattice parsing on Turkish.
+Author{1}{Firstname}#=%=#Wolfgang
+Author{1}{Lastname}#=%=#Seeker
+Author{1}{Email}#=%=#seeker@ims.uni-stuttgart.de
+Author{1}{Affiliation}#=%=#IMS, University of Stuttgart
+Author{2}{Firstname}#=%=#Özlem
+Author{2}{Lastname}#=%=#Çetinoğlu
+Author{2}{Email}#=%=#ozlem@ims.uni-stuttgart.de
+Author{2}{Affiliation}#=%=#IMS, University of Stuttgart
+
+==========

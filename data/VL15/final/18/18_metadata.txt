@@ -1,0 +1,55 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Image with a Message: Towards Detecting Non-Literal Image Usages by Visual Linking
+ShortPaperTitle#=%=#Image with a Message
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Lydia Weiland
+JobTitle#==#
+Organization#==#Data and Web Science Group
+University of Mannheim
+68131 Mannheim, Germany
+Abstract#==#A key task to understand an image and its
+corresponding caption is not only to find
+out what is shown on the picture and described
+in the text, but also what is the
+exact relationship between these two elements.
+The long-term objective of our
+work is to be able to distinguish different
+types of relationship, including literal
+vs. non-literal usages, as well as finegrained
+non-literal usages (i.e., symbolic
+vs. iconic). Here, we approach this challenging
+problem by answering the question:
+‘How can we quantify the degrees
+of similarity between the literal meanings
+expressed within images and their captions?’.
+We formulate this problem as a
+ranking task, where links between entities
+and potential regions are created and
+ranked for relevance. Using a Ranking
+SVM allows us to leverage from the preference
+ordering of the links, which help us
+in the similarity calculation for the cases
+of visual or textual ambiguity, as well as
+misclassified data. Our experiments show
+that aggregating different features using a
+supervised ranker achieves better results
+than a baseline knowledge-base method.
+However, much work still lies ahead, and
+we accordingly conclude the paper with a
+detailed discussion of a short- and longterm
+outlook on how to push our work on
+relationship classification one step further.
+Author{1}{Firstname}#=%=#Lydia
+Author{1}{Lastname}#=%=#Weiland
+Author{1}{Email}#=%=#lydia@informatik.uni-mannheim.de
+Author{1}{Affiliation}#=%=#University of Mannheim
+Author{2}{Firstname}#=%=#Laura
+Author{2}{Lastname}#=%=#Dietz
+Author{2}{Email}#=%=#dietz@informatik.uni-mannheim.de
+Author{2}{Affiliation}#=%=#University of Mannheim
+Author{3}{Firstname}#=%=#Simone Paolo
+Author{3}{Lastname}#=%=#Ponzetto
+Author{3}{Email}#=%=#simone@informatik.uni-mannheim.de
+Author{3}{Affiliation}#=%=#University of Mannheim
+
+==========

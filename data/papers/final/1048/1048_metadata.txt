@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1048
+FinalPaperTitle#=%=#Non-lexical neural architecture for fine-grained POS Tagging
+ShortPaperTitle#=%=#Non-lexical neural architecture for fine-grained POS Tagging
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Matthieu Labeau
+JobTitle#==#
+Organization#==#LIMSI - CNRS
+Rue John von Neumann
+Campus Universitaire d'Orsay
+Bât 508
+91405 ORSAY CEDEX
+FRANCE
+Abstract#==#In this paper we explore a POS tagging application of neural architectures that
+can infer word representations from the raw character stream. It relies on two
+modelling stages that are jointly learnt: a convolutional network that infers a
+word representation directly from the character stream, followed by a
+prediction stage. Models are evaluated on a POS and morphological tagging task
+for German. Experimental results show that the convolutional network can infer
+meaningful word representations, while for the prediction stage, a well
+designed and structured strategy allows the model to outperform
+state-of-the-art results, without any feature engineering.
+Author{1}{Firstname}#=%=#Matthieu
+Author{1}{Lastname}#=%=#Labeau
+Author{1}{Email}#=%=#labeau@limsi.fr
+Author{1}{Affiliation}#=%=#Université de Paris-Sud / LIMSI-CNRS
+Author{2}{Firstname}#=%=#Kevin
+Author{2}{Lastname}#=%=#Löser
+Author{2}{Email}#=%=#krv.loser@gmail.com
+Author{2}{Affiliation}#=%=#LIMSI-CNRS-Université Paris-Sud
+Author{3}{Firstname}#=%=#Alexandre
+Author{3}{Lastname}#=%=#Allauzen
+Author{3}{Email}#=%=#allauzen@limsi.fr
+Author{3}{Affiliation}#=%=#Université Paris-Sud / LIMSI-CNRS
+
+==========

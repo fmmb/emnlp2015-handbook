@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#603
+FinalPaperTitle#=%=#Indicative Tweet Generation: An Extractive Summarization Problem?
+ShortPaperTitle#=%=#Indicative Tweet Generation: An Extractive Summarization Problem?
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Priya Sidhaye
+JobTitle#==#
+Organization#==#McGill University
+Abstract#==#Social media such as Twitter have become an important method of communication,
+with potential opportunities for NLG to facilitate the generation of social
+media content. We focus on the generation of indicative tweets that contain a
+link to an external web page. While it is natural and tempting to view the
+linked web page as the source text from which the tweet is generated in an
+extractive summarization setting, it is unclear to what extent actual
+indicative tweets behave like extractive summaries. We collect a corpus of
+indicative tweets with their associated articles and investigate to what extent
+they can be derived from the articles using extractive methods. We also
+consider the impact of the formality and genre of the article. Our results
+demonstrate the limits of viewing indicative tweet generation as extractive
+summarization, and point to the need for the development of a methodology for
+tweet generation that is sensitive to genre-specific issues.
+Author{1}{Firstname}#=%=#Priya
+Author{1}{Lastname}#=%=#Sidhaye
+Author{1}{Email}#=%=#priya.sidhaye@mail.mcgill.ca
+Author{1}{Affiliation}#=%=#McGill University
+Author{2}{Firstname}#=%=#Jackie Chi Kit
+Author{2}{Lastname}#=%=#Cheung
+Author{2}{Email}#=%=#jcheung@cs.mcgill.ca
+Author{2}{Affiliation}#=%=#McGill University
+
+==========

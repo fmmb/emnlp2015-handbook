@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1016
+FinalPaperTitle#=%=#Learning Timeline Difference for Text Categorization
+ShortPaperTitle#=%=#Learning Timeline Difference for Text Categorization
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Fumiyo Fukumoto
+JobTitle#==#
+Organization#==#Univ. of Yamanashi
+4-3-11, Takeda, Kofu-city, 400-8511, JAPAN
+Abstract#==#This paper addresses text categorization problem that training data may derive
+from a different time period from the test data. We present a learning
+framework which extends a boosting technique to learn accurate model for
+timeline adaptation.
+The results showed that the method was comparable to the current
+state-of-the-art biased-SVM method, especially the method is effective when the
+creation time period of the test data differs greatly from the training data.
+Author{1}{Firstname}#=%=#Fumiyo
+Author{1}{Lastname}#=%=#Fukumoto
+Author{1}{Email}#=%=#fukumoto@yamanashi.ac.jp
+Author{1}{Affiliation}#=%=#Univ. of Yamanashi
+Author{2}{Firstname}#=%=#Yoshimi
+Author{2}{Lastname}#=%=#Suzuki
+Author{2}{Email}#=%=#ysuzuki@yamanashi.ac.jp
+Author{2}{Affiliation}#=%=#University of Yamanashi
+
+==========

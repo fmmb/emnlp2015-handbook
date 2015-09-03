@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#It’s All Fun and Games until Someone Annotates: Video Games with a Purpose for Linguistic Annotation.
+ShortPaperTitle#=%=#It’s All Fun and Games until Someone Annotates: Video Games with a Purpose for Linguistic Annotation.
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#David Jurgens
+JobTitle#==#
+Organization#==#
+Abstract#==#Annotated data is prerequisite for many NLP applications. Acquiring large-scale
+annotated corpora is a major bottleneck, requiring significant time and
+resources. Recent work has proposed turning annotation into a game to increase
+its appeal and lower its cost; however, current games are largely text-based
+and closely resemble traditional an notation tasks. We propose a new linguistic
+annotation paradigm that produces annotations from playing graphical video
+games. The effectiveness of this design is demonstrated using two video games:
+one to create a mapping from WordNet senses to images, and a second game that
+performs Word Sense Disambiguation. Both games produce accurate results. The
+first game yields annotation quality equal to that of experts and a cost
+reduction of 73% over equivalent crowdsourcing; the second game provides a
+16.3% improvement in accuracy over current state-of-the-art sense
+disambiguation games with WordNet.
+Author{1}{Firstname}#=%=#David
+Author{1}{Lastname}#=%=#Jurgens
+Author{1}{Email}#=%=#jurgens@cs.mcgill.ca
+Author{1}{Affiliation}#=%=#McGill University
+Author{2}{Firstname}#=%=#Roberto
+Author{2}{Lastname}#=%=#Navigli
+Author{2}{Email}#=%=#navigli@di.uniroma1.it
+Author{2}{Affiliation}#=%=#Sapienza University of Rome
+
+==========

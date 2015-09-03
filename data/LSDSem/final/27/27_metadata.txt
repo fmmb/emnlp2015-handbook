@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#Where Was Alexander the Great in 325 BC? Toward Understanding History Text with a World Model
+ShortPaperTitle#=%=#Toward Understanding History Text with a World Model
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#YukiMurakami
+JobTitle#==#master
+Organization#==#University of Tokyo, 3-7-1 Hongo, Bunkyo-ku, Tokyo, Japan
+Abstract#==#We present a toy world model for interpreting textual descriptions of the
+movement record of a historical figure such as Genghis Khan or Napoleon. We
+cast the problem of document understanding as the task of finding episodes that
+do not violate the soft constraint conditions derived from the document. The
+model thus allows us to infer his or her locations by finding multiple
+solutions of an optimization problem. Our experimental results using Wikipedia
+text on Alexander the Great demonstrate that such inference can indeed be
+performed with reasonable accuracy. We also show that the information obtained
+from such inference is useful in solving a hard coreference resolution problem.
+Author{1}{Firstname}#=%=#Yuki
+Author{1}{Lastname}#=%=#Murakami
+Author{1}{Email}#=%=#murakami@logos.t.u-tokyo.ac.jp
+Author{1}{Affiliation}#=%=#University of Tokyo
+Author{2}{Firstname}#=%=#Yoshimasa
+Author{2}{Lastname}#=%=#Tsuruoka
+Author{2}{Email}#=%=#tsuruoka@logos.t.u-tokyo.ac.jp
+Author{2}{Affiliation}#=%=#University of Tokyo
+
+==========

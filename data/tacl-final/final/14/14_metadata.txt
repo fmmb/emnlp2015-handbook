@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Unsupervised Identification of Translationese
+ShortPaperTitle#=%=#Unsupervised Identification of Translationese
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Ella Rabinovich
+JobTitle#==#
+Organization#==#University of Haifa
+Abstract#==#Translated texts are distinctively different from original ones, to the extent
+that supervised text classification methods can distinguish between them with
+high accuracy. These differences were proven useful for statistical machine
+translation. However, it has been suggested that the accuracy of translation
+detection deteriorates when the classifier is evaluated outside the domain it
+was trained on.
+We show that this is indeed the case, in a variety of evaluation scenarios. We
+then show that unsupervised classification is highly accurate on this task. We
+suggest a method for determining the correct labels of the clustering outcomes,
+and then use the labels for voting, improving the accuracy even further.
+Moreover, we suggest a simple method for clustering in the challenging case of
+mixed-domain datasets, in spite of the dominance of domain-related features
+over translation-related ones. The result is an effective, fully-unsupervised
+method for distinguishing between original and translated texts that can be
+applied to new domains with reasonable accuracy.
+Author{1}{Firstname}#=%=#Ella
+Author{1}{Lastname}#=%=#Rabinovich
+Author{1}{Email}#=%=#ellarabi@gmail.com
+Author{1}{Affiliation}#=%=#University of Haifa
+Author{2}{Firstname}#=%=#Shuly
+Author{2}{Lastname}#=%=#Wintner
+Author{2}{Email}#=%=#shuly@cs.haifa.ac.il
+Author{2}{Affiliation}#=%=#University of Haifa
+
+==========

@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#323
+FinalPaperTitle#=%=#Discriminative Neural Sentence Modeling by Tree-Based Convolution
+ShortPaperTitle#=%=#Discriminative Neural Sentence Modeling by Tree-Based Convolution
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Lili Mou
+JobTitle#==#
+Organization#==#Peking University. #5, Yiheyuan Road, Haidian District, Beijing, 100871, P. R. China
+Abstract#==#This paper proposes a tree-based convolutional neural network (TBCNN) for
+discriminative sentence modeling. Our model leverages either constituency trees
+or dependency trees. The tree-based convolution process extracts sentences'
+structural features, which are then aggregated by max pooling. Such
+architecture allows short propagation paths between the output layer and
+underlying feature detectors, enabling effective structural feature learning
+and extraction. We evaluate our models on two tasks: sentiment analysis and
+question classification. In both experiments, TBCNN outperforms previous
+state-of-the-art results, including existing neural networks and dedicated
+feature/rule engineering. We also make efforts to visualize the tree-based
+convolution process, shedding some light on how our models work.
+Author{1}{Firstname}#=%=#Lili
+Author{1}{Lastname}#=%=#Mou
+Author{1}{Email}#=%=#moull12@sei.pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Hao
+Author{2}{Lastname}#=%=#Peng
+Author{2}{Email}#=%=#penghao.pku@gmail.com
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Ge
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#lige@sei.pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking Universeity
+Author{4}{Firstname}#=%=#Yan
+Author{4}{Lastname}#=%=#Xu
+Author{4}{Email}#=%=#xuyan14@pku.edu.cn
+Author{4}{Affiliation}#=%=#PKU
+Author{5}{Firstname}#=%=#Lu
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Email}#=%=#zhanglu@sei.pku.edu.cn
+Author{5}{Affiliation}#=%=#Peking University
+Author{6}{Firstname}#=%=#Zhi
+Author{6}{Lastname}#=%=#Jin
+Author{6}{Email}#=%=#zhijin@sei.pku.edu.cn
+Author{6}{Affiliation}#=%=#Peking University
+
+==========

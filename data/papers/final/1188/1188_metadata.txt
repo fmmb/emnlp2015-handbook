@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#1188
+FinalPaperTitle#=%=#Classifying Tweet Level Judgements of Rumours in Social Media
+ShortPaperTitle#=%=#Classifying Tweet Level Judgements of Rumours in Social Media
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Michal Lukasik
+JobTitle#==#
+Organization#==#University of Sheffield
+Abstract#==#Social media is a rich source of rumours and corresponding community reactions.
+Rumours reflect different characteristics, some shared and some individual.  We
+formulate the problem of classifying tweet level judgements of rumours as a
+supervised learning task. Both supervised and unsupervised domain adaptation
+are considered, in which tweets from a rumour are classified on the basis of
+other annotated rumours. We demonstrate how multi-task learning helps achieve
+good results on rumours from the 2011 England riots.
+Author{1}{Firstname}#=%=#Michal
+Author{1}{Lastname}#=%=#Lukasik
+Author{1}{Email}#=%=#m.lukasik@shef.ac.uk
+Author{1}{Affiliation}#=%=#University of Sheffield
+Author{2}{Firstname}#=%=#Trevor
+Author{2}{Lastname}#=%=#Cohn
+Author{2}{Email}#=%=#tcohn@unimelb.edu.au
+Author{2}{Affiliation}#=%=#University of Melbourne
+Author{3}{Firstname}#=%=#Kalina
+Author{3}{Lastname}#=%=#Bontcheva
+Author{3}{Email}#=%=#k.bontcheva@dcs.shef.ac.uk
+Author{3}{Affiliation}#=%=#University of Sheffield
+
+==========

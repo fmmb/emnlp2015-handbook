@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#54
+FinalPaperTitle#=%=#Density-Driven Cross-Lingual Transfer of Dependency Parsers
+ShortPaperTitle#=%=#Density-Driven Cross-Lingual Transfer of Dependency Parsers
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Mohammad Sadegh Rasooli
+JobTitle#==#Student
+Organization#==#Columbia University
+Abstract#==#We present a novel method for the cross-lingual
+transfer of dependency parsers.
+Our goal is to induce a dependency parser
+in a target language of interest without
+any direct supervision: instead we assume
+access to parallel translations between
+the target and one or more source
+languages, and to supervised parsers in
+the source language(s). Our key contributions
+are to show the utility of dense projected
+structures when training the target
+language parser, and to introduce a novel
+learning algorithm that makes use of dense
+structures. Results on several languages
+show an absolute improvement of 5.51%
+in average dependency accuracy over the
+state-of-the-art method of (Ma and Xia,
+2014). Our average dependency accuracy
+of 82.18% compares favourably to the accuracy
+of fully supervised methods.
+Author{1}{Firstname}#=%=#Mohammad Sadegh
+Author{1}{Lastname}#=%=#Rasooli
+Author{1}{Email}#=%=#rasooli.ms@gmail.com
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Collins
+Author{2}{Email}#=%=#mcollins@cs.columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University
+
+==========

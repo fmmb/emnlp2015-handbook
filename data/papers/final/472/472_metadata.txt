@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#472
+FinalPaperTitle#=%=#Transition-based Dependency Parsing Using Two Heterogeneous Gated Recursive Neural Networks
+ShortPaperTitle#=%=#Transition-based Dependency Parsing Using Two Heterogeneous Gated Recursive Neural Networks
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Xipeng Qiu
+JobTitle#==#
+Organization#==#Room 306-3, Computer Building, No 825, Zhangheng Road, Shanghai, China
+Institute of Media Computing, 
+School of Computer Science, Fudan University
+Abstract#==#Recently, neural network based dependency parsing has attracted much interest,
+which can effectively alleviate the problems of data sparsity and feature
+engineering by using the dense features.
+However, it is still a challenge problem to sufficiently model the complicated
+syntactic and semantic compositions of the dense features in neural network
+based methods. 
+In this paper, we propose two heterogeneous gated recursive neural networks:
+tree structured gated recursive neural network (Tree-GRNN) and directed acyclic
+graph structured gated recursive neural network (DAG-GRNN). Then we integrate
+them to automatically learn the compositions of the dense features for
+transition-based dependency parsing. Specifically, Tree-GRNN models the feature
+combinations for the trees in stack, which already have partial dependency
+structures. DAG-GRNN models the feature combinations of the nodes whose
+dependency relations have not been built yet. Experiment results on two
+prevalent benchmark datasets (PTB3 and CTB5) show the effectiveness of our
+proposed model.
+Author{1}{Firstname}#=%=#Xinchi
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#dalstonchen@gmail.com
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Yaqian
+Author{2}{Lastname}#=%=#Zhou
+Author{2}{Email}#=%=#zhouyaqian@fudan.edu.cn
+Author{2}{Affiliation}#=%=#Fudan University
+Author{3}{Firstname}#=%=#Chenxi
+Author{3}{Lastname}#=%=#Zhu
+Author{3}{Email}#=%=#13210240078@fudan.edu.cn
+Author{3}{Affiliation}#=%=#
+Author{4}{Firstname}#=%=#Xipeng
+Author{4}{Lastname}#=%=#Qiu
+Author{4}{Email}#=%=#xpqiu@fudan.edu.cn
+Author{4}{Affiliation}#=%=#Fudan University
+Author{5}{Firstname}#=%=#Xuanjing
+Author{5}{Lastname}#=%=#Huang
+Author{5}{Email}#=%=#xjhuang@fudan.edu.cn
+Author{5}{Affiliation}#=%=#Fudan University
+
+==========

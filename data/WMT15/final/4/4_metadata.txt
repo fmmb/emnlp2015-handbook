@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#USAAR-SAPE: An English--Spanish Statistical Automatic Post-Editing System
+ShortPaperTitle#=%=#USAAR-SAPE
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Santanu Pal
+JobTitle#==#
+Organization#==#Saarland University
+Department of Applied Linguistics, Translation and Interpreting
+PO-Box 15 11 50
+66041 Saarbrücken
+Germany
+Abstract#==#We describe the USAAR-SAPE English--Spanish Automatic Post-Editing (APE) system
+submitted to the APE Task organized in the Workshop on Statistical Machine
+Translation (WMT) in 2015. Our system was able to improve upon the baseline MT
+system output by incorporating Phrase-Based Statistical MT (PBSMT) technique
+into the monolingual Statistical APE task (SAPE). The reported final submission
+crucially involves hybrid word alignment. The SAPE system takes raw Spanish
+Machine Translation (MT) output provided by the shared task organizers and
+produces post-edited Spanish text. The parallel data consist of English Text,
+raw machine translated Spanish output, and their corresponding manually
+post-edited versions. The major goal of the task is to reduce the post-editing
+effort by improving the quality of the MT output in terms of fluency and
+adequacy.
+Author{1}{Firstname}#=%=#Santanu
+Author{1}{Lastname}#=%=#Pal
+Author{1}{Email}#=%=#santanu.pal@uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Mihaela
+Author{2}{Lastname}#=%=#Vela
+Author{2}{Email}#=%=#m.vela@mx.uni-saarland.de
+Author{2}{Affiliation}#=%=#Saarland University
+Author{3}{Firstname}#=%=#Sudip Kumar
+Author{3}{Lastname}#=%=#Naskar
+Author{3}{Email}#=%=#sudip.naskar@cse.jdvu.ac.in
+Author{3}{Affiliation}#=%=#Jadavpur University
+Author{4}{Firstname}#=%=#Josef
+Author{4}{Lastname}#=%=#van Genabith
+Author{4}{Email}#=%=#josef.vangenabith@uni-saarland.de
+Author{4}{Affiliation}#=%=#Saarland University
+
+==========

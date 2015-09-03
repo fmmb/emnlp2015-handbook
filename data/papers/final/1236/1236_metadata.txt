@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1236
+FinalPaperTitle#=%=#Modeling Tweet Arrival Times using Log-Gaussian Cox Processes
+ShortPaperTitle#=%=#Modeling Tweet Arrival Times using Log-Gaussian Cox Processes
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Michal Lukasik
+JobTitle#==#
+Organization#==#University of Sheffield
+Abstract#==#Research on modeling time series text corpora has typically focused on
+predicting what text will come next, but less well studied is predicting when
+the next text event will occur. In this paper we address the latter case,
+framed as modeling continuous inter-arrival times under a log-Gaussian Cox
+process, a form of inhomogeneous Poisson process which captures the varying
+rate at which the tweets arrive over time. In an application to rumour modeling
+of tweets surrounding the 2014 Ferguson riots, we show how inter-arrival times
+between tweets can be accurately predicted, and that incorporating textual
+features further improves predictions.
+Author{1}{Firstname}#=%=#Michal
+Author{1}{Lastname}#=%=#Lukasik
+Author{1}{Email}#=%=#m.lukasik@shef.ac.uk
+Author{1}{Affiliation}#=%=#University of Sheffield
+Author{2}{Firstname}#=%=#P. K.
+Author{2}{Lastname}#=%=#Srijith
+Author{2}{Email}#=%=#pk.srijith@sheffield.ac.uk
+Author{2}{Affiliation}#=%=#University of Shefield
+Author{3}{Firstname}#=%=#Trevor
+Author{3}{Lastname}#=%=#Cohn
+Author{3}{Email}#=%=#tcohn@unimelb.edu.au
+Author{3}{Affiliation}#=%=#University of Melbourne
+Author{4}{Firstname}#=%=#Kalina
+Author{4}{Lastname}#=%=#Bontcheva
+Author{4}{Email}#=%=#k.bontcheva@dcs.shef.ac.uk
+Author{4}{Affiliation}#=%=#University of Sheffield
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#850
+FinalPaperTitle#=%=#Predicting the Structure of Cooking Recipes
+ShortPaperTitle#=%=#Predicting the Structure of Cooking Recipes
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Nizar Habash
+JobTitle#==#
+Organization#==#New York University Abu Dhabi
+Saadiyat Island, Abu Dhabi, UAE
+Abstract#==#Cooking recipes exist in abundance; but due to their unstructured
+  text format, they are hard to study quantitatively beyond treating
+  them as simple bags of words. In this paper, we propose an
+  ingredient-instruction dependency tree data structure to represent
+  recipes.   The proposed representation allows for more refined 
+  comparison of recipes and recipe-parts, and is a step towards semantic
+representation of recipes.
+  Furthermore, we build a parser that maps  recipes into the proposed
+  representation.
+  The parser's edge prediction accuracy of 93.5\%
+  improves over a strong baseline of 85.7\% (54.5\% error
+  reduction).
+Author{1}{Firstname}#=%=#Jermsak
+Author{1}{Lastname}#=%=#Jermsurawong
+Author{1}{Email}#=%=#jermsak.jermsurawong@nyu.edu
+Author{1}{Affiliation}#=%=#New York University Abu Dhabi
+Author{2}{Firstname}#=%=#Nizar
+Author{2}{Lastname}#=%=#Habash
+Author{2}{Email}#=%=#nizar.habash@nyu.edu
+Author{2}{Affiliation}#=%=#New York University Abu Dhabi
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Document-Level Machine Translation Evaluation with Gist Consistency and Text Cohesion
+ShortPaperTitle#=%=#Document-Level Machine Translation Evaluation with Gist Consistency and Text Cohesion
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Gong Zhengxian
+JobTitle#==#
+Organization#==#Soochow University, China
+Abstract#==#Current Statistical Machine Translation (SMT) is significantly affected by
+Machine Translation (MT) evaluation metric. Nowadays the emergence of
+document-level MT research increases the demand for corresponding evaluation
+metric. This paper proposes two superior yet low-cost quantitative objective
+methods to enhance traditional MT metric by modeling document-level phenomena
+from the perspectives of gist consistency and text cohesion. The experimental
+results show the proposed metrics can obtain better correlation with human
+judgments than traditional metrics on evaluating document-level translation
+quality.
+Author{1}{Firstname}#=%=#Zhengxian
+Author{1}{Lastname}#=%=#Gong
+Author{1}{Email}#=%=#zhxgong@suda.edu.cn
+Author{1}{Affiliation}#=%=#Soochow University
+Author{2}{Firstname}#=%=#Min
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#minzhang@suda.edu.cn
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#Guodong
+Author{3}{Lastname}#=%=#Zhou
+Author{3}{Email}#=%=#gdzhou@suda.edu.cn
+Author{3}{Affiliation}#=%=#Soochow University
+
+==========

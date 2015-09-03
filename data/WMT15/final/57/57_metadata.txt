@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#57
+FinalPaperTitle#=%=#CimS - The CIS and IMS Joint Submission to WMT 2015 addressing morphological and syntactic differences in English to German SMT
+ShortPaperTitle#=%=#CimS - The CIS and IMS Joint Submission to WMT 2015 addressing morphological and syntactic differences in English to German SMT
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Fabienne Cap
+JobTitle#==#
+Organization#==#CIS, LMU Munich
+Abstract#==#We present the CimS submissions to the
+WMT 2015 Shared Task for the translation direction English to German. Similar
+to our previous submissions, all of our
+systems are aware of the complex nominal morphology of German. In this paper,
+we combine source-side reordering
+and target-side compound processing with
+basic morphological processing in order to obtain improved translation
+results. We also report on morphological processing for English to French.
+Author{1}{Firstname}#=%=#Fabienne
+Author{1}{Lastname}#=%=#Cap
+Author{1}{Email}#=%=#cap@cis.uni-muenchen.de
+Author{1}{Affiliation}#=%=#Centre for Information and Natural Language Processing, LMU Munich
+Author{2}{Firstname}#=%=#Marion
+Author{2}{Lastname}#=%=#Weller
+Author{2}{Email}#=%=#wellermn@ims.uni-stuttgart.de
+Author{2}{Affiliation}#=%=#Universität Stuttgart
+Author{3}{Firstname}#=%=#Anita
+Author{3}{Lastname}#=%=#Ramm
+Author{3}{Email}#=%=#ramm@ims.uni-stuttgart.de
+Author{3}{Affiliation}#=%=#IMS, University of Stuttgart
+Author{4}{Firstname}#=%=#Alexander
+Author{4}{Lastname}#=%=#Fraser
+Author{4}{Email}#=%=#fraser@cis.uni-muenchen.de
+Author{4}{Affiliation}#=%=#Ludwig-Maximilians-Universität München
+
+==========

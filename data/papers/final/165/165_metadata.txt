@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#165
+FinalPaperTitle#=%=#Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks
+ShortPaperTitle#=%=#Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Daojian Zeng
+JobTitle#==#
+Organization#==#Institude of Automation, Chinese Academy of Sciences，Beijing, 100190, China
+Abstract#==#Two problems arise when using distant supervision for relation extraction.
+First, in this method, an already existing knowledge base is heuristically
+aligned to texts, and the alignment results are treated as labeled data. 
+However, the heuristic alignment can fail, resulting in wrong label problem. In
+addition, in previous approaches, statistical models have typically been
+applied to ad hoc features. The noise that originates from the feature
+extraction process can cause poor performance.
+
+In this paper, we propose a novel model dubbed the Piecewise Convolutional
+Neural Networks (PCNNs) with multi-instance learning to address these two
+problems. To solve the first problem, distant supervised relation extraction is
+treated as a multi-instance problem in which the uncertainty of instance labels
+is taken into account. To address the latter problem, we avoid feature
+engineering and instead adopt convolutional architecture with piecewise max
+pooling to automatically learn relevant features. Experiments show that our
+method is effective and outperforms several competitive baseline methods.
+Author{1}{Firstname}#=%=#Daojian
+Author{1}{Lastname}#=%=#Zeng
+Author{1}{Email}#=%=#djzeng@nlpr.ia.ac.cn
+Author{1}{Affiliation}#=%=#Institude of Automation, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Kang
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#kliu@nlpr.ia.ac.cn
+Author{2}{Affiliation}#=%=#Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Yubo
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Email}#=%=#yubo.chen@nlpr.ia.ac.cn
+Author{3}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Jun
+Author{4}{Lastname}#=%=#Zhao
+Author{4}{Email}#=%=#jzhao@nlpr.ia.ac.cn
+Author{4}{Affiliation}#=%=#Chinese Academy of Sciences
+
+==========

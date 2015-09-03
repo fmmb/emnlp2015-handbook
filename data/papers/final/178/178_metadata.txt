@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#178
+FinalPaperTitle#=%=#Sentence Compression by Deletion with LSTMs
+ShortPaperTitle#=%=#Sentence Compression by Deletion with LSTMs
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Katja Filippova
+JobTitle#==#
+Organization#==#Google
+Brandschenkestr. 110
+8002 Zurich
+Switzerland
+Abstract#==#We present an LSTM approach to deletion-based sentence compression
+where the task is to translate a sentence into a sequence of zeros
+and ones, corresponding to token deletion decisions. We demonstrate
+that even the most basic version of the system, which is given no
+syntactic information (no PoS or NE tags, or dependencies) or desired
+compression length, performs surprisingly well: around 30% of the
+compressions from a large test set could be regenerated. 
+We compare the LSTM system with a competitive baseline which is
+trained on the same amount of data but is additionally provided with
+all kinds of linguistic features. 
+In an experiment with human raters the LSTM-based model outperforms
+the baseline achieving 4.5 in readability and 3.8 in informativeness.
+Author{1}{Firstname}#=%=#Katja
+Author{1}{Lastname}#=%=#Filippova
+Author{1}{Email}#=%=#katjaf@google.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#Enrique
+Author{2}{Lastname}#=%=#Alfonseca
+Author{2}{Email}#=%=#enrique.alfonseca@gmail.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Carlos A.
+Author{3}{Lastname}#=%=#Colmenares
+Author{3}{Email}#=%=#carlos.a.colmenares.r@gmail.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Lukasz
+Author{4}{Lastname}#=%=#Kaiser
+Author{4}{Email}#=%=#lukaszkaiser@gmail.com
+Author{4}{Affiliation}#=%=#CNRS & Google
+Author{5}{Firstname}#=%=#Oriol
+Author{5}{Lastname}#=%=#Vinyals
+Author{5}{Email}#=%=#vinyals@google.com
+Author{5}{Affiliation}#=%=#Google
+
+==========

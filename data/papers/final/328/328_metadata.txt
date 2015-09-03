@@ -1,0 +1,49 @@
+SubmissionNumber#=%=#328
+FinalPaperTitle#=%=#Hierarchical Back-off Modeling of Hiero Grammar based on Non-parametric Bayesian Model
+ShortPaperTitle#=%=#Hierarchical Back-off Modeling of Hiero Grammar based on Non-parametric Bayesian Model
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Hidetaka Kamigaito
+JobTitle#==#
+Organization#==#Tokyo Institute of Technology, 4259 Nagatsuta-cho Midori-ku Yokohama, Japan
+Abstract#==#In hierarchical phrase-based machine translation, a rule table is automatically
+learned by heuristically extracting synchronous rules from a parallel corpus.
+As a result, spuriously many rules are extracted which may be composed of
+various incorrect rules.
+The larger rule table incurs more run time for decoding and may result in lower
+translation quality.
+To resolve the problems, we propose a hierarchical back-off model for Hiero
+grammar, an instance of a synchronous context free grammar (SCFG), on the basis
+of the hierarchical Pitman-Yor process.
+The model can extract a compact rule and phrase table without resorting to any
+heuristics by hierarchically backing off to smaller phrases under SCFG.
+Inference is efficiently carried out using two-step synchronous parsing of Xiao
+et al., (2012) combined with slice sampling.
+In our experiments, the proposed model achieved higher or at least comparable
+translation quality against a previous Bayesian model on various language
+pairs; German/French/Spanish/Japanese-English.
+When compared against heuristic models, our model achieved comparable
+translation quality on a full size German-English language pair in Europarl v7
+corpus with significantly smaller grammar size; less than 10% of that for
+heuristic model.
+Author{1}{Firstname}#=%=#Hidetaka
+Author{1}{Lastname}#=%=#Kamigaito
+Author{1}{Email}#=%=#kamigaito@lr.pi.titech.ac.jp
+Author{1}{Affiliation}#=%=#Tokyo Institute of Technology
+Author{2}{Firstname}#=%=#Taro
+Author{2}{Lastname}#=%=#Watanabe
+Author{2}{Email}#=%=#taro.wtnb@gmail.com
+Author{2}{Affiliation}#=%=#NICT
+Author{3}{Firstname}#=%=#Hiroya
+Author{3}{Lastname}#=%=#Takamura
+Author{3}{Email}#=%=#takamura@pi.titech.ac.jp
+Author{3}{Affiliation}#=%=#Tokyo Institute of Technology
+Author{4}{Firstname}#=%=#Manabu
+Author{4}{Lastname}#=%=#Okumura
+Author{4}{Email}#=%=#oku@pi.titech.ac.jp
+Author{4}{Affiliation}#=%=#Tokyo Institute of Technology
+Author{5}{Firstname}#=%=#Eiichiro
+Author{5}{Lastname}#=%=#Sumita
+Author{5}{Email}#=%=#eiichiro.sumita@nict.go.jp
+Author{5}{Affiliation}#=%=#NICT
+
+==========

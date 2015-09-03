@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#1342
+FinalPaperTitle#=%=#Aligning Knowledge and Text Embeddings by Entity Descriptions
+ShortPaperTitle#=%=#Aligning Knowledge and Text Embeddings by Entity Descriptions
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jianwen Zhang
+JobTitle#==#
+Organization#==#Microsoft Research, Beijing
+No.5, Danling Street, Haidian District, Beijing, P.R.China.
+Abstract#==#We study the problem of jointly embedding a knowledge base and a text corpus.
+The key issue is the alignment model making sure the vectors of entities,
+relations and words are in the same space. Wang et al.
+(2014a) rely on Wikipedia anchors, making the applicable scope quite limited.
+In this paper we propose a new alignment model based on text descriptions of
+entities, without dependency on anchors. We require the embedding vector of an
+entity not only to fit the structured constraints in KBs but also to be equal
+to the embedding vector computed from the text description. Extensive
+experiments show that, the proposed approach consistently performs comparably
+or even better than the method of Wang et al.
+(2014a), which is encouraging as we do not use any anchor information.
+Author{1}{Firstname}#=%=#Huaping
+Author{1}{Lastname}#=%=#Zhong
+Author{1}{Email}#=%=#zhonghp1991@gmail.com
+Author{1}{Affiliation}#=%=#Sun Yat-sen University
+Author{2}{Firstname}#=%=#Jianwen
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#jiazhan@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Zhen
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#wangzh56@mail2.sysu.edu.cn
+Author{3}{Affiliation}#=%=#Sun Yat-sen University
+Author{4}{Firstname}#=%=#Hai
+Author{4}{Lastname}#=%=#Wan
+Author{4}{Email}#=%=#wanhai@mail.sysu.edu.cn
+Author{4}{Affiliation}#=%=#Sun Yat-sen University
+Author{5}{Firstname}#=%=#Zheng
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Email}#=%=#zhengc@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft Research
+
+==========

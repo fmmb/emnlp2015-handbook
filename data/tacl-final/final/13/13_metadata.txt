@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Deriving Boolean Structures from Distributional Vectors
+ShortPaperTitle#=%=#Deriving Boolean Structures from Distributional Vectors
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#German Kruszewski
+JobTitle#==#
+Organization#==#University of Trento
+Abstract#==#Corpus-based distributional semantic models capture degrees of semantic
+relatedness among the words of very large vocabularies, but have problems with
+logical phenomena such as entailment, that are instead elegantly handled by
+model-theoretic approaches, which, in turn, do not scale up. We combine the
+advantages of the two views by inducing a mapping from distributional vectors
+of words (or sentences) into a Boolean structure of the kind in which natural
+language terms are assumed to denote. We evaluate this Boolean Distributional
+Semantic Model (BDSM) on recognizing entailment between words and sentences.
+The method achieves results comparable to a state-of-the art SVM, degrades more
+gracefully when less training data are available and displays interesting
+qualitative properties.
+Author{1}{Firstname}#=%=#Germán
+Author{1}{Lastname}#=%=#Kruszewski
+Author{1}{Email}#=%=#german.kruszewski@unitn.it
+Author{1}{Affiliation}#=%=#University of Trento
+Author{2}{Firstname}#=%=#Denis
+Author{2}{Lastname}#=%=#Paperno
+Author{2}{Email}#=%=#denis.paperno@unitn.it
+Author{2}{Affiliation}#=%=#University of Trento
+Author{3}{Firstname}#=%=#Marco
+Author{3}{Lastname}#=%=#Baroni
+Author{3}{Email}#=%=#marco.baroni@unitn.it
+Author{3}{Affiliation}#=%=#University of Trento
+
+==========

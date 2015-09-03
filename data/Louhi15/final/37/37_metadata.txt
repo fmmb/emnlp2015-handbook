@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#37
+FinalPaperTitle#=%=#NLP–Based Readability Assessment of Health–Related Texts: a Case Study on Italian Informed Consent Forms
+ShortPaperTitle#=%=#NLP–Based Readability Assessment of Health–Related Texts: a Case Study on Italian Informed Consent Forms
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Simonetta Montemagni
+JobTitle#==#
+Organization#==#Istituto di Linguistica Computazionale - CNR
+Abstract#==#The paper illustrates the results of a case study aimed at investigating and
+enhancing the accessibility of Italian health–related documents by relying on
+advanced NLP techniques, with particular attention to informed consent forms.
+Results achieved show that the features automatically extracted from the
+linguistically annotated text and ranging across different levels of linguistic
+description have a high discriminative power in order to guarantee a reliable
+readability assessment.
+Author{1}{Firstname}#=%=#Giulia
+Author{1}{Lastname}#=%=#Venturi
+Author{1}{Email}#=%=#giulia.venturi@ilc.cnr.it
+Author{1}{Affiliation}#=%=#Istituto di Linguistica Computazionale "Antonio Zampolli"
+Author{2}{Firstname}#=%=#Tommaso
+Author{2}{Lastname}#=%=#Bellandi
+Author{2}{Email}#=%=#bellandit@aou-careggi.toscana.it
+Author{2}{Affiliation}#=%=#Centro gestione Rischio Clinico e Sicurezza del paziente - Regione Toscana
+Author{3}{Firstname}#=%=#Felice
+Author{3}{Lastname}#=%=#Dell'Orletta
+Author{3}{Email}#=%=#felice.dellorletta@ilc.cnr.it
+Author{3}{Affiliation}#=%=#Istituto di Linguistica Computazionale "Antonio Zampolli"
+Author{4}{Firstname}#=%=#Simonetta
+Author{4}{Lastname}#=%=#Montemagni
+Author{4}{Email}#=%=#simonetta.montemagni@ilc.cnr.it
+Author{4}{Affiliation}#=%=#Istituto di Linguistica Computazionale "Antonio Zampolli"
+
+==========

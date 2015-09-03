@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#597
+FinalPaperTitle#=%=#Semantic Framework for Comparison Structures in Natural Language
+ShortPaperTitle#=%=#Semantic Framework for Comparison Structures in Natural Language
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Omid Bakhshandeh
+JobTitle#==#
+Organization#==#University of Rochester,
+Computer Science Department, University of Rochester, Rochester, NY, USA
+Abstract#==#Comparison is one of the most important phenomena in language for expressing
+objective and subjective facts about various entities. Systems that can
+understand and reason over comparative structure can play a major role in the
+applications which require deeper understanding of language. In this paper we
+present a novel semantic framework for representing the meaning of comparative
+structures in natural language, which models comparisons as predicate-argument
+pairs inter-connected with semantic roles. Our framework supports not only
+adjectival, but also adverbial, nominal, and verbal comparatives. With this
+paper, we provide a novel dataset of gold-standard comparison structures
+annotated according to our semantic framework.
+Author{1}{Firstname}#=%=#Omid
+Author{1}{Lastname}#=%=#Bakhshandeh
+Author{1}{Email}#=%=#omidb@cs.rochester.edu
+Author{1}{Affiliation}#=%=#University of Rochester
+Author{2}{Firstname}#=%=#James
+Author{2}{Lastname}#=%=#Allen
+Author{2}{Email}#=%=#james@cs.rochester.edu
+Author{2}{Affiliation}#=%=#University of Rochester
+
+==========

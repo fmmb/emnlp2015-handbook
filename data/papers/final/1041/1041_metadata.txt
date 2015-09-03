@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1041
+FinalPaperTitle#=%=#On the Role of Discourse Markers for Discriminating Claims and Premises in Argumentative Discourse
+ShortPaperTitle#=%=#On the Role of Discourse Markers for Discriminating Claims and Premises in Argumentative Discourse
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Judith Eckle-Kohler
+JobTitle#==#
+Organization#==#UKP Lab, Department of Computer Science
+Technische Universität Darmstadt
+Hochschulstraße 10 
+D-64289 Darmstadt
+Germany
+Abstract#==#This paper presents a study on the role of discourse markers in argumentative
+discourse. We annotated a German corpus with arguments according to the common
+claim-premise model of argumentation and performed various statistical analyses
+regarding the discriminative nature of discourse markers for claims and
+premises. Our experiments show that particular semantic groups of discourse
+markers are indicative of either claims or premises and constitute highly
+predictive features for discriminating between them.
+Author{1}{Firstname}#=%=#Judith
+Author{1}{Lastname}#=%=#Eckle-Kohler
+Author{1}{Email}#=%=#eckle-kohler@ukp.informatik.tu-darmstadt.de
+Author{1}{Affiliation}#=%=#Technische Universität Darmstadt
+Author{2}{Firstname}#=%=#Roland
+Author{2}{Lastname}#=%=#Kluge
+Author{2}{Email}#=%=#Roland.Kluge@es.tu-darmstadt.de
+Author{2}{Affiliation}#=%=#Technische Universität Darmstadt
+Author{3}{Firstname}#=%=#Iryna
+Author{3}{Lastname}#=%=#Gurevych
+Author{3}{Email}#=%=#gurevych@ukp.informatik.tu-darmstadt.de
+Author{3}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+
+==========

@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#470
+FinalPaperTitle#=%=#Long Short-Term Memory Neural Networks for Chinese Word Segmentation
+ShortPaperTitle#=%=#Long Short-Term Memory Neural Networks for Chinese Word Segmentation
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Xipeng Qiu
+JobTitle#==#
+Organization#==#Room 306-3, Computer Building, No 825, Zhangheng Road, Shanghai, China
+Institute of Media Computing, 
+School of Computer Science, Fudan University
+Abstract#==#Currently most of state-of-the-art methods
+for Chinese word segmentation are
+based on supervised learning, whose features
+are mostly extracted from a local context.
+These methods cannot utilize the long
+distance information which is also crucial
+for word segmentation. In this paper, we
+propose a novel neural network model for
+Chinese word segmentation, which adopts
+the long short-term memory (LSTM) neural
+network to keep the previous important
+information in memory cell and avoids
+the limit of window size of local context.
+Experiments on PKU, MSRA and CTB6
+benchmark datasets show that our model
+outperforms the previous neural network
+models and state-of-the-art methods.
+Author{1}{Firstname}#=%=#Xinchi
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#dalstonchen@gmail.com
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Xipeng
+Author{2}{Lastname}#=%=#Qiu
+Author{2}{Email}#=%=#xpqiu@fudan.edu.cn
+Author{2}{Affiliation}#=%=#Fudan University
+Author{3}{Firstname}#=%=#Chenxi
+Author{3}{Lastname}#=%=#Zhu
+Author{3}{Email}#=%=#13210240078@fudan.edu.cn
+Author{3}{Affiliation}#=%=#
+Author{4}{Firstname}#=%=#Pengfei
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Email}#=%=#pfliu14@fudan.edu.cn
+Author{4}{Affiliation}#=%=#
+Author{5}{Firstname}#=%=#Xuanjing
+Author{5}{Lastname}#=%=#Huang
+Author{5}{Email}#=%=#xjhuang@fudan.edu.cn
+Author{5}{Affiliation}#=%=#Fudan University
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#799
+FinalPaperTitle#=%=#Wikification of Concept Mentions within Spoken Dialogues Using Domain Constraints from Wikipedia
+ShortPaperTitle#=%=#Wikification of Concept Mentions within Spoken Dialogues Using Domain Constraints from Wikipedia
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Seokhwan Kim
+JobTitle#==#Scientist
+Organization#==#Institute for Infocomm Research
+1 Fusionopolis Way, #21-01 Connexis (South Tower), Singapore 138632
+Abstract#==#While most previous work on Wikification has focused on written texts, this
+paper presents a Wikification approach for spoken dialogues. A set of analyzers
+are proposed to learn dialogue-specific properties along with domain knowledge
+of conversations from Wikipedia. Then, the analyzed properties are used as
+constraints for generating candidates, and the candidates are ranked to find
+the appropriate links. The experimental results show that our proposed approach
+can significantly improve the performances of the task in human-human
+dialogues.
+Author{1}{Firstname}#=%=#Seokhwan
+Author{1}{Lastname}#=%=#Kim
+Author{1}{Email}#=%=#kims@i2r.a-star.edu.sg
+Author{1}{Affiliation}#=%=#Institute for Infocomm Research
+Author{2}{Firstname}#=%=#Rafael E.
+Author{2}{Lastname}#=%=#Banchs
+Author{2}{Email}#=%=#rembanchs@i2r.a-star.edu.sg
+Author{2}{Affiliation}#=%=#Institute for Infocomm Research
+Author{3}{Firstname}#=%=#Haizhou
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#hli@i2r.a-star.edu.sg
+Author{3}{Affiliation}#=%=#Institute for Infocomm Research
+
+==========

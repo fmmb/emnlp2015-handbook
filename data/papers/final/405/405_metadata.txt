@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#405
+FinalPaperTitle#=%=#How to Avoid Unwanted Pregnancies: Domain Adaptation using Neural Network Models
+ShortPaperTitle#=%=#How to Avoid Unwanted Pregnancies: Domain Adaptation using Neural Network Models
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Hassan Sajjad
+JobTitle#==#
+Organization#==#QCRI, Tornado Tower 10th floor, 5825 WestBay, Doha Qatar
+Abstract#==#We present novel models for domain adaptation based on the neural network joint
+model (NNJM). Our models maximize the cross entropy by regularizing the loss
+function with respect to in-domain model.
+Domain adaptation is carried out by assigning higher weight to 
+out-domain sequences that are similar to the in-domain data. In our alternative
+model we take a more restrictive approach by additionally penalizing sequences
+similar to the out-domain data. Our models achieve better perplexities than the
+baseline NNJM models and give improvements of up to 0.5 and 0.6 BLEU points in
+Arabic-to-English and English-to-German language pairs, on a standard task of
+translating TED talks.
+Author{1}{Firstname}#=%=#Shafiq
+Author{1}{Lastname}#=%=#Joty
+Author{1}{Email}#=%=#sjoty@qf.org.qa
+Author{1}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{2}{Firstname}#=%=#Hassan
+Author{2}{Lastname}#=%=#Sajjad
+Author{2}{Email}#=%=#hsajjad@qf.org.qa
+Author{2}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{3}{Firstname}#=%=#Nadir
+Author{3}{Lastname}#=%=#Durrani
+Author{3}{Email}#=%=#ndurrani@qf.org.qa
+Author{3}{Affiliation}#=%=#QCRI
+Author{4}{Firstname}#=%=#Kamla
+Author{4}{Lastname}#=%=#Al-Mannai
+Author{4}{Email}#=%=#kamlmannai@qf.org.qa
+Author{4}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{5}{Firstname}#=%=#Ahmed
+Author{5}{Lastname}#=%=#Abdelali
+Author{5}{Email}#=%=#aabdelali@qf.org.qa
+Author{5}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{6}{Firstname}#=%=#Stephan
+Author{6}{Lastname}#=%=#Vogel
+Author{6}{Email}#=%=#svogel@qf.org.qa
+Author{6}{Affiliation}#=%=#Qatar Computing Research Institute
+
+==========

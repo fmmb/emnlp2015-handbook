@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#Parser Adaptation to the Biomedical Domain without Re-Training
+ShortPaperTitle#=%=#Parser Adaptation to the Biomedical Domain without Re-Training
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jeff Mitchell
+JobTitle#==#
+Organization#==#School of Informatics
+University of Edinburgh
+EH8 9AB
+Abstract#==#We present a distributional approach to the
+problem of inducing parameters for un-
+seen words in probabilistic parsers. Our
+KNN-based algorithm uses distributional
+similarity over an unlabelled corpus to
+match unseen words to the most similar
+seen words, and can induce parameters
+for those unseen words without retrain-
+ing the parser. We apply this to domain
+adaptation for three different parsers that
+employ fine-grained syntactic categories,
+which allows us to focus on modifying the
+lexicon, while leaving the structure of the
+parser itself intact. We demonstrate up-
+lifts for dependency recovery of 2%-6%
+on novel vocabulary in biomedical text.
+Author{1}{Firstname}#=%=#Jeff
+Author{1}{Lastname}#=%=#Mitchell
+Author{1}{Email}#=%=#jmitche7@inf.ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Mark
+Author{2}{Lastname}#=%=#Steedman
+Author{2}{Email}#=%=#steedman@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+
+==========

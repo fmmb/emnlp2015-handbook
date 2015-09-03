@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1385
+FinalPaperTitle#=%=#Composing Relationships with Translations
+ShortPaperTitle#=%=#Composing Relationships with Translations
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Alberto
+JobTitle#==#
+Organization#==#
+Abstract#==#Performing link prediction in Knowledge Bases (KBs) with embedding-based
+models, like with the model TransE (Bordes et al., 2013) which represents
+relationships as translations in the embedding space, have shown promising
+results in recent years. Most of these works focused on modeling single
+relationships and hence do not take full advantage of the graph structure of
+KBs. In this paper, we propose an extension of TransE that learns to explicitly
+model composition of relationships via the addition of their corresponding
+translation vectors. We show empirically that this allows to improve
+performance for predicting single relationships as well as compositions of
+pairs of them.
+Author{1}{Firstname}#=%=#Alberto
+Author{1}{Lastname}#=%=#Garcia-Duran
+Author{1}{Email}#=%=#agaduran@gmail.com
+Author{1}{Affiliation}#=%=#Universite de technologie de Compiegne, CNRS
+Author{2}{Firstname}#=%=#Antoine
+Author{2}{Lastname}#=%=#Bordes
+Author{2}{Email}#=%=#abordes@fb.com
+Author{2}{Affiliation}#=%=#Facebook
+Author{3}{Firstname}#=%=#Nicolas
+Author{3}{Lastname}#=%=#Usunier
+Author{3}{Email}#=%=#usunier.nicolas@gmail.com
+Author{3}{Affiliation}#=%=#Facebook
+
+==========

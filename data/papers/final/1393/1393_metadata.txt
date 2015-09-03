@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#1393
+FinalPaperTitle#=%=#Mr. Bennet, his coachman, and the Archbishop walk into a bar but only one of them gets recognized: On The Difficulty of Detecting Characters in Literary Texts
+ShortPaperTitle#=%=#Mr. Bennet, his coachman, and the Archbishop walk into a bar but only one of them gets recognized: On The Difficulty of Detecting Characters in Literary Texts
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#David Jurgens
+JobTitle#==#
+Organization#==#
+Abstract#==#Characters are fundamental to literary analysis.  Current approaches are
+heavily reliant on NER to identify characters, causing many to be overlooked. 
+We propose a novel technique for character detection, achieving significant
+improvements over state of the art on multiple datasets.
+Author{1}{Firstname}#=%=#Hardik
+Author{1}{Lastname}#=%=#Vala
+Author{1}{Email}#=%=#hardik.vala@mail.mcgill.ca
+Author{1}{Affiliation}#=%=#McGill University
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Jurgens
+Author{2}{Email}#=%=#jurgens@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Andrew
+Author{3}{Lastname}#=%=#Piper
+Author{3}{Email}#=%=#andrew.piper@mcgill.ca
+Author{3}{Affiliation}#=%=#McGill University
+Author{4}{Firstname}#=%=#Derek
+Author{4}{Lastname}#=%=#Ruths
+Author{4}{Email}#=%=#derek.ruths@mcgill.ca
+Author{4}{Affiliation}#=%=#McGill University
+
+==========

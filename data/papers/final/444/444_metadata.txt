@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#444
+FinalPaperTitle#=%=#Dependency Graph-to-String Translation
+ShortPaperTitle#=%=#Dependency Graph-to-String Translation
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Liangyou Li
+JobTitle#==#
+Organization#==#ADAPT Centre, School of Computing, Dublin City University
+Abstract#==#Compared to tree grammars, graph grammars have stronger generative capacity
+over structures. Based on an edge replacement grammar, in this paper we propose
+to use a synchronous graph-to-string grammar for statistical machine
+translation. The graph we use is directly converted from a dependency tree by
+labelling edges. We build our translation model in the log-linear framework
+with standard features. Large-scale experiments on Chinese–English and
+German–English tasks show that our model is significantly better than the
+state-of-the-art hierarchical phrase-based (HPB) model and a recently improved
+dependency tree-to-string model on BLEU, METEOR and TER scores. Experiments
+also suggest that our model has better capability to perform long-distance
+reordering and is more suitable for translating long sentences.
+Author{1}{Firstname}#=%=#Liangyou
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#liangyouli@computing.dcu.ie
+Author{1}{Affiliation}#=%=#CNGL Centre for Global Intelligent Content, School of Computing, Dublin City University
+Author{2}{Firstname}#=%=#Andy
+Author{2}{Lastname}#=%=#Way
+Author{2}{Email}#=%=#away@computing.dcu.ie
+Author{2}{Affiliation}#=%=#CNGL, Dublin City University
+Author{3}{Firstname}#=%=#Qun
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#qliu@computing.dcu.ie
+Author{3}{Affiliation}#=%=#Dublin City University
+
+==========

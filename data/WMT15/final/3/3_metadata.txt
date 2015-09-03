@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Extended Translation Models in Phrase-based Decoding
+ShortPaperTitle#=%=#Extended Translation Models in Phrase-based Decoding
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Andreas Guta
+JobTitle#==#Researcher
+Organization#==#Lehrstuhl für Informatik 6
+RWTH Aachen
+Ahornstr. 55
+52056 Aachen
+Abstract#==#We propose a novel extended translation model (ETM) to counteract some problems
+in phrase-based translation: The lack of translation context when using
+single-word phrases and uncaptured dependencies beyond phrase boundaries. The
+ETM
+operates on word level and augments the IBM models by an additional bilingual
+word pair and a reordering operation. Its implementation in a phrase-based
+decoder introduces translation and reordering dependencies for single-word
+phrases and dependencies across phrase boundaries. More, the model incorporates
+an explicit treatment of multiple and empty alignments. Its integration
+outperforms competitive systems that include lexical and phrase translation
+models as well as hierarchical reordering models on 4 language pairs
+significantly by +0.7% BLEU on average. Although simpler and using fewer
+dependencies, the ETM proves to be on par with 7-gram operation sequence models
+(Durrani et al., 2013).
+Author{1}{Firstname}#=%=#Andreas
+Author{1}{Lastname}#=%=#Guta
+Author{1}{Email}#=%=#guta@cs.rwth-aachen.de
+Author{1}{Affiliation}#=%=#RWTH Aachen University
+Author{2}{Firstname}#=%=#Joern
+Author{2}{Lastname}#=%=#Wuebker
+Author{2}{Email}#=%=#joern.wuebker@googlemail.com
+Author{2}{Affiliation}#=%=#RWTH Aachen University
+Author{3}{Firstname}#=%=#Miguel
+Author{3}{Lastname}#=%=#Graca
+Author{3}{Email}#=%=#graca@i6.informatik.rwth-aachen.de
+Author{3}{Affiliation}#=%=#RWTH Aachen University
+Author{4}{Firstname}#=%=#Yunsu
+Author{4}{Lastname}#=%=#Kim
+Author{4}{Email}#=%=#kimyunsu@i6.informatik.rwth-aachen.de
+Author{4}{Affiliation}#=%=#RWTH Aachen University
+Author{5}{Firstname}#=%=#Hermann
+Author{5}{Lastname}#=%=#Ney
+Author{5}{Email}#=%=#ney@cs.rwth-aachen.de
+Author{5}{Affiliation}#=%=#RWTH Aachen University
+
+==========

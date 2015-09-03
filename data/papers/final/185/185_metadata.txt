@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#185
+FinalPaperTitle#=%=#Multi- and Cross-Modal Semantics Beyond Vision: Grounding in Auditory Perception
+ShortPaperTitle#=%=#Multi- and Cross-Modal Semantics Beyond Vision: Grounding in Auditory Perception
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Douwe Kiela
+JobTitle#==#
+Organization#==#Computer Laboratory, University of Cambridge, 15 JJ Thomson Avenue, Cambridge CB3 0FD
+Abstract#==#Multi-modal semantics has relied on feature norms or raw image data for
+perceptual input. In this paper we examine grounding semantic representations
+in raw
+auditory data, using standard evaluations for multi-modal semantics, including
+measuring conceptual similarity and relatedness. We also evaluate cross-modal
+mappings, through a zero-shot learning task mapping between linguistic and
+auditory modalities. In addition, we evaluate multi-modal representations on an
+unsupervised musical instrument clustering task. To our knowledge, this is the
+first work to combine linguistic and auditory information into multi-modal
+representations.
+Author{1}{Firstname}#=%=#Douwe
+Author{1}{Lastname}#=%=#Kiela
+Author{1}{Email}#=%=#douwe.kiela@cl.cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge Computer Laboratory
+Author{2}{Firstname}#=%=#Stephen
+Author{2}{Lastname}#=%=#Clark
+Author{2}{Email}#=%=#sc609@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+
+==========

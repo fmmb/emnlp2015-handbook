@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#943
+FinalPaperTitle#=%=#That's So Annoying!!!: A Lexical and Frame-Semantic Embedding Based Data Augmentation Approach to Automatic Categorization of Annoying Behaviors using #petpeeve Tweets
+ShortPaperTitle#=%=#That's So Annoying!!!: A Lexical and Frame-Semantic Embedding Based Data Augmentation Approach to Automatic Categorization of Annoying Behaviors using #petpeeve Tweets
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#William Wang
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+5000 Forbes Ave.
+Pittsburgh, PA 15213 USA
+Abstract#==#We propose a novel data augmentation approach to enhance computational
+behavioral analysis using social media text.
+In particular, we collect a Twitter corpus of the descriptions of annoying
+behaviors using the #petpeeve hashtags. In the qualitative analysis, we study
+the language use in these tweets, with a special focus on the fine-grained
+categories and the geographic variation of the language. In quantitative
+analysis, we show that lexical and syntactic features are useful for automatic
+categorization of annoying behaviors, and frame-semantic features further boost
+the performance; that leveraging large lexical embeddings to create additional
+training instances significantly improves the lexical model; and incorporating
+frame-semantic embedding achieves the best overall performance.
+Author{1}{Firstname}#=%=#William Yang
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#ww@cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Diyi
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Email}#=%=#diyiy@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

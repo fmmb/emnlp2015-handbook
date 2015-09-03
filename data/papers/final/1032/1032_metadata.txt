@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#1032
+FinalPaperTitle#=%=#Hierarchical Latent Words Language Models for Robust Modeling to Out-Of Domain Tasks
+ShortPaperTitle#=%=#Hierarchical Latent Words Language Models for Robust Modeling to Out-Of Domain Tasks
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ryo Masumura
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper focuses on language modeling with adequate robustness to support
+different domain tasks. To this end, we propose a hierarchical latent word
+language model (h-LWLM). The proposed model can be regarded as a generalized
+form of the standard LWLMs. The key advance is introducing a multiple latent
+variable space with hierarchical structure. The structure can flexibly take
+account of linguistic phenomena not present in the training data. This paper
+details the definition as well as a training method based on layer-wise
+inference and a practical usage in natural language processing tasks with an
+approximation technique. Experiments on speech recognition show the
+effectiveness of h-LWLM in out-of domain tasks.
+Author{1}{Firstname}#=%=#Ryo
+Author{1}{Lastname}#=%=#Masumura
+Author{1}{Email}#=%=#masumura.ryo@lab.ntt.co.jp
+Author{1}{Affiliation}#=%=#NTT Corporation
+Author{2}{Firstname}#=%=#Taichi
+Author{2}{Lastname}#=%=#Asami
+Author{2}{Email}#=%=#asami.taichi@lab.ntt.co.jp
+Author{2}{Affiliation}#=%=#NTT Corporation
+Author{3}{Firstname}#=%=#Takanobu
+Author{3}{Lastname}#=%=#Oba
+Author{3}{Email}#=%=#oba.takanobu@lab.ntt.co.jp
+Author{3}{Affiliation}#=%=#NTT Media Intelligence Laboratories, NTT Corporation
+Author{4}{Firstname}#=%=#Hirokazu
+Author{4}{Lastname}#=%=#Masataki
+Author{4}{Email}#=%=#masataki.hirokazu@lab.ntt.co.jp
+Author{4}{Affiliation}#=%=#NTT Corporation
+Author{5}{Firstname}#=%=#Sumitaka
+Author{5}{Lastname}#=%=#Sakauchi
+Author{5}{Email}#=%=#sakauchi.sumitaka@lab.ntt.co.jp
+Author{5}{Affiliation}#=%=#NTT Corporation
+Author{6}{Firstname}#=%=#Akinori
+Author{6}{Lastname}#=%=#Ito
+Author{6}{Email}#=%=#aito@fw.ipsj.or.jp
+Author{6}{Affiliation}#=%=#Tohoku University
+
+==========

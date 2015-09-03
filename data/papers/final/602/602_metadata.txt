@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#602
+FinalPaperTitle#=%=#Neural Networks for Open Domain Targeted Sentiment
+ShortPaperTitle#=%=#Neural Networks for Open Domain Targeted Sentiment
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#meishan zhang
+JobTitle#==#
+Organization#==#Singapore University of Technology & Design, 8 Somapah Road Singapore 487372
+Abstract#==#Open domain targeted sentiment is the joint information extraction task that
+finds target mentions together with the sentiment towards each mention from a
+text corpus. The task is typically modeled as a sequence labeling problem, and
+solved using state-of-the-art labelers such as CRF. We empirically study the
+effect of word embeddings and automatic feature combinations on the task by
+extending a CRF baseline using neural networks, which have demonstrated large
+potentials for sentiment analysis. Results show that the neural model can give
+better results by significantly increasing the recall. In addition, we propose
+a novel integration of neural and discrete features, which combines their
+relative advantages, leading to significantly higher results compared to both
+baselines.
+Author{1}{Firstname}#=%=#Meishan
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#meishan_zhang@sutd.edu.sg
+Author{1}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{2}{Firstname}#=%=#Yue
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{3}{Firstname}#=%=#Duy Tin
+Author{3}{Lastname}#=%=#Vo
+Author{3}{Email}#=%=#duytin_vo@mymail.sutd.edu.sg
+Author{3}{Affiliation}#=%=#Singapore University of Technology and Design
+
+==========

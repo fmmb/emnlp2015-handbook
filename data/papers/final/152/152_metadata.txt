@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#152
+FinalPaperTitle#=%=#Monotone Submodularity in Opinion Summaries
+ShortPaperTitle#=%=#Monotone Submodularity in Opinion Summaries
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jayanth
+JobTitle#==#
+Organization#==#IIT Bombay
+Powai
+Mumbai
+Maharashtra - 400076
+Abstract#==#Opinion summarization is the task of producing the summary of a text, such that
+the summary also preserves the sentiment of the text. Opinion Summarization is
+thus a trade-off between summarization and sentiment analysis. The demand of
+compression may drop sentiment bearing sentences, and the demand of sentiment
+detection may bring in redundant sentences. We harness the power of
+submodularity to strike a balance between two conflicting requirements. We
+investigate an incipient class of submodular functions for the problem, and a
+partial enumeration based greedy algorithm that has performance guarantee of
+63%. Our functions generate summaries such that there is good correlation
+between document sentiment and summary sentiment along with good ROUGE score,
+which outperforms the-state-of-the-art algorithms.
+Author{1}{Firstname}#=%=#Jayanth
+Author{1}{Lastname}#=%=#Jayanth
+Author{1}{Email}#=%=#jayanthjaiswal15@gmail.com
+Author{1}{Affiliation}#=%=#Indian Institute of Technology Bombay
+Author{2}{Firstname}#=%=#Jayaprakash
+Author{2}{Lastname}#=%=#Sundararaj
+Author{2}{Email}#=%=#osjayaprakash@gmail.com
+Author{2}{Affiliation}#=%=#Indian Institute of Technology, Bombay
+Author{3}{Firstname}#=%=#Pushpak
+Author{3}{Lastname}#=%=#Bhattacharyya
+Author{3}{Email}#=%=#pushpakbh@gmail.com
+Author{3}{Affiliation}#=%=#CSE Department, IIT Bombay
+
+==========

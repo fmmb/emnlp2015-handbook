@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Utilizing review analysis to suggest product advertisement improvements
+ShortPaperTitle#=%=#Utilizing review analysis to suggest product advertisement improvements
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Takaaki Tsunoda
+JobTitle#==#
+Organization#==#University of Tsukuba
+1-1-1 Tennodai, Tsukuba-shi, Ibaraki-ken 305-8573, Japan
+Abstract#==#On an e-commerce site, product blurbs (short promotional statements) and user
+reviews give us a lot of information about products. While a blurb should be
+appealing to encourage more users to click on a product link, sometimes sellers
+may miss or misunderstand which aspects of the product are important to their
+users. We therefore propose a novel task: suggesting aspects of products for an
+advertisement improvement. As reviews have a lot of information about aspects
+from the perspective of users, review analysis enables us to suggest aspects
+that could attract more users. To achieve this, we break this task into the
+following two subtasks: aspect grouping and aspect group ranking. Aspect
+grouping enables us to treat product aspects at the semantic level rather than
+expression level. Aspect group ranking allows us to show users only aspects
+important for them. On the basis of experimental results using travel domain
+hotel data, we show that our proposed solution accomplishes NDCG@3 score of
+0.739, which shows our solution is effective in achieving our goal.
+Author{1}{Firstname}#=%=#Takaaki
+Author{1}{Lastname}#=%=#Tsunoda
+Author{1}{Email}#=%=#tsunoda@mibel.cs.tsukuba.ac.jp
+Author{1}{Affiliation}#=%=#University of Tsukuba
+Author{2}{Firstname}#=%=#Takashi
+Author{2}{Lastname}#=%=#Inui
+Author{2}{Email}#=%=#inui@cs.tsukuba.ac.jp
+Author{2}{Affiliation}#=%=#University of Tsukuba
+Author{3}{Firstname}#=%=#Satoshi
+Author{3}{Lastname}#=%=#Sekine
+Author{3}{Email}#=%=#sekine@cs.nyu.edu
+Author{3}{Affiliation}#=%=#New York University
+
+==========

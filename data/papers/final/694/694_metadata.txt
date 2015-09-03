@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#694
+FinalPaperTitle#=%=#Semantic Annotation for Microblog Topics Using Wikipedia Temporal Information
+ShortPaperTitle#=%=#Semantic Annotation for Microblog Topics Using Wikipedia Temporal Information
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Tuan Tran
+JobTitle#==#
+Organization#==#L3S Research Center,
+
+Appelstr. 9,
+30167 Hannover
+Germany
+Abstract#==#Trending topics in microblogs such as Twitter are valuable resources
+  to understand social aspects of real-world events. To enable deep
+  analyses of such trends, semantic annotation is an effective
+  approach; yet the problem of annotating microblog trending topics is
+  largely unexplored by the research community. In this work, we
+  tackle the problem of mapping trending Twitter topics to entities
+  from Wikipedia. We propose a novel model that complements
+  traditional text-based approaches by rewarding entities that exhibit
+  a high temporal correlation with topics during their burst time
+  period. By exploiting temporal information from the Wikipedia edit
+  history and page view logs, we have improved the annotation
+  performance by 17-28%, as compared to the competitive baselines.
+Author{1}{Firstname}#=%=#Tuan
+Author{1}{Lastname}#=%=#Tran
+Author{1}{Email}#=%=#ttran@l3s.de
+Author{1}{Affiliation}#=%=#L3S Research Center
+Author{2}{Firstname}#=%=#Nam Khanh
+Author{2}{Lastname}#=%=#Tran
+Author{2}{Email}#=%=#ntran@l3s.de
+Author{2}{Affiliation}#=%=#L3S Research Center
+Author{3}{Firstname}#=%=#Asmelash
+Author{3}{Lastname}#=%=#Teka Hadgu
+Author{3}{Email}#=%=#teka@l3s.de
+Author{3}{Affiliation}#=%=#L3S Research Center
+Author{4}{Firstname}#=%=#Robert
+Author{4}{Lastname}#=%=#Jäschke
+Author{4}{Email}#=%=#jaeschke@l3s.de
+Author{4}{Affiliation}#=%=#L3S Research Center
+
+==========

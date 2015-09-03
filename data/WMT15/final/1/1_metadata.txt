@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Statistical Machine Translation with Automatic Identification of Translationese
+ShortPaperTitle#=%=#Statistical Machine Translation with Automatic Identification of Translationese
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shuly Wintner
+JobTitle#==#
+Organization#==#University of Haifa
+Haifa, Israel
+Abstract#==#Translated texts (in any language) are so markedly different from original ones
+that
+  text classification techniques can be used to tease them apart.
+  Previous work has shown that awareness to these differences can
+  significantly improve statistical machine translation. These
+  results, however, required meta-information on the ontological
+  status of texts (original or translated) which is
+  typically unavailable.  In this work we show that the predictions of
+  translationese classifiers are as good as meta-information.  First,
+  when a monolingual corpus in the target language is given, to be
+  used for constructing a language model, predicting the translated
+  portions of the corpus, and using only them for the language model,
+  is as good as using the entire corpus. Second, identifying the
+  portions of a parallel corpus that are translated in the direction
+  of the translation task, and using only them for the translation
+  model, is as good as using the entire corpus. We present results
+  from several language pairs and various data sets, indicating that these
+results are
+  robust and general.
+Author{1}{Firstname}#=%=#Naama
+Author{1}{Lastname}#=%=#Twitto
+Author{1}{Email}#=%=#naama.twitto@gmail.com
+Author{1}{Affiliation}#=%=#University of Haifa
+Author{2}{Firstname}#=%=#Noam
+Author{2}{Lastname}#=%=#Ordan
+Author{2}{Email}#=%=#noam.ordan@gmail.com
+Author{2}{Affiliation}#=%=#Universitaet des Saarlandes
+Author{3}{Firstname}#=%=#Shuly
+Author{3}{Lastname}#=%=#Wintner
+Author{3}{Email}#=%=#shuly@cs.haifa.ac.il
+Author{3}{Affiliation}#=%=#University of Haifa
+
+==========

@@ -1,0 +1,38 @@
+* Thursday, September 17, 2015
+= 09:00--09:05 Opening Remarks # %room Room 6
+= 09:05--09:40 Invited talk # %room Room 1
+49   # Multilingual Affect Polarity and Valence Prediction in Metaphors
+= 09:40--10:30 Session 1: Multilingual Sentiment Analysis in Social Media # %room Room 1 %chair1 Alexandra Balahur
+1 09:40--10:10  # Sentiment Analysis on Monolingual, Multilingual and Code-Switching Twitter Corpora
+43 10:10--10:30  # Connotation in Translation
++ 10:30--11:00 Coffee Break
+= 11:00--12:30 Session 2: The Influence of Context for Sentiment Analysis in Social Media # %room Room 1 %chair1 Josef Ruppenhofer
+46 11:00--11:30  # Enhanced Twitter Sentiment Classification Using Contextual Information
+7 11:30--12:00  # Your Sentiment Precedes You: Using an author___s historical tweets to predict sarcasm
+23 12:00--12:30  # Optimising Agile Social Media Analysis
++ 12:30--14:00 Lunch Break
+= 14:00--15:30 Session 3: Beyond Review Mining # %room Room 1 %chair1 Saif Mohammad
+10 14:00--14:30  # Utilizing review analysis to suggest product advertisement improvements
+13 14:30--15:00  # Towards Opinion Mining from Reviews for the Prediction of Product Rankings
+15 15:00--15:30  # Classification of deceptive opinions using a low dimensionality representation
++ 15:30--16:00 Coffee Break
+= 16:00--17:20 Session 4: Lexicon Generation and Visualisation for Sentiment Analysis # %room Room 1 %chair1 Dirk Hovy
+33 16:00--16:30  # Extending effect annotation with lexical decomposition
+37 16:30--17:00  # Analysing domain suitability of a sentiment lexicon by identifying distributionally bipolar words
+28 17:00--17:20  # Imagisaurus: An Interactive Visualizer of Valence and Emotion in the Roget's Thesaurus
++ 17:20--17:30 Break
+= 17:30--19:20 Session 5: Posters # %room Lower Level Foyer
+20   # Personality Traits on Twitter___or___How to Get 1,500 Personality Tests in a Week
+6   # Negation Scope Detection for Twitter Sentiment Analysis
+5   # A Linguistically Informed Convolutional Neural Network
+19   # How much does word sense disambiguation help in sentiment analysis of micropost data?
+3   # Predicting Ratings for New Movie Releases from Twitter Content
+4   # Beyond Sentiment: Social Psychological Analysis of Political Facebook Comments in Hungary
+2   # Verb-centered Sentiment Inference with Description Logics
+45   # Mining HEXACO personality traits from Enterprise Social Media
+29   # Opinion Holder and Target Extraction for Verb-based Opinion Predicates -- The Problem is Not Solved
+32   # Synthetic Text Generation for Sentiment Analysis
+12   # Detecting speculations, contrasts and conditionals in consumer reviews
+38   # Using Combined Lexical Resources to Identify Hashtag Types
+16   # Sentiment Classification via a Response Recalibration Framework
+= 19:20--19:30 Closing discussion - "Where do we go from here?" # %room Room 1

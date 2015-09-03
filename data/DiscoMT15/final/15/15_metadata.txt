@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Part-of-Speech Driven Cross-Lingual Pronoun Prediction with Feed-Forward Neural Networks
+ShortPaperTitle#=%=#Part-of-Speech Driven Cross-Lingual Pronoun Prediction with Feed-Forward Neural Networks
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jimmy Callin
+JobTitle#==#
+Organization#==#Department of Linguistics and Philology
+Box 256, 751 05
+Uppsala University, Sweden
+Abstract#==#For some language pairs, pronoun translation is a discourse-driven task which
+requires information that lies beyond its local context. This motivates the
+task of predicting the correct pronoun given a source sentence and a target
+translation, where the translated pronouns have been replaced with
+placeholders. For cross-lingual pronoun prediction, we suggest a neural
+network-based model using preceding nouns and determiners as features for
+suggesting antecedent candidates. Our model scores on par with similar models
+while having a simpler architecture.
+Author{1}{Firstname}#=%=#Jimmy
+Author{1}{Lastname}#=%=#Callin
+Author{1}{Email}#=%=#jimmy.callin@gmail.com
+Author{1}{Affiliation}#=%=#Uppsala University
+Author{2}{Firstname}#=%=#Christian
+Author{2}{Lastname}#=%=#Hardmeier
+Author{2}{Email}#=%=#christian.hardmeier@lingfil.uu.se
+Author{2}{Affiliation}#=%=#Uppsala University
+Author{3}{Firstname}#=%=#Jörg
+Author{3}{Lastname}#=%=#Tiedemann
+Author{3}{Email}#=%=#jorg.tiedemann@lingfil.uu.se
+Author{3}{Affiliation}#=%=#Uppsala University
+
+==========

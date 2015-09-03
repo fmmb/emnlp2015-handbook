@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#477
+FinalPaperTitle#=%=#Detecting Content-Heavy Sentences: A Cross-Language Case Study
+ShortPaperTitle#=%=#Detecting Content-Heavy Sentences: A Cross-Language Case Study
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Junyi Jessy Li
+JobTitle#==#
+Organization#==#Department of Computer and Information Science
+University of Pennsylvania
+3330 Walnut St
+Philadelphia, PA 19104
+Abstract#==#The information conveyed by some sentences would be more easily understood by a
+reader if it were expressed in multiple sentences. We call such sentences
+content heavy: these are possibly grammatical but difficult to comprehend,
+cumbersome sentences. In this paper we introduce the task of detecting
+content-heavy sentences in cross-lingual context. Specifically we develop
+methods to identify sentences in Chinese for which English speakers would
+prefer translations consisting of more than one sentence.  We base our analysis
+and definitions on evidence from multiple human translations and reader
+preferences on flow and understandability. We show that machine translation
+quality when translating content heavy sentences is markedly worse than overall
+quality and that this type of sentence are fairly common in Chinese news. We
+demonstrate that sentence length and  punctuation usage in Chinese are not
+sufficient clues for accurately detecting heavy sentences and present a richer
+classification model that accurately identifies these sentences.
+Author{1}{Firstname}#=%=#Junyi Jessy
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#ljunyi@seas.upenn.edu
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#Ani
+Author{2}{Lastname}#=%=#Nenkova
+Author{2}{Email}#=%=#nenkova@seas.upenn.edu
+Author{2}{Affiliation}#=%=#University of Pennsylvania
+
+==========

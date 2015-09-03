@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#32
+FinalPaperTitle#=%=#Redundancy in French Electronic Health Records: A preliminary study
+ShortPaperTitle#=%=#Redundancy in French Electronic Health Records: A preliminary study
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Eva D'hondt
+JobTitle#==#
+Organization#==#Laboratoire d'Informatique pour la Mécanique et les Sciences de l'Ingénieur
+Rue John Von Neumann, 91400 Orsay
+Abstract#==#The use of Electronic Health Records (EHRs) is becoming more prevalent in
+healthcare institutions world-wide. These digital records contain a wealth of
+information on patients' health in the form of Natural Language text. The
+electronic format of the clinical notes has evident advantages in terms of
+storage and shareability, but also makes it easy to duplicate information from
+one document to another through copy-pasting. Previous studies have shown that
+(copy-paste-induced) redundancy can reach high levels in American EHRs, and
+that these high levels of redundancy have a negative effect on the performance
+of Natural Language Processing (NLP) tools that are used to process EHRs
+automatically. In this paper, we present a preliminary study on the level of
+redundancy in French EHRs. We study the evolution of redundancy over time, and
+its occurrence in respect to different document types and sections in a small
+corpus comprising of three patient records (361 documents). We find that
+average redundancy levels in our subset are lower than those observed in U.S.
+corpora (respectively 33\% vs. up to 78\%), which may indicate different
+cultural practices between these two countries. Moreover, we find no evidence
+of the incremental increase (over time) of redundant text in clinical notes
+which has been found in American EHRs. These results suggest that redundancy
+mitigating strategies may not be needed when processing French EHRs.
+Author{1}{Firstname}#=%=#Eva
+Author{1}{Lastname}#=%=#D'hondt
+Author{1}{Email}#=%=#eva.dhondt@limsi.fr
+Author{1}{Affiliation}#=%=#LIMSI-CNRS
+Author{2}{Firstname}#=%=#Xavier
+Author{2}{Lastname}#=%=#Tannier
+Author{2}{Email}#=%=#xtannier@limsi.fr
+Author{2}{Affiliation}#=%=#LIMSI-CNRS, Univ. Paris-Sud
+Author{3}{Firstname}#=%=#Aurélie
+Author{3}{Lastname}#=%=#Névéol
+Author{3}{Email}#=%=#neveol@limsi.fr
+Author{3}{Affiliation}#=%=#LIMSI-CNRS
+
+==========

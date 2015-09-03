@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Alignment-based sense selection in METEOR and the RATATOUILLE recipe
+ShortPaperTitle#=%=#Alignment-based sense selection in METEOR and the RATATOUILLE recipe
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Marianna Apidianaki
+JobTitle#==#
+Organization#==#LIMSI-CNRS
+rue John von Neumann
+Campus Universitaire d'Orsay, Bât 508 
+91405 ORSAY CEDEX
+FRANCE
+Abstract#==#This paper describes Meteor-WSD and RATATOUILLE, the LIMSI submissions to the
+WMT15 metrics shared task. Meteor-WSD extends synonym mapping to languages
+other than English based on alignments and gives credit to semantically
+adequate translations in context. We show that context-sensitive synonym
+selection increases the correlation of the Meteor metric with human judgments
+of translation quality on the WMT14 data. RATATOUILLE combines Meteor-WSD with
+nine other metrics for evaluation and outperforms the best metric (BEER)
+involved in its computation.
+Author{1}{Firstname}#=%=#Benjamin
+Author{1}{Lastname}#=%=#Marie
+Author{1}{Email}#=%=#benjamin.marie@limsi.fr
+Author{1}{Affiliation}#=%=#LIMSI-CNRS
+Author{2}{Firstname}#=%=#Marianna
+Author{2}{Lastname}#=%=#Apidianaki
+Author{2}{Email}#=%=#marianna.apidianaki@limsi.fr
+Author{2}{Affiliation}#=%=#LIMSI-CNRS
+
+==========

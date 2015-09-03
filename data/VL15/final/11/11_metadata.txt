@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Image Representations and New Domains in Neural Image Captioning
+ShortPaperTitle#=%=#Image Representations and New Domains in Neural Image Captioning
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jack Hessel
+JobTitle#==#
+Organization#==#Cornell Univeristy
+107 Hoy Road
+Ithaca NY 14853
+USA
+Abstract#==#We examine the possibility that recent
+promising results in automatic caption
+generation are due primarily to language
+models. By varying image representation
+quality produced by a convolutional neural
+network, we find that a state-of-the-
+art neural captioning algorithm is able to
+produce quality captions even when provided
+with surprisingly poor image representations.
+We replicate this result in
+a new, fine-grained, transfer learned captioning
+domain, consisting of 66K recipe
+image/title pairs. We also provide some
+experiments regarding the appropriateness
+of datasets for automatic captioning, and
+find that having multiple captions per image
+is beneficial, but not an absolute requirement.
+Author{1}{Firstname}#=%=#Jack
+Author{1}{Lastname}#=%=#Hessel
+Author{1}{Email}#=%=#jhessel@cs.cornell.edu
+Author{1}{Affiliation}#=%=#cornell.edu
+Author{2}{Firstname}#=%=#Nicolas
+Author{2}{Lastname}#=%=#Savva
+Author{2}{Email}#=%=#nss45@cornell.edu
+Author{2}{Affiliation}#=%=#Cornell University
+Author{3}{Firstname}#=%=#Michael
+Author{3}{Lastname}#=%=#Wilber
+Author{3}{Email}#=%=#mwilber@mjwilber.org
+Author{3}{Affiliation}#=%=#Cornell Tech
+
+==========

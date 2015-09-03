@@ -1,0 +1,51 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#Crosslingual Annotation and Analysis of Implicit Discourse Connectives for Machine Translation
+ShortPaperTitle#=%=#Crosslingual Annotation and Analysis of Implicit Discourse Connectives for Machine Translation
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Frances Yung
+JobTitle#==#
+Organization#==#Nara Institute of Science and Technology
+8916-5 Takayama, Ikoma, Nara, Japan 6300101
+Abstract#==#Usage of discourse connectives (DCs) differs
+across languages, thus addition and
+omission of connectives are common in
+translation. We investigate how implicit
+(omitted) DCs in the source text impacts
+various machine translation (MT) systems,
+and whether a discourse parser is needed
+as a preprocessor to explicitate implicit
+DCs. Based on the manual annotation and
+alignment of 7266 pairs of discourse relations
+in a Chinese-English translation corpus,
+we evaluate whether a preprocessing
+step that inserts explicit DCs at positions
+of implicit relations can improve MT.
+Results show that, without modifying the
+translation model, explicitating implicit
+relations in the input source text has limited
+effect on MT evaluation scores. In addition,
+translation spotting analysis shows
+that it is crucial to identify DCs that should
+be explicitly translated in order to improve
+implicit-to-explicit DC translation.
+On the other hand, further analysis reveals
+that the disambiguation as well as explicitation
+of implicit relations are subject to
+a certain level of optionality, suggesting
+the limitation to learn and evaluate this linguistic
+phenomenon using standard parallel
+corpora.
+Author{1}{Firstname}#=%=#Frances
+Author{1}{Lastname}#=%=#Yung
+Author{1}{Email}#=%=#pikyufrances-y@is.naist.jp
+Author{1}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{2}{Firstname}#=%=#Kevin
+Author{2}{Lastname}#=%=#Duh
+Author{2}{Email}#=%=#kevinduh@is.naist.jp
+Author{2}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{3}{Firstname}#=%=#Yuji
+Author{3}{Lastname}#=%=#Matsumoto
+Author{3}{Email}#=%=#matsu@is.naist.jp
+Author{3}{Affiliation}#=%=#Nara Institute of Science and Technology
+
+==========

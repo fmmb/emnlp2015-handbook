@@ -1,0 +1,438 @@
+Hide Paper (yes/no/sched/proc)	Day Date	Ses Title	Ses Code	Ses Time	Ses End Time	Ses Room	Ses Chair	Ses Chair Aff	Ses CoChair	Ses CoChair Aff	Pap ID	Pap Title (IGNORED)	Pap Track (IGNORED)	Pap Status (IGNORED)	Pap Presenter	Pap Time	Pap End Time	Pap Subcode	Pap Flag	Gen Title	Gen Presenter	Gen Time	Gen End Time	Gen Subcode
+no	Friday, September 18, 2015																							
+no																				Welcome Reception (at Culturgest)		18:30	22:00	
+no	Saturday, September 19, 2015																							
+																				Registration		07:30	18:00	
+		Plenary Session		08:40	10:00	Main Auditorium																		
+no																				Opening Remarks and Introductory Speeches	Multiple Speakers	08:40	09:00	
+no																				Deep Learning of Semantic Representations	Yoshua Bengio %u http://www.emnlp2015.org/invited-speakers.html#i1	09:00	10:00	Invited talk
+no																				Coffee break		10:00	10:30	
+no		Semantics 1 (Long + TACL Papers)	1A	10:30	12:10	Main Auditorium																		
+no											303					10:30	10:55							
+no											480					10:55	11:20							
+no											504					11:20	11:45							
+no																				%ext tacl-final:13	%u https://aclweb.org/anthology/Q/Q15/Q15-1027.pdf	11:45	12:10	[TACL]
+no		Machine Translation 1 (Long + TACL Papers)	1B	10:30	12:10	Small Auditorium																		
+no											444					10:30	10:55							
+no											501					10:55	11:20							
+no											630					11:20	11:45							
+no																				%ext tacl-final:3	%u https://aclweb.org/anthology/Q/Q15/Q15-1013.pdf	11:45	12:10	[TACL]
+no		NLP for Web and Social Media, including Computational Social Science (Long Papers)	1C	10:30	12:10	Room 1																		
+no											215					10:30	10:55							
+no											312					10:55	11:20							
+no											538					11:20	11:45							
+no											694					11:45	12:10							
+no		Long Paper Posters 1	1D	10:30	12:10	Lower Level Foyer																		
+no																				Long Paper Cluster 1: Summarization (P1-4)	Poster Presenters	10:30	12:10	
+no											44													
+no											234													
+no											263													
+no											603													
+no																				Long Paper Cluster 2: Language and Vision (P5)	Poster Presenters	10:30	12:10	
+no											256													
+no																				Long Paper Cluster 3: Sentiment Analysis and Opinion Mining (P6-9)	Poster Presenters	10:30	12:10	
+no											89													
+no											152													
+no											617													
+no											646													
+no		Short Paper Posters 1	1E	10:30	12:10	Lower Level Foyer																		
+																				Short Paper Cluster 1: Language and Vision (P1-3)	Poster Presenters	10:30	12:10	
+no											912													
+no											1268													
+no											1300													
+																				Short Paper Cluster 2: Statistical Models and Machine Learning Methods for NLP (P4-16)	Poster Presenters	10:30	12:10	
+no											751													
+no											762													
+no											1048													
+no											1106													
+no											1125													
+no											1236													
+no											1246													
+no											1264													
+no											1342													
+no											1369													
+no											1381													
+no											1385													
+no											1457													
+no																				Lunch		12:10	13:30	
+no		Statistical Modeling and Machine Learning 1 (Long + TACL Papers)	2A	13:30	15:10	Main Auditorium																		
+no											458					13:30	13:55							
+no											473					13:55	14:20							
+no											632					14:20	14:45							
+no																				%ext tacl-final:10	%u https://aclweb.org/anthology/Q/Q15/Q15-1022.pdf	14:45	15:10	[TACL]
+no		Tagging, Chunking and Parsing 1 (Long +TACL Papers)	2B	13:30	15:10	Small Auditorium																		
+no											54					13:30	13:55							
+no											162					13:55	14:20							
+no											524					14:20	14:45							
+no																				%ext tacl-final:16	%u https://aclweb.org/anthology/Q/Q15/Q15-1035.pdf	14:45	15:10	[TACL]
+no		Summarization (Long Papers)	2C	13:30	15:10	Room 1																		
+no											178					13:30	13:55							
+no											236					13:55	14:20							
+no											345					14:20	14:45							
+no											616					14:45	15:10							
+no		Long Paper Posters 2	2D	13:30	15:10	Lower Level Foyer																		
+																				Long Paper Cluster 1: Text Mining and NLP Applications (P1-9)	Poster Presenters	13:30	15:10	
+no											102													
+no											259													
+no											432													
+no											445													
+no											475													
+no											507													
+no											544													
+no											608													
+no											614													
+no		Short Paper Posters 2	2E	13:30	15:10	Lower Level Foyer																		
+																				Short Paper Cluster 1: Information Extraction (P1-11)	Poster Presenters	13:30	15:10	
+no											821													
+no											902													
+no											995													
+no											1089													
+no											1183													
+no											1190													
+no											1267													
+no											1353													
+no											1383													
+no											1440													
+no											1464													
+																				Short Paper Cluster 2: Information Retrieval and Question Answering (P12-16)	Poster Presenters	13:30	15:10	
+no											887													
+no											933													
+no											1249													
+no											1261													
+no											1389													
+no																				Coffee break		15:10	15:40	
+no		Sentiment Analysis and Opinion Mining 1 (Long Papers)	3A	15:40	17:20	Main Auditorium																		
+no											73					15:40	16:05							
+no											269					16:05	16:30							
+no											602					16:30	16:55							
+no											697					16:55	17:20							
+no		Semantics 2 (Long +TACL Papers)	3B	15:40	17:20	Small Auditorium																		
+no											536					15:40	16:05							
+no											635					16:05	16:30							
+no																				%ext tacl-final:1	%u https://aclweb.org/anthology/Q/Q14/Q14-1035.pdf	16:30	16:55	[TACL]
+no																				%ext tacl-final:18	%u https://aclweb.org/anthology/Q/Q15/Q15-1034.pdf	16:55	17:20	[TACL]
+no		Information Retrieval and Question Answering (Long Papers)	3C	15:40	17:20	Room 1																		
+no											64					15:40	16:05							
+no											150					16:05	16:30							
+no											350					16:30	16:55							
+no											582					16:55	17:20							
+no		Long + TACL Paper Posters 3	3D	15:40	17:20	Lower Level Foyer																		
+																				Long + TACL Paper Cluster 1: Information Extraction (P1-9)	Poster Presenters	15:40	17:20	
+no											221													
+no											232													
+no											385													
+no											453													
+no											474													
+no											526													
+no											708													
+no																				%ext tacl-final:6	%u https://aclweb.org/anthology/Q/Q15/Q15-1002.pdf			[TACL]
+no																				%ext tacl-final:8	%u https://aclweb.org/anthology/Q/Q15/Q15-1018.pdf			[TACL]
+no		Short Paper Posters 3	3E	15:40	17:20	Lower Level Foyer																		
+																				Short Papaer Cluster 1: Text Mining and NLP Applications (P1-13)	Poster Presenters	15:40	17:20	
+											1393													
+											785													
+											850													
+											774													
+											1062													
+											1016													
+											1120													
+											1245													
+											1156													
+											1192													
+											1336													
+											776													
+											777													
+no	Sunday, September 20, 2015																							
+																				Registration		07:30	18:00	
+		Plenary Session		09:00	10:00	Main Auditorium																		
+no																				Measuring How Elected Officials and Constituents Communicate	Justin Grimmer %u http://www.emnlp2015.org/invited-speakers.html#i2	09:00	10:00	Invited talk
+no																				Coffee break		10:00	10:30	
+no		Information Extraction 1 (Long Papers)	4A	10:30	12:10	Main Auditorium																		
+no											80					10:30	10:55							
+no											352					10:55	11:20							
+no											595					11:20	11:45							
+no											707					11:45	12:10							
+no		Statistical Modeling and Machine Learning 2 (Long Papers)	4B	10:30	12:10	Small Auditorium																		
+no											119					10:30	10:55							
+no											456					10:55	11:20							
+no											547					11:20	11:45							
+no											676					11:45	12:10							
+no		Discourse (Long +TACL Papers)	4C	10:30	12:10	Room 1																		
+no											417					10:30	10:55							
+no											568					10:55	11:20							
+no																				%ext tacl-final:4	%u https://aclweb.org/anthology/Q/Q15/Q15-1024.pdf	11:20	11:45	[TACL]
+no																				%ext tacl-final:12	%u https://aclweb.org/anthology/Q/Q15/Q15-1029.pdf	11:45	12:10	[TACL]
+no		Long Paper Posters 4	4D	10:30	12:10	Lower Level Foyer																		
+																				Long Paper Cluster 1: Semantics (P1-9)	Poster Presenters	10:30	12:10	
+no											318													
+no											455													
+no											520													
+no											559													
+no											597													
+no											606													
+no											662													
+no											653													
+no											654													
+no		Short Paper Posters 4	4E	10:30	12:10	Lower Level Foyer																		
+																				Short Paper Cluster 1: Machine Translation and Multilinguality (P1-13)	Poster Presenters	10:30	12:10	
+no											804													
+no											950													
+no											1058													
+no											1061													
+no											1078													
+no											1127													
+no											1222													
+no											1235													
+no											1275													
+no											1359													
+no											1451													
+no											1455													
+no											1470													
+																				Short Paper Cluster 2: Computational Psycholinguistics (P14-16)	Poster Presenters	10:30	12:10	
+no											1274													
+no											1314													
+no											1323													
+no																				Lunch		12:10	12:50	
+		Plenary Session		12:50	13:30	Main Auditorium																		
+no																				SIGDAT business meeting	Multiple Speakers	12:50	13:30	
+no		Text Mining and NLP Applications 1 (Long + TACL Papers)	5A	13:30	15:10	Main Auditorium																		
+no																				%ext tacl-final:14	%u https://aclweb.org/anthology/Q/Q15/Q15-1030.pdf	13:30	13:55	[TACL]
+no											658					13:55	14:20							
+no																				%ext tacl-final:2	%u https://aclweb.org/anthology/Q/Q15/Q15-1006.pdf	14:20	14:45	[TACL]
+no																				%ext tacl-final:7	%u https://aclweb.org/anthology/Q/Q15/Q15-1021.pdf	14:45	15:10	[TACL]
+no		Semantics 3 (Long +TACL Papers)	5B	13:30	15:10	Small Auditorium																		
+no											222					13:30	13:55							
+no											564					13:55	14:20							
+no											615					14:20	14:45							
+no																				%ext tacl-final:17	%u https://aclweb.org/anthology/Q/Q15/Q15-1032.pdf	14:45	15:10	[TACL]
+no		Phonology and Segmentation (Long Papers)	5C	13:30	15:10	Room 1																		
+no											164					13:30	13:55							
+no											336					13:55	14:20							
+no											470					14:20	14:45							
+no											681					14:45	15:10							
+no		Long Paper Posters 5	5D	13:30	15:10	Lower Level Foyer																		
+																				Long Paper Cluster 1: Machine Translation and Multilinguality (P1-9)	Poster Presenters	13:30	15:10	
+no											328													
+no											354													
+no											381													
+no											383													
+no											405													
+no											477													
+no											638													
+no											663													
+no											685													
+no		Short Paper Posters 5	5E	13:30	15:10	Lower Level Foyer																		
+																				Short Paper Cluster 1: Tagging, Chunking, Sytnax and Parsing (P1-12)	Poster Presenters	13:30	15:10	
+no											794													
+no											837													
+no											839													
+no											895													
+no											968													
+no											1001													
+no											1238													
+no											1241													
+no											1301													
+no											1316													
+no											1368													
+no											1433													
+no																				Coffee break		15:10	15:40	
+no		Machine Translation 2 (Long Papers)	6A	15:40	17:20	Main Auditorium																		
+no											216					15:40	16:05							
+no											250					16:05	16:30							
+no											438					16:30	16:55							
+no											672					16:55	17:20							
+no		Sentiment Analysis and Opinion Mining 2 / Tagging, Chunking and Parsing 2 (Long Papers)	6B	15:40	17:20	Small Auditorium																		
+no											11					15:40	16:05							
+no											651					16:05	16:30							
+no											465					16:30	16:55							
+no											636					16:55	17:20							
+no		Language and Vision / Information Extraction 2 (Long Papers)	6C	15:40	17:20	Room 1																		
+no											349					15:40	16:05							
+no											494					16:05	16:30							
+no											138					16:30	16:55							
+no											674					16:55	17:20							
+no		Long Paper Posters 6	6D	15:40	17:20	Lower Level Foyer																		
+																				Long Paper Cluster 1: Statistical Models and Machine Learning Methods for NLP (P1-11)	Poster Presenters	15:40	17:20	
+no											223													
+no											261													
+no											72													
+no											414													
+no											508													
+no											509													
+no											570													
+no											626													
+no											684													
+no											715													
+no											717													
+no		Short Paper Posters 6	6E	15:40	17:20	Lower Level Foyer																		
+																				Short Paper Cluster 1: Semantics (P1-12)	Poster Presenters	15:40	17:20	
+no											827													
+no											865													
+no											872													
+no											920													
+no											921													
+no											926													
+no											945													
+no											1152													
+no											1184													
+no											1191													
+no											1304													
+no											1333													
+no											1394													
+no																				Conference Dinner (at Pateo Alfacinha)		19:00	23:00	
+no	Monday, September 21, 2015																							
+																				Registration		07:30	18:00	
+		Plenary Session		09:00	10:00	Main Auditorium																		
+no																				Best Paper Awards	Chris Callison-Burch and Jian Su	09:00	09:05	
+											662					09:05	09:30							
+											72					09:30	09:55							
+											536					09:55	10:05							
+no																				Coffee break		10:05	10:30	
+no		Semantics 4 (Long +TACL Papers)	7A	10:30	12:10	Main Auditorium																		
+no											262					10:30	10:55							
+no											491					10:55	11:20							
+no											667					11:20	11:45							
+no																				%ext tacl-final:9	%u https://aclweb.org/anthology/Q/Q15/Q15-1025.pdf	11:45	12:10	[TACL]
+no		Information Extraction 3 (Long Papers)	7B	10:30	12:10	Small Auditorium																		
+no											165					10:30	10:55							
+no											195					10:55	11:20							
+no											553					11:20	11:45							
+no											579					11:45	12:10							
+no		Computational Phonolinguistics / Machine Translation 3 (Long Papers)	7C	10:30	12:10	Room 1																		
+no											488					10:30	10:55							
+no											539					10:55	11:20							
+no											121					11:20	11:45							
+no											565					11:45	12:10							
+no		Long +TACL Paper Posters 7	7D	10:30	12:10	Lower Level Foyer																		
+																				Long Paper Cluster 1: Phonology and Segmentation (P1)	Poster Presenters	10:30	12:10	
+no											316													
+																				Long + TACL Paper Cluster 2: Tagging, Chunking, Syntax and Parsing (P2-6)	Poster Presenters	10:30	12:10	
+no											247													
+no											406													
+no											442													
+no											472													
+no																				%ext tacl-final:15	%u https://aclweb.org/anthology/Q/Q15/Q15-1026.pdf			[TACL]
+no		Short Paper Posters 7	7E	10:30	12:10	Lower Level Foyer																		
+																				Short Paper Cluster 1: Spoken Language Processing (P1-3)	Poster Presenters	10:30	12:10	
+no											908													
+no											1032													
+no											1211													
+																				Short Paper Cluster 1: Summarization (P4-18)	Poster Presenters	10:30	12:10	
+no											806													
+no											812													
+no											941													
+no											952													
+no											1051													
+no											1060													
+no											1066													
+no											1081													
+no											1104													
+no											1133													
+no											1134													
+no											1161													
+no											1189													
+no											1203													
+no											1251													
+no																				Lunch		12:10	13:30	
+no		Fun and Quirky Topics (Short Papers)	8A	13:30	15:15	Main Auditorium																		
+no											838					13:30	13:45							
+no											760					13:45	14:00							
+no											853					14:00	14:15							
+no											1302					14:15	14:30							
+no											873					14:30	14:45							
+no											1352					14:45	15:00							
+no											1109					15:00	15:15							
+no		Semantics 5 (Short Papers)	8B	13:30	15:15	Small Auditorium																		
+no											835					13:30	13:45							
+no											789					13:45	14:00							
+no											858					14:00	14:15							
+no											1145					14:15	14:30							
+no											1231					14:30	14:45							
+no											1327					14:45	15:00							
+no											1422					15:00	15:15							
+no		Statistical Modeling, Machine Learning and Machine Translation (Short Papers)	8C	13:30	15:15	Room 1																		
+no											1311					13:30	13:45							
+no											755					13:45	14:00							
+no											1233					14:00	14:15							
+no											1295					14:15	14:30							
+no											744					14:30	14:45							
+no											960					14:45	15:00							
+no											1294					15:00	15:15							
+no		Long Paper Posters 8	8D	13:30	15:15	Lower Level Foyer																		
+no																				Long Paper Cluster 1: NLP for Web and Social Media, including Computational Social Science (P1-6)	Poster Presenters	13:30	15:15	
+no											228													
+no											249													
+no											459													
+no											481													
+no											598													
+no											621													
+no																				Long Paper Cluster 2: Discourse (P7-9)	Poster Presenters	13:30	15:15	
+no											363													
+no											587													
+no											677													
+no		Short Paper Posters 8	8E	13:30	15:15	Lower Level Foyer																		
+																				Short Paper Cluster 1: Discourse (P1-9)	Poster Presenters	13:30	15:15	
+no											276													
+no											748													
+no											799													
+no											880													
+no											1041													
+no											1044													
+no											1056													
+no											1091													
+no											1115													
+																				Short Paper Closter 2: Phonology and Segmentation (P10-15)	Poster Presenters	13:30	15:15	
+no											815													
+no											816													
+no											894													
+no											988													
+no											1391													
+no											1460													
+no																				Coffee break		15:15	15:40	
+no		Statistical Modeling and Machine Learning 3 (Long + TACL Papers)	9A	15:40	17:20	Main Auditorium																		
+no											60					15:40	16:05							
+no											323					16:05	16:30							
+no											588					16:30	16:55							
+no																				%ext tacl-final:11	%u https://aclweb.org/anthology/Q/Q15/Q15-1033.pdf	16:55	17:20	[TACL]
+no		Text Mining and NLP Applications 2 (Long Papers)	9B	15:40	17:20	Small Auditorium																		
+no											147					15:40	16:05							
+no											454					16:05	16:30							
+no											660					16:30	16:55							
+no											315					16:55	17:20							
+no		Spoken Language Processing and Language Modeling (Long + TACL Papers)	9C	15:40	17:20	Room 1																		
+no											258					15:40	16:05							
+no											580					16:05	16:30							
+no											382					16:55	17:20							
+no		Long Paper Posters 9	9D	15:40	17:20	Lower Level Foyer																		
+																				Long Paper Cluster 1: Semantics (P1-8)	Poster Presenters	15:40	17:20	
+no											105													
+no											109													
+no											116													
+no											181													
+no											185													
+no											204													
+no											243													
+no											308													
+no		Short Paper Posters 9	9E	15:40	17:20	Lower Level Foyer																		
+																				Short Paper Cluster 1: Sentiment Analysis and Opinion Mining (P1-9)	Poster Presenters	15:40	17:20	
+no											772													
+no											796													
+no											832													
+no											1040													
+no											1065													
+no											1090													
+no											1313													
+no											1331													
+no											1387													
+																				Short Paper Cluster 2: NLP for Web and Social Media, including Computational Social Science (P10-17)	Poster Presenters	15:40	17:20	
+no											943													
+no											983													
+no											994													
+no											1139													
+no											1149													
+no											1188													
+no											1361													
+		Plenary Session		17:30	17:50	Main Auditorium																		
+no																				Closing Remarks	Multiple Speakers	17:30	17:50	
+																								
+																				Farewell (at Culturgest)		18:30	21:00	

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#Tuning Phrase-Based Segmented Translation for a Morphologically Complex Target Language
+ShortPaperTitle#=%=#Tuning Phrase-Based Segmented Translation for a Morphologically Complex Target Language
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Stig-Arne Grönroos
+JobTitle#==#
+Organization#==#Aalto University
+PL 11000, 00076 AALTO
+FINLAND
+Abstract#==#This article describes the Aalto University entry to the English-to-Finnish
+shared translation task in WMT 2015. The system participates in the constrained
+condition, but in addition we impose some further constraints, using no
+language-specific resources beyond those provided in the task. We use a
+morphological segmenter, Morfessor FlatCat, but train and tune it in an
+unsupervised manner. The system could thus be used for another language pair
+with a morphologically complex target language, without needing modification or
+additional resources.
+Author{1}{Firstname}#=%=#Stig-Arne
+Author{1}{Lastname}#=%=#Grönroos
+Author{1}{Email}#=%=#stig-arne.gronroos@aalto.fi
+Author{1}{Affiliation}#=%=#Aalto University, Department of Signal Processing and Acoustics
+Author{2}{Firstname}#=%=#Sami
+Author{2}{Lastname}#=%=#Virpioja
+Author{2}{Email}#=%=#sami.virpioja@aalto.fi
+Author{2}{Affiliation}#=%=#Aalto University
+Author{3}{Firstname}#=%=#Mikko
+Author{3}{Lastname}#=%=#Kurimo
+Author{3}{Email}#=%=#mikko.kurimo@tkk.fi
+Author{3}{Affiliation}#=%=#Aalto University
+
+==========

@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#1331
+FinalPaperTitle#=%=#SLSA: A Sentiment Lexicon for Standard Arabic
+ShortPaperTitle#=%=#SLSA: A Sentiment Lexicon for Standard Arabic
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ramy Eskander
+JobTitle#==#
+Organization#==#Columbia University
+Abstract#==#Sentiment analysis has been a major area of interest, for which the existence
+of high-quality resources is crucial. In Arabic, there is a reasonable number
+of sentiment lexicons but with major deficiencies. The paper presents a
+large-scale Standard Arabic Sentiment Lexicon (SLSA) that is publicly available
+for free and avoids the deficiencies in the current resources. SLSA has the
+highest up-to-date reported coverage. The construction of SLSA is based on
+linking the lexicon of AraMorph with SentiWordNet along with a few heuristics
+and powerful back-off. SLSA shows a relative improvement of 37.8% over a
+state-of-the-art lexicon when tested for accuracy. It also outperforms it by an
+absolute 3.5% of F1-score when tested for sentiment analysis.
+Author{1}{Firstname}#=%=#Ramy
+Author{1}{Lastname}#=%=#Eskander
+Author{1}{Email}#=%=#rnd2110@columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Owen
+Author{2}{Lastname}#=%=#Rambow
+Author{2}{Email}#=%=#rambow@ccls.columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University
+
+==========

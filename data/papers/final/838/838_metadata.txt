@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#838
+FinalPaperTitle#=%=#A quantitative analysis of gender differences in movies using psycholinguistic normatives
+ShortPaperTitle#=%=#A quantitative analysis of gender differences in movies using psycholinguistic normatives
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Anil Ramakrishna
+JobTitle#==#
+Organization#==#University of Southern California, Los Angeles, CA, USA.
+Abstract#==#Direct content analysis reveals important
+details about movies including those of
+gender representations and potential biases.
+We investigate the differences between
+male and female character depictions
+in movies, based on patterns of language
+used. Specifically, we use an automatically
+generated lexicon of linguistic
+norms characterizing gender ladenness.
+We use multivariate analysis to investigate
+gender depictions and correlate them with
+elements of movie production. The proposed
+metric differentiates between male
+and female utterances and exhibits some
+interesting interactions with movie genres
+and the screenplay writer gender.
+Author{1}{Firstname}#=%=#Anil
+Author{1}{Lastname}#=%=#Ramakrishna
+Author{1}{Email}#=%=#akramakr@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Nikolaos
+Author{2}{Lastname}#=%=#Malandrakis
+Author{2}{Email}#=%=#malandra@usc.edu
+Author{2}{Affiliation}#=%=#Signal Analysis and Interpretation Laboratory (SAIL), USC, Los Angeles, CA 90089, USA
+Author{3}{Firstname}#=%=#Elizabeth
+Author{3}{Lastname}#=%=#Staruk
+Author{3}{Email}#=%=#staruk@usc.edu
+Author{3}{Affiliation}#=%=#University of Southern California
+Author{4}{Firstname}#=%=#Shrikanth
+Author{4}{Lastname}#=%=#Narayanan
+Author{4}{Email}#=%=#shri@sipi.usc.edu
+Author{4}{Affiliation}#=%=#University of Southern California
+
+==========

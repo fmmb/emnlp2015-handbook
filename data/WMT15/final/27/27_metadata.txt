@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#CASICT-DCU Participation in WMT2015 Metrics Task
+ShortPaperTitle#=%=#CASICT-DCU Participation in WMT2015 Metrics Task
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Hui Yu
+JobTitle#==#
+Organization#==#Institute of Computing Technology, Chinese Academy of Sciences  
+No.6 Kexueyuan South Road Zhongguancun,Haidian District Beijing,China
+Abstract#==#Human-designed sub-structures are required by most of the syntax-based machine
+translation evaluation metrics. In this paper, we propose a novel evaluation
+metric based on dependency parsing model, which does not need this human
+involvement. Experimental results show that the new single metric gets better
+correlation than METEOR on system level and is comparable with it on sentence
+level. To introduce more information, we combine the new metric with many other
+metrics. The combined metric obtains state-of-the- art performance on both
+system level evaluation and sentence level evaluation on WMT 2014.
+Author{1}{Firstname}#=%=#Hui
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Email}#=%=#yuhui@ict.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Computing Technology, CAS
+Author{2}{Firstname}#=%=#Qingsong
+Author{2}{Lastname}#=%=#Ma
+Author{2}{Email}#=%=#maqingsong@ict.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Computing Technology, CAS
+Author{3}{Firstname}#=%=#Xiaofeng
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Email}#=%=#xiaofeng.wu11@gmail.com
+Author{3}{Affiliation}#=%=#CNGL, School of Computing, Dublin City University
+Author{4}{Firstname}#=%=#Qun
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Email}#=%=#qliu@computing.dcu.ie
+Author{4}{Affiliation}#=%=#Dublin City University
+
+==========

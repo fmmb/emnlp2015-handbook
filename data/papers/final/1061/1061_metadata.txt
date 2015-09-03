@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1061
+FinalPaperTitle#=%=#System Combination for Machine Translation through Paraphrasing
+ShortPaperTitle#=%=#System Combination for Machine Translation through Paraphrasing
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Wei-Yun Ma
+JobTitle#==#
+Organization#==#Institute of Information science, Academia Sinica,
+Taipei 115, Taiwan
+Abstract#==#In this paper, we propose a paraphrasing model to address the task of system
+combination for machine translation. We dynamically learn hierarchical
+paraphrases from target hypotheses and form a synchronous context-free grammar
+to guide a series of transformations of target hypotheses into fused
+translations. The model is able to exploit phrasal and structural
+system-weighted consensus and also to utilize existing information about word
+ordering present in the target hypotheses. In addition, to consider a diverse
+set of plausible fused translations, we develop a hybrid combination
+architecture, where we paraphrase every target hypothesis using different
+fusing techniques to obtain fused translations for each target, and then make
+the final selection among all fused translations. Our experimental results show
+that our approach can achieve a significant improvement over combination
+baselines.
+Author{1}{Firstname}#=%=#Wei-Yun
+Author{1}{Lastname}#=%=#Ma
+Author{1}{Email}#=%=#ma@iis.sinica.edu.tw
+Author{1}{Affiliation}#=%=#Institute of Information Science, Academia Sinica
+Author{2}{Firstname}#=%=#Kathleen
+Author{2}{Lastname}#=%=#McKeown
+Author{2}{Email}#=%=#kathy@cs.columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University
+
+==========

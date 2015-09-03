@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#887
+FinalPaperTitle#=%=#LDTM: A Latent Document Type Model for Cumulative Citation Recommendation
+ShortPaperTitle#=%=#LDTM: A Latent Document Type Model for CCR
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jingang Wang
+JobTitle#==#
+Organization#==#Jingang Wang
+Beijing Institute of Technology
+No. 5 South Zhongguancun Street, Haidian District, Beijing 100081, P.R.China
+Abstract#==#This paper studies Cumulative Citation Recommendation (CCR) - given an entity
+in Knowledge Bases, how to effectively detect its potential citations from
+volume text streams. Most previous approaches treated all kinds of features
+indifferently to build a global relevance model, in which the prior knowledge
+embedded in documents cannot be exploited adequately. To address this problem,
+we propose a latent document type discriminative model by introducing a latent
+layer to capture the correlations between documents and their underlying types.
+The model can better adjust to different types of documents and yield flexible
+performance when dealing with a broad range of document types. An extensive set
+of experiments has been conducted on TREC-KBA-2013 dataset, and the results
+demonstrate that this model can yield a significant performance gain on
+recommendation quality as compared to the state-of-the-art.
+Author{1}{Firstname}#=%=#Jingang
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#bitwjg@gmail.com
+Author{1}{Affiliation}#=%=#Beijing Institute of Technology
+Author{2}{Firstname}#=%=#Dandan
+Author{2}{Lastname}#=%=#Song
+Author{2}{Email}#=%=#sdd@bit.edu.cn
+Author{2}{Affiliation}#=%=#Beijing Institute of Technology
+Author{3}{Firstname}#=%=#Zhiwei
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#zhan1187@purdue.edu
+Author{3}{Affiliation}#=%=#Purdue University
+Author{4}{Firstname}#=%=#Lejian
+Author{4}{Lastname}#=%=#Liao
+Author{4}{Email}#=%=#liaolj@bit.edu.cn
+Author{4}{Affiliation}#=%=#Beijing Institute of Technology
+Author{5}{Firstname}#=%=#Luo
+Author{5}{Lastname}#=%=#Si
+Author{5}{Email}#=%=#lsi@purdue.edu
+Author{5}{Affiliation}#=%=#Purdue University
+Author{6}{Firstname}#=%=#Chin-Yew
+Author{6}{Lastname}#=%=#Lin
+Author{6}{Email}#=%=#cyl@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft Research
+
+==========

@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#465
+FinalPaperTitle#=%=#Joint A* CCG Parsing and Semantic Role Labelling
+ShortPaperTitle#=%=#Joint A* CCG Parsing and Semantic Role Labelling
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Mike Lewis
+JobTitle#==#
+Organization#==#Computer Science & Engineering University of Washington
+Seattle, WA 98195
+Abstract#==#Joint models of syntactic and semantic parsing have the potential to improve
+performance on both tasks - but to date, the best results have been achieved
+with pipelines. We introduce a joint model using CCG, which is motivated by the
+close link between CCG syntax and semantics. Semantic roles are recovered by
+labelling the deep dependency structures produced by the grammar. Furthermore,
+because CCG is lexicalized, we show it is possible to factor the parsing model
+over words and introduce a new A* parsing algorithm - which we demonstrate is
+faster and more accurate than adaptive supertagging. Our joint model is the
+first to substantially improve both syntactic and semantic accuracy over a
+comparable pipeline, and also achieves state-of-the-art results for a
+non-ensemble semantic role labelling model.
+Author{1}{Firstname}#=%=#Mike
+Author{1}{Lastname}#=%=#Lewis
+Author{1}{Email}#=%=#mikelewis0@gmail.com
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Luheng
+Author{2}{Lastname}#=%=#He
+Author{2}{Email}#=%=#luheng@uw.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Luke
+Author{3}{Lastname}#=%=#Zettlemoyer
+Author{3}{Email}#=%=#lsz@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

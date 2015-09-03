@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#662
+FinalPaperTitle#=%=#Broad-coverage CCG Semantic Parsing with AMR
+ShortPaperTitle#=%=#Broad-coverage CCG Semantic Parsing with AMR
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Yoav Artzi
+JobTitle#==#
+Organization#==#Cornell Tech
+111 8th Ave #302
+New York, NY 10011
+Abstract#==#We propose a grammar induction technique for AMR semantic parsing. While
+previous grammar induction techniques were designed to re-learn a new parser
+for each target application, the recently annotated AMR Bank provides a unique
+opportunity to induce a single model for understanding broad-coverage newswire
+text and support a wide range of applications. We present a new model that
+combines CCG parsing to recover compositional aspects of meaning and a factor
+graph to model non-compositional phenomena, such as anaphoric dependencies. Our
+approach achieves 66.2 Smatch F1 score on the AMR bank, significantly
+outperforming the previous state of the art.
+Author{1}{Firstname}#=%=#Yoav
+Author{1}{Lastname}#=%=#Artzi
+Author{1}{Email}#=%=#yoav@cs.cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#Kenton
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Email}#=%=#kentonl@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Luke
+Author{3}{Lastname}#=%=#Zettlemoyer
+Author{3}{Email}#=%=#lsz@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

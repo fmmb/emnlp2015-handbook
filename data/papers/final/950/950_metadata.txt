@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#950
+FinalPaperTitle#=%=#Touch-Based Pre-Post-Editing of Machine Translation Output
+ShortPaperTitle#=%=#Touch-Based Pre-Post-Editing of Machine Translation Output
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#benjamin marie
+JobTitle#==#student
+Organization#==#LIMSI-CNRS
+Rue John von Neumann 
+Campus Universitaire d'Orsay 
+Bât 508 
+91405 ORSAY CEDEX
+FRANCE
+Abstract#==#We introduce pre-post-editing, possibly the most basic form of interactive
+translation, as a touch-based interaction with iteratively improved translation
+hypotheses prior to classical post-editing. We report simulated experiments
+that yield very large improvements on classical evaluation metrics (up to 21
+BLEU) as well as on a parameterized variant of the TER metric that takes into
+account the cost of matching/touching tokens, confirming the promising
+prospects of the novel translation scenarios offered by our approach.
+Author{1}{Firstname}#=%=#Benjamin
+Author{1}{Lastname}#=%=#Marie
+Author{1}{Email}#=%=#benjamin.marie@limsi.fr
+Author{1}{Affiliation}#=%=#LIMSI-CNRS
+Author{2}{Firstname}#=%=#Aurélien
+Author{2}{Lastname}#=%=#Max
+Author{2}{Email}#=%=#aurelien.max@limsi.fr
+Author{2}{Affiliation}#=%=#LIMSI-CNRS & Univ. Paris Sud
+
+==========

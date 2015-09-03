@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#1451
+FinalPaperTitle#=%=#Rule Selection with Soft Syntactic Features for String-to-Tree Statistical Machine Translation
+ShortPaperTitle#=%=#Rule Selection with Soft Syntactic Features for String-to-Tree Statistical Machine Translation
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Fabienne Braune
+JobTitle#==#
+Organization#==#Ludwig-Maximilians-Universität München
+Abstract#==#In syntax-based machine translation, rule selection is the task of choosing
+the correct target side of a translation rule among rules with the same source
+side.
+We define a discriminative rule selection model for systems that have syntactic
+annotation on the target language side (string-to-tree).
+This is a new and clean way to integrate soft source syntactic constraints into
+string-to-tree systems as features of the rule selection model. 
+We release our implementation as part of Moses.
+Author{1}{Firstname}#=%=#Fabienne
+Author{1}{Lastname}#=%=#Braune
+Author{1}{Email}#=%=#braune.fabienne@gmail.com
+Author{1}{Affiliation}#=%=#University of Stuttgart
+Author{2}{Firstname}#=%=#Nina
+Author{2}{Lastname}#=%=#Seemann
+Author{2}{Email}#=%=#nina.seemann@gmail.com
+Author{2}{Affiliation}#=%=#Universtiy of Stuttgart
+Author{3}{Firstname}#=%=#Alexander
+Author{3}{Lastname}#=%=#Fraser
+Author{3}{Email}#=%=#fraser@cis.uni-muenchen.de
+Author{3}{Affiliation}#=%=#Ludwig-Maximilians-Universität München
+
+==========

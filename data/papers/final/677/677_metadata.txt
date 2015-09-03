@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#677
+FinalPaperTitle#=%=#Comparing Word Representations for Implicit Discourse Relation Classification
+ShortPaperTitle#=%=#Comparing Word Representations for Implicit Discourse Relation Classification
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Braud
+JobTitle#==#
+Organization#==#University Paris 7
+5 rue Thomas-Mann 75013 Paris
+Abstract#==#This paper presents a detailed comparative framework for assessing the
+usefulness of unsupervised word representations for identifying so-called
+implicit discourse relations. Specifically, we compare standard one-hot word
+pair representations against low-dimensional ones based on Brown clusters and
+word embeddings. We also consider various word vector combination schemes for
+deriving discourse segment representations from word vectors, and compare
+representations based either on all words or limited to head words. Our main
+finding is that denser representations systematically outperform sparser ones
+and give state-of-the-art performance or above without the need for additional
+hand-crafted features.
+Author{1}{Firstname}#=%=#Chloé
+Author{1}{Lastname}#=%=#Braud
+Author{1}{Email}#=%=#chloe.braud@gmail.com
+Author{1}{Affiliation}#=%=#University Paris 7
+Author{2}{Firstname}#=%=#Pascal
+Author{2}{Lastname}#=%=#Denis
+Author{2}{Email}#=%=#pascal.denis@inria.fr
+Author{2}{Affiliation}#=%=#INRIA Nord Lille Europe - University of Lille LIFL
+
+==========

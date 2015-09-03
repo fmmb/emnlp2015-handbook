@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#568
+FinalPaperTitle#=%=#Joint prediction in MST-style discourse parsing for argumentation mining
+ShortPaperTitle#=%=#Joint prediction in MST-style discourse parsing for argumentation mining
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Andreas Peldszus
+JobTitle#==#
+Organization#==#Dept. of Linguistics
+University of Potsdam
+Karl-Liebknecht Str. 24-25
+14476 Potsdam
+Abstract#==#We introduce a new approach to argumentation mining that we applied to a
+parallel German/English corpus of short texts annotated with argumentation
+structure. We focus on structure prediction, which we break into a number of
+subtasks: relation identification, central claim identification, role
+classification, and function classification. Our new model jointly predicts
+different aspects of the structure by combining the different subtask
+predictions in the edge weights of an evidence graph; we then apply a standard
+MST decoding algorithm. This model not only outperforms two reasonable
+baselines and two data-driven models of global argument structure for the
+difficult subtask of relation identification, but also improves the results for
+central claim identification and function classification and it compares
+favorably to a complex mstparser pipeline.
+Author{1}{Firstname}#=%=#Andreas
+Author{1}{Lastname}#=%=#Peldszus
+Author{1}{Email}#=%=#peldszus@uni-potsdam.de
+Author{1}{Affiliation}#=%=#University of Potsdam
+Author{2}{Firstname}#=%=#Manfred
+Author{2}{Lastname}#=%=#Stede
+Author{2}{Email}#=%=#stede@uni-potsdam.de
+Author{2}{Affiliation}#=%=#University of Potsdam
+
+==========

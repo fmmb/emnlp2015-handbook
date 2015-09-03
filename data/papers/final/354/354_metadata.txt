@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#354
+FinalPaperTitle#=%=#Consistency-Aware Search for Word Alignment
+ShortPaperTitle#=%=#Consistency-Aware Search for Word Alignment
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Shiqi Shen
+JobTitle#==#
+Organization#==#Tsinghua University, Beijing, China
+Abstract#==#As conventional word alignment search algorithms usually ignore the consistency
+constraint in translation rule extraction, improving alignment accuracy does
+not necessarily increase translation quality. We propose to use coverage, which
+reflects how well extracted phrases can recover the training data, to enable
+word alignment to model consistency and correlate better with machine
+translation. This can be done by introducing an objective that maximizes both
+alignment model score and coverage. We introduce an efficient algorithm to
+calculate coverage on the fly during search. Experiments show that our
+consistency-aware search algorithm significantly outperforms both generative
+and discriminative alignment approaches across various languages and
+translation models.
+Author{1}{Firstname}#=%=#Shiqi
+Author{1}{Lastname}#=%=#Shen
+Author{1}{Email}#=%=#vicapple22@gmail.com
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Yang
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#liuyang2011@tsinghua.edu.cn
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Maosong
+Author{3}{Lastname}#=%=#Sun
+Author{3}{Email}#=%=#sms@mail.tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Tsinghua University
+Author{4}{Firstname}#=%=#Huanbo
+Author{4}{Lastname}#=%=#Luan
+Author{4}{Email}#=%=#luanhuanbo@gmail.com
+Author{4}{Affiliation}#=%=#Jiangsu Collaborative Innovation Center for Language Competence
+
+==========

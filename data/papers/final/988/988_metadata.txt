@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#988
+FinalPaperTitle#=%=#Automatic Diacritics Restoration for Hungarian
+ShortPaperTitle#=%=#Automatic Diacritics Restoration for Hungarian
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Siklósi Borbála
+JobTitle#==#
+Organization#==#Pázmány Péter Catholic University
+Abstract#==#In this paper, we describe a method based on statistical machine translation
+(SMT) that is able to restore accents in Hungarian texts with high accuracy.
+Due to the agglutinating characteristic of Hungarian, there are always
+wordforms unknown to a system trained on a fixed vocabulary. In order to be
+able to handle such words, we integrated a morphological analyzer into the
+system that can suggest accented word candidates for unknown words. We
+evaluated the system in different setups, achieving an accuracy above 99% at
+the highest.
+Author{1}{Firstname}#=%=#Attila
+Author{1}{Lastname}#=%=#Novák
+Author{1}{Email}#=%=#novak.attila@itk.ppke.hu
+Author{1}{Affiliation}#=%=#MTA-PPKE Hungarian Language Technology Research Group, Faculty of Information Technology and Bionics, Pázmány Péter Catholic University, Budapest
+Author{2}{Firstname}#=%=#Borbála
+Author{2}{Lastname}#=%=#Siklósi
+Author{2}{Email}#=%=#siklosi.borbala@itk.ppke.hu
+Author{2}{Affiliation}#=%=#Pázmány Péter Catholic University
+
+==========

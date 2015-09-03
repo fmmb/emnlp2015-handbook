@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#221
+FinalPaperTitle#=%=#Language and Domain Independent Entity Linking with Quantified Collective Validation
+ShortPaperTitle#=%=#Language and Domain Independent Entity Linking with Quantified Collective Validation
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Han Wang
+JobTitle#==#
+Organization#==#Rensselaer Polytechnic Institute
+110 8th St
+Troy, NY 12180
+U.S.A.
+Abstract#==#Linking named mentions detected in a source document to an existing knowledge
+base provides disambiguated entity referents for the mentions. This allows
+better document analysis, knowledge extraction and knowledge base population.
+Most of the previous research extensively exploited the linguistic features of
+the source documents in a supervised or semi-supervised way. These systems
+therefore cannot be easily applied to a new language or domain. In this paper,
+we present a novel unsupervised algorithm named Quantified Collective
+Validation that avoids excessive linguistic analysis on the source documents
+and fully leverages the knowledge base structure for the entity linking task.
+We show our approach achieves state-of-the-art English entity linking
+performance and demonstrate successful deployment in a new language (Chinese)
+and two new domains (Biomedical and Earth Science). All the experiment datasets
+and system demonstration are available at
+http://tw.rpi.edu/web/doc/hanwang_emnlp_2015 for research purpose.
+Author{1}{Firstname}#=%=#Han
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#wangh17@rpi.edu
+Author{1}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{2}{Firstname}#=%=#Jin Guang
+Author{2}{Lastname}#=%=#Zheng
+Author{2}{Email}#=%=#zhengj3@gmail.com
+Author{2}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{3}{Firstname}#=%=#Xiaogang
+Author{3}{Lastname}#=%=#Ma
+Author{3}{Email}#=%=#max7@rpi.edu
+Author{3}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{4}{Firstname}#=%=#Peter
+Author{4}{Lastname}#=%=#Fox
+Author{4}{Email}#=%=#pfox@cs.rpi.edu
+Author{4}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{5}{Firstname}#=%=#Heng
+Author{5}{Lastname}#=%=#Ji
+Author{5}{Email}#=%=#jih@rpi.edu
+Author{5}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+
+==========

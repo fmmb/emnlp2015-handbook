@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Lingusitic Analysis of Multi-Modal Recurrent Neural Networks
+ShortPaperTitle#=%=#Lingusitic Analysis of Multi-Modal Recurrent Neural Networks
+NumberOfPages#=%=#2
+CopyrightSigned#=%=#Ákos Kádár
+JobTitle#==#
+Organization#==#Tilburg University
+
+PO Box 90153
+5000 LE Tilburg
+The Netherlands
+Abstract#==#Recurrent neural networks (RNN) have gained a
+reputation for beating state-of-the-art results on
+many NLP benchmarks and for producing rep-
+resentations of words and larger linguistic units
+that encode complex syntactic and semantic struc-
+tures. However, it is not straight-forward to un-
+derstand how exactly these models make their de-
+cisions. Recently Li et al. (2015) developed meth-
+ods to provide linguistically motivated analysis for
+RNNs trained for sentiment analysis. Here we fo-
+cus on the analysis of a multi-modal Gated Recur-
+rent Neural Network (GRU) architecture trained to
+predict image-vectors - extracted from images us-
+ing a CNN trained on ImageNet - from their cor-
+responding descriptions. We propose two meth-
+ods to explore the importance of grammatical cat-
+egories with respect to the model and the task.
+We observe that the model pays most attention
+to head-words, noun subjects and adjectival modi-
+fiers and least to determiners and coordinations.
+Author{1}{Firstname}#=%=#Ákos
+Author{1}{Lastname}#=%=#Kádár
+Author{1}{Email}#=%=#a.kadar@uvt.nl
+Author{1}{Affiliation}#=%=#
+Author{2}{Firstname}#=%=#Grzegorz
+Author{2}{Lastname}#=%=#Chrupała
+Author{2}{Email}#=%=#g.chrupala@uvt.nl
+Author{2}{Affiliation}#=%=#Tilburg University
+Author{3}{Firstname}#=%=#Afra
+Author{3}{Lastname}#=%=#Alishahi
+Author{3}{Email}#=%=#a.alishahi@uvt.nl
+Author{3}{Affiliation}#=%=#Tilburg University
+
+==========

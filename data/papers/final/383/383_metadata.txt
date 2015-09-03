@@ -1,0 +1,55 @@
+SubmissionNumber#=%=#383
+FinalPaperTitle#=%=#Bilingual Correspondence Recursive Autoencoder for Statistical Machine Translation
+ShortPaperTitle#=%=#Bilingual Correspondence Recursive Autoencoder for Statistical Machine Translation
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jinsong Su
+JobTitle#==#
+Organization#==#Xiamen University, Xiamen, P.R. China
+Abstract#==#Learning semantic representations and tree structures of bilingual phrases is
+beneficial for statistical machine translation. In this paper, we propose a new
+neural
+network model called Bilingual Correspondence Recursive Autoencoder (BCorrRAE)
+to model
+bilingual phrases in translation. We incorporate word alignments into BCorrRAE
+to allow
+it freely access bilingual constraints at different levels. BCorrRAE minimizes
+a joint
+objective on the combination of a recursive autoencoder reconstruction error, a
+structural
+alignment consistency error and a cross-lingual reconstruction error so as to
+not only
+generate alignment-consistent phrase structures, but also capture different
+levels of
+semantic relations within bilingual phrases. In order to examine the
+effectiveness of
+BCorrRAE, we incorporate both semantic and structural similarity features built
+on bilingual phrase representations and tree structures learned by BCorrRAE
+into a state-of-the-art SMT system. Experiments on NIST Chinese-English test
+sets show that our model
+achieves a substantial improvement of up to 1.55 BLEU points over the baseline.
+Author{1}{Firstname}#=%=#Jinsong
+Author{1}{Lastname}#=%=#Su
+Author{1}{Email}#=%=#jssu@xmu.edu.cn
+Author{1}{Affiliation}#=%=#Xiamen university
+Author{2}{Firstname}#=%=#Deyi
+Author{2}{Lastname}#=%=#Xiong
+Author{2}{Email}#=%=#deyi.xiong@gmail.com
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#Biao
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#zb@stu.xmu.edu.cn
+Author{3}{Affiliation}#=%=#Xiamen University
+Author{4}{Firstname}#=%=#Yang
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Email}#=%=#liuyang2011@tsinghua.edu.cn
+Author{4}{Affiliation}#=%=#Tsinghua University
+Author{5}{Firstname}#=%=#Junfeng
+Author{5}{Lastname}#=%=#Yao
+Author{5}{Email}#=%=#Yaojunfeng@xmu.edu.cn
+Author{5}{Affiliation}#=%=#Xiamen Unviersity
+Author{6}{Firstname}#=%=#Min
+Author{6}{Lastname}#=%=#Zhang
+Author{6}{Email}#=%=#zhangminmt@hotmail.com
+Author{6}{Affiliation}#=%=#SooChow University
+
+==========

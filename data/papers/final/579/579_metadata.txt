@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#579
+FinalPaperTitle#=%=#Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Paths
+ShortPaperTitle#=%=#Classifying Relations via LSTM Networks along Shortest Dependency Paths
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yan Xu
+JobTitle#==#
+Organization#==#Peking University, ADDRESS: School of EECS, Peking University, Beijing, 100871, P. R. China
+Abstract#==#Relation classification is an important research arena in the field of natural
+language processing (NLP). In this paper, we present SDP-LSTM, a novel neural
+network to classify the relation of two entities in a sentence. The neural
+architecture leverages the shortest dependency path (SDP) between two entities;
+multichannel recurrent neural networks, with long short term memory (LSTM)
+units, pick up heterogeneous information along the SDP. Our proposed model has
+several distinct features: (1) The shortest dependency paths retain most
+relevant information (to relation classification), while eliminating irrelevant
+words in the sentence. (2) The multichannel LSTM networks allow effective
+information integration from heterogeneous sources over the dependency paths.
+(3) A customized dropout strategy regularizes the neural network to alleviate
+overfitting. We test our model on the SemEval 2010 relation classification
+task, and achieve an F1-score of 83.7%, higher than competing methods in the
+literature.
+Author{1}{Firstname}#=%=#Yan
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Email}#=%=#xuyan14@pku.edu.cn
+Author{1}{Affiliation}#=%=#PKU
+Author{2}{Firstname}#=%=#Lili
+Author{2}{Lastname}#=%=#Mou
+Author{2}{Email}#=%=#moull12@sei.pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Ge
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#lige@pku.edu.cn
+Author{3}{Affiliation}#=%=#PKU
+Author{4}{Firstname}#=%=#Yunchuan
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Email}#=%=#yunchuan001@163.com
+Author{4}{Affiliation}#=%=#AMSS
+Author{5}{Firstname}#=%=#Hao
+Author{5}{Lastname}#=%=#Peng
+Author{5}{Email}#=%=#penghao.pku@gmail.com
+Author{5}{Affiliation}#=%=#Peking University
+Author{6}{Firstname}#=%=#Zhi
+Author{6}{Lastname}#=%=#Jin
+Author{6}{Email}#=%=#zhijin@pku.edu.cn
+Author{6}{Affiliation}#=%=#PKU
+
+==========

@@ -1,0 +1,53 @@
+SubmissionNumber#=%=#56
+FinalPaperTitle#=%=#The KIT-LIMSI Translation System for WMT 2015
+ShortPaperTitle#=%=#The KIT-LIMSI Translation System for WMT 2015
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Tanh-Le Ha
+JobTitle#==#
+Organization#==#Karlsruher Institut für Technologie
+Kaiserstraße 12
+76131 Karlsruhe
+Abstract#==#This paper presented the joined submission of KIT and LIMSI to the English to
+German translation task of WMT 2015. 
+In this years submission, we integrated a neural network-based translation
+model into a phrase-based translation model by rescoring the n-best lists. 
+
+Since the computation complexity is one of the main issues for continuous space
+models, we compared two techniques to reduce the computation cost. 
+We investigated models using a structured output layer as well as models
+trained with noise contrastive estimation. 
+Furthermore, we evaluated a new method to obtain the best log-linear
+combination in the rescoring phase. 
+
+Using these techniques, we were able to improve the BLEU score of the baseline
+phrase-based system by 1.4 BLEU points.
+Author{1}{Firstname}#=%=#Thanh-Le
+Author{1}{Lastname}#=%=#Ha
+Author{1}{Email}#=%=#thanh-le.ha@kit.edu
+Author{1}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{2}{Firstname}#=%=#Quoc-Khanh
+Author{2}{Lastname}#=%=#DO
+Author{2}{Email}#=%=#dokhanh@limsi.fr
+Author{2}{Affiliation}#=%=#LIMSI/CNRS laboratory, University Paris-Sud, France
+Author{3}{Firstname}#=%=#Eunah
+Author{3}{Lastname}#=%=#Cho
+Author{3}{Email}#=%=#eunah.cho@kit.edu
+Author{3}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{4}{Firstname}#=%=#Jan
+Author{4}{Lastname}#=%=#Niehues
+Author{4}{Email}#=%=#jan.niehues@kit.edu
+Author{4}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{5}{Firstname}#=%=#Alexandre
+Author{5}{Lastname}#=%=#Allauzen
+Author{5}{Email}#=%=#allauzen@limsi.fr
+Author{5}{Affiliation}#=%=#Université Paris-Sud / LIMSI-CNRS
+Author{6}{Firstname}#=%=#François
+Author{6}{Lastname}#=%=#Yvon
+Author{6}{Email}#=%=#yvon@limsi.fr
+Author{6}{Affiliation}#=%=#LIMSI/CNRS
+Author{7}{Firstname}#=%=#Alex
+Author{7}{Lastname}#=%=#Waibel
+Author{7}{Email}#=%=#alex.waibel@kit.edu
+Author{7}{Affiliation}#=%=#Karlsruhe Institute of Technology
+
+==========

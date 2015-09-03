@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#832
+FinalPaperTitle#=%=#ASTD: Arabic Sentiment Tweets Dataset
+ShortPaperTitle#=%=#ASTD: Arabic Sentiment Tweets Dataset
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Mahmoud Nabil Mahmoud
+JobTitle#==#Teaching Assistant
+Organization#==#Faculty of Engineering
+Cairo University
+Giza - Egypt
+Abstract#==#This paper introduces ASTD, an Arabic social sentiment analysis
+dataset gathered from Twitter. It consists of about 10,000 tweets which are
+classified as objective, subjective positive, subjective negative, and
+subjective mixed. We present the properties and the statistics of the dataset,
+and run experiments using standard partitioning of the dataset. Our experiments
+provide benchmark results for 4 way sentiment classification on the dataset.
+Author{1}{Firstname}#=%=#Mahmoud
+Author{1}{Lastname}#=%=#Nabil
+Author{1}{Email}#=%=#mah.nabil@hotmail.com
+Author{1}{Affiliation}#=%=#Faculty of Engineering Cairo University
+Author{2}{Firstname}#=%=#Mohamed
+Author{2}{Lastname}#=%=#Aly
+Author{2}{Email}#=%=#mohamedadaly@gmail.com
+Author{2}{Affiliation}#=%=#Cairo University
+Author{3}{Firstname}#=%=#Amir
+Author{3}{Lastname}#=%=#Atiya
+Author{3}{Email}#=%=#amir@alumni.caltech.edu
+Author{3}{Affiliation}#=%=#Faculty of Engineering Cairo University
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1065
+FinalPaperTitle#=%=#The Rating Game: Sentiment Rating Reproducibility from Text
+ShortPaperTitle#=%=#The Rating Game: Sentiment Rating Reproducibility from Text
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Lasse Borgholt
+JobTitle#==#
+Organization#==#
+Abstract#==#Sentiment analysis models often use ratings as labels, assuming that these
+ratings reflect the sentiment of the accompanying text.
+We investigate (i) whether human readers can infer ratings from review text,
+(ii) how human performance compares to a regression model, and (iii) whether
+model performance is affected by the rating ``source'' (i.e. original author
+vs. annotator). We collect IMDb movie reviews with author-provided ratings, and
+have them re-annotated by crowdsourced and trained annotators. Annotators
+reproduce the original ratings better than a model, but are still far off in
+more than 5\% of the cases. Models trained on annotator-labels outperform those
+trained on author-labels, questioning the usefulness of author-rated reviews 
+as training data for sentiment analysis.
+Author{1}{Firstname}#=%=#Lasse
+Author{1}{Lastname}#=%=#Borgholt
+Author{1}{Email}#=%=#fkr838@alumni.ku.dk
+Author{1}{Affiliation}#=%=#University of Copenhagen
+Author{2}{Firstname}#=%=#Peter
+Author{2}{Lastname}#=%=#Simonsen
+Author{2}{Email}#=%=#cbl123@alumni.ku.dk
+Author{2}{Affiliation}#=%=#University of Copenhagen
+Author{3}{Firstname}#=%=#Dirk
+Author{3}{Lastname}#=%=#Hovy
+Author{3}{Email}#=%=#mail@dirkhovy.com
+Author{3}{Affiliation}#=%=#Center for Language Technology, University of Copenhagen
+
+==========

@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#60
+FinalPaperTitle#=%=#When Are Tree Structures Necessary for Deep Learning of Representations?
+ShortPaperTitle#=%=#When Are Tree Structures Necessary for Deep Learning of Representations?
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jiwei Li
+JobTitle#==#
+Organization#==#Jiwei Li
+Stanford University
+Abstract#==#Recursive neural models, which use syntactic parse trees
+to recursively generate representations bottom-up, are a popular architecture.
+However there have not been rigorous evaluations showing for
+exactly which tasks this syntax-based method is appropriate.
+In this paper, we benchmark {\it recursive} neural models
+against sequential {\it recurrent} neural models,
+enforcing apples-to-apples comparison as much as possible. 
+We investigate 4 tasks:
+(1) sentiment classification at the sentence level and phrase level;
+(2) matching questions to answer-phrases;
+(3) discourse parsing;
+(4) semantic relation extraction.
+
+Our goal
+is to understand better when, and why, recursive models can outperform 
+simpler models.  
+We find that recursive models help mainly
+on tasks (like semantic relation extraction) that require long-distance
+connection modeling, particularly on very long sequences.
+We then introduce a method for allowing recurrent models to achieve 
+similar performance: breaking long sentences into  clause-like units
+at punctuation and processing them separately before combining.
+Our results thus help understand the limitations of both classes of models,
+and suggest directions for improving recurrent models.
+Author{1}{Firstname}#=%=#Jiwei
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#jiweil@stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Thang
+Author{2}{Lastname}#=%=#Luong
+Author{2}{Email}#=%=#luong.m.thang@gmail.com
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Dan
+Author{3}{Lastname}#=%=#Jurafsky
+Author{3}{Email}#=%=#jurafsky@stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+Author{4}{Firstname}#=%=#Eduard
+Author{4}{Lastname}#=%=#Hovy
+Author{4}{Email}#=%=#hovy@cmu.edu
+Author{4}{Affiliation}#=%=#CMU
+
+==========

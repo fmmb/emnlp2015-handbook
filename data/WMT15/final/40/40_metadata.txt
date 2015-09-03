@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#40
+FinalPaperTitle#=%=#UPF-Cobalt Submission to WMT15 Metrics Task
+ShortPaperTitle#=%=#UPF-Cobalt Submission to WMT15 Metrics Task
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Marina Fomicheva
+JobTitle#==#
+Organization#==#Universitat Pompeu Fabra,
+Roc Boronat 138, 08018-Barcelona, Spain
+Abstract#==#An important limitation of automatic evaluation metrics is that, when comparing
+Machine Translation (MT) to a human reference, they are often unable to
+discriminate between acceptable variation and the differences that are
+indicative of MT
+errors. In this paper we present UPF-Cobalt evaluation system that addresses
+this issue by penalizing the differences in syntactic context of aligned
+candidate and reference words. We evaluate our metric using the data from WMT
+workshops of the recent years and show that it performs competitively both at
+segment and at system levels.
+Author{1}{Firstname}#=%=#Marina
+Author{1}{Lastname}#=%=#Fomicheva
+Author{1}{Email}#=%=#marina.fomicheva@upf.edu
+Author{1}{Affiliation}#=%=#Universitat Pompeu Fabra
+Author{2}{Firstname}#=%=#Núria
+Author{2}{Lastname}#=%=#Bel
+Author{2}{Email}#=%=#nuria.bel@upf.edu
+Author{2}{Affiliation}#=%=#Universitat Pompeu Fabra
+Author{3}{Firstname}#=%=#Iria
+Author{3}{Lastname}#=%=#da Cunha
+Author{3}{Email}#=%=#iria.dacunha@upf.edu
+Author{3}{Affiliation}#=%=#University Institute for Applied Linguistics (Universitat Pompeu Fabra)
+Author{4}{Firstname}#=%=#Anton
+Author{4}{Lastname}#=%=#Malinovskiy
+Author{4}{Email}#=%=#amalinovskiy@gmail.com
+Author{4}{Affiliation}#=%=#Nuroa Internet S. L.
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#717
+FinalPaperTitle#=%=#Reading Documents for Bayesian Online Change Point Detection
+ShortPaperTitle#=%=#Reading Documents for Bayesian Online Change Point Detection
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jaesik Choi
+JobTitle#==#
+Organization#==#Ulsan National Institute of Science and Technology,
+50 UNIST, Ulju, Ulsan, Korea 689-798
+Abstract#==#Modeling non-stationary time-series data for making predictions is a
+challenging but important task. One of the key issues is to identify long-term
+changes accurately in time-varying data. Bayesian Online Change Point Detection
+(BO-CPD) algorithms efficiently detect long-term changes without assuming the
+Markov property which is vulnerable to local signal noise. We propose a
+Document based BO-CPD (DBO-CPD) model which automatically detects long-term
+temporal changes of continuous variables based on a novel dynamic Bayesian
+analysis which combines a non-parametric regression, the Gaussian Process (GP),
+with generative models of texts such as news articles and posts on social
+networks. Since texts often include important clues of signal changes, DBO-CPD
+enables the accurate prediction of long-term changes accurately. We show that
+our algorithm outperforms existing BO-CPDs in two real-world datasets: stock
+prices and movie revenues.
+Author{1}{Firstname}#=%=#Taehoon
+Author{1}{Lastname}#=%=#Kim
+Author{1}{Email}#=%=#carpedm20@gmail.com
+Author{1}{Affiliation}#=%=#Ulsan National Institute of Science and Technology
+Author{2}{Firstname}#=%=#Jaesik
+Author{2}{Lastname}#=%=#Choi
+Author{2}{Email}#=%=#jaesik@unist.ac.kr
+Author{2}{Affiliation}#=%=#Ulsan National Institute of Science and Technology
+
+==========

@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=#Improving Coordination on Novel Meaning through Context and Semantic Structure
+ShortPaperTitle#=%=#Improving Coordination on Novel Meaning through Context and Semantic Structure
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Thomas Brochhagen
+JobTitle#==#
+Organization#==#Institute for Logic, Language and Computation, University of Amsterdam, P.O. Box 94242, 1090GE, Amsterdam, The Netherlands
+Abstract#==#Meaning conveyance is bottlenecked by the linguistic conventions shared among
+interlocutors. One possibility to convey non-conventionalized meaning is to
+employ known expressions in such a way that the intended meaning can be abduced
+from them. This, in turn, can give rise to ambiguity. We investigate this
+process with a focus on its use for semantic coordination and show it to be
+conducive to fast agreement on novel meaning under a mutual expectation to
+exploit semantic structure. We argue this to be a motivation for the
+cross-linguistic pervasiveness of systematic ambiguity.
+Author{1}{Firstname}#=%=#Thomas
+Author{1}{Lastname}#=%=#Brochhagen
+Author{1}{Email}#=%=#t.s.brochhagen@uva.nl
+Author{1}{Affiliation}#=%=#ILLC, University of Amsterdam
+
+==========

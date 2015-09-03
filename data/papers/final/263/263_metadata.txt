@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#263
+FinalPaperTitle#=%=#Re-evaluating Automatic Summarization with BLEU and 192 Shades of ROUGE
+ShortPaperTitle#=%=#Re-evaluating Automatic Summarization with BLEU and 192 Shades of ROUGE
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yvette Graham
+JobTitle#==#
+Organization#==#ADAPT Centre,
+School of Statistics and Computer Science,
+Trinity College Dublin,
+Dublin 2,
+Ireland
+Abstract#==#We provide an analysis of current evaluation methodologies
+applied to summarization metrics and identify the following areas of concern:
+(1) movement away from evaluation by correlation with human assessment; (2)
+omission of important components of human assessment from evaluations, in
+addition to large numbers of metric variants; (3) absence of methods of
+significance testing improvements over a baseline. We outline an
+evaluation methodology that overcomes all such challenges, providing the first
+method of significance testing appropriate for evaluation of summarization
+metrics. Our evaluation reveals for the first time which metric variants
+significantly outperform others, optimal metric variants distinct from current
+recommended best variants, as well as machine translation metric BLEU to have
+performance on-par with ROUGE for the purpose of evaluation
+of summarization systems. We  subsequently replicate a recent large-scale
+evaluation that relied on, what we now know to be, suboptimal ROUGE variants
+revealing distinct conclusions about the relative performance of
+state-of-the-art summarization systems.
+Author{1}{Firstname}#=%=#Yvette
+Author{1}{Lastname}#=%=#Graham
+Author{1}{Email}#=%=#graham.yvette@gmail.com
+Author{1}{Affiliation}#=%=#Trinity College Dublin
+
+==========

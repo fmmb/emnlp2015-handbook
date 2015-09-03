@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#1090
+FinalPaperTitle#=%=#A Multi-lingual Annotated Dataset for Aspect-Oriented Opinion Mining
+ShortPaperTitle#=%=#A Multi-lingual Annotated Dataset for Aspect-Oriented Opinion Mining
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Andrea Esuli
+JobTitle#==#
+Organization#==#Istituto di Scienza e Tecnologie dell'Informazione ``A. Faedo'', Consiglio Nazionale delle Ricerche
+Abstract#==#We present the Trip-MAML dataset, a Multi-Lingual dataset of hotel reviews that
+have been manually annotated at the sentence-level with Multi-Aspect sentiment
+labels. This dataset has been built as an extension of an existent English-only
+dataset, adding documents written in Italian and Spanish. We detail the dataset
+construction process, covering the data gathering, selection, and annotation.
+We present inter-annotator agreement figures and baseline experimental results,
+comparing the three languages. Trip-MAML is a multi-lingual dataset for
+aspect-oriented opinion mining that enables researchers (i) to face the problem
+on languages other than English and (ii) to the experiment the application of
+cross-lingual learning methods to the task.
+Author{1}{Firstname}#=%=#Salud M.
+Author{1}{Lastname}#=%=#Jiménez-Zafra
+Author{1}{Email}#=%=#sjzafra@ujaen.es
+Author{1}{Affiliation}#=%=#University of Jaén
+Author{2}{Firstname}#=%=#Giacomo
+Author{2}{Lastname}#=%=#Berardi
+Author{2}{Email}#=%=#giacomo.berardi@isti.cnr.it
+Author{2}{Affiliation}#=%=#ISTI-CNR
+Author{3}{Firstname}#=%=#Andrea
+Author{3}{Lastname}#=%=#Esuli
+Author{3}{Email}#=%=#andrea.esuli@isti.cnr.it
+Author{3}{Affiliation}#=%=#ISTI-CNR
+Author{4}{Firstname}#=%=#Diego
+Author{4}{Lastname}#=%=#Marcheggiani
+Author{4}{Email}#=%=#diego.marcheggiani@isti.cnr.it
+Author{4}{Affiliation}#=%=#ISTI-CNR
+Author{5}{Firstname}#=%=#María Teresa
+Author{5}{Lastname}#=%=#Martín-Valdivia
+Author{5}{Email}#=%=#maite@ujaen.es
+Author{5}{Affiliation}#=%=#Univeristy of Jaen
+Author{6}{Firstname}#=%=#Alejandro
+Author{6}{Lastname}#=%=#Moreo Fernández
+Author{6}{Email}#=%=#alejandro.moreo@isti.cnr.it
+Author{6}{Affiliation}#=%=#ISTI-CNR
+
+==========

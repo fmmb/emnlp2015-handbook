@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#55
+FinalPaperTitle#=%=#DFKI's experimental hybrid MT system for WMT 2015
+ShortPaperTitle#=%=#DFKI's hybrid MT system
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Eleftherios Avramidis
+JobTitle#==#
+Organization#==#German Research Center for Artificial Intelligence (DFKI)
+Alt Moabit 91c
+10559 Berlin
+Abstract#==#DFKI participated in the shared translation task of WMT 2015 with the
+German-English language pair in each translation direction. The submissions
+were generated using an experimental hybrid system based on three systems: a
+dtatistical Moses system, a commercial rule-based system, and a serial coupling
+of the two where the output of the rule-based system is further translated by
+Moses trained on parallel text consisting of the rule-based output and the
+original target language. The outputs of three systems are combined using two
+methods: (a) an empirical selection mechanism based on grammatical features
+(primary submission) and (b) IBM 1 models based on POS 4-grams (contrastive
+submission).
+Author{1}{Firstname}#=%=#Eleftherios
+Author{1}{Lastname}#=%=#Avramidis
+Author{1}{Email}#=%=#eleftherios.avramidis@dfki.de
+Author{1}{Affiliation}#=%=#German Research Center for Artificial Intelligence (DFKI)
+Author{2}{Firstname}#=%=#Maja
+Author{2}{Lastname}#=%=#Popović
+Author{2}{Email}#=%=#maja.popovic@hu-berlin.de
+Author{2}{Affiliation}#=%=#Humboldt University of Berlin
+Author{3}{Firstname}#=%=#Aljoscha
+Author{3}{Lastname}#=%=#Burchardt
+Author{3}{Email}#=%=#aljoscha.burchardt@dfki.de
+Author{3}{Affiliation}#=%=#DFKI
+
+==========

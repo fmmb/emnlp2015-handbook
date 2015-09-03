@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Verb-centered Sentiment Inference with Description Logics
+ShortPaperTitle#=%=#Verb-centered Sentiment Inference with Description Logics
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Manfred Klenner
+JobTitle#==#
+Organization#==#Computational Linguistics
+University of Zurich
+Binzmuehlestrasse 14
+8050 Zurich
+Switzerland
+Abstract#==#We introduce description logics as a means to carry out  sentiment inferences
+triggered by some verbs on their semantic roles. Verbs might impose polar
+effects on some roles, but also have polar expectations on other roles.
+For instance, an entity inherits a positive polarity just by being actor of
+some verb (``she succeeds"). More complicated scenarios arise if we take 
+subclause embeddings, negation and polarity conflicts into consideration.
+Polarity propagation and effect inversion need to be coped with, then. We have
+implemented a prototype in OWL covering a substantial subset of our  verb
+lexicon covering about 140 German verbs.
+Author{1}{Firstname}#=%=#Manfred
+Author{1}{Lastname}#=%=#Klenner
+Author{1}{Email}#=%=#klenner@cl.uzh.ch
+Author{1}{Affiliation}#=%=#Computational Linguistics, University of Zurich
+
+==========

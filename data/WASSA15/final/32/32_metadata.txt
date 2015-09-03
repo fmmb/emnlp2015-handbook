@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#32
+FinalPaperTitle#=%=#Synthetic Text Generation for Sentiment Analysis
+ShortPaperTitle#=%=#Synthetic Text Generation for Sentiment Analysis
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Umar Maqsud
+JobTitle#==#
+Organization#==#
+Abstract#==#Natural language is a common type of input for data processing systems.
+Therefore, it is often required to have a large testing data set of this type.
+In this context, the task to automatically generate natural language texts,
+which maintain the properties of real texts is desirable. However, current
+synthetic data generators do not capture natural language text data
+sufficiently. In this paper, we present a preliminary study on different
+generative models for text generation, which maintain specific properties of
+natural language text, i.e., the sentiment of a review text. In a series of
+experiments using different data sets and sentiment analysis methods, we show
+that generative models can generate texts with a specific sentiment and that
+hidden Markov model based text generation achieves less accuracy than Markov
+chain based text generation, but can generate a higher number of distinct
+texts.
+Author{1}{Firstname}#=%=#Umar
+Author{1}{Lastname}#=%=#Maqsud
+Author{1}{Email}#=%=#umar.maqsud@campus.tu-berlin.de
+Author{1}{Affiliation}#=%=#TU Berlin
+
+==========

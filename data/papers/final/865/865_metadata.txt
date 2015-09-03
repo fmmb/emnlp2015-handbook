@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#865
+FinalPaperTitle#=%=#Chinese Semantic Role Labeling with Bidirectional Recurrent Neural Networks
+ShortPaperTitle#=%=#Chinese Semantic Role Labeling with Bidirectional Recurrent Neural Networks
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Zhen Wang
+JobTitle#==#student
+Organization#==#Key Laboratory of Computational Linguistics, Ministry of Education, School of Electronics Engineering and Computer Science, Peking University
+Abstract#==#Traditional approaches to Chinese Semantic Role Labeling (SRL) almost rely on
+feature engineering, which means their performances are highly dependent on a
+large number of handcrafted features. Even worse, the long-range dependencies
+in a sentence can hardly be modeled by these methods. In this paper, we
+introduce bidirectional recurrent neural network (RNN) with long-short-term
+memory (LSTM) to capture bidirectional and long-range dependencies in a
+sentence with minimal feature engineering. Experimental results on Chinese
+Proposition Bank (CPB) show a significant improvement over the state-of-the-art
+methods. Moreover, our model makes it convenient to introduce heterogeneous
+resource, which makes a further improvement to our experimental performance.
+Author{1}{Firstname}#=%=#Zhen
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#wzpkuer@gmail.com
+Author{1}{Affiliation}#=%=#Key Laboratory of Computational Linguistics, Ministry of Education, School of Electronics Engineering and Computer Science, Peking University
+Author{2}{Firstname}#=%=#Tingsong
+Author{2}{Lastname}#=%=#Jiang
+Author{2}{Email}#=%=#tingsong@pku.edu.cn
+Author{2}{Affiliation}#=%=#Key Laboratory of Computational Linguistics, Ministry of Education, School of Electronics Engineering and Computer Science, Peking University
+Author{3}{Firstname}#=%=#Baobao
+Author{3}{Lastname}#=%=#Chang
+Author{3}{Email}#=%=#chbb@pku.edu.cn
+Author{3}{Affiliation}#=%=#Key Laboratory of Computational Linguistics, Ministry of Education, School of Electronics Engineering and Computer Science, Peking University
+Author{4}{Firstname}#=%=#Zhifang
+Author{4}{Lastname}#=%=#Sui
+Author{4}{Email}#=%=#szf@pku.edu.cn
+Author{4}{Affiliation}#=%=#Key Laboratory of Computational Linguistics, Ministry of Education, School of Electronics Engineering and Computer Science, Peking University
+
+==========

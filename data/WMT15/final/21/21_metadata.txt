@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#UGENT-LT3 SCATE System for Machine Translation Quality Estimation
+ShortPaperTitle#=%=#UGENT-LT3 SCATE System for Machine Translation Quality Estimation
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Arda Tezcan
+JobTitle#==#
+Organization#==#LT3 Language and Translation Technology Team
+Department of Translation, Interpreting and Communication
+Ghent University
+
+Groot-Brittanniëlaan 45
+9000 Gent
+Abstract#==#This paper describes the submission of the UGENT-LT3 SCATE system to the WMT15
+Shared Task on Quality Estima-tion (QE), viz. English-Spanish word and
+sentence-level QE. We conceived QE as a supervised Machine Learning (ML)
+problem and designed additional features and combined these with the baseline
+feature set to estimate quality. The sen-tence-level QE system re-uses the word
+level predictions of the word-level QE system. We experimented with different
+learning methods and observe improve-ments over the baseline system for
+word-level QE with the use of the new features and by combining learning
+methods into ensembles. For sentence-level QE we show that using a single
+feature based on word-level predictions can perform better than the baseline
+system and using this in combination with additional features led to further
+improvements in performance.
+Author{1}{Firstname}#=%=#Arda
+Author{1}{Lastname}#=%=#Tezcan
+Author{1}{Email}#=%=#arda.tezcan@ugent.be
+Author{1}{Affiliation}#=%=#LT3, Language and Translation Technology Team, Ghent University
+Author{2}{Firstname}#=%=#Veronique
+Author{2}{Lastname}#=%=#Hoste
+Author{2}{Email}#=%=#veronique.hoste@ugent.be
+Author{2}{Affiliation}#=%=#LT3, Language and Translation Technology Team, Ghent University
+Author{3}{Firstname}#=%=#Bart
+Author{3}{Lastname}#=%=#Desmet
+Author{3}{Email}#=%=#bart.desmet@ugent.be
+Author{3}{Affiliation}#=%=#LT3, Language and Translation Technology Team, Ghent University
+Author{4}{Firstname}#=%=#Lieve
+Author{4}{Lastname}#=%=#Macken
+Author{4}{Email}#=%=#lieve.macken@ugent.be
+Author{4}{Affiliation}#=%=#LT3, Language and Translation Technology Team, Ghent University
+
+==========

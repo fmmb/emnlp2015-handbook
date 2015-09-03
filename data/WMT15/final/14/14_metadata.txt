@@ -1,0 +1,53 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#The Karlsruhe Institute of Technology Translation Systems for the WMT 2015
+ShortPaperTitle#=%=#The Karlsruhe Institute of Technology Translation Systems for the WMT 2015
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Eunah Cho
+JobTitle#==#
+Organization#==#Karlsruher Institut für Technologie
+Kaiserstraße 12
+76131 Karlsruhe
+Abstract#==#In this paper, the KIT systems submitted to the Shared Translation Task are
+presented. We participated in two translation directions: from German to
+English and from English to German. Both translations are generated using
+phrase-based translation systems. Language models are built based on different
+tokens, such as word, part-of-speech, and automacally generated word clusters.
+Final systems also include bilingual language models, part-of-speech and
+syntactic tree-based reordering models as well as a lexicalized reordering
+model. In order to clean a large amount of noisy web-crawled data, we applied a
+filtering technique using an SVM classifier. For language modeling, a data
+selection strategy is also applied. A discriminative word lexicon using source
+context information is used or both translation directions. After generating
+the translation with the phrase-based system, we used hypothesis rescoring
+using the ListNet algorithm. We evaluated the rescoring using only the baseline
+features as well as using additional computational complex features.
+Author{1}{Firstname}#=%=#Eunah
+Author{1}{Lastname}#=%=#Cho
+Author{1}{Email}#=%=#eunah.cho@kit.edu
+Author{1}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{2}{Firstname}#=%=#Thanh-Le
+Author{2}{Lastname}#=%=#Ha
+Author{2}{Email}#=%=#thanh-le.ha@kit.edu
+Author{2}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{3}{Firstname}#=%=#Jan
+Author{3}{Lastname}#=%=#Niehues
+Author{3}{Email}#=%=#jan.niehues@kit.edu
+Author{3}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{4}{Firstname}#=%=#Teresa
+Author{4}{Lastname}#=%=#Herrmann
+Author{4}{Email}#=%=#teresa.herrmann@kit.edu
+Author{4}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{5}{Firstname}#=%=#Mohammed
+Author{5}{Lastname}#=%=#Mediani
+Author{5}{Email}#=%=#mohammed.mediani@kit.edu
+Author{5}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{6}{Firstname}#=%=#Yuqi
+Author{6}{Lastname}#=%=#Zhang
+Author{6}{Email}#=%=#yuqi.zhang@kit.edu
+Author{6}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{7}{Firstname}#=%=#Alex
+Author{7}{Lastname}#=%=#Waibel
+Author{7}{Email}#=%=#alex.waibel@kit.edu
+Author{7}{Affiliation}#=%=#Karlsruhe Institute of Technology
+
+==========

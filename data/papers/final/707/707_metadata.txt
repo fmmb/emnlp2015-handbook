@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#707
+FinalPaperTitle#=%=#Joint Entity Recognition and Disambiguation
+ShortPaperTitle#=%=#Joint Entity Recognition and Disambiguation
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Gang Luo
+JobTitle#==#
+Organization#==#Microsoft, Sunnyvale, CA, USA
+Abstract#==#Extracting named entities in text and linking extracted names to a given
+knowledge base are fundamental tasks in applications for text understanding.
+Existing systems typically run a named entity recognition (NER) model to
+extract entity names first, then run an entity linking model to link extracted
+names to a knowledge base.
+NER and linking models are usually trained separately, and the mutual
+dependency between the two tasks is ignored.
+We propose JERL, Joint Entity Recognition and Linking, to jointly model NER and
+linking tasks and capture the mutual dependency between them.
+It allows the information from each task to improve the performance of the
+other.
+To the best of our knowledge, JERL is the first model to jointly optimize NER
+and linking tasks together completely.
+In experiments on the CoNLL'03/AIDA data set, JERL outperforms state-of-art NER
+and linking systems, and we find improvements of 0.4% absolute F1 for NER on
+CoNLL'03, and 0.36% absolute precision@1 for linking on AIDA.
+Author{1}{Firstname}#=%=#Gang
+Author{1}{Lastname}#=%=#Luo
+Author{1}{Email}#=%=#gluo@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft
+Author{2}{Firstname}#=%=#Xiaojiang
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Email}#=%=#xiaojih@microsoft.com
+Author{2}{Affiliation}#=%=#
+Author{3}{Firstname}#=%=#Chin-Yew
+Author{3}{Lastname}#=%=#Lin
+Author{3}{Email}#=%=#cyl@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research
+Author{4}{Firstname}#=%=#Zaiqing
+Author{4}{Lastname}#=%=#Nie
+Author{4}{Email}#=%=#znie@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research
+
+==========

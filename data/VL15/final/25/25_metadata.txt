@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=#Do Distributed Semantic Models Dream of Electric Sheep? Visualizing Word Representations through Image Synthesis
+ShortPaperTitle#=%=#Visualizing Word Representations through Image Synthesis
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Angeliki Lazaridouc
+JobTitle#==#
+Organization#==#CIMeC (Università di Trento), Palazzo Fedrigotti, C.so Bettini 31, 38068 Rovereto, Italy
+Abstract#==#We introduce the task of visualizing distributed semantic representations by
+generating images from word vectors. Given
+the corpus-based vector encoding the word
+broccoli, we convert it to a visual representation by means of a cross-modal
+mapping function, and then use the mapped
+representation to generate an image of
+broccoli as “dreamed” by the distributed
+model. We propose a baseline dream synthesis method based on averaging pictures
+whose visual representations are topologically close to the mapped vector. Two
+ex-
+periments show that we generate dreams
+that generally belong to the the right semantic category, and are sometimes
+accurate enough for subjects to distinguish the
+intended concept from a related one.
+Author{1}{Firstname}#=%=#Angeliki
+Author{1}{Lastname}#=%=#Lazaridou
+Author{1}{Email}#=%=#angeliki.lazaridou@unitn.it
+Author{1}{Affiliation}#=%=#University of Trento
+Author{2}{Firstname}#=%=#Dat
+Author{2}{Lastname}#=%=#Tien Nguyen
+Author{2}{Email}#=%=#dtnguyen88@outlook.com
+Author{2}{Affiliation}#=%=#University of Trento
+Author{3}{Firstname}#=%=#Marco
+Author{3}{Lastname}#=%=#Baroni
+Author{3}{Email}#=%=#marco.baroni@unitn.it
+Author{3}{Affiliation}#=%=#University of Trento
+
+==========

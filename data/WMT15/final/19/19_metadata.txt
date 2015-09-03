@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#UdS-Sant: English–German Hybrid Machine Translation System
+ShortPaperTitle#=%=#UdS-Sant: English–German Hybrid MT System
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Santanu Pal
+JobTitle#==#
+Organization#==#Saarland University
+Department of Applied Linguistics, Translation and Interpreting
+PO-Box 15 11 50
+66041 Saarbrücken
+Germany
+Abstract#==#This paper describes the UdS-Sant English--German Hybrid Machine Translation
+(MT) system submitted to the Translation Task organized in the Workshop on
+Statistical Machine Translation (WMT) 2015.  Our proposed hybrid system brings
+improvements over the baseline system by incorporating additional knowledge
+such as extracted bilingual named entities and bilingual phrase pairs induced
+from example-based methods. The reported final submission is the result of a
+hybrid system obtained from
+confusion network based system combination that combines the best performance
+of each individual system in a multi-engine pipeline.
+Author{1}{Firstname}#=%=#Santanu
+Author{1}{Lastname}#=%=#Pal
+Author{1}{Email}#=%=#santanu.pal@uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Sudip
+Author{2}{Lastname}#=%=#Naskar
+Author{2}{Email}#=%=#sudip.naskar@gmail.com
+Author{2}{Affiliation}#=%=#Jadavpur University
+Author{3}{Firstname}#=%=#Josef
+Author{3}{Lastname}#=%=#van Genabith
+Author{3}{Email}#=%=#josef.vangenabith@uni-saarland.de
+Author{3}{Affiliation}#=%=#Saarland University
+
+==========

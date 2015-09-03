@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#121
+FinalPaperTitle#=%=#Leave-one-out Word Alignment without Garbage Collector Effects
+ShortPaperTitle#=%=#Leave-one-out Word Alignment without Garbage Collector Effects
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#XIAOLIN WANG
+JobTitle#==#
+Organization#==#National Institute of Information and Communications Technology
+3-5 Hikaridai, Seika-cho, Soraku-gun, Kyoto 619-0289, Japan
+Abstract#==#Expectation-maximization algorithms, such as those implemented in GIZA++
+pervade the field of unsupervised word alignment. However, these algorithms
+have a problem of over-fitting, leading to ``garbage collector effects,'' where
+rare words tend to be erroneously aligned to untranslated words. This paper
+proposes a leave-one-out expectation-maximization algorithm for unsupervised
+word alignment to address this problem. The proposed method excludes
+information derived from the alignment of a sentence pair from the alignment
+models used to align it. This prevents erroneous alignments within a sentence
+pair from supporting themselves. Experimental results on Chinese-English and
+Japanese-English corpora show that the F$_1$, precision and recall of alignment
+were consistently increased by 5.0\% -- 17.2\%, and BLEU scores of end-to-end
+translation were raised by 0.03 -- 1.30.  The proposed method also outperformed
+$l_0$-normalized GIZA++ and Kneser-Ney smoothed GIZA++.
+Author{1}{Firstname}#=%=#Xiaolin
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#xiaolin.wang@nict.go.jp
+Author{1}{Affiliation}#=%=#NICT
+Author{2}{Firstname}#=%=#Masao
+Author{2}{Lastname}#=%=#Utiyama
+Author{2}{Email}#=%=#mutiyama@nict.go.jp
+Author{2}{Affiliation}#=%=#NICT
+Author{3}{Firstname}#=%=#Andrew
+Author{3}{Lastname}#=%=#Finch
+Author{3}{Email}#=%=#andrew.finch@nict.go.jp
+Author{3}{Affiliation}#=%=#NICT
+Author{4}{Firstname}#=%=#Taro
+Author{4}{Lastname}#=%=#Watanabe
+Author{4}{Email}#=%=#taro.wtnb@gmail.com
+Author{4}{Affiliation}#=%=#NICT
+Author{5}{Firstname}#=%=#Eiichiro
+Author{5}{Lastname}#=%=#Sumita
+Author{5}{Email}#=%=#eiichiro.sumita@nict.go.jp
+Author{5}{Affiliation}#=%=#NICT
+
+==========

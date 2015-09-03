@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#945
+FinalPaperTitle#=%=#Context-Dependent Knowledge Graph Embedding
+ShortPaperTitle#=%=#Context-Dependent Knowledge Graph Embedding
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Quan Wang
+JobTitle#==#Assistant Professor
+Organization#==#Institute of Information Engineering, Chinese Academy of Sciences
+No. 89A, Minzhuang Road, Haidian District, Beijing 100093, China
+Abstract#==#We consider the problem of embedding knowledge graphs (KGs) into continuous
+vector spaces. Existing methods can only deal with explicit relationships
+within each triple, i.e., local connectivity patterns, but cannot handle
+implicit relationships across different triples, i.e., contextual connectivity
+patterns. This paper proposes context-dependent KG embedding, a two-stage
+scheme that takes into account both types of connectivity patterns and obtains
+more accurate embeddings. We evaluate our approach on the tasks of link
+prediction and triple classification, and achieve significant and consistent
+improvements over state-of-the-art methods.
+Author{1}{Firstname}#=%=#Yuanfei
+Author{1}{Lastname}#=%=#Luo
+Author{1}{Email}#=%=#luoyuanfei@iie.ac.cn
+Author{1}{Affiliation}#=%=#Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Quan
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#wangquan@iie.ac.cn
+Author{2}{Affiliation}#=%=#Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Bin
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#wangbin@iie.ac.cn
+Author{3}{Affiliation}#=%=#Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Li
+Author{4}{Lastname}#=%=#Guo
+Author{4}{Email}#=%=#guoli@iie.ac.cn
+Author{4}{Affiliation}#=%=#Chinese Academy of Sciences
+
+==========

@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1333
+FinalPaperTitle#=%=#Online Learning of Interpretable Word Embeddings
+ShortPaperTitle#=%=#Online Learning of Interpretable Word Embeddings
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Zhiyuan Liu
+JobTitle#==#
+Organization#==#Room 4-506, FIT Building, Tsinghua University, Beijing 100084, China
+Abstract#==#Word embeddings encode semantic meanings of words into low-dimension word
+vectors. In most word embeddings, one cannot interpret the meanings of specific
+dimensions of those word vectors. Non-negative matrix factorization (NMF) has
+been proposed to learn interpretable word embeddings via non-negative
+constraints. However, NMF methods suffer from scale and memory issue because
+they have to maintain a global matrix for learning. To alleviate this
+challenge, we propose online learning of interpretable word embeddings from
+streaming text data. Experiments show that our model consistently outperforms
+the state-of-the-art word embedding methods in both representation ability and
+interpretability. The source code of this paper can be obtained from
+\url{http://github.com/skTim/OIWE}.
+Author{1}{Firstname}#=%=#Hongyin
+Author{1}{Lastname}#=%=#Luo
+Author{1}{Email}#=%=#lhythu@gmail.com
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Zhiyuan
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#liuzy@tsinghua.edu.cn
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Huanbo
+Author{3}{Lastname}#=%=#Luan
+Author{3}{Email}#=%=#luanhuanbo@gmail.com
+Author{3}{Affiliation}#=%=#Tsinghua University
+Author{4}{Firstname}#=%=#Maosong
+Author{4}{Lastname}#=%=#Sun
+Author{4}{Email}#=%=#sms@tsinghua.edu.cn
+Author{4}{Affiliation}#=%=#
+
+==========

@@ -1,0 +1,58 @@
+SubmissionNumber#=%=#60
+FinalPaperTitle#=%=#The University of Illinois submission to the WMT 2015 Shared Translation Task
+ShortPaperTitle#=%=#The University of Illinois submission to the WMT 2015 Shared Translation Task
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Lane Schwartz
+JobTitle#==#
+Organization#==#University of Illinois at Urbana-Champaign
+707 S Mathews Ave
+Urbana, IL 61801
+USA
+Abstract#==#In this year's WMT translation task, Finnish-English was introduced as a
+language pair of competition for the first time. We present experiments
+examining several variations on a morphologically-aware statistical
+phrase-based machine translation system for translating Finnish into English.
+Our system variations attempt to mitigate the issue of rich agglutinative
+morphology when translating from Finnish into English. Our WMT submission for
+Finnish-English preprocesses Finnish data with omorfi (Pirinen, 2015), a
+Finnish morphological analyzer. We also present results for two other language
+pairs with morphologically interesting source languages, namely German-English
+and Czech-English.
+Author{1}{Firstname}#=%=#Lane
+Author{1}{Lastname}#=%=#Schwartz
+Author{1}{Email}#=%=#dowobeha@gmail.com
+Author{1}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{2}{Firstname}#=%=#Bill
+Author{2}{Lastname}#=%=#Bryce
+Author{2}{Email}#=%=#bryce2@illinois.edu
+Author{2}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{3}{Firstname}#=%=#Chase
+Author{3}{Lastname}#=%=#Geigle
+Author{3}{Email}#=%=#geigle1@illinois.edu
+Author{3}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{4}{Firstname}#=%=#Sean
+Author{4}{Lastname}#=%=#Massung
+Author{4}{Email}#=%=#massung1@illinois.edu
+Author{4}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{5}{Firstname}#=%=#Yisi
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Email}#=%=#yisiliu2@illinois.edu
+Author{5}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{6}{Firstname}#=%=#Haoruo
+Author{6}{Lastname}#=%=#Peng
+Author{6}{Email}#=%=#hpeng7@illinois.edu
+Author{6}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{7}{Firstname}#=%=#Vignesh
+Author{7}{Lastname}#=%=#Raja
+Author{7}{Email}#=%=#vraja2@illinois.edu
+Author{7}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{8}{Firstname}#=%=#Subhro
+Author{8}{Lastname}#=%=#Roy
+Author{8}{Email}#=%=#sroy9@illinois.edu
+Author{8}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{9}{Firstname}#=%=#Shyam
+Author{9}{Lastname}#=%=#Upadhyay
+Author{9}{Email}#=%=#upadhya3@illinois.edu
+Author{9}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+
+==========

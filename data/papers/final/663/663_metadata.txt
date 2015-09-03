@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#663
+FinalPaperTitle#=%=#Search-Aware Tuning for Hierarchical Phrase-based Decoding
+ShortPaperTitle#=%=#Search-Aware Tuning for Hierarchical Phrase-based Decoding
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Feifei Zhai
+JobTitle#==#
+Organization#==#
+Abstract#==#Parameter tuning is a key problem for statistical machine translation (SMT).
+Most popular parameter tuning algorithms for SMT are agnostic of the decoding
+algorithm, resulting in parameters vulnerable to search errors in decoding. The
+recent research of “search-aware tuning” (Liu and Huang, 2014) address this
+problem by forcing the tuning algorithms to consider the translation
+derivations in every decoding step to make promising partial translations more
+likely to survive the in-exact decoding beam. We extend this approach from
+phrase-based translation to syntax-based translation by generalizing the
+translation quality metrics for partial translations to handle tree-structured
+derivations in a way inspired by inside-outside algorithm. Our approach is
+simple to use and can be applied to all conventional parameter tuning methods
+as a plugin. Extensive experiments on Chinese-to- English translation show
+significant BLEU improvements in MERT and MIRA.
+Author{1}{Firstname}#=%=#Feifei
+Author{1}{Lastname}#=%=#Zhai
+Author{1}{Email}#=%=#ffzhai2012@gmail.com
+Author{1}{Affiliation}#=%=#The City University of New York
+Author{2}{Firstname}#=%=#Liang
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Email}#=%=#liang.huang.sh@gmail.com
+Author{2}{Affiliation}#=%=#City University of New York (CUNY)
+Author{3}{Firstname}#=%=#Kai
+Author{3}{Lastname}#=%=#Zhao
+Author{3}{Email}#=%=#kzhao.hf@gmail.com
+Author{3}{Affiliation}#=%=#Graduate Center, CUNY
+
+==========

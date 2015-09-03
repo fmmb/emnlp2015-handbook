@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Which distributional cues help the most? Unsupervised contexts selection for lexical category acquisition
+ShortPaperTitle#=%=#Which distributional cues help the most? Unsupervised contexts selection for lexical category acquisition
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Giovanni Cassani
+JobTitle#==#
+Organization#==#University of Antwerp
+Prinsstraat 13
+2000 Antwerpen
+Abstract#==#Starting from the distributional bootstrapping hypothesis, we propose an
+unsupervised model that selects the most useful distributional information
+according to its salience in the input, incorporating psycholinguistic
+evidence. With a supervised Parts-of-Speech tagging experiment, we provide
+preliminary results suggesting that the distributional contexts extracted by
+our model yield similar performances as compared to current approaches from the
+literature, with a gain in psychological plausibility. We also introduce a more
+principled way to evaluate the effectiveness of distributional contexts in
+helping learners to group words in syntactic categories.
+Author{1}{Firstname}#=%=#Giovanni
+Author{1}{Lastname}#=%=#Cassani
+Author{1}{Email}#=%=#giovanni.cassani@uantwerpen.be
+Author{1}{Affiliation}#=%=#University of Antwerp, CLiPS
+Author{2}{Firstname}#=%=#Robert
+Author{2}{Lastname}#=%=#Grimm
+Author{2}{Email}#=%=#robert.grimm@uantwerpen.be
+Author{2}{Affiliation}#=%=#University of Antwerpen, CLiPS
+Author{3}{Firstname}#=%=#Walter
+Author{3}{Lastname}#=%=#Daelemans
+Author{3}{Email}#=%=#walter.daelemans@ua.ac.be
+Author{3}{Affiliation}#=%=#University of Antwerp, CLiPS
+Author{4}{Firstname}#=%=#Steven
+Author{4}{Lastname}#=%=#Gillis
+Author{4}{Email}#=%=#steven.gillis@ua.ac.be
+Author{4}{Affiliation}#=%=#University of Antwerp, CLiPS
+
+==========

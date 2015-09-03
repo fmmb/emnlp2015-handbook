@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#538
+FinalPaperTitle#=%=#Using Personal Traits For Brand Preference Prediction
+ShortPaperTitle#=%=#Using Personal Traits For Brand Preference Prediction
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Chao Yang
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we present the first comprehensive study of the relationship
+between a person’s traits and his/her brand preferences. In our analysis, we
+included a large number of character traits such as personality, personal
+values and individual needs. These trait features were obtained from both a
+psychometric survey and automated social media analytics. We also included an
+extensive set of brand names from diverse product categories. From this
+analysis, we want to shed some light on (1) whether it is possible to use
+personal traits to infer an individual’s brand preferences (2) whether the
+trait features automatically inferred from social media are good proxies for
+the ground truth character traits in brand preference prediction.
+Author{1}{Firstname}#=%=#Chao
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#chao.yang.us@gmail.com
+Author{1}{Affiliation}#=%=#The University of Iowa
+Author{2}{Firstname}#=%=#Shimei
+Author{2}{Lastname}#=%=#Pan
+Author{2}{Email}#=%=#shimei@umbc.edu
+Author{2}{Affiliation}#=%=#University of Maryland, Baltimore County
+Author{3}{Firstname}#=%=#Jalal
+Author{3}{Lastname}#=%=#Mahmud
+Author{3}{Email}#=%=#jumahmud@us.ibm.com
+Author{3}{Affiliation}#=%=#IBM Research Almaden
+Author{4}{Firstname}#=%=#Huahai
+Author{4}{Lastname}#=%=#Yang
+Author{4}{Email}#=%=#hyang@juji-inc.com
+Author{4}{Affiliation}#=%=#Juji, Inc.
+Author{5}{Firstname}#=%=#Padmini
+Author{5}{Lastname}#=%=#Srinivasan
+Author{5}{Email}#=%=#padmini-srinivasan@uiowa.edu
+Author{5}{Affiliation}#=%=#
+
+==========

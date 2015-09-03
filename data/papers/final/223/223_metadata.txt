@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#223
+FinalPaperTitle#=%=#A Utility Model of Authors in the Scientific Community
+ShortPaperTitle#=%=#A Utility Model of Authors in the Scientific Community
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#yanchuan sim
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Pittsburgh, PA 15213
+Abstract#==#Authoring a scientific paper is a complex process involving many decisions.
+We introduce a probabilistic model of some of the important aspects of that
+process: that authors have individual preferences, that writing a paper
+requires trading off among the preferences of authors as well as extrinsic
+rewards in the form of community response to their papers, that preferences (of
+individuals and the community) and tradeoffs vary over time.
+Variants of our model lead to improved predictive accuracy of citations given
+texts and texts given authors.
+Further, our model's posterior suggests an interesting relationship
+between seniority and author choices.
+Author{1}{Firstname}#=%=#Yanchuan
+Author{1}{Lastname}#=%=#Sim
+Author{1}{Email}#=%=#ysim@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Bryan
+Author{2}{Lastname}#=%=#Routledge
+Author{2}{Email}#=%=#routledge@cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Noah A.
+Author{3}{Lastname}#=%=#Smith
+Author{3}{Email}#=%=#nasmith@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

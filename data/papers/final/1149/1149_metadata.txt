@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#1149
+FinalPaperTitle#=%=#Twitter-scale New Event Detection via K-term Hashing
+ShortPaperTitle#=%=#Twitter-scale New Event Detection via K-term Hashing
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Dominik Wurzer
+JobTitle#==#PhD Student
+Organization#==#University of Edinburgh
+Abstract#==#First Story Detection is hard because the most accurate systems become
+progressively slower with each document processed. We present a novel approach
+to FSD, which operates in constant time/space and scales to very high volume
+streams. We show that when computing novelty over a large dataset of tweets,
+our method performs 192 times faster than a state-of-the-art baseline without
+sacrificing accuracy. Our method is capable of performing FSD on the full
+Twitter stream on a single core of modest hardware.
+Author{1}{Firstname}#=%=#Dominik
+Author{1}{Lastname}#=%=#Wurzer
+Author{1}{Email}#=%=#wurzer.dominik@gmail.com
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Victor
+Author{2}{Lastname}#=%=#Lavrenko
+Author{2}{Email}#=%=#vlavrenk@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#
+Author{3}{Firstname}#=%=#Miles
+Author{3}{Lastname}#=%=#Osborne
+Author{3}{Email}#=%=#milesosb@gmail.com
+Author{3}{Affiliation}#=%=#Bloomberg
+
+==========

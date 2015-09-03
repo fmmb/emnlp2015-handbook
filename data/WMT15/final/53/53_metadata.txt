@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#53
+FinalPaperTitle#=%=#Sheffield Systems for the Finnish-English WMT Translation Task
+ShortPaperTitle#=%=#Sheffield Systems for the Finnish-English WMT Translation Task
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#David Steele
+JobTitle#==#
+Organization#==#Department of Computer Science, The University Of Sheffield, Sheffield, South Yorkshire, UK
+Abstract#==#This paper provides an overview of our
+submission to the
+WMT15 Translation Task for the
+Finnish-English language pair. The submitted
+translations were created from a
+system built using the CDEC decoder.
+Finnish is classed as a synthetic language
+with elements such as nouns and verbs carrying
+a large number of inflectional types. Consequently, our improvements
+are based on morphology and
+include preprocessing steps to handle morphological inflections inherent
+in the language, and which otherwise
+result in lexical sparsity and loss of information.
+Author{1}{Firstname}#=%=#David
+Author{1}{Lastname}#=%=#Steele
+Author{1}{Email}#=%=#dbsteele1@sheffield.ac.uk
+Author{1}{Affiliation}#=%=#The University of Sheffield
+Author{2}{Firstname}#=%=#Karin
+Author{2}{Lastname}#=%=#Sim Smith
+Author{2}{Email}#=%=#kmsimsmith1@sheffield.ac.uk
+Author{2}{Affiliation}#=%=#Sheffield University
+Author{3}{Firstname}#=%=#Lucia
+Author{3}{Lastname}#=%=#Specia
+Author{3}{Email}#=%=#l.specia@sheffield.ac.uk
+Author{3}{Affiliation}#=%=#University of Sheffield
+
+==========

@@ -1,0 +1,53 @@
+SubmissionNumber#=%=#215
+FinalPaperTitle#=%=#Identifying Political Sentiment between Nation States with Social Media
+ShortPaperTitle#=%=#Identifying Political Sentiment between Nation States with Social Media
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#I work for the US Naval Academy:
+
+The work is not copyrighted or has a non-transferrable copyright, because it has been produced by government employees acting within the scope of their employment.
+Abstract#==#This paper describes an approach to large-scale modeling of sentiment analysis
+for the social sciences. The goal is to model relations between nation states
+through social media. Many cross-disciplinary applications of NLP involve
+making predictions (such as predicting political elections), but this paper
+instead focuses on a model that is applicable to broader analysis. Do citizens
+express opinions in line with their home country's formal relations? When
+opinions diverge over time, what is the cause and can social media serve to
+detect these changes? We describe several learning algorithms to study how the
+populace of a country discusses foreign nations on Twitter, ranging from
+state-of-the-art contextual sentiment analysis to some required practical
+learners that filter irrelevant tweets. We evaluate on standard sentiment
+evaluations, but we also show strong correlations with two public opinion polls
+and current international alliance relationships. We conclude with some
+political science use cases.
+Author{1}{Firstname}#=%=#Nathanael
+Author{1}{Lastname}#=%=#Chambers
+Author{1}{Email}#=%=#nchamber@usna.edu
+Author{1}{Affiliation}#=%=#US Naval Academy
+Author{2}{Firstname}#=%=#Victor
+Author{2}{Lastname}#=%=#Bowen
+Author{2}{Email}#=%=#victorbowen2009@gmail.com
+Author{2}{Affiliation}#=%=#United States Naval Academy
+Author{3}{Firstname}#=%=#Ethan
+Author{3}{Lastname}#=%=#Genco
+Author{3}{Email}#=%=#genco@usna.edu
+Author{3}{Affiliation}#=%=#United States Naval Academy
+Author{4}{Firstname}#=%=#Xisen
+Author{4}{Lastname}#=%=#Tian
+Author{4}{Email}#=%=#xisentian@gmail.com
+Author{4}{Affiliation}#=%=#United States Naval Academy
+Author{5}{Firstname}#=%=#Eric
+Author{5}{Lastname}#=%=#Young
+Author{5}{Email}#=%=#ericyoung017@gmail.com
+Author{5}{Affiliation}#=%=#United States Naval Academy
+Author{6}{Firstname}#=%=#Ganesh
+Author{6}{Lastname}#=%=#Harihara
+Author{6}{Email}#=%=#ganeshharihara1@gmail.com
+Author{6}{Affiliation}#=%=#United States Naval Academy
+Author{7}{Firstname}#=%=#Eugene
+Author{7}{Lastname}#=%=#Yang
+Author{7}{Email}#=%=#eugene.yang10@gmail.com
+Author{7}{Affiliation}#=%=#United States Naval Academy
+
+==========

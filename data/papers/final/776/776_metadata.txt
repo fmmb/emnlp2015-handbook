@@ -1,0 +1,49 @@
+SubmissionNumber#=%=#776
+FinalPaperTitle#=%=#Multi-label Text Categorization with Joint Learning Predictions-as-Features Method
+ShortPaperTitle#=%=#Multi-label Text Categorization with Joint Learning Predictions-as-Features Method
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Li Li
+JobTitle#==#
+Organization#==#Key Laboratory of Computational Linguistics(Peking University), Ministry of Education, China
+Abstract#==#Multi-label text categorization is a type of text categorization, where each
+document is assigned to one or more categories. Recently, a series of methods
+have been developed, which train a classifier for each label, organize the
+classifiers in a partially ordered structure and take predictions produced by
+the former classifiers as the latter classifiers' features. These
+predictions-as-features style methods model high order label dependencies and
+obtain high performance. Nevertheless, the predictions-as-features methods
+suffer a drawback. When training a classifier for one label, the
+predictions-as-features methods can model dependencies between former labels
+and the current label, but they can't model dependencies between the current
+label and the latter labels. To address this problem, we propose a novel joint
+learning algorithm that allows the feedbacks to be propagated from the
+classifiers for latter labels to the classifier for the current label. We
+conduct experiments using real-world textual data sets, and these experiments
+illustrate the predictions-as-features models trained by our algorithm
+outperform the original models.
+Author{1}{Firstname}#=%=#Li
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#li.l@pku.edu.cn
+Author{1}{Affiliation}#=%=#Institute of Computational Linguistics, School of Electronics Engineering and Computer Science, Peking University,
+Author{2}{Firstname}#=%=#Houfeng
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#wanghf@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Xu
+Author{3}{Lastname}#=%=#Sun
+Author{3}{Email}#=%=#xusun@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Baobao
+Author{4}{Lastname}#=%=#Chang
+Author{4}{Email}#=%=#chbb@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+Author{5}{Firstname}#=%=#Shi
+Author{5}{Lastname}#=%=#Zhao
+Author{5}{Email}#=%=#z.s@pku.edu.cn
+Author{5}{Affiliation}#=%=#Peking University
+Author{6}{Firstname}#=%=#Lei
+Author{6}{Lastname}#=%=#Sha
+Author{6}{Email}#=%=#shalei120@sina.com
+Author{6}{Affiliation}#=%=#Peking University
+
+==========

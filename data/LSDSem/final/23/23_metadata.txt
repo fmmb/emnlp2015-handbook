@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#Idiom Paraphrases: Seventh Heaven vs Cloud Nine
+ShortPaperTitle#=%=#Idiom Paraphrases: Seventh Heaven vs Cloud Nine
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Maria Pershina
+JobTitle#==#
+Organization#==#New York University
+Abstract#==#The goal of paraphrase identification is to decide whether two given text
+fragments have the same meaning. Of particular interest in this area is the
+identification of paraphrases among short texts, such as SMS and Twitter. In
+this paper, we present idiomatic expressions as a new domain for short-text
+paraphrase identification. We propose a technique, utilizing idiom definitions
+and continuous space word representations that performs competitively on a
+dataset of 1.4K annotated idiom paraphrase pairs, which we make publicly
+available for the research community.
+Author{1}{Firstname}#=%=#Maria
+Author{1}{Lastname}#=%=#Pershina
+Author{1}{Email}#=%=#masha.pershina@gmail.com
+Author{1}{Affiliation}#=%=#New York University
+Author{2}{Firstname}#=%=#Yifan
+Author{2}{Lastname}#=%=#He
+Author{2}{Email}#=%=#yhe@cs.nyu.edu
+Author{2}{Affiliation}#=%=#New York University
+Author{3}{Firstname}#=%=#Ralph
+Author{3}{Lastname}#=%=#Grishman
+Author{3}{Email}#=%=#grishman@cs.nyu.edu
+Author{3}{Affiliation}#=%=#New York University
+
+==========

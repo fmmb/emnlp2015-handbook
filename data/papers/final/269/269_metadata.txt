@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#269
+FinalPaperTitle#=%=#Sentiment Flow - A General Model of Web Review Argumentation
+ShortPaperTitle#=%=#Sentiment Flow - A General Model of Web Review Argumentation
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Henning Wachsmuth
+JobTitle#==#
+Organization#==#Bauhaus-Universität Weimar, Faculty of Media, Bauhausstr. 11, 99423 Weimar, Germany
+Abstract#==#Web reviews have been intensively studied in argumentation-related tasks such
+as sentiment analysis. However, due to their focus on content-based features,
+many sentiment analysis approaches are effective only for reviews from those
+domains they have been specifically modeled for. This paper puts its focus on
+domain independence and asks whether a general model can be found for how
+people argue in web reviews. Our hypothesis is that people express their global
+sentiment on a topic with similar sequences of local sentiment independent of
+the domain. We model such sentiment flow robustly under uncertainty through
+abstraction. To test our hypothesis, we predict global sentiment based on
+sentiment flow. In systematic experiments, we improve over the domain
+independence of strong baselines. Our findings suggest that sentiment flow
+qualifies as a general model of web review argumentation.
+Author{1}{Firstname}#=%=#Henning
+Author{1}{Lastname}#=%=#Wachsmuth
+Author{1}{Email}#=%=#henning.wachsmuth@uni-weimar.de
+Author{1}{Affiliation}#=%=#Bauhaus-Universität Weimar
+Author{2}{Firstname}#=%=#Johannes
+Author{2}{Lastname}#=%=#Kiesel
+Author{2}{Email}#=%=#johannes.kiesel@uni-weimar.de
+Author{2}{Affiliation}#=%=#Bauhaus-Universität Weimar
+Author{3}{Firstname}#=%=#Benno
+Author{3}{Lastname}#=%=#Stein
+Author{3}{Email}#=%=#benno.stein@uni-weimar.de
+Author{3}{Affiliation}#=%=#Bauhaus-Universität Weimar
+
+==========

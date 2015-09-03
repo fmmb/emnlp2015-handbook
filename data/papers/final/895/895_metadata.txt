@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#895
+FinalPaperTitle#=%=#Efficient Inner-to-outer Greedy Algorithm for Higher-order Labeled Dependency Parsing
+ShortPaperTitle#=%=#Efficient Inner-to-outer Greedy Algorithm for Higher-order Labeled Dependency Parsing
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Xuezhe Ma
+JobTitle#==#
+Organization#==#Language Technologies Institute
+Carnegie Mellon University
+5000 Forbes Ave, Pittsburgh, PA 15213, USA
+Abstract#==#Many NLP systems use dependency parsers as critical components. Jonit learning
+parsers usually achieve better parsing accuracies than two-stage methods.
+However, classical joint parsing algorithms significantly increase
+computational complexity, which makes joint learning impractical. In this
+paper, we proposed an efficient dependency parsing algorithm that is capable of
+capturing multiple edge-label features, while maintaining low computational
+complexity. We evaluate our parser on 14 different languages. Our parser
+consistently obtains more accurate results than three baseline systems and
+three popular, off-the-shelf parsers.
+Author{1}{Firstname}#=%=#Xuezhe
+Author{1}{Lastname}#=%=#Ma
+Author{1}{Email}#=%=#xuezhem@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Language Technologies Institute, Carnegie Mellon University
+Author{2}{Firstname}#=%=#Eduard
+Author{2}{Lastname}#=%=#Hovy
+Author{2}{Email}#=%=#hovy@cmu.edu
+Author{2}{Affiliation}#=%=#CMU
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#708
+FinalPaperTitle#=%=#Sieve-Based Spatial Relation Extraction with Expanding Parse Trees
+ShortPaperTitle#=%=#Sieve-Based Spatial Relation Extraction with Expanding Parse Trees
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jennifer DSouza
+JobTitle#==#
+Organization#==#The University of Texas at Dallas
+800 W. Campbell Rd., MS EC31
+Richardson, TX 75080
+Abstract#==#Spatial relation extraction is the under-investigated
+task of identifying the relations on spatial elements. A key challenge
+introduced by the recent SpaceEval shared task on spatial relation extraction
+is
+the identification of MOVELINKs, a type of spatial relation in which up to
+eight spatial
+elements can participate. To handle the complexity of extracting MOVELINKs,
+we combine two ideas that have been successfully applied to information
+extraction
+tasks, namely tree kernels and multi-pass sieves, proposing the use of an
+expanding
+parse tree as a novel structured feature for training MOVELINK classifiers. Our
+approach yields state-of-the-art results on two key subtasks in SpaceEval.
+Author{1}{Firstname}#=%=#Jennifer
+Author{1}{Lastname}#=%=#D'Souza
+Author{1}{Email}#=%=#jld082000@utdallas.edu
+Author{1}{Affiliation}#=%=#University of Texas at Dallas
+Author{2}{Firstname}#=%=#Vincent
+Author{2}{Lastname}#=%=#Ng
+Author{2}{Email}#=%=#vince@hlt.utdallas.edu
+Author{2}{Affiliation}#=%=#University of Texas at Dallas
+
+==========

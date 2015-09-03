@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#50
+FinalPaperTitle#=%=#USHEF and USAAR-USHEF participation in the WMT15 QE shared task
+ShortPaperTitle#=%=#USHEF and USAAR-USHEF participation in the WMT15 QE shared task
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Carolina Scarton
+JobTitle#==#USHEF and USAAR-USHEF participation in the WMT15 QE shared task
+Organization#==#Department of Computer Science
+University of Sheffield
+211 Portobello
+Sheffield
+S1 4DP
+UK
+Abstract#==#We present the results of the USHEF and USAAR-USHEF submissions for the WMT15
+shared task on document-level quality estimation. The USHEF submissions
+explored several document and discourse-aware features. The USAAR-USHEF
+submissions used an exhaustive search approach to select the best features from
+the official baseline. Results show slight improvements over the baseline with
+the use of discourse features. More interestingly, we found that a model of
+comparable performance can be built with only three features selected by the
+exhaustive search procedure.
+Author{1}{Firstname}#=%=#Carolina
+Author{1}{Lastname}#=%=#Scarton
+Author{1}{Email}#=%=#carol.scarton@gmail.com
+Author{1}{Affiliation}#=%=#University of Sheffield
+Author{2}{Firstname}#=%=#Liling
+Author{2}{Lastname}#=%=#Tan
+Author{2}{Email}#=%=#alvations@gmail.com
+Author{2}{Affiliation}#=%=#Universität des Saarlandes
+Author{3}{Firstname}#=%=#Lucia
+Author{3}{Lastname}#=%=#Specia
+Author{3}{Email}#=%=#l.specia@sheffield.ac.uk
+Author{3}{Affiliation}#=%=#University of Sheffield
+
+==========

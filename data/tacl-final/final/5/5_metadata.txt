@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Unsupervised Lexicon Discovery from Acoustic Input
+ShortPaperTitle#=%=#Unsupervised Lexicon Discovery from Acoustic Input
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Chia-ying Lee
+JobTitle#==#
+Organization#==#32 Vassar Street, Cambridge MA 02139 USA
+Abstract#==#We present a model of unsupervised phonological lexicon discovery -- the
+problem of simultaneously learning phoneme-like and word-like units from
+acoustic input. Our model builds on earlier models of unsupervised phone-like
+unit discovery from acoustic data (Lee and Glass, 2012), and unsupervised
+symbolic lexicon discovery using the Adaptor Grammar framework (Johnson et al.,
+2006), integrating these earlier approaches using a probabilistic model of
+phonological variation. We show that the model is competitive with
+state-of-the-art spoken term discovery systems, and present analyses exploring
+the model's behavior and the kinds of linguistic structures it learns.
+Author{1}{Firstname}#=%=#Chia-ying
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Email}#=%=#chiaying@csail.mit.edu
+Author{1}{Affiliation}#=%=#CSAIL MIT
+Author{2}{Firstname}#=%=#Timothy
+Author{2}{Lastname}#=%=#O'Donnell
+Author{2}{Email}#=%=#timod@mit.edu
+Author{2}{Affiliation}#=%=#MIT
+Author{3}{Firstname}#=%=#Jim
+Author{3}{Lastname}#=%=#Glass
+Author{3}{Email}#=%=#glass@mit.edu
+Author{3}{Affiliation}#=%=#Massachusetts Institute of Technology
+
+==========

@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#432
+FinalPaperTitle#=%=#More Features Are Not Always Better: Evaluating Generalizing Models in Incident Type Classification of Tweets
+ShortPaperTitle#=%=#More Features Are Not Always Better: Evaluating Generalizing Models in Incident Type Classification of Tweets
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#BS
+JobTitle#==#Postdoc
+Organization#==#TU Darmstadt - FB 20
+FG Telekooperation
+Hochschulstraße 10
+D-64289 Darmstadt
+Germany
+Abstract#==#Social media is a rich source of up-to-date information about events such as
+incidents. The sheer amount of available information makes machine learning
+approaches a necessity to process this information further. This learning
+problem is often concerned with regionally restricted datasets such as data
+from only one city. Because social media data such as tweets varies
+considerably across different cities, the training of efficient models requires
+labeling data from each city of interest, which is costly and time consuming. 
+
+In this paper, we investigate which features are most suitable for training
+generalizable models, i.e., models that show good performance across different
+datasets. We re-implemented the most popular features from the state of the art
+in addition to other novel approaches, and evaluated them on data from ten
+different cities. We show that many sophisticated features are not necessarily
+valuable for training a generalized model and are outperformed by classic
+features such as plain word-n-grams and character-n-grams.
+Author{1}{Firstname}#=%=#Axel
+Author{1}{Lastname}#=%=#Schulz
+Author{1}{Email}#=%=#schulz.axel@gmx.net
+Author{1}{Affiliation}#=%=#DB Mobility Logistics
+Author{2}{Firstname}#=%=#Christian
+Author{2}{Lastname}#=%=#Guckelsberger
+Author{2}{Email}#=%=#c.guckelsberger@gold.ac.uk
+Author{2}{Affiliation}#=%=#Goldsmiths, University of London, UK
+Author{3}{Firstname}#=%=#Benedikt
+Author{3}{Lastname}#=%=#Schmidt
+Author{3}{Email}#=%=#benedikt.schmidt@tk.informatik.tu-darmstadt.de
+Author{3}{Affiliation}#=%=#TU Darmstadt
+
+==========

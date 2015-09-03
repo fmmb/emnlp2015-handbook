@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Towards a Model of Prediction-based Syntactic Category Acquisition: First Steps with Word Embeddings
+ShortPaperTitle#=%=#Prediction-based Syntactic Category Acquisition
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Robert Grimm
+JobTitle#==#
+Organization#==#Computational Linguistics & Psycholinguistics Research Center 
+Universiteit Antwerpen - Stadscampus
+Lange Winkelstraat 40-42
+B-2000 Antwerpen
+Belgium
+Abstract#==#We present a prototype model, based on a combination of count-based
+distributional semantics and prediction-based neural word embeddings, which
+learns about syntactic categories as a function of (1) writing contextual,
+phonological, and lexical-stress-related information to memory and (2)
+predicting upcoming context words based on memorized information. The system is
+a first step towards utilizing recently popular methods from Natural Language
+Processing for exploring the role of prediction in childrens' acquisition of
+syntactic categories.
+Author{1}{Firstname}#=%=#Robert
+Author{1}{Lastname}#=%=#Grimm
+Author{1}{Email}#=%=#robert.grimm@uantwerpen.be
+Author{1}{Affiliation}#=%=#University of Antwerpen, CLiPS
+Author{2}{Firstname}#=%=#Giovanni
+Author{2}{Lastname}#=%=#Cassani
+Author{2}{Email}#=%=#giovanni.cassani@uantwerpen.be
+Author{2}{Affiliation}#=%=#University of Antwerp, CLiPS
+Author{3}{Firstname}#=%=#Walter
+Author{3}{Lastname}#=%=#Daelemans
+Author{3}{Email}#=%=#walter.daelemans@ua.ac.be
+Author{3}{Affiliation}#=%=#University of Antwerp, CLiPS
+Author{4}{Firstname}#=%=#Steven
+Author{4}{Lastname}#=%=#Gillis
+Author{4}{Email}#=%=#steven.gillis@uantwerpen.be
+Author{4}{Affiliation}#=%=#University of Antwerpen, CLiPS
+
+==========

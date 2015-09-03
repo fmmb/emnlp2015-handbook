@@ -1,0 +1,11 @@
+Restores "%ext tacl-finel:ID" entries in the order file.
+Also changes poster clusters from sessions to generic items.
+
+Usage:
+- Get the order file from start (in the example: order_in.txt)
+- Get the schedule in TSV format from google docs (in the example: schedule.tsv)
+- Run the command:
+
+./merge-tacl-data.py order_in.txt schedule.tsv > order_out.tsv
+
+The order file with the %ext tags is in order_out.tsv.

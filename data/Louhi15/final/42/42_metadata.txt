@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#42
+FinalPaperTitle#=%=#Identifying Key Concepts from EHR Notes Using Domain Adaptation
+ShortPaperTitle#=%=#Identifying Key Concepts from EHR Notes Using Domain Adaptation
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Jiaping Zheng
+JobTitle#==#
+Organization#==#University of Massachusetts Amherst
+150 Governors Dr
+Amherst, MA 01003
+Abstract#==#Linking electronic health records (EHRs) to relevant education materials can
+provide patient-centered tailored education which can potentially improve
+patients' medical knowledge, self-management and clinical outcome.
+It is shown that EHR query generation using key concept identification improves
+retrieval of education materials.
+In this study, we explored domain adaptation approaches to improve key concept
+identification.
+Our experiments show that a 20.7% improvement in the F1 measure can be achieved
+by leveraging data from Wikipedia.
+Queries generated from the best performing approach achieved a 20.6% and 27.8%
+improvement over the queries generated from the baseline approach.
+Author{1}{Firstname}#=%=#Jiaping
+Author{1}{Lastname}#=%=#Zheng
+Author{1}{Email}#=%=#jzheng@cs.umass.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#Hong
+Author{2}{Lastname}#=%=#Yu
+Author{2}{Email}#=%=#hong.yu@umassmed.edu
+Author{2}{Affiliation}#=%=#Bedford VA Medical Center
+
+==========

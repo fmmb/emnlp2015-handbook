@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#580
+FinalPaperTitle#=%=#A Dynamic Programming Algorithm for Computing N-gram Posteriors from Lattices
+ShortPaperTitle#=%=#A Dynamic Programming Algorithm for Computing N-gram Posteriors from Lattices
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Dogan Can
+JobTitle#==#
+Organization#==#University of Southern California
+Los Angeles, CA, 90089
+Abstract#==#Efficient computation of n-gram posterior probabilities from lattices has
+applications in lattice-based minimum Bayes-risk decoding in statistical
+machine translation and the estimation of expected document frequencies from
+spoken corpora. In this paper, we present an algorithm for computing the
+posterior probabilities of all n-grams in a lattice and constructing a minimal
+deterministic weighted finite-state automaton associating each n-gram with its
+posterior for efficient storage and retrieval. Our algorithm builds upon the
+best known algorithm in literature for computing n-gram posteriors from
+lattices and leverages the following observations to significantly improve the
+time and space requirements: i) the n-grams for which the posteriors will be
+computed typically comprises all n-grams in the lattice up to a certain length,
+ii) posterior is equivalent to expected count for an n-gram that do not repeat
+on any path, iii) there are efficient algorithms for computing n-gram expected
+counts from lattices. We present experimental results comparing our algorithm
+with the best known algorithm in literature as well as a baseline algorithm
+based on weighted finite-state automata operations.
+Author{1}{Firstname}#=%=#Dogan
+Author{1}{Lastname}#=%=#Can
+Author{1}{Email}#=%=#dogancan@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Shrikanth
+Author{2}{Lastname}#=%=#Narayanan
+Author{2}{Email}#=%=#shri@sipi.usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+
+==========

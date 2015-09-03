@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#821
+FinalPaperTitle#=%=#Automatic Extraction of Time Expressions Accross Domains in French Narratives
+ShortPaperTitle#=%=#Automatic Extraction of Time Expressions Accross Domains in French Narratives
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Aurélie Névéol
+JobTitle#==#
+Organization#==#LIMSI-CNRS
+Rue John von Neumann
+Université Paris-Sud
+91403 ORSAY
+France
+Abstract#==#The prevalence of temporal references accross all types of natural language
+utterances makes temporal analysis a key issue in Natural Language Processing.
+This work adresses three research questions: 1/is temporal expression
+recognition specific to a particular domain? 2/if so, can we characterize
+domain specificity? and 3/how can sudomain  specificity be integrated in a
+single tool for unified temporal expression extraction? Herein, we assess
+temporal expression recognition from documents written in French covering three
+domains. We present a new corpus of clinical narratives annotated for temporal
+expressions, and also use existing corpora in the newswire and historical
+domains. We show that temporal expressions can be extracted with high
+performance across domains (best F-measure 0.96 obtained with a CRF model on
+clinical narratives). We argue that domain adaptation for the extraction of
+temporal expressions can be done with limited efforts and should cover
+pre-processing as well as temporal specific tasks.
+Author{1}{Firstname}#=%=#Mike Donald
+Author{1}{Lastname}#=%=#Tapi Nzali
+Author{1}{Email}#=%=#mike-donald.tapi-nzali@lirmm.fr
+Author{1}{Affiliation}#=%=#Université de Montpellier, LIRMM, I3M
+Author{2}{Firstname}#=%=#Xavier
+Author{2}{Lastname}#=%=#Tannier
+Author{2}{Email}#=%=#xtannier@limsi.fr
+Author{2}{Affiliation}#=%=#LIMSI-CNRS, Univ. Paris-Sud
+Author{3}{Firstname}#=%=#Aurelie
+Author{3}{Lastname}#=%=#Neveol
+Author{3}{Email}#=%=#neveol@limsi.fr
+Author{3}{Affiliation}#=%=#LIMSI-CNRS
+
+==========

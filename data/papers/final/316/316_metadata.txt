@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#316
+FinalPaperTitle#=%=#A Transition-based Model for Joint Segmentation, POS-tagging and Normalization
+ShortPaperTitle#=%=#A Transition-based Model for Joint Segmentation, POS-tagging and Normalization
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Tao Qian
+JobTitle#==#Phd.
+Organization#==#Computer School of Wuhan University, Wuhan, China
+Abstract#==#We propose a transition-based model for joint word segmentation, POS tagging
+and text normalization. Different from previous methods, the model can be
+trained on standard text corpora, overcoming the lack of annotated microblog
+corpora. To evaluate our model, we develop an annotated corpus based on
+microblogs. Experimental results show that our joint model can help improve the
+performance of word segmentation on microblogs, giving an error reduction in
+segmentation accuracy of 12.02%, compared to the traditional approach.
+Author{1}{Firstname}#=%=#Tao
+Author{1}{Lastname}#=%=#Qian
+Author{1}{Email}#=%=#taoqian@whu.edu.cn
+Author{1}{Affiliation}#=%=#Wuhan University
+Author{2}{Firstname}#=%=#Yue
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{3}{Firstname}#=%=#Meishan
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#meishan_zhang@sutd.edu.sg
+Author{3}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{4}{Firstname}#=%=#Yafeng
+Author{4}{Lastname}#=%=#Ren
+Author{4}{Email}#=%=#renyafeng@whu.edu.cn
+Author{4}{Affiliation}#=%=#Wuhan University
+Author{5}{Firstname}#=%=#Donghong
+Author{5}{Lastname}#=%=#Ji
+Author{5}{Email}#=%=#dhji@whu.edu.cn
+Author{5}{Affiliation}#=%=#Wuhan University
+
+==========

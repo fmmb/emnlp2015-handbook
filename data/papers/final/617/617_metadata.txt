@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#617
+FinalPaperTitle#=%=#Joint Prediction for Entity/Event-Level Sentiment Analysis using Probabilistic Soft Logic Models
+ShortPaperTitle#=%=#Joint Prediction for Entity/Event-Level Sentiment Analysis using Probabilistic Soft Logic Models
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Lingjia Deng
+JobTitle#==#
+Organization#==#Intelligent System Program, University of Pittsburgh
+5113 Sennott Square
+210 South Bouquet Street
+Pittsburgh, PA 15260
+Abstract#==#In this work, we build an entity/event-level sentiment analysis system, which
+is able to recognize and infer both explicit and implicit sentiments toward
+entities and events in the text. We design Probabilistic Soft Logic models that
+integrate explicit sentiments, inference rules, and +/-effect event information
+(events that positively or negatively affect entities). The experiments show
+that the method is able to greatly improve over baseline accuracies in
+recognizing entity/event-level sentiments.
+Author{1}{Firstname}#=%=#Lingjia
+Author{1}{Lastname}#=%=#Deng
+Author{1}{Email}#=%=#lingjiadeng@gmail.com
+Author{1}{Affiliation}#=%=#University of Pittsburgh
+Author{2}{Firstname}#=%=#Janyce
+Author{2}{Lastname}#=%=#Wiebe
+Author{2}{Email}#=%=#wiebe@cs.pitt.edu
+Author{2}{Affiliation}#=%=#University of Pittsburgh
+
+==========

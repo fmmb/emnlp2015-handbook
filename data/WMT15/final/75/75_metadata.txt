@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#75
+FinalPaperTitle#=%=#Improving evaluation and optimization of MT systems against MEANT
+ShortPaperTitle#=%=#Improving evaluation and optimization of MT systems against MEANT
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Chi-kiu Lo
+JobTitle#==#Student
+Organization#==#HKUST
+Department of Computer Science and Engineering
+Hong Kong University of Science and Technology
+Abstract#==#We show that, consistent with MEANTtuned systems that translate into Chinese,
+MEANT-tuned MT systems that translate into English also outperforms BLEUtuned
+systems across commonly used MT evaluation metrics, even in BLEU. The result
+is achieved by significantly improving MEANT’s sentence-level ranking
+correlation with human preferences through incorporating a more accurate
+distributional semantic model for lexical similarity and a novel backoff
+algorithm for evaluating MT output which automatic semantic parser fails to
+parse. The surprising result of MEANT-tuned systems having a higher BLEU score
+than BLEU-tuned systems suggests that MEANT is a more accurate objective
+function guiding the development of MT systems towards producing more adequate
+translation.
+Author{1}{Firstname}#=%=#Chi-kiu
+Author{1}{Lastname}#=%=#Lo
+Author{1}{Email}#=%=#jackielo@cs.ust.hk
+Author{1}{Affiliation}#=%=#HKUST
+Author{2}{Firstname}#=%=#Philipp
+Author{2}{Lastname}#=%=#Dowling
+Author{2}{Email}#=%=#philipp.dowling@gmail.com
+Author{2}{Affiliation}#=%=#HKUST
+Author{3}{Firstname}#=%=#Dekai
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Email}#=%=#dekai@cs.ust.hk
+Author{3}{Affiliation}#=%=#HKUST
+
+==========

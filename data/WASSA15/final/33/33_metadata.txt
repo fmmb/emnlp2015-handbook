@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#33
+FinalPaperTitle#=%=#Extending effect annotation with lexical decomposition
+ShortPaperTitle#=%=#Extending effect annotation with lexical decomposition
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Josef Ruppenhofer
+JobTitle#==#
+Organization#==#Universität Hildesheim
+Universitätsplatz 1
+D-31141 Hildesheim
+Abstract#==#In this contribution, we report on an effort to annotate German data with
+information relevant to opinion inference. Such information has previously been
+referred to as effect or couched in terms of event-evaluation functors. We
+extend                                                  prior theory by making use of
+lexical
+decomposition
+and
+present
+an
+extensive scheme that combines both approaches and thus broadens the set of
+inference-relevant predicates. Applying our newly developed guidelines to the
+annotation of 726 GermaNet synsets, we achieve a quite high level of
+inter-annotator agreement.
+Author{1}{Firstname}#=%=#Josef
+Author{1}{Lastname}#=%=#Ruppenhofer
+Author{1}{Email}#=%=#josef.ruppenhofer@uni-hildesheim.de
+Author{1}{Affiliation}#=%=#Hildesheim University
+Author{2}{Firstname}#=%=#Jasper
+Author{2}{Lastname}#=%=#Brandes
+Author{2}{Email}#=%=#brandesj@uni-hildesheim.de
+Author{2}{Affiliation}#=%=#Hildesheim University
+
+==========

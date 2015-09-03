@@ -1,0 +1,49 @@
+SubmissionNumber#=%=#480
+FinalPaperTitle#=%=#Distributional vectors encode referential attributes
+ShortPaperTitle#=%=#Distributional vectors encode referential attributes
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Gemma Boleda
+JobTitle#==#
+Organization#==#University of Trento
+via Calepina, 14
+I-38122 Trento
+Italy
+Abstract#==#Distributional methods have proven to excel at capturing fuzzy, graded
+  aspects of meaning (Italy is more
+  similar to Spain than to Germany). In contrast, it is
+  difficult to extract the values of more specific attributes of word
+  referents from distributional representations, attributes of the
+  kind typically found in structured knowledge bases (Italy has
+  60 million inhabitants).  In this paper, we pursue the
+  hypothesis that distributional vectors also implicitly encode
+  referential attributes. 
+
+  We show that a standard supervised
+  regression model is in fact sufficient to retrieve such
+  attributes to a reasonable degree of accuracy:
+  When evaluated on the prediction of both categorical and
+  numeric attributes of countries and cities,
+  the model consistently reduces baseline error by 30%,
+  and is not far from the upper bound.
+  Further analysis suggests that
+  our model is able to ``objectify''
+  distributional representations for entities, anchoring
+  them more firmly in the external world in measurable ways.
+Author{1}{Firstname}#=%=#Abhijeet
+Author{1}{Lastname}#=%=#Gupta
+Author{1}{Email}#=%=#abhijeet.gupta@ims-uni-stuttgart.de
+Author{1}{Affiliation}#=%=#University of Stuttgart
+Author{2}{Firstname}#=%=#Gemma
+Author{2}{Lastname}#=%=#Boleda
+Author{2}{Email}#=%=#gemma.boleda@upf.edu
+Author{2}{Affiliation}#=%=#University of Trento
+Author{3}{Firstname}#=%=#Marco
+Author{3}{Lastname}#=%=#Baroni
+Author{3}{Email}#=%=#marco.baroni@unitn.it
+Author{3}{Affiliation}#=%=#University of Trento
+Author{4}{Firstname}#=%=#Sebastian
+Author{4}{Lastname}#=%=#Padó
+Author{4}{Email}#=%=#pado@ims.uni-stuttgart.de
+Author{4}{Affiliation}#=%=#Stuttgart University
+
+==========

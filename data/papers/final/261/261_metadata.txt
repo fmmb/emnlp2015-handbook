@@ -1,0 +1,51 @@
+SubmissionNumber#=%=#261
+FinalPaperTitle#=%=#Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation
+ShortPaperTitle#=%=#Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#We introduce a model for constructing vector representations of words by
+composing characters using bidirectional LSTMs. Relative to traditional word
+representation models that have independent vectors for each word type, our
+model requires only a single vector per character type and a fixed set of
+parameters for the compositional model. Despite the compactness of this model
+and, more importantly, the arbitrary nature of the form--function relationship
+in language, our "composed" word representations yield state-of-the-art
+results in language modeling and part-of-speech tagging. Benefits over
+traditional baselines are particularly pronounced in morphologically rich
+languages (e.g., Turkish).
+Author{1}{Firstname}#=%=#Wang
+Author{1}{Lastname}#=%=#Ling
+Author{1}{Email}#=%=#wanglin1122@gmail.com
+Author{1}{Affiliation}#=%=#CMU-LTI & INESC-ID
+Author{2}{Firstname}#=%=#Chris
+Author{2}{Lastname}#=%=#Dyer
+Author{2}{Email}#=%=#cdyer@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Alan W
+Author{3}{Lastname}#=%=#Black
+Author{3}{Email}#=%=#awb@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Isabel
+Author{4}{Lastname}#=%=#Trancoso
+Author{4}{Email}#=%=#isabel.trancoso@inesc-id.pt
+Author{4}{Affiliation}#=%=#INESC-ID
+Author{5}{Firstname}#=%=#Ramon
+Author{5}{Lastname}#=%=#Fermandez
+Author{5}{Email}#=%=#ramon@astudillo.com
+Author{5}{Affiliation}#=%=#INESC-ID
+Author{6}{Firstname}#=%=#Silvio
+Author{6}{Lastname}#=%=#Amir
+Author{6}{Email}#=%=#samir@inesc-id.pt
+Author{6}{Affiliation}#=%=#INESC-ID, IST
+Author{7}{Firstname}#=%=#Luis
+Author{7}{Lastname}#=%=#Marujo
+Author{7}{Email}#=%=#lmarujo@cs.cmu.edu
+Author{7}{Affiliation}#=%=#LTI/CMU and INESC-ID/IST
+Author{8}{Firstname}#=%=#Tiago
+Author{8}{Lastname}#=%=#Luis
+Author{8}{Email}#=%=#tmcl@l2f.inesc-id.pt
+Author{8}{Affiliation}#=%=#INESC-ID/IST
+
+==========

@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#31
+FinalPaperTitle#=%=#ParFDA for Fast Deployment of Accurate Statistical Machine Translation Systems, Benchmarks, and  Statistics
+ShortPaperTitle#=%=#ParFDA for Fast Deployment of Accurate SMT
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#ERGUN BICICI
+JobTitle#==#
+Organization#==#ADAPT Research Center, School of Computing, Dublin City University, Ireland
+Abstract#==#We build parallel FDA5 (ParFDA) Moses statistical machine translation (SMT)
+systems for all language pairs in the 
+workshop on statistical machine translation~\cite{WMT2015} (WMT15) translation
+task and obtain results close to the top 
+with an average of $3.176$ BLEU points difference using significantly less
+resources for building SMT systems.
+ParFDA is a parallel implementation feature decay algorithms (FDA) developed
+for fast deployment of accurate SMT
+systems~\cite{Bicici:FDA4FDA:WMT13,Bicici:FDA54FDA:WMT14,BiciciYuret:FDA5:TASLP
+}.
+ParFDA Moses SMT system we built is able to obtain the top TER performance in
+French to English translation.
+We make the data for building ParFDA Moses SMT systems for WMT15 available: 
+\url{https://github.com/bicici/ParFDAWMT15}.
+Author{1}{Firstname}#=%=#Ergun
+Author{1}{Lastname}#=%=#Bicici
+Author{1}{Email}#=%=#ergun.bicici@dcu.ie
+Author{1}{Affiliation}#=%=#ADAPT CNGL Centre for Global Intelligent Content, Dublin City University
+Author{2}{Firstname}#=%=#Qun
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#qliu@computing.dcu.ie
+Author{2}{Affiliation}#=%=#Dublin City University
+Author{3}{Firstname}#=%=#Andy
+Author{3}{Lastname}#=%=#Way
+Author{3}{Email}#=%=#away@computing.dcu.ie
+Author{3}{Affiliation}#=%=#CNGL, Dublin City University
+
+==========

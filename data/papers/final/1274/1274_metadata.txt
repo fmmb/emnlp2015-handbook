@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#1274
+FinalPaperTitle#=%=#The Overall Markedness of Discourse Relations
+ShortPaperTitle#=%=#The Overall Markedness of Discourse Relations
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Lifeng Jin
+JobTitle#==#
+Organization#==#The Ohio State University
+1711 Neil Avenue
+Columbus OH 43210
+Abstract#==#Discourse relations can be categorized as continuous or discontinuous in the
+hypothesis of continuity (Murray, 1997), with continuous relations expressing
+normal succession of events in discourse such as temporal, spatial or causal.
+Asr and Demberg (2013) propose a markedness measure to test the prediction that
+discontinuous relations may have more unambiguous connectives, but restrict the
+markedness calculation to relations with explicit connectives only. This paper
+extends their measure to explicit and implicit relations and shows that results
+from this extension better fit the continuity hypothesis predictions both for
+the English Penn Discourse (Prasad et al., 2008) and the Chinese Discourse
+(Zhou and Xue, 2015) Treebanks.
+Author{1}{Firstname}#=%=#Lifeng
+Author{1}{Lastname}#=%=#Jin
+Author{1}{Email}#=%=#jin.544@osu.edu
+Author{1}{Affiliation}#=%=#The Ohio State University
+Author{2}{Firstname}#=%=#Marie-Catherine
+Author{2}{Lastname}#=%=#de Marneffe
+Author{2}{Email}#=%=#mcdm@ling.ohio-state.edu
+Author{2}{Affiliation}#=%=#The Ohio State University
+
+==========

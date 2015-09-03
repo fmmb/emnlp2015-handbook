@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#858
+FinalPaperTitle#=%=#Evaluation of Word Vector Representations by Subspace Alignment
+ShortPaperTitle#=%=#Evaluation of Word Vector Representations by Subspace Alignment
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yulia Tsvetkov
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Abstract#==#Unsupervisedly learned word vectors have proven to provide exceptionally
+effective features in many NLP tasks. Most common intrinsic evaluations of
+vector quality measure correlation with similarity judgments. However, these
+often correlate poorly with how well the learned representations perform as
+features in downstream evaluation tasks. We present QVEC —a computationally
+inexpensive intrinsic evaluation measure of the quality of word embeddings
+based on alignment to a matrix of features extracted from manually crafted
+lexical resources—that obtains strong correlation with performance of the
+vectors in a battery of downstream semantic evaluation tasks.
+Author{1}{Firstname}#=%=#Yulia
+Author{1}{Lastname}#=%=#Tsvetkov
+Author{1}{Email}#=%=#yulia.tsvetkov@gmail.com
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Manaal
+Author{2}{Lastname}#=%=#Faruqui
+Author{2}{Email}#=%=#manaalfar@gmail.com
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Wang
+Author{3}{Lastname}#=%=#Ling
+Author{3}{Email}#=%=#wanglin1122@gmail.com
+Author{3}{Affiliation}#=%=#CMU-LTI & INESC-ID
+Author{4}{Firstname}#=%=#Guillaume
+Author{4}{Lastname}#=%=#Lample
+Author{4}{Email}#=%=#guillaume.lample@gmail.com
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+Author{5}{Firstname}#=%=#Chris
+Author{5}{Lastname}#=%=#Dyer
+Author{5}{Email}#=%=#cdyer@cs.cmu.edu
+Author{5}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

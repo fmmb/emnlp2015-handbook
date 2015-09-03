@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Generating Semantically Precise Scene Graphs from Textual Descriptions for Improved Image Retrieval
+ShortPaperTitle#=%=#Generating Semantically Precise Scene Graphs from Textual Descriptions for Improved Image Retrieval
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Sebastian Schuster
+JobTitle#==#
+Organization#==#Stanford University
+Abstract#==#Semantically complex queries which include attributes of objects and relations
+between objects still pose a major challenge to image retrieval systems. Recent
+work in computer vision has shown that a graph-based semantic representation
+called a scene graph is an effective representation for very detailed image
+descriptions and for complex queries for retrieval. In this paper, we show that
+scene graphs can be effectively created automatically from a natural language
+scene description. We present a rule-based and a classifier-based scene graph
+parser whose output can be used for image retrieval. We show that including
+relations and attributes in the query graph outperforms a model that only
+considers objects and that using the output of our parsers is almost as
+effective as using human-constructed scene graphs (Recall@10 of 27.1% vs.
+33.4%). Additionally, we demonstrate the general usefulness of parsing to scene
+graphs by showing that the output can also be used to generate 3D scenes.
+Author{1}{Firstname}#=%=#Sebastian
+Author{1}{Lastname}#=%=#Schuster
+Author{1}{Email}#=%=#sebschu@cs.stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Ranjay
+Author{2}{Lastname}#=%=#Krishna
+Author{2}{Email}#=%=#rak248@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Angel
+Author{3}{Lastname}#=%=#Chang
+Author{3}{Email}#=%=#angelx@stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+Author{4}{Firstname}#=%=#Li
+Author{4}{Lastname}#=%=#Fei-Fei
+Author{4}{Email}#=%=#feifeili@cs.stanford.edu
+Author{4}{Affiliation}#=%=#Stanford University
+Author{5}{Firstname}#=%=#Christopher D.
+Author{5}{Lastname}#=%=#Manning
+Author{5}{Email}#=%=#manning@cs.stanford.edu
+Author{5}{Affiliation}#=%=#Stanford University
+
+==========

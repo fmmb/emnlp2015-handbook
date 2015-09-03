@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#28
+FinalPaperTitle#=%=#Is it possible to recover personal health information from an automatically de-identified corpus of French EHRs?
+ShortPaperTitle#=%=#Is it possible to recover personal health information from an automatically de-identified corpus of French EHRs?
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Cyril Grouin
+JobTitle#==#
+Organization#==#LIMSI-CNRS
+Rue John von Neumann
+91400 Orsay
+Abstract#==#De-identification aims at preserving patient confidentiality while enabling the
+use of clinical documents for furthering medical research. Herein, we aim to
+evaluate patient re-identification chances on a corpus of clinical documents in
+French. Personal Health Identifiers are automatically marked by a
+de-identification system applied to the corpus, followed by reintroduction of
+plausible surrogates. The resulting documents are shown to individuals with
+varying knowledge of the documents and de-identification method. The
+individuals are asked to re-identify the patients. The amount of information
+recovered increases with familiarity with the documents and/or
+de-identification method. Surrogate re-introduction with localization from the
+same (vs. different) geographical area as the original documents is found more
+effective. The amount of information recovered was not sufficient to
+re-identify any of the patients, except when privileged access to the hospital
+health information system and several documents about the same patient were
+available.
+Author{1}{Firstname}#=%=#Cyril
+Author{1}{Lastname}#=%=#Grouin
+Author{1}{Email}#=%=#cyril.grouin@limsi.fr
+Author{1}{Affiliation}#=%=#LIMSI-CNRS
+Author{2}{Firstname}#=%=#Nicolas
+Author{2}{Lastname}#=%=#Griffon
+Author{2}{Email}#=%=#nicolas.griffon@chu-rouen.fr
+Author{2}{Affiliation}#=%=#Inserm UMR_S 1142 LIMICS, CISMeF-TIBS-LITIS EA 4108, CHU de Rouen
+Author{3}{Firstname}#=%=#Aurélie
+Author{3}{Lastname}#=%=#Névéol
+Author{3}{Email}#=%=#neveol@limsi.fr
+Author{3}{Affiliation}#=%=#LIMSI-CNRS
+
+==========

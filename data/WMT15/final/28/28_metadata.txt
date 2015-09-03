@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#28
+FinalPaperTitle#=%=#ListNet-based MT Rescoring
+ShortPaperTitle#=%=#ListNet-based MT Rescoring
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Jan Niehues
+JobTitle#==#
+Organization#==#Karlsruhe Institute of Technology
+Kaiserstraße 12
+76131 Karlsruhe
+Abstract#==#The log-linear combination of different features is an important component of
+SMT systems. It allows for the easy integartion of models into the system and
+is used during decoding as well as for n-best list rescoring. With the recent
+success of more complex models like neural network-based translation models,
+n-best list rescoring attracts again more attention. In this work, we present
+a new technique to train the log-linear model based on the ListNet algorithm.
+This technique scales to many features, considers the whole list and not single
+entries during learning and can also be applied to more complex models than a
+log-linear combination.  Using the new learning approach, we improve the
+translation quality of a large-scale system by 0.8 BLEU points during rescoring
+and generate translations which are up to 0.3 BLEU points better than other
+learning techniques such as MERT or MIRA.
+Author{1}{Firstname}#=%=#Jan
+Author{1}{Lastname}#=%=#Niehues
+Author{1}{Email}#=%=#jan.niehues@kit.edu
+Author{1}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{2}{Firstname}#=%=#Quoc-Khanh
+Author{2}{Lastname}#=%=#DO
+Author{2}{Email}#=%=#dokhanh@limsi.fr
+Author{2}{Affiliation}#=%=#LIMSI/CNRS laboratory, University Paris-Sud, France
+Author{3}{Firstname}#=%=#Alexandre
+Author{3}{Lastname}#=%=#Allauzen
+Author{3}{Email}#=%=#allauzen@limsi.fr
+Author{3}{Affiliation}#=%=#Université Paris-Sud / LIMSI-CNRS
+Author{4}{Firstname}#=%=#Alex
+Author{4}{Lastname}#=%=#Waibel
+Author{4}{Email}#=%=#alex.waibel@kit.edu
+Author{4}{Affiliation}#=%=#Karlsruhe Institute of Technology
+
+==========

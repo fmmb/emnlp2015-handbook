@@ -1,0 +1,26 @@
+* Thursday, September 17, 2015
+= 09:00--10:30 Session I - Corpus creation # %room Room 3 %chair1 Thierry Hamon %aff1 LIMSI-CNRS
+15   # In-depth annotation for patient level liver cancer staging
+31   # Predicting Continued Participation in Online Health Forums
+32   # Redundancy in French Electronic Health Records: A preliminary study
+28   # Is it possible to recover personal health information from an automatically de-identified corpus of French EHRs?
+= 11:00--12:30 Session II - Poster # %room Lower Level Foyer %chair1 Cyril Grouin %aff1 LIMSI-CNRS %chair2 Thierry Hamon
+2   # An Analysis of Biomedical Tokenization: Problems and Strategies
+13   # Annotation of Clinically Important Follow-up Recommendations in Radiology Reports
+16   # On the Impact of Twitter-based Health Campaigns: A Cross-Country Analysis of Movember
+18   # Exploring Word Embedding for Drug Name Recognition
+21   # Creating a rule based system for text mining of Norwegian breast cancer pathology reports
+22   # Parser Adaptation to the Biomedical Domain without Re-Training
+24   # Expanding a dictionary of marker words for uncertainty and negation using distributional semantics
+25   # Held-out versus Gold Standard: Comparison of Evaluation Strategies for Distantly Supervised Relation Extraction from Medline abstracts
+27   # Checking a structured pathology report for completeness of content using terminological knowledge
+29   # Effectively Crowdsourcing Radiology Report Annotations
+42   # Identifying Key Concepts from EHR Notes Using Domain Adaptation
++ 12:30--14:00 Lunch break
+= 14:00--15:30 Session III - Invited talk # %room Room 3 %chair1 Thierry Hamon %aff1 LIMSI-CNRS
+45   # Information Extraction from Biomedical Texts: Learning Models with Limited Supervision
+= 16:00--17:30 Session IV - Corpus processing # %room Room 3 %chair1 Cyril Grouin %aff1 LIMSI-CNRS
+5   # Adverse Drug Event classification of health records using dictionary based pre-processing and machine learning
+37   # NLP___Based Readability Assessment of Health___Related Texts: a Case Study on Italian Informed Consent Forms
+39   # Mining and Ranking Biomedical Synonym Candidates from Wikipedia
+44   # Representing Clinical Notes for Adverse Drug Event Detection

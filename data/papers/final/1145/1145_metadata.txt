@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#1145
+FinalPaperTitle#=%=#Higher-order logical inference with compositional semantics
+ShortPaperTitle#=%=#Higher-order logical inference with compositional semantics
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Koji Mineshima
+JobTitle#==#
+Organization#==#
+Abstract#==#We present a higher-order inference system based on a formal compositional
+semantics and the wide-coverage CCG parser. We develop an improved method to
+bridge between the parser and semantic composition. The system is evaluated on
+the FraCaS test suite. In contrast to the widely held view that higher-order
+logic
+is unsuitable for efficient logical inferences, the results show that a system
+based on a reasonably-sized semantic lexicon
+and a manageable number of non-first-order axioms enables efficient logical
+inferences,
+including those concerned with generalized quantifiers and intensional
+operators,
+and outperforms the state-of-the-art first-order inference system.
+Author{1}{Firstname}#=%=#Koji
+Author{1}{Lastname}#=%=#Mineshima
+Author{1}{Email}#=%=#mineshima.koji@ocha.ac.jp
+Author{1}{Affiliation}#=%=#Ochanomizu University
+Author{2}{Firstname}#=%=#Pascual
+Author{2}{Lastname}#=%=#Martínez-Gómez
+Author{2}{Email}#=%=#pascual@nii.ac.jp
+Author{2}{Affiliation}#=%=#Ochanomizu University, National Institute of Informatics
+Author{3}{Firstname}#=%=#Yusuke
+Author{3}{Lastname}#=%=#Miyao
+Author{3}{Email}#=%=#yusuke@nii.ac.jp
+Author{3}{Affiliation}#=%=#National Instutite of Informatics
+Author{4}{Firstname}#=%=#Daisuke
+Author{4}{Lastname}#=%=#Bekki
+Author{4}{Email}#=%=#bekki@is.ocha.ac.jp
+Author{4}{Affiliation}#=%=#Ochanomizu University
+
+==========

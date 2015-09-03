@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#Baseline Models for Pronoun Prediction and Pronoun-Aware Translation
+ShortPaperTitle#=%=#Baseline Models for Pronoun Prediction and Pronoun-Aware Translation
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Jörg Tiedemann
+JobTitle#==#
+Organization#==#University of Helsinki
+Abstract#==#This paper presents baseline models for the cross-lingual pronoun prediction
+task
+and the pronoun-focused translation task at DiscoMT 2015. We present
+simple yet effective classifiers for the former and discuss the impact
+of various contextual features on the prediction performance. In the
+translation task we rely on the document-level decoder Docent and a
+cross-sentence target language-model over selected words based on the
+parts-of-speech of the aligned source language words.
+Author{1}{Firstname}#=%=#Jörg
+Author{1}{Lastname}#=%=#Tiedemann
+Author{1}{Email}#=%=#jorg.tiedemann@lingfil.uu.se
+Author{1}{Affiliation}#=%=#Uppsala University
+
+==========

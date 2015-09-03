@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#1192
+FinalPaperTitle#=%=#An Unsupervised Method for Discovering Lexical Variations in Roman Urdu Informal Text
+ShortPaperTitle#=%=#An Unsupervised Method for Discovering Lexical Variations in Roman Urdu Informal Text
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Hassan Sajjad
+JobTitle#==#
+Organization#==#QCRI, Tornado tower 10th floor, 5825 WestBay, Doha Qatar
+Abstract#==#We present an unsupervised method to find lexical variations in Roman Urdu
+informal text. Our method includes a phonetic algorithm UrduPhone, a
+featurebased similarity function, and a clustering algorithm Lex-C. UrduPhone
+encodes roman Urdu strings to their phonetic equivalent representations. This
+produces an initial grouping of different spelling variations of a word. The
+similarity function incorporates word features and their context.
+Lex-C is a variant of k-medoids clustering algorithm that group lexical
+variations. It
+incorporates a similarity threshold to balance the number of clusters and their
+maximum
+similarity. We test our system on two datasets of SMS and blogs and show
+an f-measure gain of up to 12% from baseline systems.
+Author{1}{Firstname}#=%=#Abdul
+Author{1}{Lastname}#=%=#Rafae
+Author{1}{Email}#=%=#13030008@lums.edu.pk
+Author{1}{Affiliation}#=%=#Lahore University of Management Science
+Author{2}{Firstname}#=%=#Abdul
+Author{2}{Lastname}#=%=#Qayyum
+Author{2}{Email}#=%=#aq480@itu.edu.pk
+Author{2}{Affiliation}#=%=#Information Technology University
+Author{3}{Firstname}#=%=#Muhammad
+Author{3}{Lastname}#=%=#Moeenuddin
+Author{3}{Email}#=%=#moeen.uddin@itu.edu.pk
+Author{3}{Affiliation}#=%=#ITU
+Author{4}{Firstname}#=%=#Asim
+Author{4}{Lastname}#=%=#Karim
+Author{4}{Email}#=%=#akarim@lums.edu.pk
+Author{4}{Affiliation}#=%=#Lahore University of Management Science
+Author{5}{Firstname}#=%=#Hassan
+Author{5}{Lastname}#=%=#Sajjad
+Author{5}{Email}#=%=#hsajjad@qf.org.qa
+Author{5}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{6}{Firstname}#=%=#Faisal
+Author{6}{Lastname}#=%=#Kamiran
+Author{6}{Email}#=%=#faisal.kamiran@itu.edu.pk
+Author{6}{Affiliation}#=%=#Information Technology University
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1460
+FinalPaperTitle#=%=#Can Symbol Grounding Improve Low-Level NLP? Word Segmentation as a Case Study
+ShortPaperTitle#=%=#Can Symbol Grounding Improve Low-Level NLP? Word Segmentation as a Case Study
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Hirotaka Kameko
+JobTitle#==#
+Organization#==#The University of Tokyo
+7-3-1, Hongo, Bunkyo-ku, Tokyo, Japan
+Abstract#==#We propose a novel framework for improving a word segmenter using information
+acquired from symbol grounding.
+We generate a term dictionary in three steps: generating a
+pseudo-stochastically segmented corpus, building a symbol grounding model to
+enumerate word candidates, and filtering them according to the grounding
+scores.
+We applied our method to game records of Japanese chess with commentaries.
+The experimental results show that the accuracy of a word segmenter can be
+improved by incorporating the generated dictionary.
+Author{1}{Firstname}#=%=#Hirotaka
+Author{1}{Lastname}#=%=#Kameko
+Author{1}{Email}#=%=#kameko@logos.t.u-tokyo.ac.jp
+Author{1}{Affiliation}#=%=#The University of Tokyo
+Author{2}{Firstname}#=%=#Shinsuke
+Author{2}{Lastname}#=%=#Mori
+Author{2}{Email}#=%=#forest@i.kyoto-u.ac.jp
+Author{2}{Affiliation}#=%=#Kyoto University
+Author{3}{Firstname}#=%=#Yoshimasa
+Author{3}{Lastname}#=%=#Tsuruoka
+Author{3}{Email}#=%=#tsuruoka@logos.t.u-tokyo.ac.jp
+Author{3}{Affiliation}#=%=#The University of Tokyo
+
+==========

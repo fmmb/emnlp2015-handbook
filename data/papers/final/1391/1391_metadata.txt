@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1391
+FinalPaperTitle#=%=#Morphological Analysis for Unsegmented Languages using Recurrent Neural Network Language Model
+ShortPaperTitle#=%=#Morphological Analysis for Unsegmented Languages using Recurrent Neural Network Language Model
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Hajime Morita
+JobTitle#==#
+Organization#==#Kyoto University, Yoshida-honmachi, Sakyo-ku
+Kyoto, 606-8501, Japan
+Abstract#==#We present a new morphological analysis model that considers semantic
+plausibility of word sequences by using a recurrent neural network language
+model (RNNLM). In unsegmented languages, since language models are learned from
+automatically segmented texts and inevitably contain errors, it is not apparent
+that conventional language models contribute to morphological analysis. To
+solve this problem, we do not use language models based on raw word sequences
+but use a semantically generalized language model, RNNLM, in morphological
+analysis. In our experiments on two Japanese corpora, our proposed model
+significantly outperformed baseline models. This result indicates the
+effectiveness of RNNLM in morphological analysis.
+Author{1}{Firstname}#=%=#Hajime
+Author{1}{Lastname}#=%=#Morita
+Author{1}{Email}#=%=#morita@nlp.ist.i.kyoto-u.ac.jp
+Author{1}{Affiliation}#=%=#Kyoto University
+Author{2}{Firstname}#=%=#Daisuke
+Author{2}{Lastname}#=%=#Kawahara
+Author{2}{Email}#=%=#dk@i.kyoto-u.ac.jp
+Author{2}{Affiliation}#=%=#Kyoto University
+Author{3}{Firstname}#=%=#Sadao
+Author{3}{Lastname}#=%=#Kurohashi
+Author{3}{Email}#=%=#kuro@i.kyoto-u.ac.jp
+Author{3}{Affiliation}#=%=#Kyoto University
+
+==========

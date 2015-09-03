@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#Checking a structured pathology report for completeness of content using terminological knowledge
+ShortPaperTitle#=%=#Checking a structured pathology report for completeness of content using terminological knowledge
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Sebastian Busse
+JobTitle#==#
+Organization#==#Department Informatics and Media
+Brandenburg University of Applied Sciences
+
+Magdeburger Strasse 50
+14770 Brandenburg an der Havel, Germany
+Abstract#==#Structuring of information helps people to gain a quick overview of complex
+issues and facilitates the transfer of large amounts of data. In the medical
+field, such data are transferred using defined standards (HL7, DICOM) or in
+conjunction with terminology systems (SNOMED CT, ICD-10, LOINC). This paper
+focuses on the structuring of diagnostic reports in the field of anatomic
+pathology. It describes how to make the content of these reports semantically
+understandable for machines. Finally, it will be shown that structured
+pathology reports can be checked for completeness of content in a computerized
+way by using terminological knowledge. For this purpose, an ontology has been
+designed that describes the subdomain of reporting a radical prostatectomy
+specimen.
+Author{1}{Firstname}#=%=#Sebastian
+Author{1}{Lastname}#=%=#Busse
+Author{1}{Email}#=%=#busses@fh-brandenburg.de
+Author{1}{Affiliation}#=%=#Brandenburg University of Applied Sciences, Department Informatics and Media
+
+==========

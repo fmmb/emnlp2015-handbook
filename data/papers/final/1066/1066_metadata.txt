@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1066
+FinalPaperTitle#=%=#An Unsupervised Bayesian Modelling Approach for Storyline Detection on News Articles
+ShortPaperTitle#=%=#An Unsupervised Bayesian Modelling Approach for Storyline Detection on News Articles
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#deyu zhou
+JobTitle#==#
+Organization#==#Deyu Zhou
+School of Computer Science and Engineering, Southeast University, China
+Abstract#==#Storyline detection from news articles aims at summarizing events described
+under a certain news topic and revealing how those events evolve over time. It
+is a difficult task because it requires first the detection of events from news
+articles published in different time periods and then the construction of
+storylines by linking events into coherent news stories. Moreover, each
+storyline has different hierarchical structures which are dependent across
+epochs. Existing approaches often ignore the dependency of hierarchical
+structures in storyline generation. In this paper, we propose an unsupervised
+Bayesian model, called dynamic storyline detection model, to extract structured
+representations and evolution patterns of storylines. The proposed model is
+evaluated on a large scale news corpus. Experimental results show that our
+proposed model outperforms several baseline approaches.
+Author{1}{Firstname}#=%=#Deyu
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Email}#=%=#d.zhou@seu.edu.cn
+Author{1}{Affiliation}#=%=#School of computer science and engineering, Southeast University
+Author{2}{Firstname}#=%=#Haiyang
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Email}#=%=#h.xu@seu.edu.cn
+Author{2}{Affiliation}#=%=#School of Computer Science and Engineering, Southeast University
+Author{3}{Firstname}#=%=#Yulan
+Author{3}{Lastname}#=%=#He
+Author{3}{Email}#=%=#y.he9@aston.ac.uk
+Author{3}{Affiliation}#=%=#Aston University
+
+==========

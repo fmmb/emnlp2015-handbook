@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#Evaluating Models of Computation and Storage in Human Sentence Processing
+ShortPaperTitle#=%=#Evaluating Models of Computation and Storage in Human Sentence Processing
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Thang Luong
+JobTitle#==#
+Organization#==#Stanford University. Computer Science Department, Stanford University, Stanford, CA, 94305
+Abstract#==#In understanding human language processing system, there are two important
+aspects addressed independently: how to explain people’s reading difficulty,
+i.e., predicting reaction times, and how the linguistic system balances reuse
+and storage of lexical units for productive computation, i.e., how often
+frequently used structures are cached. Despite much work on each of these
+individual topics, none has addressed the problem of finding which grain-size
+of lexical units best predicts reaction times. In this paper, we examine
+several models of productivity and reuse, previously proposed to study
+morphology, in the syntax realm. Specifically, we demonstrate on both the
+Dundee eye-tracking corpus and the MIT reading time corpus, that fragment
+grammars, a model that optimizes the tradeoff between computation and storage,
+is able to better explain people’s reaction times than two baseline models
+which favor either storage or computation exclusively. Additionally, we make a
+contribution by extending an existing incremental parser to handle more general
+grammars and scale well to larger rule and data sets.
+Author{1}{Firstname}#=%=#Thang
+Author{1}{Lastname}#=%=#Luong
+Author{1}{Email}#=%=#luong.m.thang@gmail.com
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Timothy
+Author{2}{Lastname}#=%=#O'Donnell
+Author{2}{Email}#=%=#timod@mit.edu
+Author{2}{Affiliation}#=%=#MIT
+Author{3}{Firstname}#=%=#Noah
+Author{3}{Lastname}#=%=#Goodman
+Author{3}{Email}#=%=#ngoodman@stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+
+==========

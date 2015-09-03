@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Comparing Attribute Classifiers for Interactive Language Grounding
+ShortPaperTitle#=%=#Comparing Attribute Classifiers for Interactive Language Grounding
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yanchao Yu
+JobTitle#==#
+Organization#==#Yanchao Yu, Heriot-Watt University, Edinburgh
+EH14 4AS, United Kingdom
+Abstract#==#We address the problem of interactively learning perceptually grounded word
+meanings in a multimodal dialogue system. We design a semantic and visual
+processing system to support this and illustrate how they can be integrated. We
+then focus on comparing the performance (Precision, Recall, F1, AUC) of three
+state-of-the-art attribute classifiers for the purpose of interactive language
+grounding (MLKNN, DAP, and SVMs), on the aPascal-aYahoo datasets. In prior
+work, results were presented for object classification using these methods for
+attribute labelling, whereas we focus on their performance for attribute
+labelling itself. We find that while these methods can perform well for some of
+the attributes (e.g. head, ears, furry) none of these models has good
+performance over the whole attribute set, and none supports incremental
+learning. This leads us to suggest directions for future work.
+Author{1}{Firstname}#=%=#Yanchao
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Email}#=%=#y.yu@hw.ac.uk
+Author{1}{Affiliation}#=%=#Heriot-Watt University
+Author{2}{Firstname}#=%=#Arash
+Author{2}{Lastname}#=%=#Eshghi
+Author{2}{Email}#=%=#eshghi.a@gmail.com
+Author{2}{Affiliation}#=%=#Heriot-Watt University
+Author{3}{Firstname}#=%=#Oliver
+Author{3}{Lastname}#=%=#Lemon
+Author{3}{Email}#=%=#olemon@gmail.com
+Author{3}{Affiliation}#=%=#Heriot-Watt University
+
+==========

@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Modeling dative alternations of individual children
+ShortPaperTitle#=%=#Modeling dative alternations of individual children
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Antal van den Bosch
+JobTitle#==#
+Organization#==#Centre for Language Studies
+Radboud University
+PO Box 9103
+NL-6500 HD Nijmegen
+The Netherlands
+Abstract#==#We address the question whether children can acquire mature use of higher-level
+grammatical choices from the linguistic input, given only general prior
+knowledge and learning biases. We do so on the basis of a case study with the
+dative alternation in English,
+building on a study by De Marneffe et al. (2012) who model the production of
+the dative alternation by seven young children, using data from the Child
+Language Data Exchange System corpus. Using mixed-effects logistic modelling on
+the aggregated data of these  children, De Marneffe et al. report that the
+children's choices can be predicted both by their own utterances and by
+child-directed speech. Here we bring the computational modeling down to the
+individual child, using memory-based learning and incremental learning curve
+studies. We observe that for all children, their dative choices are best
+predicted by a model trained on child-directed speech. Yet, models trained on
+two individual children for which sufficient data is available are about as
+accurate. Furthermore, models trained on the dative alternations of these
+children provide approximations of dative alternations in caregiver speech that
+are about as accurate as training and testing on caregiver data only.
+Author{1}{Firstname}#=%=#Antal
+Author{1}{Lastname}#=%=#van den Bosch
+Author{1}{Email}#=%=#a.vandenbosch@let.ru.nl
+Author{1}{Affiliation}#=%=#Radboud University Nijmegen
+Author{2}{Firstname}#=%=#Joan
+Author{2}{Lastname}#=%=#Bresnan
+Author{2}{Email}#=%=#bresnan@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+
+==========

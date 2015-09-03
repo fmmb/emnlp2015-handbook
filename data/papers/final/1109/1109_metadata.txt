@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#1109
+FinalPaperTitle#=%=#What Your Username Says About You
+ShortPaperTitle#=%=#What Your Username Says About You
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Aaron Jaech
+JobTitle#==#
+Organization#==#
+Abstract#==#Usernames are ubiquitous on the Internet,and they are often suggestive of user
+demographics. This work looks at the degree to which gender and language can be
+inferred  from a username alone by making use of unsupervised morphology
+induction to decompose              usernames into sub-units. Experimental results on
+the
+two tasks demonstrate the effectiveness of the proposed morphological features
+compared to a character n-gram baseline.
+Author{1}{Firstname}#=%=#Aaron
+Author{1}{Lastname}#=%=#Jaech
+Author{1}{Email}#=%=#ajaech@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Mari
+Author{2}{Lastname}#=%=#Ostendorf
+Author{2}{Email}#=%=#mo@ee.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+
+==========

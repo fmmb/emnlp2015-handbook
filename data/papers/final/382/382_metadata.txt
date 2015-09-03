@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#382
+FinalPaperTitle#=%=#Compact, Efficient and Unlimited Capacity: Language Modeling with Compressed Suffix Trees
+ShortPaperTitle#=%=#Language Modeling with Compressed Suffix Trees
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ehsan Shareghi
+JobTitle#==#
+Organization#==#Faculty of Information Technology
+Monash University
+Clayton, VIC 3800, Australia
+Abstract#==#Efficient methods for storing and querying language models are critical for
+scaling to large corpora and high Markov orders. In this paper we propose
+methods for modeling extremely large corpora without imposing a Markov
+condition. At its core, our approach uses a succinct index – a compressed
+suffix tree – which provides near optimal compression while supporting
+efficient search. We present algorithms for on-the-fly computation of
+probabilities under a Kneser-Ney language model. Our technique is exact and
+although slower than leading LM toolkits, it shows promising scaling
+properties, which we demonstrate through infinite-order modeling over the full
+Wikipedia collection.
+Author{1}{Firstname}#=%=#Ehsan
+Author{1}{Lastname}#=%=#Shareghi
+Author{1}{Email}#=%=#ehsan.shareghi@monash.edu
+Author{1}{Affiliation}#=%=#Monash University
+Author{2}{Firstname}#=%=#Matthias
+Author{2}{Lastname}#=%=#Petri
+Author{2}{Email}#=%=#Matthias.Petri@unimelb.edu.au
+Author{2}{Affiliation}#=%=#University of Melbourne
+Author{3}{Firstname}#=%=#Gholamreza
+Author{3}{Lastname}#=%=#Haffari
+Author{3}{Email}#=%=#gholamreza.haffari@monash.edu
+Author{3}{Affiliation}#=%=#Monash University
+Author{4}{Firstname}#=%=#Trevor
+Author{4}{Lastname}#=%=#Cohn
+Author{4}{Email}#=%=#tcohn@unimelb.edu.au
+Author{4}{Affiliation}#=%=#University of Melbourne
+
+==========

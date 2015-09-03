@@ -1,0 +1,13 @@
+abbrev EMNLP
+type CONFERENCE
+title The 2015 Conference on Empirical Methods in Natural Language Processing
+url http://www.emnlp2015.org/
+booktitle Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing
+month September
+year 2015
+location Lisbon, Portugal
+publisher Association for Computational Linguistics
+chairs Lluís Màrquez (Qatar Computing Research Institute)
+chairs Chris Callison-Burch (University of Pennsylvania)
+chairs Jian Su (Institute for Infocomm Research - I2R)
+bib_url https://aclweb.org/anthology/D/D15/D15-1%03d

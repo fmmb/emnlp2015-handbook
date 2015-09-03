@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#587
+FinalPaperTitle#=%=#Estimation of Discourse Segmentation Labels from Crowd Data
+ShortPaperTitle#=%=#Estimation of Discourse Segmentation Labels from Crowd Data
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Rebecca J. Passonneau
+JobTitle#==#
+Organization#==#Center for Computational Learning Systems
+Columbia University
+New York, NY, USA
+Abstract#==#For annotation tasks involving independent judgments, probabilistic models have
+been used to infer ground truth labels from data where a crowd of many
+annotators labels the same items.  Such models have been shown to produce
+results superior to taking the majority vote, but have not been applied to
+sequential data. We present two methods to infer ground truth labels from
+sequential annotations where we assume judgments are not independent, based on
+the observation that an annotator's segments all tend to be several utterances
+long. The data consists of crowd labels for annotation of discourse segment
+boundaries. The new methods extend Hidden Markov Models to relax the
+independence assumption. The two methods are distinct, so positive labels
+proposed by both are taken to be ground truth. In addition, results of the
+models are checked using metrics that test whether an annotator's accuracy
+relative to a given model remains consistent across different conversations.
+Author{1}{Firstname}#=%=#Ziheng
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Email}#=%=#zh2220@columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Jialu
+Author{2}{Lastname}#=%=#Zhong
+Author{2}{Email}#=%=#jz2612@columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University
+Author{3}{Firstname}#=%=#Rebecca J.
+Author{3}{Lastname}#=%=#Passonneau
+Author{3}{Email}#=%=#becky@ccls.columbia.edu
+Author{3}{Affiliation}#=%=#Columbia University
+
+==========

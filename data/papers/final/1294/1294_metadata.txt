@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1294
+FinalPaperTitle#=%=#Efficient Hyper-parameter Optimization for NLP Applications
+ShortPaperTitle#=%=#Efficient Hyper-parameter Optimization for NLP Applications
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Lidan Wang
+JobTitle#==#
+Organization#==#IBM Watson, 1101 Kitchawan Road, Yorktown Heights, NY, USA
+Abstract#==#Hyper-parameter optimization is an important problem in natural language
+processing (NLP) and machine learning. Recently, a group of studies has focused
+on using sequential Bayesian Optimization to solve this problem, which aims to
+reduce the number of iterations and trials required during the optimization
+process. In this paper, we explore this problem from a different angle, and
+propose a multi-stage hyper-parameter optimization that breaks the problem into
+multiple stages with increasingly amounts of data. Early stage provides fast
+estimates of good candidates which are used to initialize later stages for
+better performance and speed. We demonstrate the utility of this new algorithm
+by evaluating its speed and accuracy against state-of-the-art Bayesian
+Optimization algorithms on classification and prediction tasks.
+Author{1}{Firstname}#=%=#Lidan
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#lidan101@gmail.com
+Author{1}{Affiliation}#=%=#IBM Watson
+Author{2}{Firstname}#=%=#Minwei
+Author{2}{Lastname}#=%=#Feng
+Author{2}{Email}#=%=#mfeng@us.ibm.com
+Author{2}{Affiliation}#=%=#IBM Watson
+Author{3}{Firstname}#=%=#Bowen
+Author{3}{Lastname}#=%=#Zhou
+Author{3}{Email}#=%=#zhou@us.ibm.com
+Author{3}{Affiliation}#=%=#IBM Watson
+Author{4}{Firstname}#=%=#Bing
+Author{4}{Lastname}#=%=#Xiang
+Author{4}{Email}#=%=#bingxia@us.ibm.com
+Author{4}{Affiliation}#=%=#IBM Watson
+Author{5}{Firstname}#=%=#Sridhar
+Author{5}{Lastname}#=%=#Mahadevan
+Author{5}{Email}#=%=#mahadeva@cs.umass.edu
+Author{5}{Affiliation}#=%=#University of Massachusetts, Amherst; IBM Watson
+
+==========

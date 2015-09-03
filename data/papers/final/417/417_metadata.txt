@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#417
+FinalPaperTitle#=%=#Discourse parsing for multi-party chat dialogues
+ShortPaperTitle#=%=#Discourse parsing for multi-party chat dialogues
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Stergos Afantenos
+JobTitle#==#
+Organization#==#IRIT, Université Paul Sabatier and CNRS, 
+118 Route de Narbonne
+F-31062 TOULOUSE CEDEX 9
+Abstract#==#In this paper we present the first ever, to the best of our knowledge,
+discourse parser for multi-party chat dialogues. Discourse in multi-party
+dialogues dramatically differs from monologues since threaded conversations are
+commonplace rendering prediction of the discourse structure compelling.
+Moreover, the fact that our data come from chats renders the use of syntactic
+and lexical information useless since people take great liberties in expressing
+themselves lexically and syntactically. We use the dependency parsing paradigm
+as has been done in the past (Muller et al., 2012; Li et al., 2014). We learn
+local probability distributions and then use MST for decoding. We achieve
+0.680\ F_1 on unlabelled structures and 0.516\ F_1 on fully labeled structures
+which is better than many state of the art systems for monologues, despite the
+inherent difficulties that multi-party chat dialogues have.
+Author{1}{Firstname}#=%=#Stergos
+Author{1}{Lastname}#=%=#Afantenos
+Author{1}{Email}#=%=#stergos.afantenos@irit.fr
+Author{1}{Affiliation}#=%=#IRIT and CNRS, University of Toulouse
+Author{2}{Firstname}#=%=#Eric
+Author{2}{Lastname}#=%=#Kow
+Author{2}{Email}#=%=#eric.kow@irit.fr
+Author{2}{Affiliation}#=%=#IRIT, University of Toulouse
+Author{3}{Firstname}#=%=#Nicholas
+Author{3}{Lastname}#=%=#Asher
+Author{3}{Email}#=%=#nicholas.asher@irit.fr
+Author{3}{Affiliation}#=%=#CNRS Institut de Recherche en Informatique de Toulouse
+Author{4}{Firstname}#=%=#Jérémy
+Author{4}{Lastname}#=%=#Perret
+Author{4}{Email}#=%=#jeremy.perret@irit.fr
+Author{4}{Affiliation}#=%=#IRIT - University of Toulouse
+
+==========

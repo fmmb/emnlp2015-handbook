@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#762
+FinalPaperTitle#=%=#Factorization of Latent Variables in Distributional Semantic Models
+ShortPaperTitle#=%=#Factorization of Latent Variables in Distributional Semantic Models
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Magnus Sahlgren
+JobTitle#==#
+Organization#==#Gavagai
+Bondegatan 21
+11633 Stockholm
+Sweden
+Abstract#==#This paper discusses the use of factorization techniques in distributional
+semantic models. We focus on a method for redistributing the weight of latent
+variables, which have previously been shown to improve the performance of
+distributional semantic models. However, this result has not been replicated
+and remains poorly understood. We refine the method, and provide additional
+theoretical justification, as well as empirical results that demonstrate the
+viability of the proposed approach.
+Author{1}{Firstname}#=%=#Arvid
+Author{1}{Lastname}#=%=#Österlund
+Author{1}{Email}#=%=#arvidos@kth.se
+Author{1}{Affiliation}#=%=#KTH
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Ödling
+Author{2}{Email}#=%=#dodling@kth.se
+Author{2}{Affiliation}#=%=#KTH
+Author{3}{Firstname}#=%=#Magnus
+Author{3}{Lastname}#=%=#Sahlgren
+Author{3}{Email}#=%=#mange@gavagai.se
+Author{3}{Affiliation}#=%=#Gavagai
+
+==========

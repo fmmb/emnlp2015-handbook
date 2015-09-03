@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Recovering discourse relations: Varying influence of discourse adverbials
+ShortPaperTitle#=%=#Recovering discourse relations: Varying influence of discourse adverbials
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Bonnie Webber
+JobTitle#==#
+Organization#==#University of Edinburgh
+10 Crichton Street
+Edinburgh EH8 9AB
+UK
+Abstract#==#Discourse relations are a bridge between sentence-level semantics and
+discourse-level semantics. They can be signalled explicitly with discourse
+connectives or conveyed implicitly, to be inferred by a comprehender. The same
+discourse units can be related in more than one way, signalled by multiple
+connectives. But multiple connectives aren’t necessary: Multiple relations
+can be conveyed even when
+only one connective is explicit. This paper describes the initial phase in a
+larger experimental study aimed at answering two questions: (1) Given an
+explicit discourse adverbial, what discourse relation(s) do naive subjects take
+to be operative, and (2) Can this be predicted on the basis of the explicit
+adverbial alone, or does it depend instead on other factors?
+Author{1}{Firstname}#=%=#Hannah
+Author{1}{Lastname}#=%=#Rohde
+Author{1}{Email}#=%=#hr@hannahrohde.org
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Anna
+Author{2}{Lastname}#=%=#Dickinson
+Author{2}{Email}#=%=#anna.y.dickinson@gmail.com
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Chris
+Author{3}{Lastname}#=%=#Clark
+Author{3}{Email}#=%=#s1133345@sms.ed.ac.uk
+Author{3}{Affiliation}#=%=#University of Edinburgh
+Author{4}{Firstname}#=%=#Annie
+Author{4}{Lastname}#=%=#Louis
+Author{4}{Email}#=%=#alouis@inf.ed.ac.uk
+Author{4}{Affiliation}#=%=#University of Edinburgh
+Author{5}{Firstname}#=%=#Bonnie
+Author{5}{Lastname}#=%=#Webber
+Author{5}{Email}#=%=#bonnie.webber@ed.ac.uk
+Author{5}{Affiliation}#=%=#University of Edinburgh
+
+==========

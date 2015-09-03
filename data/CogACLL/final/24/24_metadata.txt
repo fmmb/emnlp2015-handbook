@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#Units in segmentation: a computational investigation
+ShortPaperTitle#=%=#Units in segmentation: a computational investigation
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Çağrı Çöltekin
+JobTitle#==#
+Organization#==#Universität Tübingen
+Seminar für Sprachwissenschaft
+Wilhelmstr. 19
+72074 Tübingen
+Abstract#==#This study investigates the use of syllables and phone(me)s in computational
+models of segmentation in early language acquisition. We results of experiments
+with both syllables and phonemes as the basic unit using a standard
+state-of-the-art segmentation model. We evaluate the model output based on both
+word- and morpheme-segmented gold standards on child-directed speech corpora
+from two typologically different languages. Our results do not indicate a clear
+advantage for one unit or the other. We argue that the computational advantage
+for the syllable suggested in earlier research may be an artifact of the
+particular language and/or segmentation strategy used in these studies.
+Author{1}{Firstname}#=%=#Çağrı
+Author{1}{Lastname}#=%=#Çöltekin
+Author{1}{Email}#=%=#ccoltekin@sfs.uni-tuebingen.de
+Author{1}{Affiliation}#=%=#University of Tübingen
+
+==========

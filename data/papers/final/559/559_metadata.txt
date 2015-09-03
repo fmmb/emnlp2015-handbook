@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#559
+FinalPaperTitle#=%=#Mise en Place: Unsupervised Interpretation of Instructional Recipes
+ShortPaperTitle#=%=#Mise en Place: Unsupervised Interpretation of Instructional Recipes
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Chloe Kiddon
+JobTitle#==#
+Organization#==#University of Washington, Dept. of Computer Science and Engineering
+Mailstop 352350
+University of Washington
+Seattle, WA, 98195-2350
+Abstract#==#We present an unsupervised hard EM approach to automatically mapping
+instructional recipes to action graphs, which define what actions should be
+performed on which objects and in what order. Recovering such structures can be
+challenging, due to unique properties of procedural language where, for
+example, verbal arguments are commonly elided when they can be inferred from
+context and disambiguation often requires world knowledge. Our probabilistic
+model incorporates aspects of procedural semantics and world knowledge, such as
+likely locations and selectional preferences for different actions. Experiments
+with cooking recipes demonstrate the ability to recover high quality action
+graphs, outperforming a strong sequential baseline by 8 points in F1, while
+also discovering general-purpose knowledge about cooking.
+Author{1}{Firstname}#=%=#Chloé
+Author{1}{Lastname}#=%=#Kiddon
+Author{1}{Email}#=%=#chloe@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Ganesa Thandavam
+Author{2}{Lastname}#=%=#Ponnuraj
+Author{2}{Email}#=%=#gthandavam@gmail.com
+Author{2}{Affiliation}#=%=#Stony Brook University
+Author{3}{Firstname}#=%=#Luke
+Author{3}{Lastname}#=%=#Zettlemoyer
+Author{3}{Email}#=%=#lsz@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Yejin
+Author{4}{Lastname}#=%=#Choi
+Author{4}{Email}#=%=#yejin@cs.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+
+==========

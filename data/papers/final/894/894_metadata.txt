@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#894
+FinalPaperTitle#=%=#Arabic Diacritization with Recurrent Neural Networks
+ShortPaperTitle#=%=#Arabic Diacritization with Recurrent Neural Networks
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Yonatan Belinkov
+JobTitle#==#
+Organization#==#MIT CSAIL
+Abstract#==#Arabic, Hebrew, and similar languages are typically written without diacritics,
+leading to ambiguity and posing a major challenge for core language processing
+tasks like speech recognition. Previous approaches to automatic diacritization
+employed a variety of machine learning techniques. However, they typically rely
+on existing tools like morphological analyzers and therefore cannot be easily
+extended to new genres and languages. We develop a recurrent neural network
+with long short-term memory layers for predicting diacritics in Arabic text.
+Our language-independent approach is trained solely from diacritized text
+without relying on external tools. We show experimentally that our model can
+rival state-of-the-art methods that have access to additional resources.
+Author{1}{Firstname}#=%=#Yonatan
+Author{1}{Lastname}#=%=#Belinkov
+Author{1}{Email}#=%=#belinkov@mit.edu
+Author{1}{Affiliation}#=%=#MIT CSAIL
+Author{2}{Firstname}#=%=#James
+Author{2}{Lastname}#=%=#Glass
+Author{2}{Email}#=%=#glass@mit.edu
+Author{2}{Affiliation}#=%=#Massachusetts Institute of Technology
+
+==========

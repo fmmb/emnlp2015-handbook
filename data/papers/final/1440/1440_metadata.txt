@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#1440
+FinalPaperTitle#=%=#Named Entity Recognition for Chinese Social Media with Jointly Trained Embeddings
+ShortPaperTitle#=%=#Named Entity Recognition for Chinese Social Media with Jointly Trained Embeddings
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Nanyun Peng
+JobTitle#==#
+Organization#==#Johns Hopkins University
+Baltimore, MD, 21218
+Abstract#==#We consider the task of named entity
+recognition for Chinese social media. The
+long line of work in Chinese NER has focused
+on formal domains, and NER for
+social media has been largely restricted
+to English. We present a new corpus of
+Weibo messages annotated for both name
+and nominal mentions. Additionally, we
+evaluate three types of neural embedding
+for representing Chinese text. Finally, we
+propose a joint training objective for the
+embeddings that makes use of both (NER)
+labeled and unlabeled raw text. Our methods
+yield a 9% improvement over a state-of-the-art
+baseline.
+Author{1}{Firstname}#=%=#Nanyun
+Author{1}{Lastname}#=%=#Peng
+Author{1}{Email}#=%=#pengnanyun@gmail.com
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Mark
+Author{2}{Lastname}#=%=#Dredze
+Author{2}{Email}#=%=#mdredze@cs.jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+
+==========

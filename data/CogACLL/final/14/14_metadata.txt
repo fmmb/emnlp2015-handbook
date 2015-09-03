@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Using reading behavior to predict grammatical functions
+ShortPaperTitle#=%=#Using reading behavior to predict grammatical functions
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Maria Barrett
+JobTitle#==#
+Organization#==#Njalsgade 140
+DK-2300 Copenhagen S
+Denmark
+Abstract#==#This paper investigates to what extent grammatical functions of a word can be
+predicted from gaze features obtained using eye-tracking. A recent study showed
+that reading behavior can be used to predict coarse-grained part of speech, but
+we go beyond this, and show that gaze features can also be used to make more
+fine-grained distinctions between grammatical functions, e.g., subjects and
+objects. In addition, we show that gaze features can be used to improve a
+discriminative transition-based dependency parser.
+Author{1}{Firstname}#=%=#Maria
+Author{1}{Lastname}#=%=#Barrett
+Author{1}{Email}#=%=#dtq912@hum.ku.dk
+Author{1}{Affiliation}#=%=#University og Copenhagen
+Author{2}{Firstname}#=%=#Anders
+Author{2}{Lastname}#=%=#Søgaard
+Author{2}{Email}#=%=#soegaard@hum.ku.dk
+Author{2}{Affiliation}#=%=#University of Copenhagen
+
+==========

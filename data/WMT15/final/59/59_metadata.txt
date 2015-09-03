@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#59
+FinalPaperTitle#=%=#SHEF-NN: Translation Quality Estimation with Neural Networks
+ShortPaperTitle#=%=#SHEF-NN: Translation Quality Estimation with Neural Networks
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Kashif
+JobTitle#==#
+Organization#==#Department of Computer Science, Regent Court, 211 Portobello, Sheffield, UK. S1 4DP.
+Abstract#==#We describe our systems for Tasks 1 and 2 of the WMT15 Shared Task on Quality
+Estimation. Our submissions use (i) a Continuous Space Language Model to
+extract additional features for Task 1 (SHEF-GP and SHEF-SVM),                   
+(ii) a
+Continuous Bag-of-Words model to produce word embeddings as features for Task 2
+(SHEF-W2V) and (iii) a combination of features produced by QuEst++ and a
+feature produced with word embedding models (SHEF-QuEst++).   Our systems
+outperform the baseline as well as many other submissions.  The results are
+especially encouraging for Task 2, since our best performing system (SHEF-W2V)
+uses only features learned in unsupervised fashion.
+Author{1}{Firstname}#=%=#Kashif
+Author{1}{Lastname}#=%=#Shah
+Author{1}{Email}#=%=#kashif.shah@sheffield.ac.uk
+Author{1}{Affiliation}#=%=#University of Sheffield
+Author{2}{Firstname}#=%=#Varvara
+Author{2}{Lastname}#=%=#Logacheva
+Author{2}{Email}#=%=#varvara.logacheva@gmail.com
+Author{2}{Affiliation}#=%=#University of Sheffield
+Author{3}{Firstname}#=%=#Gustavo
+Author{3}{Lastname}#=%=#Paetzold
+Author{3}{Email}#=%=#ghpaetzold@outlook.com
+Author{3}{Affiliation}#=%=#University of Sheffield
+Author{4}{Firstname}#=%=#Frédéric
+Author{4}{Lastname}#=%=#Blain
+Author{4}{Email}#=%=#f.blain@sheffield.ac.uk
+Author{4}{Affiliation}#=%=#University of Sheffield
+Author{5}{Firstname}#=%=#Daniel
+Author{5}{Lastname}#=%=#Beck
+Author{5}{Email}#=%=#daniel.e.beck@gmail.com
+Author{5}{Affiliation}#=%=#University of Sheffield
+Author{6}{Firstname}#=%=#Fethi
+Author{6}{Lastname}#=%=#Bougares
+Author{6}{Email}#=%=#fethi.bougares@lium.univ-lemans.fr
+Author{6}{Affiliation}#=%=#LIUM- University of Le Mans
+Author{7}{Firstname}#=%=#Lucia
+Author{7}{Lastname}#=%=#Specia
+Author{7}{Email}#=%=#l.specia@sheffield.ac.uk
+Author{7}{Affiliation}#=%=#University of Sheffield
+
+==========

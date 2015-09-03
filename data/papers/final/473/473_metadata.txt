@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#473
+FinalPaperTitle#=%=#Efficient Methods for Incorporating Knowledge into Topic Models
+ShortPaperTitle#=%=#Efficient Methods for Incorporating Knowledge into Topic Models
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#YI YANG
+JobTitle#==#
+Organization#==#Northwestern University
+Evanston, IL, 60208
+Abstract#==#Latent Dirichlet allocation (LDA) is a popular topic modeling technique for
+exploring hidden topics in text corpora. Increasingly, topic modeling is trying
+to scale to larger topic spaces and use richer forms of prior knowledge, such
+as word correlations or document labels. However, inference is cumbersome for
+LDA models with prior knowledge. As a result, LDA models that use prior
+knowledge only work in small-scale scenarios. In this work, we propose a factor
+graph framework, Sparse Constrained LDA (SC-LDA), for efficiently incorporating
+prior knowledge into LDA. In experiments, we evaluate SC-LDA's ability to
+incorporate word correlation knowledge and document label knowledge on three
+benchmark datasets.  Compared to several baseline methods, SC-LDA achieves
+comparable performance but runs significantly faster.
+Author{1}{Firstname}#=%=#Yi
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#yiyang@u.northwestern.edu
+Author{1}{Affiliation}#=%=#Northwestern University
+Author{2}{Firstname}#=%=#Doug
+Author{2}{Lastname}#=%=#Downey
+Author{2}{Email}#=%=#ddowney@eecs.northwestern.edu
+Author{2}{Affiliation}#=%=#Northwestern University
+Author{3}{Firstname}#=%=#Jordan
+Author{3}{Lastname}#=%=#Boyd-Graber
+Author{3}{Email}#=%=#jordan.boyd.graber@colorado.edu
+Author{3}{Affiliation}#=%=#University of Colorado
+
+==========

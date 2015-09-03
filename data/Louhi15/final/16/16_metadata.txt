@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#On the Impact of Twitter-based Health Campaigns: A Cross-Country Analysis of Movember
+ShortPaperTitle#=%=#On the Impact of Twitter-based Health Campaigns: A Cross-Country Analysis of Movember
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Claudia Hauff
+JobTitle#==#
+Organization#==#Delft University of Technology, Mekelweg 4, 2628CD Delft, the Netherlands
+Abstract#==#Health campaigns that aim to raise awareness and subsequently raise funds for
+research and treatment are commonplace. While many local campaigns exist, very
+few attract the attention of a global audience. One of those global campaigns
+is Movember, an annual campaign during the month of November, that is directed
+at men's health with special foci on cancer & mental health. Health campaigns
+routinely use social media portals to capture people's attention. Recently,
+researchers began to consider to what extent social media is effective in
+raising the awareness of health campaigns. In this paper we expand on those
+works by conducting an investigation across four different countries, while not
+only restricting ourselves to the impact on awareness but also on fund-raising.
+To that end, we analyze the 2013 Movember Twitter campaigns in Canada,
+Australia, the United Kingdom and the United States.
+Author{1}{Firstname}#=%=#Nugroho
+Author{1}{Lastname}#=%=#Dwi Prasetyo
+Author{1}{Email}#=%=#nugroho@ipv6.or.id
+Author{1}{Affiliation}#=%=#Delft University of Technology
+Author{2}{Firstname}#=%=#Claudia
+Author{2}{Lastname}#=%=#Hauff
+Author{2}{Email}#=%=#claudia.hauff@gmail.com
+Author{2}{Affiliation}#=%=#Delft University of Technology
+Author{3}{Firstname}#=%=#Dong
+Author{3}{Lastname}#=%=#Nguyen
+Author{3}{Email}#=%=#dong.p.ng@gmail.com
+Author{3}{Affiliation}#=%=#University of Twente
+Author{4}{Firstname}#=%=#Tijs
+Author{4}{Lastname}#=%=#van den Broek
+Author{4}{Email}#=%=#tijs.vandenbroek@tno.nl
+Author{4}{Affiliation}#=%=#University of Twente
+Author{5}{Firstname}#=%=#Djoerd
+Author{5}{Lastname}#=%=#Hiemstra
+Author{5}{Email}#=%=#d.hiemstra@utwente.nl
+Author{5}{Affiliation}#=%=#University of Twente
+
+==========

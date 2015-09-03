@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#Pronoun-Focused MT and Cross-Lingual Pronoun Prediction: Findings of the 2015 DiscoMT Shared Task on Pronoun Translation
+ShortPaperTitle#=%=#Pronoun-Focused MT and Cross-Lingual Pronoun Prediction: Findings of the 2015 DiscoMT Shared Task on Pronoun Translation
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Christian Hardmeier
+JobTitle#==#
+Organization#==#
+Abstract#==#We describe the design, the evaluation setup, and the results of the DiscoMT
+2015 shared task, which included two subtasks, relevant to both the machine
+translation (MT) and the discourse communities: (i) pronoun-focused
+translation, a practical MT task, and (ii) cross-lingual pronoun prediction, a
+classification task that requires no specific MT expertise and is interesting
+as a machine learning task in its own right.  We focused on the
+English–French language pair, for which MT output is generally of high
+quality, but has visible issues with pronoun translation due to differences in
+the pronoun systems of the two languages. Six groups participated in the
+pronoun-focused translation task and eight groups in the cross-lingual pronoun
+prediction task.
+Author{1}{Firstname}#=%=#Christian
+Author{1}{Lastname}#=%=#Hardmeier
+Author{1}{Email}#=%=#christian.hardmeier@lingfil.uu.se
+Author{1}{Affiliation}#=%=#Uppsala University
+Author{2}{Firstname}#=%=#Preslav
+Author{2}{Lastname}#=%=#Nakov
+Author{2}{Email}#=%=#preslav.nakov@gmail.com
+Author{2}{Affiliation}#=%=#Qatar Computing Research Institute, HBKU
+Author{3}{Firstname}#=%=#Sara
+Author{3}{Lastname}#=%=#Stymne
+Author{3}{Email}#=%=#sara.stymne@lingfil.uu.se
+Author{3}{Affiliation}#=%=#Uppsala University
+Author{4}{Firstname}#=%=#Jörg
+Author{4}{Lastname}#=%=#Tiedemann
+Author{4}{Email}#=%=#jorg.tiedemann@lingfil.uu.se
+Author{4}{Affiliation}#=%=#Uppsala University
+Author{5}{Firstname}#=%=#Yannick
+Author{5}{Lastname}#=%=#Versley
+Author{5}{Email}#=%=#versley@cl.uni-heidelberg.de
+Author{5}{Affiliation}#=%=#University of Heidelberg
+Author{6}{Firstname}#=%=#Mauro
+Author{6}{Lastname}#=%=#Cettolo
+Author{6}{Email}#=%=#cettolo@fbk.eu
+Author{6}{Affiliation}#=%=#FBK
+
+==========

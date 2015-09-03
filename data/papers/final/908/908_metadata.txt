@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#908
+FinalPaperTitle#=%=#Turn-taking phenomena in incremental dialogue systems
+ShortPaperTitle#=%=#Turn-taking phenomena in incremental dialogue systems
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Hatim Khouzaimi
+JobTitle#==#
+Organization#==#38-40 rue du Général Leclerc, Issy-les-Moulineaux, France
+Abstract#==#In this paper, a turn-taking phenomenon
+taxonomy is introduced, organised accord-
+ing to the level of information conveyed.
+It is aimed to provide a better grasp of
+the behaviours used by humans while talk-
+ing to each other, so that they can be
+methodically replicated in dialogue sys-
+tems. Five interesting phenomena have
+been implemented in a simulated environ-
+ment: the system barge-in because of an
+unclear, an incoherent or a sufficient mes-
+sage, the feedback and the user barge-in.
+The aim of the experiment is to illustrate
+that some phenomena are worth imple-
+menting in some cases and others are not.
+Author{1}{Firstname}#=%=#Hatim
+Author{1}{Lastname}#=%=#Khouzaimi
+Author{1}{Email}#=%=#hatim.enst@gmail.com
+Author{1}{Affiliation}#=%=#Orange Labs/LIA
+Author{2}{Firstname}#=%=#Romain
+Author{2}{Lastname}#=%=#Laroche
+Author{2}{Email}#=%=#romain.laroche@orange.com
+Author{2}{Affiliation}#=%=#Orange Labs
+Author{3}{Firstname}#=%=#Fabrice
+Author{3}{Lastname}#=%=#Lefevre
+Author{3}{Email}#=%=#fabrice.lefevre@univ-avignon.fr
+Author{3}{Affiliation}#=%=#Univ. Avignon
+
+==========

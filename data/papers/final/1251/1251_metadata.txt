@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1251
+FinalPaperTitle#=%=#Reversibility reconsidered: finite-state factors for efficient probabilistic sampling in parsing and generation
+ShortPaperTitle#=%=#Reversibility reconsidered: finite-state factors for efficient probabilistic sampling in parsing and generation
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Marc Dymetman
+JobTitle#==#
+Organization#==#Xerox Research Centre Europe
+6 chemin de Maupertuis
+38240 Meylan
+France
+Abstract#==#We revisit the classical logical notion of generation/parsing reversibility in
+terms of feasible probabilistic sampling, and argue for an implementation based
+on finite-state factors. We propose a modular decomposition that reconciles
+generation accuracy with parsing robustness and allows the introduction of
+dynamic contextual factors. 
+
+(Opinion Piece)
+Author{1}{Firstname}#=%=#Marc
+Author{1}{Lastname}#=%=#Dymetman
+Author{1}{Email}#=%=#marc.dymetman@xrce.xerox.com
+Author{1}{Affiliation}#=%=#Xerox Research Centre Europe
+Author{2}{Firstname}#=%=#Sriram
+Author{2}{Lastname}#=%=#Venkatapathy
+Author{2}{Email}#=%=#sriram.venkatapathy@xrce.xerox.com
+Author{2}{Affiliation}#=%=#Xerox Research Centre Europel
+Author{3}{Firstname}#=%=#Chunyang
+Author{3}{Lastname}#=%=#Xiao
+Author{3}{Email}#=%=#chunyangx@gmail.com
+Author{3}{Affiliation}#=%=#Xerox Research Center Europe
+
+==========

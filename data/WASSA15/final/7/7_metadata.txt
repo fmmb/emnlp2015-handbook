@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Your Sentiment Precedes You: Using an author’s historical tweets to predict sarcasm
+ShortPaperTitle#=%=#Your Sentiment Precedes You: Using an author’s historical tweets to predict sarcasm
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Aditya Joshi
+JobTitle#==#
+Organization#==#IITB-Monash Research Academy, Mumbai, India
+Abstract#==#Sarcasm understanding may require information beyond the text itself, as in the
+case of `I absolutely love this restaurant!' which may be sarcastic, depending
+on the contextual situation. We present the first quantitative evidence to show
+that historical tweets by an author can provide additional context for sarcasm
+detection. Our sarcasm detection approach uses two components: a contrast-based
+predictor (that identifies if there is a sentiment contrast within a target
+tweet), and a historical tweet-based predictor (that identifies if the
+sentiment expressed towards an entity in  the target tweet agrees with
+sentiment expressed by the author towards that tweet in the past).
+Author{1}{Firstname}#=%=#Anupam
+Author{1}{Lastname}#=%=#Khattri
+Author{1}{Email}#=%=#anupam.khattri@gmail.com
+Author{1}{Affiliation}#=%=#IIT Kharagpur
+Author{2}{Firstname}#=%=#Aditya
+Author{2}{Lastname}#=%=#Joshi
+Author{2}{Email}#=%=#adityaj@cse.iitb.ac.in
+Author{2}{Affiliation}#=%=#IITB-Monash Research Academy
+Author{3}{Firstname}#=%=#Pushpak
+Author{3}{Lastname}#=%=#Bhattacharyya
+Author{3}{Email}#=%=#pushpakbh@gmail.com
+Author{3}{Affiliation}#=%=#CSE Department, IIT Bombay
+Author{4}{Firstname}#=%=#Mark
+Author{4}{Lastname}#=%=#Carman
+Author{4}{Email}#=%=#mark.carman@monash.edu
+Author{4}{Affiliation}#=%=#Monash University
+
+==========

@@ -1,0 +1,2511 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass extbook
+\use_default_options false
+\master ../emnlp-handbook.lyx
+\begin_modules
+customHeadersFooters
+enumitem
+fixltx2e
+fix-cm
+multicol
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package none
+\inputencoding utf8
+\fontencoding default
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 8
+\spacing single
+\use_hyperref false
+\papersize a5paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 0
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 0
+\use_package mhchem 0
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.625in
+\topmargin 0.75in
+\rightmargin 0.625in
+\bottommargin 0.75in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Conference Information
+\end_layout
+
+\begin_layout Section
+Preface by the General Chair
+\end_layout
+
+\begin_layout Standard
+\align right
+August 25, 2015 
+\end_layout
+
+\begin_layout Standard
+\noindent
+Welcome to the 2015 Conference on Empirical Methods in Natural Language
+ Processing.
+ EMNLP is annually organized by SIGDAT, the Association for Computational
+ Linguistics' special interest group on linguistic data and corpus-based
+ approaches to NLP.
+ This year the conference will be held on September 17--21 in the enchanting
+ city of Lisbon, Portugal.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Conference website: 
+\family typewriter
+http://www.emnlp2015.org
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+EMNLP has continued to increase in prominence as one of the most important
+ conferences in Natural Language Processing (NLP).
+ This year the conference has experienced an unprecedented boost in submitted
+ papers.
+ I believe that this reflects both the growth of the NLP field and also
+ the health and strength of the conference itself, with a history of many
+ years of solid work.
+ With this level of interest at submission time, we are also expecting a
+ record attendance.
+ The conference will span a five-day period this year, and it requires a
+ growing organization structure.
+\end_layout
+
+\begin_layout Standard
+Some of the features introduced in EMNLP 2014 will continue this year (e.g.,
+ tutorials, new chairs, posters as parallel sessions, flat rates and flexibility
+ for tutorials and workshops, etc.).
+ We also introduce some innovations, like a revised selection process for
+ which talks are presented as talks versus posters.
+\end_layout
+
+\begin_layout Standard
+This year I had the privilege of coordinating the conference from my General
+ Chair position.
+ This has been a very instructive and enriching exercise which showed me
+ the conference as a whole, from many different angles.
+ Prefaces in the proceedings invariably praise the team of organizers.
+ This one will not be an exception.
+ Organizing a large conference as EMNLP requires excellent people working
+ as a team in multiple interrelated tasks.
+ I have been lucky to work with an outstanding team of people, from whom
+ I learnt a lot.
+ These aren't empty words.
+ I would like to thank each and every chair for the hard work that made
+ the conference a reality.
+\end_layout
+
+\begin_layout Standard
+The Program Chairs, Jian Su and Chris Callison-Burch, did an excellent job
+ at putting together a very interesting program with over 300 papers.
+ They had to deal with a very large number of submissions, which exceeded
+ even our most optimistic expectations.
+ As a consequence, they were forced to be creative and to find solutions
+ on the fly to adapt to the situation.
+ They recruited the largest ever program committee and successfully managed
+ a huge reviewing and decision making process under a very tight schedule.
+ A real gift for the general chair.
+ They complemented the program with very interesting keynote speakers, Yoshua
+ Bengio and Justin Grimmer who will present exciting research topics for
+ our community.
+\end_layout
+
+\begin_layout Standard
+The EMNLP 2015 main conference is accompanied by 7 workshops and 8 tutorials
+ during the first two days.
+ The Workshops Chairs, Zornitsa Kozareva and Jörg Tiedemann, and the Tutorials
+ Chairs, Maggie Li and Khalil Sima'an, conducted the selection processes
+ in a joint effort with the other ACL conferences in 2015 (NAACL and ACL-IJCNLP).
+ This has been the standard procedure from last years.
+ It has the advantage of starting early, avoiding duplicated reviewing and
+ allowing a more balanced selection among conferences.
+ EMNLP attracted a varied and interesting set of workshops and tutorials,
+ which gives more value to the conference.
+\end_layout
+
+\begin_layout Standard
+Daniele Pighin and Yuval Marton were responsible for the always difficult
+ and sometimes thankless task of putting together the conference publications.
+ This is a very complex effort which involves coordination with almost everyone
+ in the team under the pressure of hard publication deadlines.
+ Yuval is serving in this position for a second year.
+ Staggered two year terms for publication chairs is a new addition for EMNLP
+ starting this year, and we hope that it will be a permanent feature.
+ In the first year, publication chairs will learn and do the bulk of proceedings
+ compilation.
+ During the second year their role will be more advisory, instructing and
+ helping the first-year chair.
+ This procedure will help the transmission of the necessary know-how from
+ year to year.
+ Thanks to Yuval and Daniele for accepting the challenge and making it work
+ wonderfully.
+ Finally, this is the second year that EMNLP uses a mobile app for the conferenc
+e program (Conference4me).
+ The publication chairs also coordinated the integration of the app with
+ SoftConf, which is now smoother and more seamless.
+\end_layout
+
+\begin_layout Standard
+The local organization team was led by André Martins and João Graça.
+ They did an amazing job, working hard and with all the complexities and
+ subtleties of local arrangements.
+ One of the keys for the success was the creation of a large team of local
+ organizers with clearly defined roles and responsibilities.
+ They appointed very committed people: Isabel Trancoso (Local Publicity
+ Chair), Fernando Batista (Handbook Chair), Bruno Martins (Website and App
+ Chair), Luísa Coheur (Student Volunteer Coordinator), and Helena Moniz
+ (Local Arrangements Chair).
+ Thanks to all.
+ I am especially pleased about the new website, which was revamped and looks
+ more professional everyday.
+ This is certainly a good investment for the future.
+\end_layout
+
+\begin_layout Standard
+A large conference as EMNLP needs to focus on dissemination activities too.
+ Barbara Plank acted as the international Publicity Chair.
+ She did a fantastic job and coordinated very well with the local publicity
+ and the website chairs.
+ The calls for papers, calls for participation, and main news of the conference
+ were timely distributed through ACL, the usual distribution lists, and
+ also through the conference website and two Facebook and Twitter accounts.
+ The EMNLP2015 Twitter account garnered more followers than in previous
+ years.
+\end_layout
+
+\begin_layout Standard
+I am really grateful to SIGDAT.
+ Its secretary, Noah Smith, acted as the liasion between SIGDAT and the
+ conference organizers.
+ He was always available and ready to help with very good advice.
+ SIGDAT also provided the funds for the student scholarship program.
+ These grants help covering traveling expenses to a dozen of students.
+ The committee appointed for collecting the applications and making the
+ decisions was formed by Francisco Guzmán and Lluís Padró, who had to analyze
+ all the information and decide the awardees in only a few days.
+\end_layout
+
+\begin_layout Standard
+Another sign of the health of EMNLP and the field in general is the interest
+ showed by sponsors.
+ Thanks to the work of our sponsorship team, formed by João Graça and Hang
+ Li, in coordination with the ACL International Sponsorship Committee, we
+ got a record number of 13 sponsors for EMNLP 2015 (2 platinum, 3 gold,
+ 6 silver and 2 bronze).
+ In addition to these direct sponsors, we also have several smaller supporters,
+ exhibitors, and institutional partners.
+ We are extremely grateful to all these companies and institutions, which
+ make a better conference possible at a more affordable registration fee.
+\end_layout
+
+\begin_layout Standard
+Additionally, we counted on the invaluable help of Priscilla Rasmussen,
+ supporting the local organization in all fronts with her broad experience.
+ She took care of the registration process too.
+ We also got very good advice, know-how, and helpful software and forms
+ from last year general chair and local organizers, Alessandro Moschitti
+ and Kareem Darwish.
+ Thank you.
+\end_layout
+
+\begin_layout Standard
+Finally, I would like to thank the authors of submitted and accepted papers,
+ and all the attendees to the conference, who will be the main actors from
+ September 17 to September 21, 2015.
+ I am convinced that we will experience a fantastic conference, scientifically
+ exciting and full of fond memories, in the unique environment of Lisbon.
+ 
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+Lluís Màrquez
+\emph default
+
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Màrquez, Lluís
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ EMNLP 2015 General Chair 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Preface by the Program Committee Co-Chairs
+\end_layout
+
+\begin_layout Standard
+\align right
+August 25, 2015 
+\end_layout
+
+\begin_layout Standard
+\noindent
+Welcome to the 2015 Conference on Empirical Methods in Natural Language
+ Processing! This year we received a record number of submissions.
+ There were 1300 valid submissions.
+ The 600 long papers and 700 short papers were allocated to one of 15 areas.
+ The most popular areas this year were Semantics, Statistical Models and
+ Machine Learning Methods, Text Mining and NLP applications, and Machine
+ Translation.
+\end_layout
+
+\begin_layout Standard
+Reviewing for a conference this size involves an enormous volunteer effort
+ from many individuals.
+ We are very grateful to our 30 area chairs and to the more than 900 researchers
+ who reviewed the submissions.
+ We accepted 312 papers (157 long and 155 short papers), representing a
+ global acceptance rate of 24%.
+ An additional 17 papers accepted by the TACL journal were presented at
+ the conference as well.
+\end_layout
+
+\begin_layout Standard
+To decide whether the accepted papers should be presented as talks or posters,
+ we asked the area chairs, the reviewers, and the authors of accepted papers
+ to vote on which papers they would like to attend.
+ We showed the title of each paper and its abstract, but not its authors.
+ 400 people provided their input.
+ We selected talks based on popularity, while ensuring that each area was
+ represented by at least one session.
+ Our rationale for taking a vote was that papers that many people wanted
+ to attend would be better served by presenting a talk in a large room,
+ while papers with more specialized interest would benefit from the one-on-one
+ interactions facilitated by posters.
+ Rather than doing large plenary poster sessions, we have scheduled two
+ parallel poster sessions with small batches of thematically similar papers
+ that will be run simultaneously with the talks.
+\end_layout
+
+\begin_layout Standard
+We selected best papers from a shortlist of 20 papers that were nominated
+ by the area chairs.
+ The best paper committee ranked the nominees, and based on their rankings
+ we selected the following papers for the best paper awards: 
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+itemsep=0pt
+\end_layout
+
+\end_inset
+
+Best paper - 
+\shape italic
+Broad-coverage CCG Semantic Parsing with AMR
+\shape default
+ by Yoav Artzi, Kenton Lee and Luke Zettlemoyer.
+ 
+\end_layout
+
+\begin_layout Itemize
+Best paper - 
+\shape italic
+Semantically Conditioned LSTM-based Natural Language Generation for Spoken
+ Dialogue Systems
+\shape default
+ by Tsung-Hsien Wen, Milica Gasic, Nikola Mrkšić, Pei-Hao Su, David Vandyke
+ and Steve Young.
+\end_layout
+
+\begin_layout Standard
+IBM has provided a cash scholarship for us to award to the best student
+ paper.
+ This will go to Tsung-Hsien Wen, since he is currently a student.
+ The following papers received an honorable mention for the best paper award:
+ 
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+itemsep=0pt
+\end_layout
+
+\end_inset
+
+Honorable mention for best paper - 
+\shape italic
+Traversing Knowledge Graphs in Vector Space
+\shape default
+ by Kelvin Guu, John Miller and Percy Liang.
+ 
+\end_layout
+
+\begin_layout Itemize
+Honorable mention for best paper - 
+\shape italic
+Building a shared world: mapping distributional to model-theoretic semantic
+ spaces
+\shape default
+ by Aurélie Herbelot and Eva Maria Vecchi.
+ 
+\end_layout
+
+\begin_layout Itemize
+Honorable mention for best paper - 
+\shape italic
+Language Understanding for Text-based Games using Deep Reinforcement Learning
+ 
+\shape default
+ by Karthik Narasimhan, Tejas Kulkarni and Regina Barzilay.
+ 
+\end_layout
+
+\begin_layout Itemize
+Honorable mention for best short paper - 
+\shape italic
+Joint Lemmatization and Morphological Tagging with Lemming
+\shape default
+ by Thomas Müller, Ryan Cotterell, Alexander Fraser and Hinrich Schütze.
+ 
+\end_layout
+
+\begin_layout Itemize
+Honorable mention for best short paper - 
+\shape italic
+Semi-Supervised Bootstrapping of Relationship Extractors with Distributional
+ Semantics
+\shape default
+ by David S.
+ Batista, Bruno Martins and Mário J.
+ Silva.
+\end_layout
+
+\begin_layout Standard
+This year we created a new 
+\begin_inset Quotes eld
+\end_inset
+
+Best data set or resource
+\begin_inset Quotes erd
+\end_inset
+
+ award, since so much work in our community is driven by data.
+ The paper that receiving this inaugural distinction is: 
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+itemsep=0pt
+\end_layout
+
+\end_inset
+
+Best data set or resource - 
+\shape italic
+A large annotated corpus for learning natural language inference
+\shape default
+ by Samuel R.
+ Bowman, Gabor Angeli, Christopher Potts and Christopher D.
+ Manning.
+\end_layout
+
+\begin_layout Standard
+With two honorable mentions: 
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+itemsep=0pt
+\end_layout
+
+\end_inset
+
+Notable data set or resource - 
+\shape italic
+That's So Annoying!!!: A Lexical and Frame-Semantic Embedding Based Data
+ Augmentation Approach to Automatic Categorization of Annoying Behaviors
+ using #petpeeve Tweets
+\shape default
+ by William Yang Wang and Diyi Yang.
+ 
+\end_layout
+
+\begin_layout Itemize
+Notable data set or resource - 
+\shape italic
+Modeling Reportable Events as Turning Points in Narrative
+\shape default
+ by Jessica Ouyang and Kathy McKeown.
+\end_layout
+
+\begin_layout Standard
+We decided to give more awards than in past years by recognizing papers
+ with honorable mentions and by creating the new best data or resource award.
+ Our goal was to recognize roughly the top 1% of all of the submissions
+ to the conference with awards (recognizing approximately the top 5% of
+ accepted papers).
+ We are very grateful to our invited speakers Yoshua Bengio and Justin Grimmer.
+\end_layout
+
+\begin_layout Standard
+Yoshua Bengio is professor of Computer Science and Operations Research at
+ the Université de Montréal.
+ He is the author of two books and more than 200 publications, the most
+ cited being in the areas of deep learning, recurrent neural networks, probabili
+stic learning algorithms, natural language processing and manifold learning.
+ He co-directs the Canadian Institute for Advanced Research's program on
+ deep learning.
+ He is on the board of NIPS.
+ Professor Bengio's research into deep learning has had a dramatic impact
+ on the field of NLP in the past few years, and has invigorated interest
+ in AI through machine learning.
+\end_layout
+
+\begin_layout Standard
+Justin Grimmer is an associate professor of Political Science at Stanford
+ University.
+ His research uses statistical methods to examine American politics.
+ He is the author of two books on the topic 
+\begin_inset Quotes eld
+\end_inset
+
+Representational Style in Congress: What Legislators Say and Why It Matters
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+The Impression of Influence: How Legislator Communication and Government
+ Spending Cultivate a Personal Vote.
+\begin_inset Quotes erd
+\end_inset
+
+ His work has appeared in the American Political Science Review, American
+ Journal of Political Science, Journal of Politics, Political Analysis,
+ Proceedings of the National Academy of Sciences, Regulation and Governance,
+ and Poetics.
+ Professor Grimmer's research points to exciting new directions for computationa
+l social science and how the field of NLP can facilitate research in many
+ areas.
+\end_layout
+
+\begin_layout Standard
+We thank them in advance for coming to the conference and sharing their
+ insights.
+\end_layout
+
+\begin_layout Standard
+We would also like to thank our general chair Lluís Màrquez, André Martins
+ and João Graça and colleagues for their excellent work with the local organizat
+ion, and Yuval Marton and Daniele Pighin for doing an excellent job assembling
+ these proceedings.
+\end_layout
+
+\begin_layout Standard
+We thank SIGDAT for inviting us to serve as Program Co-Chairs of EMNLP 2015.
+ We hope that the conference is an excellent one.
+ Enjoy your stay in Lisbon! 
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+Chris Callison-Burch and Jian Su
+\emph default
+ 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Callison-Burch, Chris
+\end_layout
+
+\end_inset
+
+
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Su, Jian
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+ EMNLP 2015 Program Committee Co-Chairs 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Conference Committee
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+itemsep=7pt, leftmargin=0cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\series bold
+General Chair
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Lluís Màrquez, Qatar Computing Research Institute
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Màrquez, Lluís
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Program co-Chairs
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Chris Callison-Burch, University of Pennsylvania 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Callison-Burch, Chris
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Jian Su, Institute for Infocomm Research (I2R) 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Su, Jian
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Workshops co-Chairs
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Zornitsa Kozareva, Yahoo! Labs
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Kozareva, Zornitsa
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Jörg Tiedemann, University of Helsinki
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Tiedemann, Jörg
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Tutorial co-Chairs
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Maggie Li, Hong Kong Polytechnic University 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Li, Maggie
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Khalil Sima'an, University of Amsterdam 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Sima'an, Khalil
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Publication co-Chairs
+\series default
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Daniele Pighin, Google Inc.
+ 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Pighin, Daniele
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Itemize
+Yuval Marton, Microsoft Corp.
+ 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Marton, Yuval
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Publicity Chair
+\series default
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Barbara Plank, University of Copenhagen 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Plank, Barbara
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Sponsorship Team
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+João Graça, Unbabel Inc.
+ 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Graça, João
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Hang Li, Huawei Technologies (ISC Representative for EMNLP) 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Li, Hang
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Student Scholarship co-Chairs
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Fancisco Guzmán, Qatar Computing Research Institute
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Guzmán, Fanciscog
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Lluís Padró, Technical University of Catalonia
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Padró, Lluís
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+SIGDAT Liaison
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Noah Smith, University of Washington
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Smith, Noah A.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Local co-Chairs
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+André Martins, Priberam 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Martins, André
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+João Graça, Unbabel Inc.
+ 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Graça, João
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Program co-Chairs
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Chris Callison-Burch, University of Pennsylvania
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Callison-Burch, Chris
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Jian Su, Institute for Infocomm Research (I2R)
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Su, Jian
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Area Chairs
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+leftmargin=0.5cm, itemsep=6pt, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\emph on
+Computational Psycholinguistics
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Vera Demberg, Saarland University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Demberg, Vera
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Discourse, Dialogue, and Pragmatics
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Kentaro Inui, Tohoku University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Inui, Kentaro
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Oliver Lemon, Heriot Watt University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Lemon, Oliver
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Information Extraction
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Heng Ji, Rensselaer Polytechnic Institute
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Ji, Heng
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Sebastian Riedel, University College London
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Riedel, Sebastian
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Jing Jiang, Singapore Management University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Jiang, Jing
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Information Retrieval and Question Answering
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Zhu Xiaoyan, Tsinghua University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Xiaoyan, Zhu
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Liu Ting, Harbin Institute of Technology
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Ting, Liu
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Language and Vision
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Julia Hockenmaier, University of Illinois Urbana Champaign
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Hockenmaier, Julia
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Machine Translation and Multilinguality
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Zhang Min, SooChow University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Min, Zhang
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Lucia Specia, University of Sheffield
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Specia, Lucia
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Marine Carput, University of Maryland
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Carput, Marine
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+NLP for the Web and Social Media, including Computational Social Science
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Alice Oh, KAIST
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Oh, Alice
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Brendan O'Connor, University of Massachusetts Amherst
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+O'Connor, Brendan
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Phonology, Morphology, and Word Segmentation
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Greg Kondrak, University of Alberta
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Kondrak, Greg
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Xu Sun, Peking University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Sun, Xu
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Semantics
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Marco Baroni, University of Trento
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Baroni, Marco
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Shiqi Zhao, Baidu
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Zhao, Shiqi
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Percy Liang, Stanford University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Liang, Percy
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Sentiment Analysis and Opinion Mining
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Ku Lun-Wei, Institute of Information Science, Academia Sinica
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Lun-Wei, Ku
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+He Yulan, Aston University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Yulan, He
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Spoken Language Processing
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Mari Ostendorf, University of Washington
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Ostendorf, Mari
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Statistical Models and Machine Learning Methods
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Trevor Cohn, University of Melbourne
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Cohn, Trevor
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Jordan Boyd-Graber, University of Colorado
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Boyd-Graber, Jordan
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Summarization and Generation
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Meg Mitchell, Microsoft Research
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Mitchell, Meg
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Furu Wei, Microsoft Research Asia
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Wei, Furu
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Tagging, Chunking, Syntax and Parsing
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Shay Cohen, University of Edinburgh
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Cohen, Shay
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Yue Zhang, Singapore University of Technology and Design
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Zhang, Yue
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Yusuke Miyao, National Institute of Informatics, Japan
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Miyao, Yusuke
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Text Mining and NLP applications
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Sophia Ananiadou, University of Manchester
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Ananiadou, Sophia
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Local Organization Committee
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+itemsep=6pt, leftmargin=0.2cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\shape italic
+Local co-Chairs
+\shape default
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+André Martins, Priberam 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Martins, André
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+João Graça, Unbabel Inc.
+ 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Graça, João
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Local Arrangements Chair
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Helena Moniz, University of Lisbon & INESC-ID 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Moniz, Helena
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\shape italic
+Local Publicity Chair
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Isabel Trancoso, University of Lisbon
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Trancoso, Isabel
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\shape italic
+Conference Handbook Chair
+\shape default
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Fernando Batista, University Institute of Lisbon (ISCTE-IUL) 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Batista, Fernando
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\shape italic
+Website and App Chair
+\shape default
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Bruno Martins, University of Lisbon 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Martins, Bruno
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Student Volunteer Coordinator
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Luísa Coheur, University of Lisbon
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Coheur, Luísa
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Social events
+\end_layout
+
+\begin_layout Standard
+\noindent
+EMNLP 2015 will feature welcome and farewell receptions, respectively on
+ the 18th of September (second day of the conference) and on the 21st of
+ September (the last day of the conference).
+ These receptions will take place at Culturgest, the main conference venue.
+ EMNLP 2015 will also feature a conference dinner, on Sunday the 20th of
+ September, which will take place at Páteo Alfacinha, in the Ajuda area
+ of Lisbon.
+ Transportation to Páteo Alfacinha will be arranged.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/dinner-pateo-jantar-arraial.jpg
+	display false
+	height 3cm
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/dinner-pateo-exterior.jpg
+	display false
+	height 3cm
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/dinner-pateo-sala.jpg
+	display false
+	height 3cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Páteo Alfacinha was created in 1981, featuring several spaces typical from
+ the beginning of XX century Lisbon: a chapel, a barber shop, a tavern,
+ a bakery, a pub, an antiquary, and houses for the “alfacinhas” (inhabitants
+ of Lisbon).
+ Nowadays, Páteo Alfacinha remains a multifaceted place, with restaurants
+ and facilities for events such as EMNLP's conference dinner.
+\end_layout
+
+\begin_layout Subsection*
+Welcome Reception
+\end_layout
+
+\begin_layout Standard
+Friday, September 18th at 18:30 at Culturgest
+\end_layout
+
+\begin_layout Subsection*
+Conference Dinner
+\end_layout
+
+\begin_layout Standard
+Sunday, September 20th at 19:00 at Pateo Alfacinha
+\end_layout
+
+\begin_layout Standard
+First buses depart from Culturgest at 18:15.
+ 
+\end_layout
+
+\begin_layout Standard
+Last returning bus depart from Páteo Alfacinha at 24:00.
+\end_layout
+
+\begin_layout Subsection*
+Farewell Drink
+\end_layout
+
+\begin_layout Standard
+Monday, September 21th at 18:30 at Culturgest
+\end_layout
+
+\end_body
+\end_document

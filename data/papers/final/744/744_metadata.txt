@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#744
+FinalPaperTitle#=%=#Bayesian Optimization of Text Representations
+ShortPaperTitle#=%=#Bayesian Optimization of Text Representations
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Dani Yogatama
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+5000 Forbes Avenue Pittsburgh PA 15213
+Abstract#==#When applying machine learning to problems in NLP, there are many
+choices to make about how to represent input texts.  They can
+have a big effect on performance, but they are often uninteresting
+to researchers or practitioners who simply need a module that performs
+well.
+  We apply sequential model-based optimization over this space of
+  choices and show that it makes standard linear models
+  competitive with
+  more sophisticated, expensive state-of-the-art methods based on latent
+variables
+  or neural networks on various topic classification and sentiment analysis
+problems.
+Our approach is a first step towards black-box NLP systems that
+work with raw text and do not require manual tuning.
+Author{1}{Firstname}#=%=#Dani
+Author{1}{Lastname}#=%=#Yogatama
+Author{1}{Email}#=%=#dyogatama@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Lingpeng
+Author{2}{Lastname}#=%=#Kong
+Author{2}{Email}#=%=#lingpenk@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Noah A.
+Author{3}{Lastname}#=%=#Smith
+Author{3}{Email}#=%=#nasmith@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

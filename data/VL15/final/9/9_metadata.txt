@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#A Weighted Combination of Text and Image Classifiers for User Gender Inference
+ShortPaperTitle#=%=#A Weighted Combination of Text and Image Classifiers for User Gender Inference
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Tomoki Taniguchi
+JobTitle#==#
+Organization#==#Research & Technology Group, Fuji Xerox Co., Ltd.
+Abstract#==#Demographic attribute inference of social networking service (SNS) users is a
+valuable application for marketing and for targeting advertisements. Several
+studies have examined Twitter-user gender inference in natural language
+processing, image recognition, and other research domains. Reportedly, a
+combined approach using text data and image data outperforms an individual data
+approach. This paper presents a proposal of a novel hybrid approach. A salient
+benefit of our system is that features provided from a text classifier and from
+an image classifier are combined appropriately to infer male or female gender
+using logistic regression. The experimentally obtained results demonstrate that
+our approach markedly improves an existing combination-based method.
+Author{1}{Firstname}#=%=#Tomoki
+Author{1}{Lastname}#=%=#Taniguchi
+Author{1}{Email}#=%=#taniguchi.tomoki@fujixerox.co.jp
+Author{1}{Affiliation}#=%=#Research & Technology Group, Fuji Xerox Co., Ltd.
+Author{2}{Firstname}#=%=#Shigeyuki
+Author{2}{Lastname}#=%=#Sakaki
+Author{2}{Email}#=%=#sakaki.shigeyuki@fujixerox.co.jp
+Author{2}{Affiliation}#=%=#Research & Technology Group, Fuji Xerox Co., Ltd.
+Author{3}{Firstname}#=%=#Ryosuke
+Author{3}{Lastname}#=%=#Shigenaka
+Author{3}{Email}#=%=#shigenaka.ryosuke@fujixerox.co.jp
+Author{3}{Affiliation}#=%=#Research & Technology Group, Fuji Xerox Co., Ltd.
+Author{4}{Firstname}#=%=#Yukihiro
+Author{4}{Lastname}#=%=#Tsuboshita
+Author{4}{Email}#=%=#Yukihiro.Tsuboshita@fujixerox.co.jp
+Author{4}{Affiliation}#=%=#Research & Technology Group, Fuji Xerox Co., Ltd.
+Author{5}{Firstname}#=%=#Tomoko
+Author{5}{Lastname}#=%=#Ohkuma
+Author{5}{Email}#=%=#Ohkuma.Tomoko@fujixerox.co.jp
+Author{5}{Affiliation}#=%=#Research & Technology Group, Fuji Xerox Co., Ltd.
+
+==========

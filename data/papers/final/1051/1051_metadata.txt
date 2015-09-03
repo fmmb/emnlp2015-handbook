@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#1051
+FinalPaperTitle#=%=#Krimping texts for better summarization
+ShortPaperTitle#=%=#Krimping texts for better summarization
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Automated text summarization is aimed
+at extracting essential information from
+original text and presenting it in a minimal,
+often predefined, number of words.
+In this paper, we introduce a new approach
+for unsupervised extractive summarization,
+based on the Minimum Description
+Length (MDL) principle. The
+approach represents a text as a transactional
+dataset, with sentences as transactions,
+and then describes it by itemsets
+that stand for frequent sequences of words.
+The summary is then compiled from sentences
+that compress (and as such, best
+describe) the document. The problem of
+summarization is reduced to the maximal
+coverage, following the assumption that a
+summary that best describes the original
+text, should cover most of describing the
+document word sequences. We solve it by
+a greedy algorithm and present the evaluation
+results.
+Author{1}{Firstname}#=%=#Marina
+Author{1}{Lastname}#=%=#Litvak
+Author{1}{Email}#=%=#marinal@sce.ac.il
+Author{1}{Affiliation}#=%=#Shamoon College of Engineering
+Author{2}{Firstname}#=%=#Mark
+Author{2}{Lastname}#=%=#Last
+Author{2}{Email}#=%=#mlast@bgu.ac.il
+Author{2}{Affiliation}#=%=#Ben-Gurion University of the Negev
+Author{3}{Firstname}#=%=#Natalia
+Author{3}{Lastname}#=%=#Vanetik
+Author{3}{Email}#=%=#natalyav@sce.ac.il
+Author{3}{Affiliation}#=%=#Shamoon College of Engineering
+
+==========

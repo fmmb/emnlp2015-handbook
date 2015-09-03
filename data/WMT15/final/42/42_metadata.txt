@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#42
+FinalPaperTitle#=%=#The FBK Participation in the WMT15 Automatic Post-editing Shared Task
+ShortPaperTitle#=%=#The FBK Participation in the WMT15 Automatic Post-editing Shared Task
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Rajen Chatterjee
+JobTitle#==#
+Organization#==#Fondazione Bruno Kessler
+Via Sommarive, 18  I-38123 Trento
+Abstract#==#In this paper, we describe the “FBK English-Spanish Automatic Post-editing
+(APE)” systems submitted to the APE shared task at the WMT 2015. We explore
+the most widely used statistical APE technique (monolingual) and its most
+significant variant (context-aware). In this exploration, we introduce some
+novel task-specific dense features through which we observe improvements over
+the default setup of these approaches. We show these features are useful to
+prune the phrase
+table in order to remove unreliable rules and help the decoder to select useful
+translation options during decoding. Our primary APE system submitted at this
+shared task performs significantly better than the standard APE baseline.
+Author{1}{Firstname}#=%=#Rajen
+Author{1}{Lastname}#=%=#Chatterjee
+Author{1}{Email}#=%=#chatterjee@fbk.eu
+Author{1}{Affiliation}#=%=#Fondazione Bruno Kessler
+Author{2}{Firstname}#=%=#Marco
+Author{2}{Lastname}#=%=#Turchi
+Author{2}{Email}#=%=#marco.turchi@gmail.com
+Author{2}{Affiliation}#=%=#Fondazione Bruno Kessler
+Author{3}{Firstname}#=%=#Matteo
+Author{3}{Lastname}#=%=#Negri
+Author{3}{Email}#=%=#negri@fbk.eu
+Author{3}{Affiliation}#=%=#Fondazione Bruno Kessler
+
+==========

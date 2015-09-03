@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#345
+FinalPaperTitle#=%=#A Neural Attention Model for Abstractive Sentence Summarization
+ShortPaperTitle#=%=#A Neural Attention Model for Abstractive Sentence Summarization
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Alexander Rush
+JobTitle#==#
+Organization#==#Harvard University
+Abstract#==#Summarization based on text extraction is inherently limited, but               
+
+
+  generation-style abstractive methods have proven challenging to               
+
+
+  build. In this work, we propose a fully data-driven approach to               
+
+
+  abstractive sentence summarization. Our method utilizes a local               
+
+
+  attention-based model that generates each word of the summary                
+
+  conditioned on the input sentence. While                                       
+ 
+
+  the model is structurally simple, it can easily be trained                       
+   
+
+  end-to-end and scales to a large amount of training data. The model               
+    
+
+  shows significant performance gains on the DUC-2004 shared task               
+
+
+  compared with several strong baselines.
+Author{1}{Firstname}#=%=#Alexander M.
+Author{1}{Lastname}#=%=#Rush
+Author{1}{Email}#=%=#srush@csail.mit.edu
+Author{1}{Affiliation}#=%=#MIT
+Author{2}{Firstname}#=%=#Sumit
+Author{2}{Lastname}#=%=#Chopra
+Author{2}{Email}#=%=#schopra@research.att.com
+Author{2}{Affiliation}#=%=#AT&T Labs Research
+Author{3}{Firstname}#=%=#Jason
+Author{3}{Lastname}#=%=#Weston
+Author{3}{Email}#=%=#jaseweston@gmail.com
+Author{3}{Affiliation}#=%=#Facebook
+
+==========

@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#994
+FinalPaperTitle#=%=##SupportTheCause: Identifying Motivations to Participate in Online Health Campaigns
+ShortPaperTitle#=%=##SupportTheCause: Identifying Motivations to Participate in Online Health Campaigns
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Dong Nguyen
+JobTitle#==#
+Organization#==#University of Twente
+Department EWI
+Researchgroup Human Media Interaction (HMI)
+Zilverling, room 2047 (secretary)
+PO Box 217
+7500 AE Enschede
+The Netherlands
+Abstract#==#We consider the task of automatically identifying participants' motivations in
+the public health campaign Movember and investigate the impact of the different
+motivations on the amount of campaign donations raised. Our classification
+scheme is based on the Social Identity Model of Collective Action (van Zomeren
+et al., 2008). We find that automatic classification based on Movember profiles
+is fairly accurate, while automatic classification based on tweets is
+challenging. Using our classifier, we find a strong relation between types of
+motivations and donations. Our study is a first step towards scaling-up
+collective action research methods.
+Author{1}{Firstname}#=%=#Dong
+Author{1}{Lastname}#=%=#Nguyen
+Author{1}{Email}#=%=#dong.p.ng@gmail.com
+Author{1}{Affiliation}#=%=#University of Twente
+Author{2}{Firstname}#=%=#Tijs
+Author{2}{Lastname}#=%=#van den Broek
+Author{2}{Email}#=%=#tijs.vandenbroek@tno.nl
+Author{2}{Affiliation}#=%=#University of Twente
+Author{3}{Firstname}#=%=#Claudia
+Author{3}{Lastname}#=%=#Hauff
+Author{3}{Email}#=%=#c.hauff@tudelft.nl
+Author{3}{Affiliation}#=%=#TU Delft
+Author{4}{Firstname}#=%=#Djoerd
+Author{4}{Lastname}#=%=#Hiemstra
+Author{4}{Email}#=%=#d.hiemstra@utwente.nl
+Author{4}{Affiliation}#=%=#University of Twente
+Author{5}{Firstname}#=%=#Michel
+Author{5}{Lastname}#=%=#Ehrenhard
+Author{5}{Email}#=%=#m.l.ehrenhard@utwente.nl
+Author{5}{Affiliation}#=%=#University of Twente
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Novel Document Level Features for Statistical Machine Translation
+ShortPaperTitle#=%=#Novel Document Level Features for Statistical Machine Translation
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Rong Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we introduce document level features that capture necessary
+information to help MT system perform better word sense disambiguation in the
+translation process. We describe enhancements to a Maximum Entropy based
+translation model, utilizing long distance contextual features identified from
+the span of entire document and from both source and target sides, to improve
+the likelihood of the correct translation for words with multiple meanings, and
+to improve the consistency of the translation output in a document setting. The
+proposed features have been observed to achieve substantial improvement of MT
+performance on a variety of standard test sets in terms of TER-BLEU score.
+Author{1}{Firstname}#=%=#Rong
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#zhangr@us.ibm.com
+Author{1}{Affiliation}#=%=#IBM
+Author{2}{Firstname}#=%=#Abraham
+Author{2}{Lastname}#=%=#Ittycheriah
+Author{2}{Email}#=%=#abei@us.ibm.com
+Author{2}{Affiliation}#=%=#IBM
+
+==========

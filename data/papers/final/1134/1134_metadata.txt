@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1134
+FinalPaperTitle#=%=#LCSTS: A Large Scale Chinese Short Text Summarization Dataset
+ShortPaperTitle#=%=#LCSTS: A Large Scale Chinese Short Text Summarization Dataset
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Baotian Hu
+JobTitle#==#
+Organization#==#Harbin Institute of Technology Shenzhen Graduate School, HIT Campus of University Town of Shenzhen, Shenzhen, China
+Abstract#==#Automatic text summarization is widely regarded as the highly difficult
+problem, partially because of the lack of large text summarization data set.
+Due to the great challenge of constructing the large scale summaries for full
+text, in this paper, we introduce a large corpus of Chinese short text
+summarization dataset constructed from the Chinese microblogging website Sina
+Weibo, which is released to the
+public\footnote{http://icrc.hitsz.edu.cn/Article/show/139.html}. This corpus
+consists of over 2 million real Chinese short texts with short summaries given
+by the author of each text. We also manually tagged the relevance of 10,666
+short summaries with their corresponding short texts. Based on the corpus, we
+introduce recurrent neural network for the summary generation and achieve
+promising results, which not only shows the usefulness of the proposed corpus
+for short text summarization research, but also provides a baseline for further
+research on this topic.
+Author{1}{Firstname}#=%=#Baotian
+Author{1}{Lastname}#=%=#Hu
+Author{1}{Email}#=%=#baotianchina@gmail.com
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology Shenzhen Graduate School
+Author{2}{Firstname}#=%=#Qingcai
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#qingcai.chen@gmail.com
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology Shenzhen Graduate School
+Author{3}{Firstname}#=%=#Fangze
+Author{3}{Lastname}#=%=#Zhu
+Author{3}{Email}#=%=#nvfumayx@163.com
+Author{3}{Affiliation}#=%=#Harbin Institute of Technology Shenzhen Graduate School
+
+==========

@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#751
+FinalPaperTitle#=%=#On A Strictly Convex IBM Model 1
+ShortPaperTitle#=%=#On A Strictly Convex IBM Model 1
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Andrei Simion
+JobTitle#==#
+Organization#==#Columbia University
+Abstract#==#IBM Model 1 is a classical alignment model. Of the first generation word-based
+SMT models, it was the only such model with a concave objective function. For
+concave optimization problems like IBM Model 1, we have guarantees on the
+convergence of optimization algorithms such as Expectation Maximization (EM).
+However, as was pointed out recently, the objective of IBM Model 1 is not
+strictly concave and there is quite a bit of alignment quality variance within
+the optimal solution set. In this work we detail a strictly concave version of
+IBM Model 1 whose EM algorithm is a simple modification of the original EM
+algorithm of Model 1 and does not require the tuning of a learning rate or the
+insertion of an $l_{2}$ penalty. Moreover, by addressing Model 1's
+shortcomings, we achieve AER and F-Measure improvements over the classical
+Model 1 by over 30\%
+Author{1}{Firstname}#=%=#Andrei
+Author{1}{Lastname}#=%=#Simion
+Author{1}{Email}#=%=#drei34@gmail.com
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Collins
+Author{2}{Email}#=%=#mcollins@cs.columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University
+Author{3}{Firstname}#=%=#Cliff
+Author{3}{Lastname}#=%=#Stein
+Author{3}{Email}#=%=#cliff@ieor.columbia.edu
+Author{3}{Affiliation}#=%=#Columbia University
+
+==========

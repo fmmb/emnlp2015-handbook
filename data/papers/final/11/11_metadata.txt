@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Document Modeling with Gated Recurrent Neural Network for Sentiment Classification
+ShortPaperTitle#=%=#Document Modeling with Gated Recurrent Neural Network for Sentiment Classification
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Duyu Tang
+JobTitle#==#
+Organization#==#Harbin Institute of Technology, Harbin, China
+
+No.29, Jiaohua Street, Nangang District, Harbin, Heilongjiang, P.R. China 150001
+Abstract#==#Document level sentiment classification remains a challenge: encoding the
+intrinsic relations between sentences in the semantic meaning of a document.
+To address this, we introduce a neural network model to learn vector-based
+document representation in a unified, bottom-up fashion. 
+The model first learns sentence representation with convolutional neural
+network or long short-term memory.
+Afterwards, semantics of sentences and their relations are adaptively encoded
+in document representation with gated recurrent neural network.
+We conduct document level sentiment classification on four large-scale review
+datasets from IMDB and Yelp Dataset Challenge.
+Experimental results show that: 
+(1) our neural model shows superior performances over several state-of-the-art
+algorithms;
+(2) gated recurrent neural network dramatically outperforms standard recurrent
+neural network in document modeling for sentiment classification.
+Author{1}{Firstname}#=%=#Duyu
+Author{1}{Lastname}#=%=#Tang
+Author{1}{Email}#=%=#dytang@ir.hit.edu.cn
+Author{1}{Affiliation}#=%=#Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology
+Author{2}{Firstname}#=%=#Bing
+Author{2}{Lastname}#=%=#Qin
+Author{2}{Email}#=%=#qinb@ir.hit.edu.cn
+Author{2}{Affiliation}#=%=#Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology
+Author{3}{Firstname}#=%=#Ting
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#tliu@ir.hit.edu.cn
+Author{3}{Affiliation}#=%=#Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology
+
+==========

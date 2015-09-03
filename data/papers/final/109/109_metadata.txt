@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#109
+FinalPaperTitle#=%=#A Single Word is not Enough: Ranking Multiword Expressions Using Distributional Semantics
+ShortPaperTitle#=%=#A Single Word is not Enough: Ranking Multiword Expressions Using Distributional Semantics
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Martin Riedl
+JobTitle#==#
+Organization#==#Technische Universität Darmstadt 
+Hochschulstrasse 10
+D-64289 Darmstadt
+Germany
+Abstract#==#We present a new unsupervised mechanism, which ranks word n-grams according to
+their multiwordness. It heavily relies on a new uniqueness measure that
+computes, based on a distributional thesaurus, how often an n-gram could be
+replaced in context by a single-worded term. In addition with a downweighting
+mechanism for incomplete terms this forms a new measure called DRUID. Results
+show large improvements on two small test sets over competitive baselines. We
+demonstrate the scalability of the method to large corpora, and the
+independence of the measure of shallow syntactic filtering.
+Author{1}{Firstname}#=%=#Martin
+Author{1}{Lastname}#=%=#Riedl
+Author{1}{Email}#=%=#riedl@cs.tu-darmstadt.de
+Author{1}{Affiliation}#=%=#TU Darmstadt
+Author{2}{Firstname}#=%=#Chris
+Author{2}{Lastname}#=%=#Biemann
+Author{2}{Email}#=%=#biem@cs.tu-darmstadt.de
+Author{2}{Affiliation}#=%=#TU Darmstadt
+
+==========

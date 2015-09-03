@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#796
+FinalPaperTitle#=%=#PhraseRNN: Phrase Recursive Neural Network for Aspect-based Sentiment Analysis
+ShortPaperTitle#=%=#PhraseRNN: Phrase Recursive Neural Network for Aspect-based Sentiment Analysis
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#THIEN HAI NGUYEN
+JobTitle#==#
+Organization#==#Japan Advanced Institute of Science and Technology
+1-1 Asahidai, Nomi, Ishikawa 923-1292, Japan
+Abstract#==#This paper presents a new method to identify sentiment of an aspect of an
+entity. It is an extension of RNN (Recursive Neural Network) that takes both
+dependency and constituent trees of a sentence into account. Results of an
+experiment show that our method significantly outperforms previous methods.
+Author{1}{Firstname}#=%=#Thien Hai
+Author{1}{Lastname}#=%=#Nguyen
+Author{1}{Email}#=%=#nhthien8x@gmail.com
+Author{1}{Affiliation}#=%=#Japan Advanced Institute of Science and Technology
+Author{2}{Firstname}#=%=#Kiyoaki
+Author{2}{Lastname}#=%=#Shirai
+Author{2}{Email}#=%=#kshirai@jaist.ac.jp
+Author{2}{Affiliation}#=%=#Japan Advanced Institute of Science and Technology
+
+==========

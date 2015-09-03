@@ -1,0 +1,32 @@
+* Friday, September 18, 2015
+= 08:45--10:30 Session 1 # %room Room 6 %chair1 Marie-Francine Moens %aff1 KU Leuven
+! 08:45--09:00 Opening Remarks %by Marie-Francine Moens
+! 09:00--10:00 Invited Talk 1: Grounding Distributional Semantics in the Visual World %by Marco Baroni
+= 10:00--10:30 Poster Spotlights 1 # %room Room 6
+10 10:00--10:05  # Visually-Verifiable Textual Entailment: A Challenge Task for Combining Language and Vision
+13 10:05--10:10  # Computational Integration of Human Vision and Natural Language through Bitext Alignment
+6 10:10--10:15  # Towards Reliable Automatic Multimodal Content Analysis
+15 10:15--10:20  # Lingusitic Analysis of Multi-Modal Recurrent Neural Networks
+23 10:20--10:25  # Defining Visually Descriptive Language
+24 10:25--10:30  # Semantic Tuples for Evaluation of Image to Sentence Generation
++ 10:30--11:00 Coffee Break
+= 11:00--12:15 Session 2 # %room Room 6 %chair1 Desmond Elliott %aff1 CWI Amsterdam
+11 11:00--11:25  # Image Representations and New Domains in Neural Image Captioning
+18 11:25--11:50  # Image with a Message: Towards Detecting Non-Literal Image Usages by Visual Linking
+= 11:50--12:15 Poster Spotlights 2 # %room Room 6
+26 11:50--11:55  # Visual Classifier Prediction by Distributional Semantic Embedding of Text Descriptions
+8 11:55--12:00  # Understanding Urban Land Use through the Visualization of Points of Interest
+17 12:00--12:05  # Comparing Attribute Classifiers for Interactive Language Grounding
+! 12:05--12:10 Combining Geometric, Textual and Visual Features for Generating Prepositions in Image Descriptions (to appear in EMNLP 2015) %by Arnau Ramisa, Josiah Wang, Ying Lu, Emmanuel Dellandrea, Francesc Moreno-Noguer and Robert Gaizauskas
+! 12:10--12:15 From the Virtual to the Real World: Referring to Visible Objects Under Uncertainty in Real-World Spatial Scenes (to appear in EMNLP 2015) %by Dimitra Gkatzia and Verena Rieser
++ 12:15--14:00 Poster Session and Lunch
+= 14:00--15:30 Session 3 # %room Room 6 %chair1 Ivan Vulić %aff1 KU Leuven
+! 14:00--15:00 Invited Talk 2: The ImageCLEF 2015 Task on Scalable Image Annotation, Localization and Sentence Generation %by Krystian Mikolajczyk
+20 15:00--15:30  # Generating Semantically Precise Scene Graphs from Textual Descriptions for Improved Image Retrieval
++ 15:30--16:00 Coffee Break
+= 16:00--18:00 Session 4 # %room Room 6 %chair1 Luisa Coheur %aff1 INESC-ID
+25 16:00--16:25  # Do Distributed Semantic Models Dream of Electric Sheep? Visualizing Word Representations through Image Synthesis
+9 16:25--16:50  # A Weighted Combination of Text and Image Classifiers for User Gender Inference
+12 16:50--17:15  # Coupling Natural Language Processing and Animation Synthesis in Portuguese Sign Language Translation
+27 17:15--17:40  # Describing Spatial Relationships between Objects in Images in English and French
+= 17:40--18:00 Closing Remarks and Discussion

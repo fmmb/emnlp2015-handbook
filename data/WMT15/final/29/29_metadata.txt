@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#29
+FinalPaperTitle#=%=#Exact Decoding with Multi Bottom-Up Tree Transducers
+ShortPaperTitle#=%=#Exact Decoding with Multi Bottom-Up Tree Transducers
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Daniel Quernheim
+JobTitle#==#
+Organization#==#Institut für Maschinelle Sprachverarbeitung
+Pfaffenwaldring 5b
+70569 Stuttgart, Germany
+Abstract#==#We present an experimental statistical tree-to-tree machine translation system
+based on the multi-bottom up tree transducer including rule extraction, tuning
+and decoding.  Thanks to input parse forests and a ``no pruning'' strategy
+during decoding, the obtained translations are competitive.  The drawbacks are
+a restricted coverage of 70\% on test data, in part due to exact input parse
+tree matching, and a relatively high runtime.  Advantages include easy
+redecoding with a different weight vector, since the full translation forests
+can be stored after the first decoding pass.
+Author{1}{Firstname}#=%=#Daniel
+Author{1}{Lastname}#=%=#Quernheim
+Author{1}{Email}#=%=#daniel@ims.uni-stuttgart.de
+Author{1}{Affiliation}#=%=#Universität Stuttgart
+
+==========

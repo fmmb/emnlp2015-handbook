@@ -1,0 +1,51 @@
+SubmissionNumber#=%=#150
+FinalPaperTitle#=%=#Biography-Dependent Collaborative Entity Archiving for Slot Filling
+ShortPaperTitle#=%=#Biography-Dependent Collaborative Entity Archiving for Slot Filling
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yu Hong
+JobTitle#==#
+Organization#==#Rensselaer Polytechnic Institute
+110 8th St, Troy, NY 12180
+Abstract#==#Current studies on Knowledge Base Population (KBP) tasks, such as slot filling,
+show the particular importance of entity-oriented automatic relevant document
+acquisition. Richer, diverse and reliable relevant documents satisfy the
+fundamental requirement that a KBP system explores the attributes of an entity,
+such as provenance-based background knowledge extraction (e.g., a person’s
+religion, origin,  etc.). Towards the bottleneck problem between
+comprehensiveness and definiteness of acquisition, we propose a fuzzy-to-exact
+matching based collaborative archiving method. In particular we introduce topic
+modeling methodologies into entity profiling, so as to build a bridge between
+fuzzy and exact matching. On one side of the bridge, we employ the topics in a
+small-scale set of high-quality relevant documents (i.e., exact matching
+results) to summarize the life slices of a target entity (i.e., so-called
+biography).  On the other side, we use the biography as a reliable reference
+material to detect new truly relevant documents from a large-scale
+semi-finished pseudo-feedback (i.e., fuzzy matching results). We leverage the
+archiving method in state-of-the-art slot filling systems. Experiments on
+TAC-KBP data show significant improvement.
+Author{1}{Firstname}#=%=#Yu
+Author{1}{Lastname}#=%=#Hong
+Author{1}{Email}#=%=#tianxianer@gmail.com
+Author{1}{Affiliation}#=%=#Soochow University
+Author{2}{Firstname}#=%=#Xiaobin
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#czwangxiaobin@foxmail.com
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#Yadong
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Email}#=%=#chinachenyadong@gmail.com
+Author{3}{Affiliation}#=%=#Soochow University
+Author{4}{Firstname}#=%=#Jian
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Email}#=%=#sudawangjian@gmail.com
+Author{4}{Affiliation}#=%=#Soochow University
+Author{5}{Firstname}#=%=#Tongtao
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Email}#=%=#zhangt13@rpi.edu
+Author{5}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{6}{Firstname}#=%=#Heng
+Author{6}{Lastname}#=%=#Ji
+Author{6}{Email}#=%=#jih@rpi.edu
+Author{6}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+
+==========

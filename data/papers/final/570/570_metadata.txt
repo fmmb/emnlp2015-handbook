@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#570
+FinalPaperTitle#=%=#Molding CNNs for text: non-linear, non-consecutive convolutions
+ShortPaperTitle#=%=#Molding CNNs for text: non-linear, non-consecutive convolutions
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#TL
+JobTitle#==#
+Organization#==#CSAIL, MIT, 32 Vassar St.
+Cambridge, MA 02139
+Abstract#==#The success of deep learning often de- rives from well-chosen operational
+building blocks. In this work, we revise the temporal convolution operation in
+CNNs to better adapt it to text processing. Instead of concatenating word
+representations, we appeal to tensor algebra and use low-rank n-gram tensors to
+directly exploit interactions between words already at the convolution stage.
+Moreover, we extend the n-gram convolution to non-consecutive words to
+recognize patterns with intervening words. Through a combination of low- rank
+tensors, and pattern weighting, we can efficiently evaluate the resulting
+convolution operation via dynamic programming. We test the resulting
+architecture on standard sentiment classification and news categorization
+tasks. Our model achieves state-of-the-art performance both in terms of
+accuracy and training speed. For instance, we obtain 51.2% accuracy on the
+fine-grained sentiment classification task.
+Author{1}{Firstname}#=%=#Tao
+Author{1}{Lastname}#=%=#Lei
+Author{1}{Email}#=%=#taolei@csail.mit.edu
+Author{1}{Affiliation}#=%=#MIT
+Author{2}{Firstname}#=%=#Regina
+Author{2}{Lastname}#=%=#Barzilay
+Author{2}{Email}#=%=#regina@csail.mit.edu
+Author{2}{Affiliation}#=%=#MIT
+Author{3}{Firstname}#=%=#Tommi
+Author{3}{Lastname}#=%=#Jaakkola
+Author{3}{Email}#=%=#tommi@csail.mit.edu
+Author{3}{Affiliation}#=%=#MIT
+
+==========

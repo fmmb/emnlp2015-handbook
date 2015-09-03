@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#1302
+FinalPaperTitle#=%=#WikiQA: A Challenge Dataset for Open-Domain Question Answering
+ShortPaperTitle#=%=#WikiQA: A Challenge Dataset for Open-Domain Question Answering
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yi Yang
+JobTitle#==#
+Organization#==#Georgia Institute of Technology
+Abstract#==#We describe the WikiQA, a new publicly available set of question and sentence
+pairs, collected and annotated for research on open-domain question answering.
+Most previous work on answer sentence selection focuses on a dataset created
+using the TREC-QA data, which includes editor-generated questions and candidate
+answer sentences selected by matching content words in the question. WikiQA
+constructed using a more natural process and is more than an order of magnitude
+larger than the previous dataset. In addition, the WikiQA dataset also includes
+questions for which there are no correct sentences, enabling researchers to
+work on answer triggering, a critical component in any QA system. We compare
+several systems on the task of answer sentence selection on both datasets and
+also describe the performance of a system on the problem of answer triggering
+using the WikiQA dataset.
+Author{1}{Firstname}#=%=#Yi
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#yiyang@gatech.edu
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Wen-tau
+Author{2}{Lastname}#=%=#Yih
+Author{2}{Email}#=%=#scottyih@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Christopher
+Author{3}{Lastname}#=%=#Meek
+Author{3}{Email}#=%=#meek@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research
+
+==========

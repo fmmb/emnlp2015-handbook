@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1091
+FinalPaperTitle#=%=#Discourse Element Identification in Student Essays based on Global and Local Cohesion
+ShortPaperTitle#=%=#Discourse Element Identification in Student Essays based on Global and Local Cohesion
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Wei Song
+JobTitle#==#
+Organization#==#Capital Normal University
+Abstract#==#We present a method of using cohesion to improve discourse element
+identification for sentences in student essays. New features for each sentence
+are derived by considering its relations to global and local cohesion, which
+are created by means of cohesive resources and subtopic coverage. In our
+experiments, we obtain significant improvements on identifying all discourse
+elements, especially of +5% F1 score on thesis and main idea. The analysis
+shows that global cohesion can better capture thesis statements.
+Author{1}{Firstname}#=%=#Wei
+Author{1}{Lastname}#=%=#Song
+Author{1}{Email}#=%=#wsong@cnu.edu.cn
+Author{1}{Affiliation}#=%=#Capital Normal University
+Author{2}{Firstname}#=%=#Ruiji
+Author{2}{Lastname}#=%=#Fu
+Author{2}{Email}#=%=#rjfu@iflytek.com
+Author{2}{Affiliation}#=%=#Iflytek Research
+Author{3}{Firstname}#=%=#Lizhen
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#lzliu@cnu.edu.cn
+Author{3}{Affiliation}#=%=#Capital Normal University
+Author{4}{Firstname}#=%=#Ting
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Email}#=%=#tliu@ir.hit.edu.cn
+Author{4}{Affiliation}#=%=#Harbin Institute of Technology
+
+==========

@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#475
+FinalPaperTitle#=%=#Show Me Your Evidence - an Automatic Method for Context Dependent Evidence Detection
+ShortPaperTitle#=%=#Show Me Your Evidence - an Automatic Method for Context Dependent Evidence Detection
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ruty Rinott
+JobTitle#==#
+Organization#==#IBM Research - Haifa , Mount Carmel, Haifa, 31905, Israel
+Abstract#==#Engaging in a debate with oneself or others to take decisions is an integral
+part of our day-today life. A debate on a topic (say, use of performance
+enhancing drugs) typically proceeds by one party making an assertion/claim
+(say, PEDs are bad for health) and then providing an evidence to support the
+claim (say, a 2006 study shows that PEDs have psychiatric side effects). In
+this work, we propose the task of automatically detecting such evidences from
+unstructured text that support a given claim.
+This task has many practical applications in decision support and persuasion
+enhancement
+in a wide range of domains. We first introduce an extensive benchmark data set
+tailored for this task, which allows training statistical models and assessing
+their performance. Then, we suggest a system architecture based on supervised
+learning to address the evidence detection task. Finally, promising
+experimental results are reported.
+Author{1}{Firstname}#=%=#Ruty
+Author{1}{Lastname}#=%=#Rinott
+Author{1}{Email}#=%=#rutyr@il.ibm.com
+Author{1}{Affiliation}#=%=#IBM Haifa Research Labs
+Author{2}{Firstname}#=%=#Lena
+Author{2}{Lastname}#=%=#Dankin
+Author{2}{Email}#=%=#lenad@il.ibm.com
+Author{2}{Affiliation}#=%=#IBM Haifa Research Labs
+Author{3}{Firstname}#=%=#Carlos
+Author{3}{Lastname}#=%=#Alzate Perez
+Author{3}{Email}#=%=#carlos.alzate@il.ibm.com
+Author{3}{Affiliation}#=%=#IBM Dublin Research Labs
+Author{4}{Firstname}#=%=#Mitesh M.
+Author{4}{Lastname}#=%=#Khapra
+Author{4}{Email}#=%=#khapra.mitesh@gmail.com
+Author{4}{Affiliation}#=%=#IBM Research India
+Author{5}{Firstname}#=%=#Ehud
+Author{5}{Lastname}#=%=#Aharoni
+Author{5}{Email}#=%=#aehud@il.ibm.com
+Author{5}{Affiliation}#=%=#IBM Haifa Research Lab
+Author{6}{Firstname}#=%=#Noam
+Author{6}{Lastname}#=%=#Slonim
+Author{6}{Email}#=%=#noams@il.ibm.com
+Author{6}{Affiliation}#=%=#IBM Haifa Research Lab, Haifa, Israel
+
+==========

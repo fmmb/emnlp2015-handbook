@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#MT Tuning on RED: A Dependency-Based Evaluation Metric
+ShortPaperTitle#=%=#MT Tuning on RED: A Dependency-Based Evaluation Metric
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Liangyou Li
+JobTitle#==#
+Organization#==#ADAPT Centre, School of Computing, Dublin City University
+Abstract#==#In this paper, we describe our submission to WMT 2015 Tuning Task. We integrate
+a dependency-based MT evaluation metric, RED, to Moses and compare it with BLEU
+and METEOR in conjunction with two tuning methods: MERT and MIRA. Experiments
+are conducted using hierarchical phrase-based models on Czech–English and
+English–Czech tasks. Our results show that MIRA performs better than MERT in
+most cases. Using RED performs similarly to METEOR when tuning is performed
+using MIRA. We submit our system tuned by MIRA towards RED to WMT 2015. In
+human evaluations, we achieve the 1st rank in all 7 systems on the
+English–Czech task and 6/9 on the Czech–English task.
+Author{1}{Firstname}#=%=#Liangyou
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#liangyouli@computing.dcu.ie
+Author{1}{Affiliation}#=%=#CNGL Centre for Global Intelligent Content, School of Computing, Dublin City University
+Author{2}{Firstname}#=%=#Hui
+Author{2}{Lastname}#=%=#Yu
+Author{2}{Email}#=%=#yuhui@ict.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Computing Technology, CAS
+Author{3}{Firstname}#=%=#Qun
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#qliu@computing.dcu.ie
+Author{3}{Affiliation}#=%=#Dublin City University
+
+==========

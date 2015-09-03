@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1245
+FinalPaperTitle#=%=#Recognizing Biographical Sections in Wikipedia
+ShortPaperTitle#=%=#Recognizing Biographical Sections in Wikipedia
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Alessio Palmero Aprosio
+JobTitle#==#
+Organization#==#Fondazione Bruno Kessler
+Via Sommarive, 18
+38123 Trento, Italy
+Abstract#==#Wikipedia is the largest collection of encyclopedic data ever written in the
+history of humanity. Thanks to its coverage and its availability in
+machine-readable format, it has become a primary resource for large-scale
+research in historical and cultural studies. In this work, we focus on the
+subset of pages describing persons, and we investigate the task of recognizing
+biographical sections from them: given a person's page, we identify the list of
+sections where information about her/his life is present. We model this as a
+sequence classification problem, and propose a supervised setting, in which the
+training data are acquired automatically. Besides, we show that six simple
+features extracted only from the section titles are very informative and yield
+good results well above a strong baseline.
+Author{1}{Firstname}#=%=#Alessio
+Author{1}{Lastname}#=%=#Palmero Aprosio
+Author{1}{Email}#=%=#aprosio@fbk.eu
+Author{1}{Affiliation}#=%=#FBK
+Author{2}{Firstname}#=%=#Sara
+Author{2}{Lastname}#=%=#Tonelli
+Author{2}{Email}#=%=#satonelli@fbk.eu
+Author{2}{Affiliation}#=%=#FBK
+
+==========

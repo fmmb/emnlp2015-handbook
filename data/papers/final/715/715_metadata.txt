@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#715
+FinalPaperTitle#=%=#A Generative Word Embedding Model and its Low Rank Positive Semidefinite Solution
+ShortPaperTitle#=%=#A Generative Word Embedding Model
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shaohua Li
+JobTitle#==#
+Organization#==#Shaohua Li
+ETL Lab, Blk N4-B3b-13, Nanyang Avenue
+Singapore
+Abstract#==#Most existing word embedding methods can be categorized into Neural Embedding
+Models and Matrix Factorization (MF)-based methods. However some models are
+opaque to probabilistic interpretation, and MF-based methods, typically solved
+using Singular Value Decomposition (SVD), may incur loss of corpus information.
+In addition, it is desirable to incorporate global latent factors, such as
+topics, sentiments or writing styles, into the word embedding model. Since
+generative models provide a principled way to incorporate latent factors, we
+propose a generative word embedding model, which is easy to interpret, and can
+serve as a basis of more sophisticated latent factor models. The model
+inference reduces to a low rank weighted positive semidefinite approximation
+problem. Its optimization is approached by eigendecomposition on a submatrix,
+followed by online blockwise regression, which is scalable and avoids the
+information loss in SVD. In experiments on 7 common benchmark datasets, our
+vectors are competitive to word2vec, and better than other MF-based methods.
+Author{1}{Firstname}#=%=#Shaohua
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#shaohua@gmail.com
+Author{1}{Affiliation}#=%=#Nanyang Technological University
+Author{2}{Firstname}#=%=#Jun
+Author{2}{Lastname}#=%=#Zhu
+Author{2}{Email}#=%=#dcszj@mail.tsinghua.edu.cn
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Chunyan
+Author{3}{Lastname}#=%=#Miao
+Author{3}{Email}#=%=#ascymiao@ntu.edu.sg
+Author{3}{Affiliation}#=%=#Nanyang Technological University
+
+==========

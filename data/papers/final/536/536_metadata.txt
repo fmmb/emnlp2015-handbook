@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#536
+FinalPaperTitle#=%=#A large annotated corpus for learning natural language inference
+ShortPaperTitle#=%=#A large annotated corpus for learning natural language inference
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Samuel R. Bowman
+JobTitle#==#
+Organization#==#Stanford University
+450 Serra Mall
+Stanford, CA
+Abstract#==#Understanding entailment and contradiction is fundamental to understanding
+natural language, and inference about entailment and contradiction is a
+valuable testing ground for the development of semantic representations.
+However, machine learning research in this area has been dramatically limited
+by the lack of large-scale resources. To address this, we introduce the
+Stanford Natural Language Inference corpus, a new, freely available collection
+of labeled sentence pairs, written by humans doing a novel grounded task based
+on image captioning. At 570K pairs, it is two orders of magnitude larger than
+all other resources of its type. This increase in scale allows lexicalized
+classifiers to outperform some sophisticated existing entailment models, and it
+allows a neural network-based model to perform competitively on natural
+language inference benchmarks for the first time.
+Author{1}{Firstname}#=%=#Samuel R.
+Author{1}{Lastname}#=%=#Bowman
+Author{1}{Email}#=%=#sbowman@stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Gabor
+Author{2}{Lastname}#=%=#Angeli
+Author{2}{Email}#=%=#angeli@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Christopher
+Author{3}{Lastname}#=%=#Potts
+Author{3}{Email}#=%=#cgpotts@stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+Author{4}{Firstname}#=%=#Christopher D.
+Author{4}{Lastname}#=%=#Manning
+Author{4}{Email}#=%=#manning@cs.stanford.edu
+Author{4}{Affiliation}#=%=#Stanford University
+
+==========

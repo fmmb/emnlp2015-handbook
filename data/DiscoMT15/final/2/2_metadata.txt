@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Measuring ’Registerness’ in Human and Machine Translation: A Text Classification Approach
+ShortPaperTitle#=%=#Measuring ’Registerness’ in Human and Machine Translation: A Text Classification Approach
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ekaterina Lapshinova-Koltunski
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we apply text classification techniques to prove how well
+translated texts obey linguistic conventions of the target language measured in
+terms of registers, which are characterised by particular distributions of
+lexico-grammatical features according to a given contextual configuration. The
+classifiers are trained on German original data and tested on comparable
+English-to-German translations. Our main goal is to see if both human and
+machine translations comply with the non-translated target originals. The
+results of
+the present analysis provide evidence for our assumption that the usage of
+parallel corpora in machine translation should be treated with caution, as
+human translations might be prone to errors.
+Author{1}{Firstname}#=%=#Ekaterina
+Author{1}{Lastname}#=%=#Lapshinova-Koltunski
+Author{1}{Email}#=%=#e.lapshinova@mx.uni-saarland.de
+Author{1}{Affiliation}#=%=#Universität des Saarlandes
+Author{2}{Firstname}#=%=#Mihaela
+Author{2}{Lastname}#=%=#Vela
+Author{2}{Email}#=%=#m.vela@mx.uni-saarland.de
+Author{2}{Affiliation}#=%=#Universität des Saarlandes
+
+==========

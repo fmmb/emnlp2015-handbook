@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#912
+FinalPaperTitle#=%=#Cross-document Event Coreference Resolution based on Cross-media Features
+ShortPaperTitle#=%=#Cross-document Event Coreference Resolution based on Cross-media Features
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Tongtao Zhang
+JobTitle#==#
+Organization#==#Computer Science Department, Rensselaer Polytechnic Institute
+110 8th St, Troy, NY, 12180, USA
+Abstract#==#In this paper we focus on a new problem of event coreference resolution across
+television news videos. Based on the observation that the contents from
+multiple data modalities are complementary, we develop a novel approach to
+jointly encode effective features from both closed captions and video key
+frames. Experiment results demonstrate that visual features provided 7.2%
+absolute F-score gain on state-of-the-art text based event extraction and
+coreference resolution.
+Author{1}{Firstname}#=%=#Tongtao
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#zhangt13@rpi.edu
+Author{1}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{2}{Firstname}#=%=#Hongzhi
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#hongzhili@cs.columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University
+Author{3}{Firstname}#=%=#Heng
+Author{3}{Lastname}#=%=#Ji
+Author{3}{Email}#=%=#jih@rpi.edu
+Author{3}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{4}{Firstname}#=%=#Shih-Fu
+Author{4}{Lastname}#=%=#Chang
+Author{4}{Email}#=%=#sfchang@ee.columbia.edu
+Author{4}{Affiliation}#=%=#Columbia University
+
+==========

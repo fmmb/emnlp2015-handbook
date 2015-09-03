@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#646
+FinalPaperTitle#=%=#Learning to Recognize Affective Polarity in Similes
+ShortPaperTitle#=%=#Learning to Recognize Affective Polarity in Similes
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ashequl Qadir
+JobTitle#==#
+Organization#==#School of Computing
+50 S., Central Campus Dr.
+University of Utah
+Salt Lake City, UT 84112, USA
+Abstract#==#A simile is a comparison between two
+essentially unlike things, such as "Jane
+swims like a dolphin". Similes often express
+a positive or negative sentiment toward
+something, but recognizing the polarity
+of a simile can depend heavily on
+world knowledge. For example, "memory
+like an elephant" is positive, but "memory
+like a sieve" is negative. Our research
+explores methods to recognize the polarity
+of similes on Twitter. We train classifiers
+using lexical, semantic, and sentiment features,
+and experiment with both manually
+and automatically generated training
+data. Our approach yields good performance
+at identifying positive and negative
+similes, and substantially outperforms existing
+sentiment resources.
+Author{1}{Firstname}#=%=#Ashequl
+Author{1}{Lastname}#=%=#Qadir
+Author{1}{Email}#=%=#asheq@cs.utah.edu
+Author{1}{Affiliation}#=%=#University of Utah
+Author{2}{Firstname}#=%=#Ellen
+Author{2}{Lastname}#=%=#Riloff
+Author{2}{Email}#=%=#riloff@cs.utah.edu
+Author{2}{Affiliation}#=%=#University of Utah
+Author{3}{Firstname}#=%=#Marilyn
+Author{3}{Lastname}#=%=#Walker
+Author{3}{Email}#=%=#maw@soe.ucsc.edu
+Author{3}{Affiliation}#=%=#University of California Santa Cruz
+
+==========

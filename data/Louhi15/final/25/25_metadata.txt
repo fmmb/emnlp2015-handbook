@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=#Held-out versus Gold Standard: Comparison of Evaluation Strategies for Distantly Supervised Relation Extraction from Medline abstracts
+ShortPaperTitle#=%=#Held-out versus Gold Standard: Comparison of Evaluation Strategies for Distantly Supervised Relation Extraction from Medline abstracts
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Roller
+JobTitle#==#
+Organization#==#Roland Roller, University of Sheffield
+Abstract#==#Distant supervision is a useful technique for creating relation classifiers in
+the absence of labelled data. The approaches are often evaluated using a
+held-out portion of the distantly labelled data, thereby avoiding the need for
+lablelled data entirely. However, held-out evaluation means that systems are
+tested against noisy data, making it difficult to determine their true
+accuracy. This paper examines the effectiveness of using held-out data to
+evaluate relation extraction systems by comparing the results that are produced
+with those generated using manually labelled versions of the same data. We
+train classifiers to detect two UMLS Metathesaurus relations (may-treat and
+may-prevent) in Medline abstracts. A new evaluation data set for these
+relations is made available. We show that evaluation against a distantly
+labelled gold standard tends to overestimate performance and that no direct
+connection can be found between improved performance against distantly and
+manually labelled gold standards.
+Author{1}{Firstname}#=%=#Roland
+Author{1}{Lastname}#=%=#Roller
+Author{1}{Email}#=%=#roland.roller@sheffield.ac.uk
+Author{1}{Affiliation}#=%=#University of Sheffield
+Author{2}{Firstname}#=%=#Mark
+Author{2}{Lastname}#=%=#Stevenson
+Author{2}{Email}#=%=#mark.stevenson@sheffield.ac.uk
+Author{2}{Affiliation}#=%=#University of Sheffield
+
+==========

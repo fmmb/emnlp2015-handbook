@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1184
+FinalPaperTitle#=%=#Measuring Prerequisite Relations Among Concepts
+ShortPaperTitle#=%=#Measuring Prerequisite Relations Among Concepts
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Chen Liang
+JobTitle#==#
+Organization#==#The Pennsylvania State University
+University Park, PA, 16802, USA
+Abstract#==#A prerequisite relation describes a basic relation among concepts in cognition,
+education and other areas. However, as a semantic relation, it has not been
+well studied in computational linguistics. We investigate the problem of
+measuring prerequisite relations among concepts and propose a simple link-based
+metric, namely reference distance (RefD), that effectively models the relation
+by measuring how differently two concepts refer to each other. Evaluations on
+two datasets that include seven domains show that our single metric based
+method outperforms existing supervised learning based methods.
+Author{1}{Firstname}#=%=#Chen
+Author{1}{Lastname}#=%=#Liang
+Author{1}{Email}#=%=#cul226@ist.psu.edu
+Author{1}{Affiliation}#=%=#The Pennsylvania State University
+Author{2}{Firstname}#=%=#Zhaohui
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Email}#=%=#laowuz@gmail.com
+Author{2}{Affiliation}#=%=#Penn State University
+Author{3}{Firstname}#=%=#Wenyi
+Author{3}{Lastname}#=%=#Huang
+Author{3}{Email}#=%=#harrywy@gmail.com
+Author{3}{Affiliation}#=%=#Pennsylvania State University
+Author{4}{Firstname}#=%=#C. Lee
+Author{4}{Lastname}#=%=#Giles
+Author{4}{Email}#=%=#giles@ist.psu.edu
+Author{4}{Affiliation}#=%=#The Pennsylvania State University
+
+==========

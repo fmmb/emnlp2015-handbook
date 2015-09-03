@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#1211
+FinalPaperTitle#=%=#A Coarse-Grained Model for Optimal Coupling of ASR and SMT Systems for Speech Translation
+ShortPaperTitle#=%=#A Coarse-Grained Model for Optimal Coupling of ASR and SMT Systems for Speech Translation
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Gaurav Kumar
+JobTitle#==#
+Organization#==#Johns Hopkins University, 
+3400, N. Charles St.,
+Baltimore, MD, 21218
+Abstract#==#Speech translation is conventionally carried out by cascading an automatic
+speech recognition (ASR) and a statistical machine translation (SMT) system.
+The hypotheses chosen for translation are based on the ASR system’s acoustic
+and language model scores, and typically optimized for word error rate,
+ignoring the in- tended downstream use: automatic translation. In this paper,
+we present a coarse- to-fine model that uses features from the ASR and SMT
+systems to optimize this coupling. We demonstrate that several standard
+features utilized by ASR and SMT systems can be used in such a model at the
+speech-translation interface, and we provide empirical results on the Fisher
+Spanish-English speech translation corpus.
+Author{1}{Firstname}#=%=#Gaurav
+Author{1}{Lastname}#=%=#Kumar
+Author{1}{Email}#=%=#gkumar@cs.jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Graeme
+Author{2}{Lastname}#=%=#Blackwood
+Author{2}{Email}#=%=#blackwood@us.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research
+Author{3}{Firstname}#=%=#Jan
+Author{3}{Lastname}#=%=#Trmal
+Author{3}{Email}#=%=#yenda@jhu.edu
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+Author{4}{Firstname}#=%=#Daniel
+Author{4}{Lastname}#=%=#Povey
+Author{4}{Email}#=%=#dpovey1@jhu.edu
+Author{4}{Affiliation}#=%=#Johns Hopkins University
+Author{5}{Firstname}#=%=#Sanjeev
+Author{5}{Lastname}#=%=#Khudanpur
+Author{5}{Email}#=%=#khudanpur@jhu.edu
+Author{5}{Affiliation}#=%=#Johns Hopkins University
+
+==========

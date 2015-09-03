@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#455
+FinalPaperTitle#=%=#Semantic Role Labeling with Neural Network Factors
+ShortPaperTitle#=%=#Semantic Role Labeling with Neural Network Factors
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Nicholas FitzGerald
+JobTitle#==#
+Organization#==#University of Washington, Department of Computer Science
+AC101 Paul G. Allen Center for
+     Computer Science & Engineering
+Box 352350
+185 Stevens Way
+Seattle WA 98195-2350
+Abstract#==#We present a new method for semantic role labeling in which arguments and
+semantic roles are jointly embedded in a shared vector space for a given
+predicate. These embeddings belong to a neural network, whose output represents
+the potential functions of a graphical model designed for the SRL task. We
+consider both local and structured learning methods and obtain state-of-the-art
+results on standard PropBank and FrameNet corpora with a straightforward
+product-of-experts model. We further show how the model can learn jointly from
+PropBank and FrameNet annotations to obtain additional improvements on the
+smaller FrameNet dataset.
+Author{1}{Firstname}#=%=#Nicholas
+Author{1}{Lastname}#=%=#FitzGerald
+Author{1}{Email}#=%=#nfitz@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Oscar
+Author{2}{Lastname}#=%=#Täckström
+Author{2}{Email}#=%=#oscart@google.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Kuzman
+Author{3}{Lastname}#=%=#Ganchev
+Author{3}{Email}#=%=#kuzman@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Dipanjan
+Author{4}{Lastname}#=%=#Das
+Author{4}{Email}#=%=#dipanjand@gmail.com
+Author{4}{Affiliation}#=%=#Google
+
+==========

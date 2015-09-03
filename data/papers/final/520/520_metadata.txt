@@ -1,0 +1,49 @@
+SubmissionNumber#=%=#520
+FinalPaperTitle#=%=#RELLY: Inferring Hypernym Relationships Between Relational Phrases
+ShortPaperTitle#=%=#RELLY: Inferring Hypernym Relationships Between Relational Phrases
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Adam Grycner
+JobTitle#==#
+Organization#==#Max-Planck Institute for Informatics
+Campus E1.4, 66123
+Saarbruecken, Germany
+Abstract#==#Relational phrases (e.g., ``got married to'') and their hypernyms (e.g., ``is a
+relative of'') are central for many tasks including question answering, open
+information extraction, paraphrasing, and entailment detection.
+This has motivated the development of several linguistic resources (e.g. DIRT,
+PATTY, and WiseNet) which systematically collect and organize relational
+phrases.
+These resources have demonstrable practical benefits, but are each limited due
+to noise, sparsity, or size.
+We present a new general-purpose method, RELLY, for constructing a large
+hypernymy graph of relational phrases with high-quality subsumptions using
+collective probabilistic programming techniques.
+Our graph induction approach integrates small high-precision knowledge bases
+together with large automatically curated resources, and reasons collectively
+to combine these resources into a consistent graph.
+Using RELLY,  we construct a high-coverage, high-precision hypernymy graph
+consisting of 20K relational phrases and 35K hypernymy links.
+Our evaluation indicates a hypernymy link precision of 78%, and demonstrates
+the value of this resource for a document-relevance ranking task.
+Author{1}{Firstname}#=%=#Adam
+Author{1}{Lastname}#=%=#Grycner
+Author{1}{Email}#=%=#agrycner@mpi-inf.mpg.de
+Author{1}{Affiliation}#=%=#Max-Planck Institute for Informatics
+Author{2}{Firstname}#=%=#Gerhard
+Author{2}{Lastname}#=%=#Weikum
+Author{2}{Email}#=%=#weikum@mpi-inf.mpg.de
+Author{2}{Affiliation}#=%=#
+Author{3}{Firstname}#=%=#Jay
+Author{3}{Lastname}#=%=#Pujara
+Author{3}{Email}#=%=#jay@cs.umd.edu
+Author{3}{Affiliation}#=%=#University of Maryland, College Park
+Author{4}{Firstname}#=%=#James
+Author{4}{Lastname}#=%=#Foulds
+Author{4}{Email}#=%=#jfoulds@ucsc.edu
+Author{4}{Affiliation}#=%=#University of California, Santa Cruz
+Author{5}{Firstname}#=%=#Lise
+Author{5}{Lastname}#=%=#Getoor
+Author{5}{Email}#=%=#getoor@ucsc.edu
+Author{5}{Affiliation}#=%=#University of California, Santa Cruz
+
+==========

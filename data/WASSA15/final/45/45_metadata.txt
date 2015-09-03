@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#45
+FinalPaperTitle#=%=#Mining HEXACO personality traits from Enterprise Social Media
+ShortPaperTitle#=%=#Mining HEXACO personality traits from Enterprise Social Media
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Priyanka Sinha
+JobTitle#==#
+Organization#==#Tata Consultancy Services Limited, Ecospace 1B, New Town, Kolkata 700156, India
+Indian Institute of Technology Kharagpur, Kharagpur, India 721302
+Abstract#==#In this paper we introduce a novel computational technique of extraction of
+personality traits (HEXACO) of employees from Enterprise Social Media posts. We
+deal with challenges such as not being able to use existing survey instruments
+for scoring and not being able to directly use existing psychological studies
+on written text due to lack of overlapping words between the existing
+dictionary and words used in Enterprise Social Media. Using our approach we are
+able to infer personality traits (HEXACO) from posts and find better coverage
+and usage of the extended dictionary.
+Author{1}{Firstname}#=%=#Priyanka
+Author{1}{Lastname}#=%=#Sinha
+Author{1}{Email}#=%=#priyanka.sinha.iitg@gmail.com
+Author{1}{Affiliation}#=%=#Tata Consultancy Services Limited/Indian Institute of Technology Kharagpur
+Author{2}{Firstname}#=%=#Lipika
+Author{2}{Lastname}#=%=#Dey
+Author{2}{Email}#=%=#lipika.dey@gmail.com
+Author{2}{Affiliation}#=%=#Tata Consultancy Services Limited
+Author{3}{Firstname}#=%=#Pabitra
+Author{3}{Lastname}#=%=#Mitra
+Author{3}{Email}#=%=#pabitra@gmail.com
+Author{3}{Affiliation}#=%=#Indian Institute of Technology Kharagpur
+Author{4}{Firstname}#=%=#Anupam
+Author{4}{Lastname}#=%=#Basu
+Author{4}{Email}#=%=#anupambas@gmail.com
+Author{4}{Affiliation}#=%=#Indian Institute of Technology Kharagpur
+
+==========

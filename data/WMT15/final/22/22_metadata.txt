@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#The RWTH Aachen German-English Machine Translation System for WMT 2015
+ShortPaperTitle#=%=#The RWTH Aachen German-English Machine Translation System for WMT 2015
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jan-Thorsten Peter
+JobTitle#==#
+Organization#==#Chair of Computer Science 6 
+(Lehrstuhl für Informatik 6)
+D-52056 Aachen, Germany
+Abstract#==#This paper describes the statistical machine translation system developed at
+RWTH Aachen University for the German-English translation task of the EMNLP
+2015 Tenth Workshop on Statistical Machine Translation (WMT 2015). A
+phrase-based machine translation system was applied and augmented with
+hierarchical phrase reordering and word class language models. Further, we ran
+discriminative phrase training for our system. In addition, we utilized
+multiple  feed-forward neural network language and translation models and a
+recurrent neural network language model in rescoring.
+Author{1}{Firstname}#=%=#Jan-Thorsten
+Author{1}{Lastname}#=%=#Peter
+Author{1}{Email}#=%=#peter@informatik.rwth-aachen.de
+Author{1}{Affiliation}#=%=#RWTH Aachen University
+Author{2}{Firstname}#=%=#Farzad
+Author{2}{Lastname}#=%=#Toutounchi
+Author{2}{Email}#=%=#toutounchi@cs.rwth-aachen.de
+Author{2}{Affiliation}#=%=#RWTH Aachen University
+Author{3}{Firstname}#=%=#Joern
+Author{3}{Lastname}#=%=#Wuebker
+Author{3}{Email}#=%=#joern.wuebker@googlemail.com
+Author{3}{Affiliation}#=%=#RWTH Aachen University
+Author{4}{Firstname}#=%=#Hermann
+Author{4}{Lastname}#=%=#Ney
+Author{4}{Email}#=%=#ney@cs.rwth-aachen.de
+Author{4}{Affiliation}#=%=#RWTH Aachen University
+
+==========

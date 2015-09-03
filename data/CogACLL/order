@@ -1,0 +1,27 @@
+* Friday, September 18, 2015
+= 09:00--09:10 Opening and Introduction # %room Room 3 %chair1 Thierry Poibeau %aff1 Laboratoire LATTICE-CNRS, France
+= 09:10--10:30 Session 1: Language Processing # %room Room 3 %chair1 Barend Beekhuizen %aff1 Leiden University, Netherlands
+14 09:10--09:30  # Using reading behavior to predict grammatical functions
+16 09:30--10:00  # Reading metrics for estimating task efficiency with MT output
+27 10:00--10:30  # Evaluating Models of Computation and Storage in Human Sentence Processing
++ 10:30--11:00 Coffee Break
+= 11:00--11:50 Invited Talk by Afra Alishahi # %room Room 3 %chair1 Thierry Poibeau %aff1 Laboratoire LATTICE-CNRS, France
+= 11:50--12:10 Session 2: Language  Change # %room Room 3 %chair1 Bogdan Ludusan %aff1 EHESS, France
+17 11:50--12:10  # An agent-based model of a historical word order change
+= 12:10--13:00 Session 3: Poster Session # %room Lower Level Foyer %chair1 Bogdan Ludusan %aff1 EHESS, France
+12 12:10--13:00  # Towards a Model of Prediction-based Syntactic Category Acquisition: First Steps with Word Embeddings
+13 12:10--12:30  # Which distributional cues help the most? Unsupervised contexts selection for lexical category acquisition
+22 12:10--13:00  # Language Emergence in a Population of Artificial Agents Equipped with the Autotelic Principle
+23 12:10--13:00  # A Computational Study of Cross-situational Lexical Learning of Brazilian Portuguese
+24 12:10--13:00  # Units in segmentation: a computational investigation
+26 12:10--13:00  # Estimating Grammeme Redundancy by Measuring Their Importance for Syntactic Parser Performance
++ 13:00--14:10 Lunch
+= 14:10--15:00 Invited Talk by Antal van den Bosch # %room Room 3 %chair1 Thierry Poibeau %aff1 Laboratoire LATTICE-CNRS, France
+= 15:00--15:30 Session 4: Language Processing II # %room Room 3 %chair1 Pablo Faria %aff1 University of Campinas, Brazil
+25 15:00--15:30  # Improving Coordination on Novel Meaning through Context and Semantic Structure
++ 15:30--16:00 Coffee Break
+= 16:00--17:30 Session 5: Language Acquisition # %room Room 3 %chair1 Anders Søgaard %aff1 University of Copenhagen, Denmark
+18 16:00--16:30  # Perceptual, conceptual, and frequency effects on error patterns in English color term acquisition
+21 16:30--17:00  # Motif discovery in infant- and adult-directed speech
+11 17:00--17:30  # Modeling dative alternations of individual children
+= 17:30--17:35 Closing Session # %room Room 3 %chair1 Thierry Poibeau %aff1 Laboratoire LATTICE-CNRS, France

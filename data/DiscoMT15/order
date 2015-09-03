@@ -1,0 +1,40 @@
+* Thursday, September 17, 2015
+= 09:00--10:30 Session 1 # %room Room 6 %chair1 Bonnie Webber %aff1 University of Edinburgh
+! 09:00--09:05 Introduction %by Bonnie Webber
+26 09:05--09:35  # Pronoun-Focused MT and Cross-Lingual Pronoun Prediction: Findings of the 2015 DiscoMT Shared Task on Pronoun Translation
+10 09:35--09:50  # Comparison of Coreference Resolvers for Deep Syntax Translation
+6 09:50--10:15  # Analysing ParCor and its Translations by State-of-the-art SMT Systems
+= 10:15--10:30 Poster Boaster # %room Room 6
++ 10:30--11:00 Coffee Break
+= 11:00--12:30 Session 2a: Regular Track Posters # %room Lower Level Foyer
+18   # Document-Level Machine Translation Evaluation with Gist Consistency and Text Cohesion
+16   # The Role of Expectedness in the Implicitation and Explicitation of Discourse Relations
+12   # Detecting Document-level Context Triggers to Resolve Translation Ambiguity
+1   # A Proposal for a Coherence Corpus in Machine Translation
+= 11:00--12:30 Session 2b: Posters Related to Oral Presentations # %room Lower Level Foyer
+!  On Statistical Machine Translation and Translation Theory %by Christian Hardmeier
+!  Exploration of Inter- and Intralingual Variation of Discourse Phenomena %by Ekaterina Lapshinova-Koltunski
+!  Measuring ’Registerness’ in Human and Machine Translation: A Text Classification Approach %by Ekaterina Lapshinova-Koltunski and Mihaela Vela
+!  Translation Model Adaptation Using Genre-Revealing Text Features %by Marlies van der Wees, Arianna Bisazza, Christof Monz
+!  Crosslingual Annotation and Analysis of Implicit Discourse Connectives for Machine Translation %by Frances Yung, Kevin Duh, Yuji Matsumoto
+= 11:00--12:30 Session 2c: Shared Task Posters # %room Lower Level Foyer
+15   # Part-of-Speech Driven Cross-Lingual Pronoun Prediction with Feed-Forward Neural Networks
+8   # Automatic Post-Editing for the DiscoMT Pronoun Translation Task
+7   # A Document-Level SMT System with Integrated Pronoun Prediction
+14   # Predicting Pronoun Translation Using Syntactic, Morphological and Contextual Features from Parallel Data
+13   # Rule-Based Pronominal Anaphora Treatment for Machine Translation
+5   # Pronoun Translation and Prediction with or without Coreference Links
+19   # Predicting Pronouns across Languages with Continuous Word Spaces
+21   # Baseline Models for Pronoun Prediction and Pronoun-Aware Translation
+17   # A Maximum Entropy Classifier for Cross-Lingual Pronoun Prediction
++ 12:30--14:00 Lunch Break
+= 14:00--15:30 Session 3 # %room Room 6 %chair1 Marine Carpuat %aff1 University of Maryland
+2 14:00--14:25  # Measuring ___Registerness___ in Human and Machine Translation: A Text Classification Approach
+20 14:25--14:50  # Translation Model Adaptation Using Genre-Revealing Text Features
+23 14:50--15:15  # Crosslingual Annotation and Analysis of Implicit Discourse Connectives for Machine Translation
+11 15:15--15:30  # Novel Document Level Features for Statistical Machine Translation
++ 15:30--16:00 Coffee Break
+= 16:00--17:30 Session 4 # %room Room 6 %chair1 Andrei Popescu-Belis %aff1 Idiap Research Institute
+4 16:00--16:25  # Exploration of Inter- and Intralingual Variation of Discourse Phenomena
+22 16:25--16:40  # On Statistical Machine Translation and Translation Theory
+! 16:40--17:30 Final Discussions and Conclusions %by Workshop Organizers and Audience

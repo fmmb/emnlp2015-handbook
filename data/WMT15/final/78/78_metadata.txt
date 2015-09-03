@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#78
+FinalPaperTitle#=%=#Strategy-Based Technology for Estimating MT Quality
+ShortPaperTitle#=%=#Strategy-Based Technology for Estimating MT Quality
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Liugang Shang
+JobTitle#==#
+Organization#==#Knowledge Engineering and Human-Computer Interaction center, Shenyang Aerospace University, Shenyang, China
+Abstract#==#This paper introduces our SAU-KERC system that achieved F1 score of 0.39 in the
+world-level quality estimation task in WMT2015. The goal is to assign each
+translated word a “OK” or “BAD” label indicating translation quality.
+We adopt the sequence labeling model, conditional random fields (CRF), to
+predict the labels. Since “BAD” labels are rare in the training and
+development sets, recognition rate of "BAD" is low. To solve this problem, we
+propose two strategies. One is to replace “OK” label with sub-labels to
+balance label distribution. The other is to reconstruct the training set to
+include more "BAD" words.
+Author{1}{Firstname}#=%=#Liugang
+Author{1}{Lastname}#=%=#Shang
+Author{1}{Email}#=%=#1437260083@qq.com
+Author{1}{Affiliation}#=%=#Knowledge Engineering and Human-Computer Interaction center, Shenyang Aerospace University
+Author{2}{Firstname}#=%=#Dongfeng
+Author{2}{Lastname}#=%=#Cai
+Author{2}{Email}#=%=#caidf@vip.163.com
+Author{2}{Affiliation}#=%=#Knowledge Engineering and Human-Computer Interaction center , Shenyang Aerospace University
+Author{3}{Firstname}#=%=#Duo
+Author{3}{Lastname}#=%=#Ji
+Author{3}{Email}#=%=#jiduo_1@163.com
+Author{3}{Affiliation}#=%=#Knowledge Engineering and Human-Computer Interaction center , Shenyang Aerospace University
+
+==========

@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#1115
+FinalPaperTitle#=%=#Adapting Coreference Resolution for Narrative Processing
+ShortPaperTitle#=%=#Adapting Coreference Resolution for Narrative Processing
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Quynh Do
+JobTitle#==#
+Organization#==#Computer Science department, KU Leuven, 
+Celestijnenlaan 200A, 3001 Leuven, Belgium
+Abstract#==#Domain adaptation is a challenge for supervised NLP systems because of
+expensive and time-consuming manual annotation resources. We present a novel
+method
+to adapt a supervised coreference resolution system trained on newswire domain
+to short narrative stories without retraining the system.
+The idea is to perform inference via an Integer Linear Programming (ILP)
+formulation with the features of narratives adopted  soft constraints. When
+testing on the UMIREC and N2 corpora with the-stateof-
+the-art Berkeley coreference resolution system trained on OntoNotes, our
+inference substantially outperforms the original inference on the CoNLL 2011
+metric.
+Author{1}{Firstname}#=%=#Quynh Ngoc Thi
+Author{1}{Lastname}#=%=#Do
+Author{1}{Email}#=%=#quynhngocthi.do@cs.kuleuven.be
+Author{1}{Affiliation}#=%=#Katholieke Universiteit Leuven
+Author{2}{Firstname}#=%=#Steven
+Author{2}{Lastname}#=%=#Bethard
+Author{2}{Email}#=%=#bethard@cis.uab.edu
+Author{2}{Affiliation}#=%=#University of Alabama at Birmingham
+Author{3}{Firstname}#=%=#Marie-Francine
+Author{3}{Lastname}#=%=#Moens
+Author{3}{Email}#=%=#sien.moens@cs.kuleuven.be
+Author{3}{Affiliation}#=%=#Katholieke Universiteit Leuven
+
+==========

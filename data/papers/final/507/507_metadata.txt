@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#507
+FinalPaperTitle#=%=#Spelling Correction of User Search Queries through Statistical Machine Translation
+ShortPaperTitle#=%=#Spelling Correction of User Search Queries through SMT
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Sasa Hasan
+JobTitle#==#
+Organization#==#eBay Inc.
+2065 Hamilton Ave
+San Jose, CA 95125, USA
+Abstract#==#We use character-based statistical machine translation in order to correct user
+search queries in the e-commerce domain. The training data is automatically
+extracted from event logs where users re-issue their search queries with
+potentially corrected spelling within the same session. We show results on a
+test set which was annotated by humans and compare against online
+autocorrection capabilities of three additional web sites. Overall, the methods
+presented in this paper outperform fully productized spellchecking and
+autocorrection services in terms of accuracy and F1 score. We also propose
+novel evaluation steps based on retrieved search results of the corrected
+queries in terms of quantity and relevance.
+Author{1}{Firstname}#=%=#Saša
+Author{1}{Lastname}#=%=#Hasan
+Author{1}{Email}#=%=#sasa.hasan@gmail.com
+Author{1}{Affiliation}#=%=#Lilt Inc.
+Author{2}{Firstname}#=%=#Carmen
+Author{2}{Lastname}#=%=#Heger
+Author{2}{Email}#=%=#heger.carmen@gmail.com
+Author{2}{Affiliation}#=%=#Stylight
+Author{3}{Firstname}#=%=#Saab
+Author{3}{Lastname}#=%=#Mansour
+Author{3}{Email}#=%=#saamansour@ebay.com
+Author{3}{Affiliation}#=%=#eBay
+
+==========

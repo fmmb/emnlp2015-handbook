@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1183
+FinalPaperTitle#=%=#"A Spousal Relation Begins with a Deletion of engage and Ends with an Addition of divorce": Learning State Changing Verbs from Wikipedia Revision History
+ShortPaperTitle#=%=#"A Spousal Relation Begins with a Deletion of engage and Ends with an Addition of divorce": Learning State Changing Verbs from Wikipedia Revision History
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Derry Tanti Wijaya
+JobTitle#==#
+Organization#==#Carnegie Mellon University, 5000 Forbes Ave, Pittsburgh, PA 15213, USA
+Abstract#==#Learning to determine when the time-varying facts of a Knowledge Base (KB) have
+to be updated is a challenging task. We propose to learn state changing verbs
+from Wikipedia edit history. When a state-changing event, such as a marriage or
+death, happens to an entity, the infobox on the entity’s Wikipedia page
+usually gets updated. At the same time, the article text may be updated with
+verbs either being added or deleted to reflect the changes made to the infobox.
+We use Wikipedia edit history to distantly supervise a method for automatically
+learning verbs and state changes. Additionally, our method uses constraints to
+effectively map verbs to infobox changes. We observe in our experiments that
+when state-changing verbs are added or deleted from an entity’s Wikipedia
+page text, we can predict the entity’s infobox updates with 88% precision and
+76% recall. One compelling application of our verbs is to incorporate them as
+triggers in methods for updating existing KBs, which are currently mostly
+static.
+Author{1}{Firstname}#=%=#Derry Tanti
+Author{1}{Lastname}#=%=#Wijaya
+Author{1}{Email}#=%=#dwijaya@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Ndapandula
+Author{2}{Lastname}#=%=#Nakashole
+Author{2}{Email}#=%=#ndapa@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon Univeristy
+Author{3}{Firstname}#=%=#Tom
+Author{3}{Lastname}#=%=#Mitchell
+Author{3}{Email}#=%=#tom.mitchell@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

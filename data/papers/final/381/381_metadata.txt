@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#381
+FinalPaperTitle#=%=#Graph-Based Collective Lexical Selection for Statistical Machine Translation
+ShortPaperTitle#=%=#Graph-Based Collective Lexical Selection for Statistical Machine Translation
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jinsong Su
+JobTitle#==#
+Organization#==#Xiamen University, Xiamen, P.R. China
+Abstract#==#Lexical selection is of great importance to statistical machine translation. In
+this paper, we propose a graph-based framework for collective lexical
+selection. The framework is established on a translation graph that captures
+not only local associations between source-side content words and their target
+translations but also target-side global dependencies in terms of relatedness
+among target items. We also introduce a random walk style algorithm to
+collectively identify translations of source-side content words that are
+strongly related in translation graph. We validate the effectiveness of our
+lexical selection framework on Chinese-English translation. Experiment results
+with large-scale training data show that our approach significantly improves
+lexical selection.
+Author{1}{Firstname}#=%=#Jinsong
+Author{1}{Lastname}#=%=#Su
+Author{1}{Email}#=%=#jssu@xmu.edu.cn
+Author{1}{Affiliation}#=%=#Xiamen university
+Author{2}{Firstname}#=%=#Deyi
+Author{2}{Lastname}#=%=#Xiong
+Author{2}{Email}#=%=#deyi.xiong@gmail.com
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#Shujian
+Author{3}{Lastname}#=%=#Huang
+Author{3}{Email}#=%=#huangshujian@gmail.com
+Author{3}{Affiliation}#=%=#Nanjing University
+Author{4}{Firstname}#=%=#Xianpei
+Author{4}{Lastname}#=%=#Han
+Author{4}{Email}#=%=#xianpei@nfs.iscas.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{5}{Firstname}#=%=#Junfeng
+Author{5}{Lastname}#=%=#Yao
+Author{5}{Email}#=%=#yaojunfeng@xmu.edu.cn
+Author{5}{Affiliation}#=%=#Xiamen University
+
+==========

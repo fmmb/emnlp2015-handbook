@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#chrF: character n-gram F-score for automatic MT evaluation
+ShortPaperTitle#=%=#character n-gram F-score for MT evaluation
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Maja Popović
+JobTitle#==#
+Organization#==#Humboldt University of Berlin
+Unter den Linden 6
+10099 Berlin
+Germany
+Abstract#==#We propose the use of character n-gram F-score for automatic evaluation
+of machine translation output. Character n-grams have already been used as a
+part of more complex metrics, but their individual potential has not been
+investigated yet. We report system-level correlations with human rankings for
+6-gram F1-score (chrF) on the WMT12, WMT13 and WMT14 data as
+well as segment-level correlation for 6-gram F1 (chrF) and F3-scores (chrF3) on
+WMT14 data for all available target languages. The results are very
+promising, especially for the chrF3 score -- for translation from
+English, this variant showed the highest 
+segment-level correlations outperforming even the best metrics on the
+WMT14 shared evaluation task.
+Author{1}{Firstname}#=%=#Maja
+Author{1}{Lastname}#=%=#Popović
+Author{1}{Email}#=%=#maja.popovic@hu-berlin.de
+Author{1}{Affiliation}#=%=#Humboldt University of Berlin
+
+==========

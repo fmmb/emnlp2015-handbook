@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#A Proposal for a Coherence Corpus in Machine Translation
+ShortPaperTitle#=%=#Coherence corpus for Machine Translation
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Karin Sim Smith
+JobTitle#==#
+Organization#==#Sheffield University
+Abstract#==#Coherence in Machine Translation (MT) has received little attention to date.
+One of the main issues we face in work in this area is the lack of labelled
+data. While coherent (human authored) texts are abundant and incoherent texts
+could be taken from MT output, the latter also contains other errors which are
+not speciﬁcally related to coherence. This makes it difﬁcult to identify
+and quantify issues of coherence in those texts. We introduce an initiative to
+create a corpus consisting of data artiﬁcially manipulated to contain errors
+of coherence common in MT output. Such a corpus could then be used as a
+benchmark for coherence models in MT, and potentially as training data for
+coherence models in supervised settings.
+Author{1}{Firstname}#=%=#Karin
+Author{1}{Lastname}#=%=#Sim Smith
+Author{1}{Email}#=%=#kmsimsmith1@sheffield.ac.uk
+Author{1}{Affiliation}#=%=#University of Sheffield
+Author{2}{Firstname}#=%=#Wilker
+Author{2}{Lastname}#=%=#Aziz
+Author{2}{Email}#=%=#will.aziz@gmail.com
+Author{2}{Affiliation}#=%=#University of Amsterdam
+Author{3}{Firstname}#=%=#Lucia
+Author{3}{Lastname}#=%=#Specia
+Author{3}{Email}#=%=#l.specia@sheffield.ac.uk
+Author{3}{Affiliation}#=%=#University of Sheffield
+
+==========

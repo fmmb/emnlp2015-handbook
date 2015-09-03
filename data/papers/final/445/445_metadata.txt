@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#445
+FinalPaperTitle#=%=#Flexible Domain Adaptation for Automated Essay Scoring Using Correlated Linear Regression
+ShortPaperTitle#=%=#Flexible Domain Adaptation for Automated Essay Scoring Using Correlated Linear Regression
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Hwee Tou Ng
+JobTitle#==#
+Organization#==#National University of Singapore
+13 Computing Drive
+Singapore 117417
+Abstract#==#Most of the current automated essay scoring (AES) systems are trained
+using manually graded essays from a specific prompt.  These systems
+experience a drop in accuracy when used to grade an essay from a
+different prompt.  Obtaining a large number of manually graded essays
+each time a new prompt is introduced is costly and not viable.              We
+propose domain adaptation as a solution to adapt an AES system from an
+initial prompt to a new prompt.  We also propose a novel domain
+adaptation technique that uses Bayesian linear ridge regression.  We
+evaluate our domain adaptation technique on the publicly available
+Automated Student Assessment Prize (ASAP) dataset and show that our
+proposed technique is a competitive default domain adaptation
+algorithm for the AES task.
+Author{1}{Firstname}#=%=#Peter
+Author{1}{Lastname}#=%=#Phandi
+Author{1}{Email}#=%=#peter.phandi@gmail.com
+Author{1}{Affiliation}#=%=#National University of Singapore
+Author{2}{Firstname}#=%=#Kian Ming A.
+Author{2}{Lastname}#=%=#Chai
+Author{2}{Email}#=%=#ckianmin@dso.org.sg
+Author{2}{Affiliation}#=%=#DSO National Laboratories
+Author{3}{Firstname}#=%=#Hwee Tou
+Author{3}{Lastname}#=%=#Ng
+Author{3}{Email}#=%=#nght@comp.nus.edu.sg
+Author{3}{Affiliation}#=%=#National University of Singapore
+
+==========

@@ -1,0 +1,16 @@
+abbrev VL
+type WORKSHOP
+title Fourth Workshop on Vision and Language
+url https://sites.google.com/site/vl15workshop/
+booktitle Proceedings of the Fourth Workshop on Vision and Language
+month September
+year 2015
+location Lisbon, Portugal
+publisher Association for Computational Linguistics
+chairs Anja Belz (University of Brighton, UK)
+chairs Luisa Coheur (INESC-ID, Portugal)
+chairs Vittorio Ferrari (University of Edinburgh, UK)
+chairs Marie-Francine Moens (KU Leuven, Belgium)
+chairs Katerina Pastra (CSRI, Greece)
+chairs Ivan Vulić (KU Leuven, Belgium)
+bib_url http://aclweb.org/anthology/W15-28%02d

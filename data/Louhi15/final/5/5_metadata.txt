@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Adverse Drug Event classification of health records using dictionary based pre-processing and machine learning
+ShortPaperTitle#=%=#Adverse Drug Event classification of health records using dictionary based pre-processing and machine learning
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Stefanie Friedrich
+JobTitle#==#
+Organization#==#Department of Computer and Systems Sciences (DSV)
+Stockholm University
+P.O. Box 7003
+164 07 Kista, Sweden
+Abstract#==#A method to ﬁnd adverse drug reactions in electronic health records written
+in Swedish is presented. A total of 14,751 health records were manually
+classiﬁed into four groups. The records are normalised by pre-processing
+using both dictionaries and manually created word lists. 
+Three different supervised machine learning algorithm were used to ﬁnd the
+best results; decision tree, random forest and LibSVM. The best performance on
+a test dataset was with LibSVM obtaining a precision of 0.69 and a recall of
+0.66, and an F-score of 0.67. Our method found 865 of 981 true positives
+(88.2%) in a 3-class dataset which is an improvement of 49.5% over previous
+approaches.
+Author{1}{Firstname}#=%=#Stefanie
+Author{1}{Lastname}#=%=#Friedrich
+Author{1}{Email}#=%=#stfr6041@student.su.se
+Author{1}{Affiliation}#=%=#DSV/Stockholm University
+Author{2}{Firstname}#=%=#Hercules
+Author{2}{Lastname}#=%=#Dalianis
+Author{2}{Email}#=%=#hercules@dsv.su.se
+Author{2}{Affiliation}#=%=#DSV/Stockholm University
+
+==========

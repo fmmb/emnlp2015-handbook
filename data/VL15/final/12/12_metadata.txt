@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Coupling Natural Language Processing and Animation Synthesis in Portuguese Sign Language Translation
+ShortPaperTitle#=%=#Coupling Natural Language Processing and Animation Synthesis in Portuguese Sign Language Translation
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Luisa Coheur
+JobTitle#==#Assistant Professor
+Organization#==#INESC-ID
+Abstract#==#In this paper we present a free, open source platform, that translates in real
+time (written) European Portuguese into Portuguese Sign Language, being the
+signs produced by an avatar. We discuss basic needs of such a system in terms
+of Natural Language Processing and Animation Synthesis, and propose an
+architecture for it. Moreover, we have selected a set of existing tools that
+couple with our free, open-source philosophy, and implemented a prototype with
+them. Several case studies were conducted. A preliminary evaluation was done
+and, although the translation possibilities are still scarce and some
+adjustments still need to be done, our platform was already much welcomed by
+the deaf community.
+Author{1}{Firstname}#=%=#Inês
+Author{1}{Lastname}#=%=#Almeida
+Author{1}{Email}#=%=#ines.almeida@tagus.ist.utl.pt
+Author{1}{Affiliation}#=%=#INESC-ID/IST
+Author{2}{Firstname}#=%=#Luísa
+Author{2}{Lastname}#=%=#Coheur
+Author{2}{Email}#=%=#luisa.coheur@l2f.inesc-id.pt
+Author{2}{Affiliation}#=%=#INESC-ID/IST
+Author{3}{Firstname}#=%=#Sara
+Author{3}{Lastname}#=%=#Candeias
+Author{3}{Email}#=%=#t-sacand@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft
+
+==========

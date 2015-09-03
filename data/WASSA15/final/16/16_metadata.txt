@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Sentiment Classification via a Response Recalibration Framework
+ShortPaperTitle#=%=#Sentiment Classification via a Response Recalibration Framework
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Phil Smith
+JobTitle#==#
+Organization#==#
+Abstract#==#Probabilistic learning models have the ability to be calibrated to improve the
+performance of tasks such as sentiment classification. In this paper, we
+introduce a framework for sentiment classification that enables classifier
+recalibration given the presence of related, context-bearing documents. We
+investigate the use of probabilistic thresholding and document similarity based
+recalibration methods to yield classifier improvements. We demonstrate the
+performance of our proposed recalibration methods on a dataset of online
+clinical reviews from the patient feedback domain that have adjoining
+management responses that yield sentiment bearing information. Experimental
+results show  the proposed recalibration methods outperform uncalibrated
+supervised machine learning models trained for sentiment analysis, and yield
+significant improvements over a robust baseline.
+Author{1}{Firstname}#=%=#Phillip
+Author{1}{Lastname}#=%=#Smith
+Author{1}{Email}#=%=#p.smith.7@cs.bham.ac.uk
+Author{1}{Affiliation}#=%=#University of Birmingham
+Author{2}{Firstname}#=%=#Mark
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Email}#=%=#M.G.Lee@cs.bham.ac.uk
+Author{2}{Affiliation}#=%=#University of Birmingham
+
+==========

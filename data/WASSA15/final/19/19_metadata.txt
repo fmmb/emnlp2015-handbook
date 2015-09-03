@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#How much does word sense disambiguation help in sentiment analysis of micropost data?
+ShortPaperTitle#=%=#How much does WSD help in sentiment analysis of micropost data?
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Chiraag Sumanth
+JobTitle#==#
+Organization#==#PES Institute of Technology, Bangalore, India
+Abstract#==#This short paper describes a sentiment analysis system for micro-post data that
+includes analysis of tweets from Twitter and Short Messaging Service (SMS) text
+messages. We discuss our system that makes use of Word Sense Disambiguation
+techniques in sentiment analysis at the message level, where the entire tweet
+or SMS text was analysed to determine its dominant sentiment. Previous work
+done in the area of Word Sense Disambiguation does not throw light on its
+influence on the analysis of social-media text and micropost data, which is
+what our work aims to achieve. Our experiments show that the use of Word Sense
+Disambiguation alone has resulted in an improved sentiment analysis system that
+outperforms systems built without incorporating Word Sense Disambiguation.
+Author{1}{Firstname}#=%=#Chiraag
+Author{1}{Lastname}#=%=#Sumanth
+Author{1}{Email}#=%=#chiraagsumanth@gmail.com
+Author{1}{Affiliation}#=%=#PES Institute of Technology
+Author{2}{Firstname}#=%=#Diana
+Author{2}{Lastname}#=%=#Inkpen
+Author{2}{Email}#=%=#diana.inkpen@uottawa.ca
+Author{2}{Affiliation}#=%=#University of Ottawa
+
+==========

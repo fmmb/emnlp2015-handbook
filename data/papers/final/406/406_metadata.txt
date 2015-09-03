@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#406
+FinalPaperTitle#=%=#Hierarchical Low-Rank Tensors for Multilingual Transfer Parsing
+ShortPaperTitle#=%=#Hierarchical Low-Rank Tensors for Multilingual Transfer Parsing
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yuan Zhang
+JobTitle#==#
+Organization#==#Massachusetts Institute of Technology, 77 Massachusetts Ave, Cambridge, MA 02139, USA
+Abstract#==#Accurate multilingual transfer parsing typically relies on careful feature
+engineering. In this paper, we propose a hierarchical tensor-based approach for
+this task. This approach induces a compact feature representation by combining
+atomic features. However, unlike traditional tensor models, it enables us to
+incorporate prior knowledge about desired feature interactions, eliminating
+invalid feature combinations. To this end, we use a hierarchical structure that
+uses intermediate embeddings to capture desired feature combinations.
+Algebraically, this hierarchical tensor is equivalent to the sum of traditional
+tensors with shared components, and thus can be effectively trained with
+standard online algorithms. In both unsupervised and semi-supervised transfer
+scenarios, our hierarchical tensor consistently improves UAS and LAS over
+state-of-the-art multilingual transfer parsers and the traditional tensor model
+across 10 different languages.
+Author{1}{Firstname}#=%=#Yuan
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#yuanzh@csail.mit.edu
+Author{1}{Affiliation}#=%=#MIT
+Author{2}{Firstname}#=%=#Regina
+Author{2}{Lastname}#=%=#Barzilay
+Author{2}{Email}#=%=#regina@csail.mit.edu
+Author{2}{Affiliation}#=%=#MIT
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1189
+FinalPaperTitle#=%=#Experiments with Generative Models for Dependency Tree Linearization
+ShortPaperTitle#=%=#Experiments with Generative Models for Dependency Tree Linearization
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Richard Futrell
+JobTitle#==#
+Organization#==#Massachusetts Institute of Technology
+77 Massachusetts Ave.,
+Cambridge, MA 02139
+Abstract#==#We present experiments with generative models for linearization of unordered
+labeled syntactic dependency trees (Belz et al., 2011; Rajkumar and White,
+2014). Our linearization models are derived from generative models for
+dependency structure (Eisner, 1996). We present a series of generative
+dependency models designed to capture successively more information about
+ordering constraints among sister dependents. We give a dynamic programming
+algorithm for computing the conditional probability of word orders given tree
+structures under these models. The models are tested on corpora of 11 languages
+using test-set likelihood, and human ratings for generated forms are collected
+for English. Our models benefit from representing local order constraints among
+sisters and from backing off to less sparse distributions, including
+distributions not conditioned on the head.
+Author{1}{Firstname}#=%=#Richard
+Author{1}{Lastname}#=%=#Futrell
+Author{1}{Email}#=%=#futrell@mit.edu
+Author{1}{Affiliation}#=%=#MIT
+Author{2}{Firstname}#=%=#Edward
+Author{2}{Lastname}#=%=#Gibson
+Author{2}{Email}#=%=#egibson@mit.edu
+Author{2}{Affiliation}#=%=#MIT
+
+==========

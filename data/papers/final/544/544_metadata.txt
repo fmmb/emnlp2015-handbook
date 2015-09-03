@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#544
+FinalPaperTitle#=%=#Human Evaluation of Grammatical Error Correction Systems
+ShortPaperTitle#=%=#Human Evaluation of Grammatical Error Correction Systems
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Marcin Junczys-Dowmunt
+JobTitle#==#
+Organization#==#Uniwersytet im. Adama Mickiewicza w Poznaniu
+ul. Wieniawskiego 1
+61-712 Poznań
+Poland
+Abstract#==#The paper presents the results of the first large-scale human evaluation of
+automatic grammatical error correction (GEC) systems. Twelve participating
+systems and the unchanged input of the CoNLL-2014 shared task have been
+reassessed in a WMT-inspired human evaluation procedure. Methods introduced for
+the Workshop of Machine Translation evaluation campaigns have been adapted to
+GEC and extended where necessary. 
+The produced rankings are used to evaluate standard metrics for grammatical
+error correction in terms of correlation with human judgment.
+Author{1}{Firstname}#=%=#Roman
+Author{1}{Lastname}#=%=#Grundkiewicz
+Author{1}{Email}#=%=#romang@amu.edu.pl
+Author{1}{Affiliation}#=%=#Adam Mickiewicz University in Poznań
+Author{2}{Firstname}#=%=#Marcin
+Author{2}{Lastname}#=%=#Junczys-Dowmunt
+Author{2}{Email}#=%=#junczys@amu.edu.pl
+Author{2}{Affiliation}#=%=#Adam Mickiewicz University, Poznań
+Author{3}{Firstname}#=%=#Edward
+Author{3}{Lastname}#=%=#Gillian
+Author{3}{Email}#=%=#egillian@pwsz.pl
+Author{3}{Affiliation}#=%=#Adam Mickiewicz University, Poznań
+
+==========

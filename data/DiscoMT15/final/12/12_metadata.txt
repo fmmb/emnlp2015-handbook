@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Detecting Document-level Context Triggers to Resolve Translation Ambiguity
+ShortPaperTitle#=%=#Detecting Document-level Context Triggers to Resolve Translation Ambiguity
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Laura Mascarell
+JobTitle#==#
+Organization#==#Institute of Computational Linguistics
+University of Zurich
+Switzerland
+Abstract#==#Most current machine translation systems translate each sentence independently,
+ignoring the context from previous sentences. This discourse unawareness can
+lead to incorrect translation of words or phrases that are ambiguous in the
+sentence. For example, the German term "Typen" in the phrase "diese Typen" can
+be
+translated either into English "types" or "guys". However, knowing that it
+co-refers to the compound Körpertypen ("body types") in the previous sentence
+helps to disambiguate the term and translate it into types. We propose a method
+of automatically detecting document-level trigger words (like Körpertypen),
+whose presence helps to disambiguate translations of ambiguous terms. In this
+preliminary study we analyze the method and its limitations, and outline future
+work directions.
+Author{1}{Firstname}#=%=#Laura
+Author{1}{Lastname}#=%=#Mascarell
+Author{1}{Email}#=%=#mascarell@cl.uzh.ch
+Author{1}{Affiliation}#=%=#University of Zurich
+Author{2}{Firstname}#=%=#Mark
+Author{2}{Lastname}#=%=#Fishel
+Author{2}{Email}#=%=#fishel@cl.uzh.ch
+Author{2}{Affiliation}#=%=#University of Zurich
+Author{3}{Firstname}#=%=#Martin
+Author{3}{Lastname}#=%=#Volk
+Author{3}{Email}#=%=#volk@cl.uzh.ch
+Author{3}{Affiliation}#=%=#University of Zurich
+
+==========

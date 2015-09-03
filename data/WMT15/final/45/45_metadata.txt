@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#45
+FinalPaperTitle#=%=#Predicting Machine Translation Adequacy with Document Embeddings
+ShortPaperTitle#=%=#Predicting Machine Translation Adequacy
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Mihaela Vela
+JobTitle#==#
+Organization#==#Saarland University
+Department of Applied Linguistics, Translation and Interpreting
+PO-Box 15 11 50
+66041 Saarbrücken
+Germany
+Abstract#==#This paper describes USAAR's submission to the the {\itshape metrics shared
+task} of the Workshop on Statistical Machine Translation (WMT) in 2015.
+The goal of our submission is to take advantage of the semantic overlap between
+hypothesis and reference translation for predicting MT output adequacy using
+language independent document embeddings. 
+The approach presented here is learning a Bayesian Ridge Regressor using
+document skip-gram embeddings in order to automatically evaluate Machine
+Translation (MT) output by predicting semantic adequacy scores.
+The evaluation of our submission -- measured by the correlation with human
+judgements -- shows promising results on system-level scores.
+Author{1}{Firstname}#=%=#Mihaela
+Author{1}{Lastname}#=%=#Vela
+Author{1}{Email}#=%=#m.vela@mx.uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Liling
+Author{2}{Lastname}#=%=#Tan
+Author{2}{Email}#=%=#alvations@gmail.com
+Author{2}{Affiliation}#=%=#Universität des Saarlandes
+
+==========

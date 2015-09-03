@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Reading metrics for estimating task efficiency with MT output
+ShortPaperTitle#=%=#Reading metrics for estimating task efficiency with MT output
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Sigrid Klerke
+JobTitle#==#
+Organization#==#Centre for Language Technology
+University of Copenhagen
+Njalsgade 140
+DK-2300 Copenhagen S
+DENMARK
+Abstract#==#We show that metrics derived from recording gaze while reading, are better
+proxies for machine translation quality than automated metrics. With reliable
+eye-tracking technologies becoming available for home computers and mobile
+devices, such metrics are readily available even in the absence of
+representative held-out human translations. In other words, reading-derived MT
+metrics offer a way of getting cheap, online feedback for MT system adaptation.
+Author{1}{Firstname}#=%=#Sigrid
+Author{1}{Lastname}#=%=#Klerke
+Author{1}{Email}#=%=#skl@hum.ku.dk
+Author{1}{Affiliation}#=%=#University of Copenhagen
+Author{2}{Firstname}#=%=#Sheila
+Author{2}{Lastname}#=%=#Castilho
+Author{2}{Email}#=%=#castils3@mail.dcu.ie
+Author{2}{Affiliation}#=%=#Centre for Translation and Textual Studies, Dublin City University
+Author{3}{Firstname}#=%=#Maria
+Author{3}{Lastname}#=%=#Barrett
+Author{3}{Email}#=%=#dtq912@hum.ku.dk
+Author{3}{Affiliation}#=%=#University og Copenhagen
+Author{4}{Firstname}#=%=#Anders
+Author{4}{Lastname}#=%=#Søgaard
+Author{4}{Email}#=%=#soegaard@hum.ku.dk
+Author{4}{Affiliation}#=%=#University of Copenhagen
+
+==========

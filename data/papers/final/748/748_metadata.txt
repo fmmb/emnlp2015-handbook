@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#748
+FinalPaperTitle#=%=#Closing the Gap: Domain Adaptation from Explicit to Implicit Discourse Relations
+ShortPaperTitle#=%=#Closing the Gap: Domain Adaptation from Explicit to Implicit Discourse Relations
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yangfeng Ji
+JobTitle#==#
+Organization#==#
+Abstract#==#Many discourse relations are explicitly marked with discourse connectives, and
+these examples could potentially serve as a plentiful source of training data
+for recognizing implicit discourse relations. However, there are important
+linguistic differences between explicit and implicit discourse relations, which
+limit the accuracy of such an approach. We account for these differences by
+applying techniques from domain adaptation, treating implicitly and
+explicitly-marked discourse relations as separate domains. The distribution of
+surface features varies across these two domains, so we apply a marginalized
+denoising autoencoder to induce a dense, domain-general representation. The
+label distribution is also domain-specific, so we apply a resampling technique
+that is similar to instance weighting. In combination with a set of
+automatically-labeled data, these improvements eliminate more than 80\% of the
+transfer loss incurred by training an implicit discourse relation classifier on
+explicitly-marked discourse relations.
+Author{1}{Firstname}#=%=#Yangfeng
+Author{1}{Lastname}#=%=#Ji
+Author{1}{Email}#=%=#jiyfeng@gatech.edu
+Author{1}{Affiliation}#=%=#School of Interactive Computing, Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Gongbo
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#gongbozhang@hotmail.com
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology
+Author{3}{Firstname}#=%=#Jacob
+Author{3}{Lastname}#=%=#Eisenstein
+Author{3}{Email}#=%=#jacobe@gmail.com
+Author{3}{Affiliation}#=%=#Georgia Institute of Technology
+
+==========

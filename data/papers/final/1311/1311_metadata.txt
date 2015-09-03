@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#1311
+FinalPaperTitle#=%=#Joint Event Trigger Identification and Event Coreference Resolution with Structured Perceptron
+ShortPaperTitle#=%=#Joint Event Trigger Identification and Event Coreference Resolution with Structured Perceptron
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Jun Araki
+JobTitle#==#
+Organization#==#Language Technologies Institute at Carnegie Mellon University
+5000 Forbes Avenue, Pittsburgh, PA 15213-3891, USA
+Abstract#==#Events and their coreference offer useful semantic and discourse resources. We
+show that the semantic and discourse aspects of events interact with each
+other. However, traditional approaches addressed event extraction and event
+coreference resolution either separately or sequentially, which limits their
+interactions. This paper proposes a document-level structured learning model
+that simultaneously identifies event triggers and resolves event coreference.
+We demonstrate that the joint model outperforms a pipelined model by 6.9 BLANC
+F1 and 1.8 CoNLL F1 points in event coreference resolution using a corpus in
+the biology domain.
+Author{1}{Firstname}#=%=#Jun
+Author{1}{Lastname}#=%=#Araki
+Author{1}{Email}#=%=#junaraki@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Teruko
+Author{2}{Lastname}#=%=#Mitamura
+Author{2}{Email}#=%=#teruko@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

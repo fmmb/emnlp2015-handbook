@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#438
+FinalPaperTitle#=%=#A Comparison between Count and Neural Network Models Based on Joint Translation and Reordering Sequences
+ShortPaperTitle#=%=#A Comparison between Count and Neural Network Models Based on Joint Translation and Reordering Sequences
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Andreas Guta
+JobTitle#==#Researcher
+Organization#==#Lehrstuhl für Informatik 6
+RWTH Aachen
+Ahornstr. 55
+52056 Aachen
+Abstract#==#We propose a conversion of bilingual sentence pairs and the corresponding word
+alignments into novel linear sequences. These are joint translation and
+reordering (JTR) uniquely defined sequences, combining interdepending lexical
+and alignment dependencies on the word level into a single framework. They are
+constructed in a simple manner while capturing multiple alignments and empty
+words. JTR sequences can be used to train a variety of models. We investigate
+the performances of n-gram models with modified Kneser-Ney smoothing,
+feed-forward and recurrent neural network architectures when estimated on JTR
+sequences, and compare them to the operation sequence model (Durrani et al.,
+2013). Evaluations on the IWSLT German-English, WMT German-English and BOLT
+Chinese-English tasks show that JTR models improve state-of-the-art
+phrase-based systems by up to 2.2 BLEU.
+Author{1}{Firstname}#=%=#Andreas
+Author{1}{Lastname}#=%=#Guta
+Author{1}{Email}#=%=#guta@cs.rwth-aachen.de
+Author{1}{Affiliation}#=%=#RWTH Aachen University
+Author{2}{Firstname}#=%=#Tamer
+Author{2}{Lastname}#=%=#Alkhouli
+Author{2}{Email}#=%=#alkhouli@cs.rwth-aachen.de
+Author{2}{Affiliation}#=%=#RWTH Aachen University
+Author{3}{Firstname}#=%=#Jan-Thorsten
+Author{3}{Lastname}#=%=#Peter
+Author{3}{Email}#=%=#peter@cs.rwth-aachen.de
+Author{3}{Affiliation}#=%=#RWTH Aachen University
+Author{4}{Firstname}#=%=#Joern
+Author{4}{Lastname}#=%=#Wuebker
+Author{4}{Email}#=%=#joern.wuebker@googlemail.com
+Author{4}{Affiliation}#=%=#RWTH Aachen University
+Author{5}{Firstname}#=%=#Hermann
+Author{5}{Lastname}#=%=#Ney
+Author{5}{Email}#=%=#ney@cs.rwth-aachen.de
+Author{5}{Affiliation}#=%=#RWTH Aachen University
+
+==========

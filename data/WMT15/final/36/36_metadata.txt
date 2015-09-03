@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#36
+FinalPaperTitle#=%=#BEER 1.1: ILLC UvA submission to metrics and tuning task
+ShortPaperTitle#=%=#BEER 1.1: ILLC UvA submission to metrics and tuning task
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Milos Stanojevic
+JobTitle#==#
+Organization#==#Institute for Logic, Language and Computation
+University of Amsterdam
+Abstract#==#We describe the submissions of ILLC UvA to metric and tuning tasks on WMT15.
+Both submissions are based on BEER evaluation metric originally presented on
+WMT14 (Stanojevic and Sima’an, 2014a). The main changes introduced this year
+are: (i) extenssion of learning-to-rank trained sentence level metric to corpus
+level (but still decomposable to sentence level) (ii) incorporation of
+syntactic ingradients based on dependency trees and (iii) technique for finding
+parameters of BEER to avoid “gaming of the metric” during tuning.
+Author{1}{Firstname}#=%=#Miloš
+Author{1}{Lastname}#=%=#Stanojević
+Author{1}{Email}#=%=#milosh.stanojevic@gmail.com
+Author{1}{Affiliation}#=%=#University of Amsterdam, ILLC
+Author{2}{Firstname}#=%=#Khalil
+Author{2}{Lastname}#=%=#Sima'an
+Author{2}{Email}#=%=#k.simaan@uva.nl
+Author{2}{Affiliation}#=%=#ILLC, University of Amsterdam
+
+==========

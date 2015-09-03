@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#46
+FinalPaperTitle#=%=#Enhanced Twitter Sentiment Classification Using Contextual Information
+ShortPaperTitle#=%=#Enhanced Twitter Sentiment Classification Using Contextual Information
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Soroush Vosoughi
+JobTitle#==#
+Organization#==#
+Abstract#==#The rise in popularity and ubiquity of Twitter has made sentiment analysis of
+tweets an important and well-covered area of research. However, the 140
+character limit imposed on tweets makes it hard to use standard linguistic
+methods for sentiment classification. On the other hand, what tweets lack in
+structure they make up with sheer volume and rich metadata. This metadata
+includes geolocation, temporal and author information. We hypothesize that
+sentiment is dependent on all these contextual factors. Different locations,
+times and authors have different emotional valences. In this paper, we explored
+this hypothesis by utilizing distant supervision to collect millions of
+labelled tweets from different locations, times and authors. We used this data
+to analyse the variation of tweet sentiments across different authors, times
+and locations. Once we explored and understood the relationship between these
+variables and sentiment, we used a Bayesian approach to combine these variables
+with more standard linguistic features such as n-grams to create a Twitter
+sentiment classifier. This combined classifier outperforms the purely
+linguistic classifier, showing that integrating the rich contextual information
+available on Twitter into sentiment classification is a promising direction of
+research.
+Author{1}{Firstname}#=%=#Soroush
+Author{1}{Lastname}#=%=#Vosoughi
+Author{1}{Email}#=%=#soroush@media.mit.edu
+Author{1}{Affiliation}#=%=#MIT
+Author{2}{Firstname}#=%=#Helen
+Author{2}{Lastname}#=%=#Zhou
+Author{2}{Email}#=%=#hlzhou@mit.edu
+Author{2}{Affiliation}#=%=#MIT
+Author{3}{Firstname}#=%=#deb
+Author{3}{Lastname}#=%=#roy
+Author{3}{Email}#=%=#dkroy@medi.mit.edu
+Author{3}{Affiliation}#=%=#MIT
+
+==========

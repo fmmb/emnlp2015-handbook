@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Semantic Proto-Roles
+ShortPaperTitle#=%=#Semantic Proto-Roles
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Benjamin Van Durme
+JobTitle#==#
+Organization#==#Johns Hopkins University
+Baltimore, MD, USA
+Abstract#==#We present the first large-scale, corpus based verification of Dowty’s
+seminal theory of proto-roles. Our results demonstrate both the need for and
+the feasibility of a property-based annotation scheme of semantic
+relationships, as opposed to the currently dominant notion of categorical
+roles.
+Author{1}{Firstname}#=%=#Drew
+Author{1}{Lastname}#=%=#Reisinger
+Author{1}{Email}#=%=#reisinger@cogsci.jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Rachel
+Author{2}{Lastname}#=%=#Rudinger
+Author{2}{Email}#=%=#rudinger@jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Firstname}#=%=#Francis
+Author{3}{Lastname}#=%=#Ferraro
+Author{3}{Email}#=%=#ferraro@cs.jhu.edu
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+Author{4}{Firstname}#=%=#Kyle
+Author{4}{Lastname}#=%=#Rawlins
+Author{4}{Email}#=%=#kgr@jhu.edu
+Author{4}{Affiliation}#=%=#Johns Hopkins University
+Author{5}{Firstname}#=%=#Benjamin
+Author{5}{Lastname}#=%=#Van Durme
+Author{5}{Email}#=%=#vandurme@cs.jhu.edu
+Author{5}{Affiliation}#=%=#JHU
+
+==========

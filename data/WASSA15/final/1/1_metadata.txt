@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Sentiment Analysis on Monolingual, Multilingual and Code-Switching Twitter Corpora
+ShortPaperTitle#=%=#Sentiment Analysis on Monolingual, Multilingual and Code-Switching Twitter Corpora
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#David Vilares
+JobTitle#==#
+Organization#==#Universidade da Coruña
+Abstract#==#This paper tackles and evaluates the problem of performing polarity
+classification on Twitter over different languages, focusing on English and
+Spanish tweets.Three techniques are compared: (1) a monolingual model which
+previously knows the language in which the opinion is written, (2) a
+monolingual model that acts based on the decision provided by a language
+identification tool and (3) a multilingual model trained on a multilingual
+dataset that does not need any previous language recognition step. Results show
+that multilingual models are more than competitive and are even able to
+outperform the monolingual models on some monolingual datasets. As a part of
+our evaluation, the paper also introduces the first code-switching corpus with
+sentiment labels, showing the robustness of a multilingual approach on this
+environment.
+Author{1}{Firstname}#=%=#David
+Author{1}{Lastname}#=%=#Vilares
+Author{1}{Email}#=%=#david.vilares@udc.es
+Author{1}{Affiliation}#=%=#Universidade da Coruña
+Author{2}{Firstname}#=%=#Miguel A.
+Author{2}{Lastname}#=%=#Alonso
+Author{2}{Email}#=%=#miguel.alonso@udc.es
+Author{2}{Affiliation}#=%=#Universidade da Coruña
+Author{3}{Firstname}#=%=#Carlos
+Author{3}{Lastname}#=%=#Gómez-Rodríguez
+Author{3}{Email}#=%=#cgomezr@udc.es
+Author{3}{Affiliation}#=%=#Universidade da Coruña
+
+==========

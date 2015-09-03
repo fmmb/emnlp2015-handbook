@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#QUality Estimation from ScraTCH (QUETCH): Deep Learning for Word-level Translation Quality Estimation
+ShortPaperTitle#=%=#QUality Estimation from ScraTCH (QUETCH): Deep Learning for Word-level Translation Quality Estimation
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Stefan Riezler
+JobTitle#==#Professor
+Organization#==#Computational Linguistics, Heidelberg University, 69120 Heidelberg, Germany
+Abstract#==#This paper describes the system submitted by the University of Heidelberg to
+the Shared Task on Word-level Quality Estimation at the 2015 Workshop on
+Statistical Machine Translation. The submitted system combines a continuous
+space deep neural network, that learns a bilingual feature representation from
+scratch, with a linear combination of the manually defined baseline features
+provided by the task organizers. A combination of these orthogonal information
+sources shows significant improvements over the combined systems, and produces
+very competitive F1 scores for predicting word-level translation quality.
+Author{1}{Firstname}#=%=#Julia
+Author{1}{Lastname}#=%=#Kreutzer
+Author{1}{Email}#=%=#kreutzer@cl.uni-heidelberg.de
+Author{1}{Affiliation}#=%=#Department of Computational Linguistics, Heidelberg University
+Author{2}{Firstname}#=%=#Shigehiko
+Author{2}{Lastname}#=%=#Schamoni
+Author{2}{Email}#=%=#schamoni@cl.uni-heidelberg.de
+Author{2}{Affiliation}#=%=#Heidelberg University
+Author{3}{Firstname}#=%=#Stefan
+Author{3}{Lastname}#=%=#Riezler
+Author{3}{Email}#=%=#riezler@cl.uni-heidelberg.de
+Author{3}{Affiliation}#=%=#Heidelberg University
+
+==========

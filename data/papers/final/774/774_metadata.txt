@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#774
+FinalPaperTitle#=%=#TSDPMM: Incorporating Prior Topic Knowledge into Dirichlet Process Mixture Models for Text Clustering
+ShortPaperTitle#=%=#TSDPMM: Incorporating Prior Topic Knowledge into Dirichlet Process Mixture Models for Text Clustering
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Linmei Hu
+JobTitle#==#
+Organization#==#Linmei Hu, Tsinghua University, Beijing 100084, China
+Abstract#==#Dirichlet process mixture model (DPMM) has great potential for detecting the
+underlying structure of data. {Extensive studies have applied it for text
+clustering in terms of topics.} However, due to the unsupervised nature, the
+topic clusters are always less satisfactory. Considering that people often have
+some prior knowledge about which potential topics should exist in given data,
+we aim to incorporate such knowledge into the DPMM to improve text clustering.
+We propose a novel model TSDPMM based on a new seeded P\'olya urn scheme.
+Experimental results on document clustering  across three datasets demonstrate
+our proposed TSDPMM significantly outperforms state-of-the-art DPMM model and
+can be applied in a lifelong learning framework.
+Author{1}{Firstname}#=%=#Linmei
+Author{1}{Lastname}#=%=#Hu
+Author{1}{Email}#=%=#hulinmei1991@gmail.com
+Author{1}{Affiliation}#=%=#Dept. of Computer Sci. and Tech. Tsinghua University, China
+Author{2}{Firstname}#=%=#Juanzi
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#lijuanzi@mail.tsinghua.edu.cn
+Author{2}{Affiliation}#=%=#Dept. of Computer Sci. and Tech., Tsinghua University, China
+Author{3}{Firstname}#=%=#Xiaoli
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#xlli@i2r.a-star.edu.sg
+Author{3}{Affiliation}#=%=#A*, Singapore
+Author{4}{Firstname}#=%=#Chao
+Author{4}{Lastname}#=%=#Shao
+Author{4}{Email}#=%=#birdlinux@gmail.com
+Author{4}{Affiliation}#=%=#Dept. of Computer Sci. and Tech., Tsinghua University, China
+Author{5}{Firstname}#=%=#Xuzhong
+Author{5}{Lastname}#=%=#Wang
+Author{5}{Email}#=%=#269033058@qq.com
+Author{5}{Affiliation}#=%=#Dept. of Computer Sci. and Tech., Tsinghua University, China
+
+==========

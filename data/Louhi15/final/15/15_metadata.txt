@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#In-depth annotation for patient level liver cancer staging
+ShortPaperTitle#=%=#In-depth annotation for patient level liver cancer staging
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Wen-wai Yim
+JobTitle#==#
+Organization#==#Biomedical and Health Informatics
+Department of Biomedical Informatics and Medical Education
+University of Washington
+Box 358047
+Seattle, WA 98195
+Abstract#==#Cancer stages, which summarizes extent of cancer progression, is an important
+tool for evidence-based medical research. However, they are not always recorded
+in the electronic medical record. In this paper, we describe work for
+annotating a medical text corpus with the goal of predicting patient level
+liver cancer staging in hepatocellular carcinoma (HCC) patients. Our annotation
+consisted of identifying 11 parameters, used to calculate liver cancer staging,
+at the text span level as well as at the patient level. Also at the patient
+level, we annotated stages for three commonly-used liver cancer staging
+schemes. Our inter-rater agreement showed text annotation consistency 0.73 F1
+for partial text match and 0.91 F1 at the patient level. After annotation, we
+performed several document classification experiments for the text span
+annotations using standard machine learning classifiers, including decision
+trees, maximum entropy, naive Bayes and support vector machines. Thereby, we
+identified baseline performances for our task at 0.63 F1 as well as strategies
+for future improvement.
+Author{1}{Firstname}#=%=#Wen-wai
+Author{1}{Lastname}#=%=#Yim
+Author{1}{Email}#=%=#wyim@u.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Sharon
+Author{2}{Lastname}#=%=#Kwan
+Author{2}{Email}#=%=#shakwan@uw.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Meliha
+Author{3}{Lastname}#=%=#Yetisgen
+Author{3}{Email}#=%=#melihay@uw.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

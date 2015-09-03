@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#920
+FinalPaperTitle#=%=#Reverse-engineering Language: A Study on the Semantic Compositionality of German Compounds
+ShortPaperTitle#=%=#Reverse-engineering Language: A Study on the Semantic Compositionality of German Compounds
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Corina Dima
+JobTitle#==#
+Organization#==#University of Tuebingen, Wilhelmstr. 19, 72076, Tuebingen, Germany
+Abstract#==#In this paper we analyze the performance of different composition models on a
+large dataset of German compound nouns. Given a vector space model for the
+German language, we try to reconstruct the observed representation (the
+corpus-estimated vector) of a compound by composing the observed
+representations of its two immediate constituents. We explore the composition
+models proposed in the literature and also present a new, simple model that
+achieves the best performance on our dataset.
+Author{1}{Firstname}#=%=#Corina
+Author{1}{Lastname}#=%=#Dima
+Author{1}{Email}#=%=#corina.dima@uni-tuebingen.de
+Author{1}{Affiliation}#=%=#University of Tübingen
+
+==========

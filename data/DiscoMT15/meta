@@ -1,0 +1,14 @@
+abbrev DiscoMT
+type WORKSHOP
+title Second Workshop on Discourse in Machine Translation
+url https://www.idiap.ch/workshop/DiscoMT/
+booktitle Proceedings of the Second Workshop on Discourse in Machine Translation
+month September
+year 2015
+location Lisbon, Portugal
+publisher Association for Computational Linguistics
+chairs Bonnie Webber
+chairs Marine Carpuat
+chairs Andrei Popescu-Belis
+chairs Christian Hardmeier
+bib_url http://aclweb.org/anthology/W15-25%02d

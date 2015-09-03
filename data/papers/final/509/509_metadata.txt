@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#509
+FinalPaperTitle#=%=#Fast, Flexible Models for Discovering Topic Correlation across Weakly-Related Collections
+ShortPaperTitle#=%=#Fast, Flexible Models for Discovering Topic Correlation across Weakly-Related Collections
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jingwei Zhang
+JobTitle#==#Student
+Organization#==#Columbia University
+Abstract#==#Weak topic correlation across document collections with different numbers of
+topics in individual collections present challenges for existing
+cross-collection topic models. This paper introduces two probabilistic topic
+models, Correlated LDA (C-LDA) and Correlated HDP (C-HDP). These address
+problems that can arise when analyzing large, asymmetric, and potentially
+weakly-related collections. Topic correlations in weakly-related collections
+typically lie in the tail of the topic distribution, where they would be
+overlooked by models unable to fit large numbers of topics. To efficiently
+model this long tail for large-scale analysis, our models implement a parallel
+sampling algorithm based on the Metropolis-Hastings and alias methods (Yuan et
+al., 2014). The models are first evaluated on synthetic data, generated to
+simulate various collection-level asymmetries. We then present a case study of
+modeling over 300k documents in collections of sciences and humanities research
+from JSTOR.
+Author{1}{Firstname}#=%=#Jingwei
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#jz2541@columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Aaron
+Author{2}{Lastname}#=%=#Gerow
+Author{2}{Email}#=%=#gerow@uchicago.edu
+Author{2}{Affiliation}#=%=#University of Chicago
+Author{3}{Firstname}#=%=#Jaan
+Author{3}{Lastname}#=%=#Altosaar
+Author{3}{Email}#=%=#altosaar@princeton.edu
+Author{3}{Affiliation}#=%=#Princeton University
+Author{4}{Firstname}#=%=#James
+Author{4}{Lastname}#=%=#Evans
+Author{4}{Email}#=%=#jevans@uchicago.edu
+Author{4}{Affiliation}#=%=#University of Chicago
+Author{5}{Firstname}#=%=#Richard
+Author{5}{Lastname}#=%=#Jean So
+Author{5}{Email}#=%=#richardjeanso@uchicago.edu
+Author{5}{Affiliation}#=%=#University of Chicago
+
+==========

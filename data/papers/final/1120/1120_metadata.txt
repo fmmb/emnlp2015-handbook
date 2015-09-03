@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1120
+FinalPaperTitle#=%=#Summarizing Topical Contents from PubMed Documents Using a Thematic Analysis
+ShortPaperTitle#=%=#Summarizing Topical Contents from PubMed Documents Using a Thematic Analysis
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Sun Kim
+JobTitle#==#
+Organization#==#NCBI/NLM/NIH
+8600 Rockville Pike, Bethesda MD, 20894 USA
+Abstract#==#Improving the search and browsing experience in PubMed is a key component in
+helping users detect information of interest. In particular, when exploring a
+novel field, it is important to provide a comprehensive view for a specific
+subject. One solution for providing this panoramic picture is to find
+sub-topics from a set of documents. We propose a method that finds sub-topics
+that we refer to as themes and computes representative titles based on a set of
+documents in each theme. The method combines a thematic clustering algorithm
+and the Pool Adjacent Violators algorithm to induce significant themes. Then,
+for each theme, a title is computed using PubMed document titles and
+theme-dependent term scores. We tested our system on five disease sets from
+OMIM and evaluated the results based on normalized point-wise mutual
+information and MeSH terms. For both performance measures, the proposed
+approach outperformed LDA. The quality of theme titles were also evaluated by
+comparing them with manually created titles.
+Author{1}{Firstname}#=%=#Sun
+Author{1}{Lastname}#=%=#Kim
+Author{1}{Email}#=%=#sun.kim@nih.gov
+Author{1}{Affiliation}#=%=#National Center for Biotechnology Information (NCBI)
+Author{2}{Firstname}#=%=#Lana
+Author{2}{Lastname}#=%=#Yeganova
+Author{2}{Email}#=%=#yeganova@mail.nih.gov
+Author{2}{Affiliation}#=%=#NLM/NIH
+Author{3}{Firstname}#=%=#W John
+Author{3}{Lastname}#=%=#Wilbur
+Author{3}{Email}#=%=#wilbur@ncbi.nlm.nih.gov
+Author{3}{Affiliation}#=%=#NCBI
+
+==========

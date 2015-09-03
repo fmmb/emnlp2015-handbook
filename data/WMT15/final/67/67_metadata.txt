@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#67
+FinalPaperTitle#=%=#GF Wide-coverage English-Finnish MT system for WMT 2015
+ShortPaperTitle#=%=#GF Wide-coverage English-Finnish MT system for WMT 2015
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Prasanth Kolachina
+JobTitle#==#
+Organization#==#Chalmers University, Gothenburg, Sweden
+Abstract#==#This paper describes the GF Wide-coverage MT system submitted to WMT 2015 for
+translation from English to Finnish. Our system uses a interlingua based
+approach, in which the interlingua is a shared formal representation, that
+abstracts syntactic structures over multiple languages. Our final submission is
+a re-ranked system in which we combine this baseline MT system with a factored
+LM model.
+Author{1}{Firstname}#=%=#Prasanth
+Author{1}{Lastname}#=%=#Kolachina
+Author{1}{Email}#=%=#prasanth.kolachina@cse.gu.se
+Author{1}{Affiliation}#=%=#Chalmers University
+Author{2}{Firstname}#=%=#Aarne
+Author{2}{Lastname}#=%=#Ranta
+Author{2}{Email}#=%=#aarne.ranta@cse.gu.se
+Author{2}{Affiliation}#=%=#Chalmers University
+
+==========

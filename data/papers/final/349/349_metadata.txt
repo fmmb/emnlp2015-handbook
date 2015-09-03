@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#349
+FinalPaperTitle#=%=#Solving Geometry Problems: Combining Text and Diagram Interpretation
+ShortPaperTitle#=%=#Solving Geometry Problems: Combining Text and Diagram Interpretation
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Minjoon Seo
+JobTitle#==#
+Organization#==#University of Washington
+Seattle, WA
+Abstract#==#This paper introduces GEOS, the first automated system to solve unaltered SAT
+geometry
+questions by combining text understanding and diagram interpretation.
+We model the problem of understanding geometry questions as submodular
+optimization,
+and identify a formal problem description likely to be compatible with both the
+question text and diagram.
+GEOS then feeds the description to a geometric solver that attempts to
+determine the correct answer.
+In our experiments, GEOS achieves a 49% score on official SAT questions, and a
+score of 61% on practice questions.
+Finally, we show that by integrating textual and visual information, GEOS
+boosts the accuracy of dependency and semantic parsing of the question text.
+Author{1}{Firstname}#=%=#Minjoon
+Author{1}{Lastname}#=%=#Seo
+Author{1}{Email}#=%=#minjoon@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Hannaneh
+Author{2}{Lastname}#=%=#Hajishirzi
+Author{2}{Email}#=%=#hannaneh@washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Ali
+Author{3}{Lastname}#=%=#Farhadi
+Author{3}{Email}#=%=#ali@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Oren
+Author{4}{Lastname}#=%=#Etzioni
+Author{4}{Email}#=%=#orene@allenai.org
+Author{4}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{5}{Firstname}#=%=#Clint
+Author{5}{Lastname}#=%=#Malcolm
+Author{5}{Email}#=%=#clintm3@cs.uw.edu
+Author{5}{Affiliation}#=%=#University of Washington
+
+==========

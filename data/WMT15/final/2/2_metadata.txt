@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Drem: The AFRL Submission to the WMT15 Tuning Task
+ShortPaperTitle#=%=#Drem: The AFRL Submission to the WMT15 Tuning Task
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#U.S. Air Force Research Laboratory
+711 HPW/RHXS
+Bldg 33, Area B
+2215 First St
+WPAFB, OH 45433-7028
+USA
+Abstract#==#We define a new algorithm, named "Drem", for tuning the weighted linear model
+in a statistical machine translation system. Drem has two major innovations.
+First, it uses scaled derivative-free trust-region optimization rather than
+other methods' line search or (sub)gradient approximations. Second, it
+interpolates the decoder output, using information about which decodes produced
+which translations.
+Author{1}{Firstname}#=%=#Grant
+Author{1}{Lastname}#=%=#Erdmann
+Author{1}{Email}#=%=#grant.erdmann@us.af.mil
+Author{1}{Affiliation}#=%=#Air Force Research Laboratory
+Author{2}{Firstname}#=%=#Jeremy
+Author{2}{Lastname}#=%=#Gwinnup
+Author{2}{Email}#=%=#jeremy@gwinnup.org
+Author{2}{Affiliation}#=%=#SRA International
+
+==========

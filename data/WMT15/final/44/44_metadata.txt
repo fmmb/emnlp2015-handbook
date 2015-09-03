@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#44
+FinalPaperTitle#=%=#Montreal Neural Machine Translation Systems for WMT’15
+ShortPaperTitle#=%=#Montreal Neural Machine Translation Systems for WMT’15
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Sébastien Jean
+JobTitle#==#
+Organization#==#University of Montreal
+2900 Boulevard Edouard-Montpetit, Montréal, QC
+H3T 1J4
+Abstract#==#Neural machine translation (NMT) systems have recently achieved results
+comparable to the state of the art on a few translation tasks, including
+English->French and English->German. The main purpose of the Montreal Institute
+for Learning Algorithms (MILA) submission to WMT’15 is to evaluate this new
+approach on a greater variety of language pairs. Furthermore, the human
+evaluation campaign may help us and the research community to better understand
+the behaviour of our systems. We use the RNNsearch architecture, which adds an
+attention mechanism to the encoder-decoder. We also leverage some of the recent
+developments in NMT, including the use of large vocabularies, unknown word
+replacement and, to a limited degree, the inclusion of monolingual language
+models.
+Author{1}{Firstname}#=%=#Sébastien
+Author{1}{Lastname}#=%=#Jean
+Author{1}{Email}#=%=#jeasebas@iro.umontreal.ca
+Author{1}{Affiliation}#=%=#University of Montreal
+Author{2}{Firstname}#=%=#Orhan
+Author{2}{Lastname}#=%=#Firat
+Author{2}{Email}#=%=#e1697481@ceng.metu.edu.tr
+Author{2}{Affiliation}#=%=#Middle East Technical University
+Author{3}{Firstname}#=%=#Kyunghyun
+Author{3}{Lastname}#=%=#Cho
+Author{3}{Email}#=%=#kyunghyun.cho@nyu.edu
+Author{3}{Affiliation}#=%=#New York University
+Author{4}{Firstname}#=%=#Roland
+Author{4}{Lastname}#=%=#Memisevic
+Author{4}{Email}#=%=#roland.memisevic@umontreal.ca
+Author{4}{Affiliation}#=%=#University of Montreal
+Author{5}{Firstname}#=%=#Yoshua
+Author{5}{Lastname}#=%=#Bengio
+Author{5}{Email}#=%=#yoshua.bengio@umontreal.ca
+Author{5}{Affiliation}#=%=#University of Montreal
+
+==========

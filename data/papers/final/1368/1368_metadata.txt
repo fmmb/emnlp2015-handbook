@@ -1,0 +1,52 @@
+SubmissionNumber#=%=#1368
+FinalPaperTitle#=%=#Not All Contexts Are Created Equal: Better Word Representations with Variable Attention
+ShortPaperTitle#=%=#Not All Contexts Are Created Equal: Better Word Representations with Variable Attention
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#We introduce an extension to the bag-of-words model for learning words
+representations that take into account both syntactic and semantic properties
+within language. This is done by employing an attention model, finds within the
+contextual words, the words that are relevant for each prediction. The general
+intuition of our model is that some words are only relevant for predicting
+local context (e.g. function words), while other words are more suited for
+determining global context, such as the topic of the document. Experiments
+performed on both semantically and syntactically oriented tasks show gains
+using our model over the existing bag of words model. Furthermore, compared to
+other more sophisticated models, our model scales better as we increase the
+size of the context of the model.
+Author{1}{Firstname}#=%=#Wang
+Author{1}{Lastname}#=%=#Ling
+Author{1}{Email}#=%=#wanglin1122@gmail.com
+Author{1}{Affiliation}#=%=#CMU-LTI & INESC-ID
+Author{2}{Firstname}#=%=#Yulia
+Author{2}{Lastname}#=%=#Tsvetkov
+Author{2}{Email}#=%=#yulia.tsvetkov@gmail.com
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Silvio
+Author{3}{Lastname}#=%=#Amir
+Author{3}{Email}#=%=#samir@inesc-id.pt
+Author{3}{Affiliation}#=%=#INESC-ID, IST
+Author{4}{Firstname}#=%=#Ramon
+Author{4}{Lastname}#=%=#Fermandez
+Author{4}{Email}#=%=#ramon@astudillo.com
+Author{4}{Affiliation}#=%=#INESC-ID
+Author{5}{Firstname}#=%=#Chris
+Author{5}{Lastname}#=%=#Dyer
+Author{5}{Email}#=%=#cdyer@cs.cmu.edu
+Author{5}{Affiliation}#=%=#Carnegie Mellon University
+Author{6}{Firstname}#=%=#Alan W
+Author{6}{Lastname}#=%=#Black
+Author{6}{Email}#=%=#awb@cs.cmu.edu
+Author{6}{Affiliation}#=%=#Carnegie Mellon University
+Author{7}{Firstname}#=%=#Isabel
+Author{7}{Lastname}#=%=#Trancoso
+Author{7}{Email}#=%=#imt@inesc-id.pt
+Author{7}{Affiliation}#=%=#INESC-ID
+Author{8}{Firstname}#=%=#Chu-Cheng
+Author{8}{Lastname}#=%=#Lin
+Author{8}{Email}#=%=#chuchenl@cs.cmu.edu
+Author{8}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

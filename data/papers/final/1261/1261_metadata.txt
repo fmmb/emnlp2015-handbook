@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1261
+FinalPaperTitle#=%=#Key Concept Identification for Medical Information Retrieval
+ShortPaperTitle#=%=#Key Concept Identification for Medical Information Retrieval
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jiaping Zheng
+JobTitle#==#
+Organization#==#University of Massachusetts Amherst
+140 Governors Dr
+Amherst, MA 01003
+Abstract#==#The difficult language in Electronic Health Records (EHRs) presents a challenge
+to patients' understanding of their own conditions.
+One approach to lowering the barrier is to provide tailored patient education
+based on their own EHR notes.
+We are developing a system to retrieve EHR note-tailored online consumer
+oriented health education materials.
+We explored topic model and key concept identification methods to construct
+queries from the EHR notes.
+Our experiments show that queries using identified key concepts with
+pseudo-relevance feedback significantly outperform (over 10-fold improvement)
+the baseline system of using the full text note.
+Author{1}{Firstname}#=%=#Jiaping
+Author{1}{Lastname}#=%=#Zheng
+Author{1}{Email}#=%=#jzheng@cs.umass.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#Hong
+Author{2}{Lastname}#=%=#Yu
+Author{2}{Email}#=%=#Hong.Yu@umassmed.edu
+Author{2}{Affiliation}#=%=#Bedford VA Medical Center
+
+==========

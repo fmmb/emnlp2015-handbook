@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#760
+FinalPaperTitle#=%=#EMNLP versus ACL: Analyzing NLP research over time
+ShortPaperTitle#=%=#EMNLP versus ACL: Analyzing NLP research over time
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Sujatha Das Gollapalli
+JobTitle#==#
+Organization#==#
+Abstract#==#The conferences ACL (Association for Computational Linguistics) and
+EMNLP (Empirical Methods in Natural Language Processing)
+rank among the premier venues that track the research developments 
+in Natural Language Processing and Computational Linguistics.
+In this paper, we present a study on the research papers of
+approximately two decades from these two NLP conferences. We apply
+keyphrase extraction and corpus analysis tools to the proceedings
+from these venues and propose probabilistic and vector-based
+representations to represent the topics published in a venue for a given year.
+Next, similarity metrics are studied over pairs of venue representations
+to capture the progress of the two venues
+with respect to each other and over time.
+Author{1}{Firstname}#=%=#Sujatha Das
+Author{1}{Lastname}#=%=#Gollapalli
+Author{1}{Email}#=%=#gollapallis@i2r.a-star.edu.sg
+Author{1}{Affiliation}#=%=#A*STAR, I2R
+Author{2}{Firstname}#=%=#Xiaoli
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#xlli@i2r.a-star.edu.sg
+Author{2}{Affiliation}#=%=#Institute for Infocomm Research, A*STAR
+
+==========

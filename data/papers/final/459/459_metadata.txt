@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#459
+FinalPaperTitle#=%=#Confounds and Consequences in Geotagged Twitter Data
+ShortPaperTitle#=%=#Confounds and Consequences in Geotagged Twitter Data
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Umashanthi Pavalanathan
+JobTitle#==#
+Organization#==#School of Interactive Computing, Georgia Institute of Technology
+Abstract#==#Twitter is often used in quantitative studies that identify
+geographically-preferred topics, writing styles, and entities. These studies
+rely on either GPS coordinates attached to individual messages, or on the
+user-supplied location field in each profile.
+In this paper, we compare these data acquisition techniques and quantify the
+biases that they introduce; we also measure their effects on linguistic
+analysis and text-based geolocation. GPS-tagging and self-reported locations
+yield measurably different corpora, and these linguistic differences are
+partially attributable to differences in dataset composition by age and gender.
+Using a latent variable model to induce age and gender, we show how these
+demographic variables interact with geography to affect language use. We also
+show that the accuracy of text-based geolocation varies with population
+demographics, giving the best results for men above the age of 40.
+Author{1}{Firstname}#=%=#Umashanthi
+Author{1}{Lastname}#=%=#Pavalanathan
+Author{1}{Email}#=%=#umashanthi@gatech.edu
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Jacob
+Author{2}{Lastname}#=%=#Eisenstein
+Author{2}{Email}#=%=#jacobe@gmail.com
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1104
+FinalPaperTitle#=%=#Summarizing Student Responses to Reflection Prompts
+ShortPaperTitle#=%=#Summarizing Student Responses to Reflection Prompts
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Wencan Luo
+JobTitle#==#
+Organization#==#University of Pittsburgh
+210 South Bouquet Street, Pittsburgh, PA 15260, USA
+Abstract#==#We propose to automatically summarize student responses to reflection prompts
+and introduce a novel summarization algorithm that differs from traditional
+methods in several ways.
+ First, since the linguistic units of student inputs range from single words to
+multiple sentences, our summaries are created from extracted phrases rather
+than from sentences.                     Second, the phrase summarization algorithm
+ranks
+the
+phrases by the number of students who semantically mention a phrase in a
+summary. 
+  Experimental results show that the proposed phrase summarization approach
+achieves significantly better summarization performance on an engineering
+course corpus in terms of ROUGE scores when compared to other summarization
+methods, including MEAD, LexRank and MMR.
+Author{1}{Firstname}#=%=#Wencan
+Author{1}{Lastname}#=%=#Luo
+Author{1}{Email}#=%=#wencanluo.cn@gmail.com
+Author{1}{Affiliation}#=%=#University of Pittsburgh
+Author{2}{Firstname}#=%=#Diane
+Author{2}{Lastname}#=%=#Litman
+Author{2}{Email}#=%=#litman@cs.pitt.edu
+Author{2}{Affiliation}#=%=#University of Pittsburgh
+
+==========

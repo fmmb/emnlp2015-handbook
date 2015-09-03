@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#350
+FinalPaperTitle#=%=#Stochastic Top-k ListNet
+ShortPaperTitle#=%=#Stochastic Top-k ListNet
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Tianyi Luo
+JobTitle#==#
+Organization#==#
+Abstract#==#ListNet is a well-known listwise learning to rank model and has gained much
+attention in recent years. A particular problem of ListNet, however, is the
+high computation complexity in model training, mainly due to the large number
+of object permutations involved in computing the gradients. This paper proposes
+a stochastic ListNet approach which computes the gradient within a bounded
+permutation subset. It significantly reduces the computation complexity of
+model training and allows extension to Top-k models, which is impossible with
+the conventional implementation based on full-set permutations. Meanwhile, the
+new approach utilizes partial ranking information of human labels, which helps
+improve model quality. Our experiments demonstrated that the stochastic ListNet
+method indeed leads to better ranking performance and speeds up the model
+training remarkably.
+Author{1}{Firstname}#=%=#Tianyi
+Author{1}{Lastname}#=%=#Luo
+Author{1}{Email}#=%=#pkuluotianyi@gmail.com
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Dong
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#wangdong99@mails.tsinghua.edu.cn
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Rong
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#liur@huilan.com
+Author{3}{Affiliation}#=%=#Huilian Corp.
+Author{4}{Firstname}#=%=#Yiqiao
+Author{4}{Lastname}#=%=#Pan
+Author{4}{Email}#=%=#hipanyiqiao@qq.com
+Author{4}{Affiliation}#=%=#CSLT, RIIT, Tsinghua University;Beijing University of Posts and Telecommunications
+
+==========

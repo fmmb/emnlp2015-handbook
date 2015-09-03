@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#236
+FinalPaperTitle#=%=#An Empirical Comparison Between N-gram and Syntactic Language Models for Word Ordering
+ShortPaperTitle#=%=#An Empirical Comparison Between N-gram and Syntactic Language Models for Word Ordering
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jiangming Liu
+JobTitle#==#
+Organization#==#Singapore University of Technology and Design, 8 Somapah Road, Singapore, 487372.
+Abstract#==#Syntactic language models and N-gram language models have both been used in
+word ordering. In this paper, we give an empirical comparison between N-gram
+and syntactic language models on word order task. Our results show that the
+quality of automatically-parsed training data has a relatively small impact on
+syntactic models. Both of syntactic and N-gram models can benefit from
+large-scale raw text. Compared with N-gram models, syntactic models give
+overall better performance, but they require much more training time. In
+addition, the two models lead to different error distributions in word
+ordering. A combination of the two models integrates the advantages of each
+model, achieving the best result in a standard benchmark.
+Author{1}{Firstname}#=%=#Jiangming
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#jiangming_liu@sutd.edu.sg
+Author{1}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{2}{Firstname}#=%=#Yue
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+
+==========

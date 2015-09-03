@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Predicting Ratings for New Movie Releases from Twitter Content
+ShortPaperTitle#=%=#Predicting Ratings for New Movie Releases from Twitter Content
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Wernard Schmit
+JobTitle#==#
+Organization#==#Tilburg University
+Warandelaan 2, 5037 AB Tilburg
+Abstract#==#With microblogging platforms such as Twitter generating huge amounts of textual
+data every day, the possibilities of knowledge discovery through Twitter data
+becomes increasingly relevant. Similar to the public voting mechanism on
+websites such as the Internet Movie Database (IMDb) that aggregates movies
+ratings, Twitter content contains reflections of public opinion about movies.
+This study aims to explore the use of Twitter content as textual data for
+predictive text mining. In this study, a corpus of tweets was compiled to
+predict the rating scores of newly released movies on IMDb. Predictions were
+done with several different machine learning algorithms, exploring both
+regression and classification methods. In addition, this study explores the use
+of several different kinds of textual features in the machine learning tasks.
+Results show that prediction performance based on textual features derived from
+our corpus of tweets improved on the baseline for both regression and
+classification tasks.
+Author{1}{Firstname}#=%=#Wernard
+Author{1}{Lastname}#=%=#Schmit
+Author{1}{Email}#=%=#w.h.w.schmit@tilburguniversity.edu
+Author{1}{Affiliation}#=%=#Tilburg University
+Author{2}{Firstname}#=%=#Sander
+Author{2}{Lastname}#=%=#Wubben
+Author{2}{Email}#=%=#s.wubben@uvt.nl
+Author{2}{Affiliation}#=%=#Tilburg University
+
+==========

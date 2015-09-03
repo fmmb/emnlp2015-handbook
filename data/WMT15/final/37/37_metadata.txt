@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#37
+FinalPaperTitle#=%=#VERTa: a Linguistically-motivated Metric at the WMT15 Metrics Task
+ShortPaperTitle#=%=#VERTa: a Linguistically-motivated Metric at the WMT15 Metrics Task
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Elisabet Comelles
+JobTitle#==#
+Organization#==#Universitat de Barcelona
+Gran Via de les Corts Catalanes 585
+08007 Barcelona
+Spain
+Abstract#==#This paper describes VERTa’s submission to the 2015 EMNLP Workshop on
+Statistical Machine Translation. VERTa is a linguistically-motivated metric
+that combines linguistic features at different levels. In this paper, VERTa is
+described briefly, as well as the three versions submitted to the workshop:
+VERTa-70Adeq30Flu, VERTa-EQ and VERTa-W. Finally, the experiments conducted
+with the WMT14 data are reported and some conclusions are drawn.
+Author{1}{Firstname}#=%=#Elisabet
+Author{1}{Lastname}#=%=#Comelles
+Author{1}{Email}#=%=#elicomelles@ub.edu
+Author{1}{Affiliation}#=%=#Universitat de Barcelona
+Author{2}{Firstname}#=%=#Jordi
+Author{2}{Lastname}#=%=#Atserias
+Author{2}{Email}#=%=#jordi_atserias001@ehu.eus
+Author{2}{Affiliation}#=%=#University of the Basque Country
+
+==========

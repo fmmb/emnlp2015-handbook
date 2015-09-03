@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1058
+FinalPaperTitle#=%=#A Discriminative Training Procedure for Continuous Translation Models
+ShortPaperTitle#=%=#A Discriminative Training Procedure for Continuous Translation Models
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Allauzen
+JobTitle#==#Professor
+Organization#==#Université Paris-Sud / LIMSI-CNRS
+Abstract#==#Continuous-space translation models have recently
+  emerged as extremely powerful ways to boost the performance of 
+  existing translation systems. A simple, yet effective way to integrate such
+  models in inference is to use them in an $\nb$-best rescoring step. In
+  this paper, we focus on this scenario and show that the performance
+  gains in rescoring can be greatly increased when the neural network
+  is trained jointly with all the other model parameters, using an
+  appropriate objective function. 
+  Our approach is validated on
+  two domains, where it outperforms strong baselines.
+Author{1}{Firstname}#=%=#Quoc-Khanh
+Author{1}{Lastname}#=%=#DO
+Author{1}{Email}#=%=#dokhanh@limsi.fr
+Author{1}{Affiliation}#=%=#LIMSI/CNRS laboratory, University Paris-Sud, France
+Author{2}{Firstname}#=%=#Alexandre
+Author{2}{Lastname}#=%=#Allauzen
+Author{2}{Email}#=%=#allauzen@limsi.fr
+Author{2}{Affiliation}#=%=#Université Paris-Sud / LIMSI-CNRS
+Author{3}{Firstname}#=%=#François
+Author{3}{Lastname}#=%=#Yvon
+Author{3}{Email}#=%=#yvon@limsi.fr
+Author{3}{Affiliation}#=%=#LIMSI/CNRS
+
+==========

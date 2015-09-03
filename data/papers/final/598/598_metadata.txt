@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#598
+FinalPaperTitle#=%=#Towards the Extraction of Customer-to-Customer Suggestions from Reviews
+ShortPaperTitle#=%=#Extraction of Customer to Customer Suggestions
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Sapna Negi
+JobTitle#==#
+Organization#==#Insight Centre for Data Analytics
+National University of Ireland Galway
+Lower Dangan, Galway city
+Abstract#==#State of the art in opinion mining mainly focuses on positive and negative
+sentiment summarisation of online customer reviews. We observe that reviewers
+tend to provide ad- vice, recommendations and tips to the fellow customers on a
+variety of points of interest. In this work, we target the automatic detection
+of suggestion expressing sentences in customer reviews. This is a novel
+problem, and therefore to begin with, requires a well formed problem definition
+and benchmark dataset. This work provides a 3- fold contribution, namely,
+problem definition, benchmark dataset, and an approach for detection of
+suggestions for the customers. The problem is framed as a sentence
+classification problem, and a set of linguistically motivated features are
+proposed. Analysis of the nature of suggestions, and classification errors,
+highlight challenges and research opportunities associated with this problem.
+Author{1}{Firstname}#=%=#Sapna
+Author{1}{Lastname}#=%=#Negi
+Author{1}{Email}#=%=#sapna.negi@insight-centre.org
+Author{1}{Affiliation}#=%=#National University of Ireland Galway
+Author{2}{Firstname}#=%=#Paul
+Author{2}{Lastname}#=%=#Buitelaar
+Author{2}{Email}#=%=#paul.buitelaar@deri.org
+Author{2}{Affiliation}#=%=#INSIGHT, National University of Ireland, Galway
+
+==========

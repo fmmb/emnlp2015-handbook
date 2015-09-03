@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#39
+FinalPaperTitle#=%=#Mining and Ranking Biomedical Synonym Candidates from Wikipedia
+ShortPaperTitle#=%=#Mining and Ranking Biomedical Synonym Candidates from Wikipedia
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Abhyuday N Jagannatha
+JobTitle#==#
+Organization#==#College of Information and Computer Sciences,
+University of Massachusetts, Amherst
+MA 01003, USA
+Abstract#==#Biomedical synonyms are important re-sources for Natural Language Processing in
+Biomedical domain. Existing synonym re-sources (e.g., the UMLS) are not
+complete. Manual efforts for expanding and enriching these resources are
+prohibitively expensive. We therefore develop and evaluate approaches for
+automated synonym extraction from Wikipedia. Using the inter-wiki links, we
+extracted the candidate synonyms (anchor-text e.g., “increased thirst”) in
+a Wikipedia page and the title (e.g., “polyuria”) of its cor-responding
+linked page. We rank synonym candidates with word embedding and
+pseudo-relevance feedback (PRF). Our results show that PRF-based re-ranking
+outperformed word embedding based approach and a strong baseline using
+inter-wiki link frequency. A hybrid method, Rank Score Combination, achieved
+the best results. Our analysis also suggests that medical synonyms mined from
+Wikipedia can increase the coverage of existing synonym resources such as UMLS.
+Author{1}{Firstname}#=%=#Abhyuday
+Author{1}{Lastname}#=%=#Jagannatha
+Author{1}{Email}#=%=#abhyuday@cs.umass.edu
+Author{1}{Affiliation}#=%=#College of Information and Computer Sciences , UMass AMherst
+Author{2}{Firstname}#=%=#Jinying
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#Jinying.Chen@umassmed.edu
+Author{2}{Affiliation}#=%=#Department of Quantitative Health Sciences, University of Massachusetts Medical School
+Author{3}{Firstname}#=%=#Hong
+Author{3}{Lastname}#=%=#Yu
+Author{3}{Email}#=%=#Hong.Yu@umassmed.edu
+Author{3}{Affiliation}#=%=#Veterans Administrative Medical Center, Bedford MA 01730, USA
+
+==========

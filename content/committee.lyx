@@ -1,0 +1,1875 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass extbook
+\use_default_options false
+\master ../emnlp-handbook.lyx
+\begin_modules
+customHeadersFooters
+enumitem
+fixltx2e
+fix-cm
+multicol
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package none
+\inputencoding utf8
+\fontencoding default
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a5paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 0
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 0
+\use_package mhchem 0
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.625in
+\topmargin 0.75in
+\rightmargin 0.625in
+\bottommargin 0.75in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Copy the code inside the Section directly.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Conference Committee
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+itemsep=6pt, leftmargin=0cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\series bold
+General Chair
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Lluís Màrquez, Qatar Computing Research Institute 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Màrquez, Lluís
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Program co-Chairs
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Chris Callison-Burch, University of Pennsylvania 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Callison-Burch, Chris
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Jian Su, Institute for Infocomm Research (I2R) 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Su, Jian
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Workshops co-Chairs
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Zornitsa Kozareva, Yahoo! Labs
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Kozareva, Zornitsa
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Jörg Tiedemann, Uppsala University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Tiedemann, Jörg
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Tutorial co-Chairs
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Maggie Li, Hong Kong Polytechnic University 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Li, Maggie
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Khalil Sima'an, University of Amsterdam 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Sima'an, Khalil
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Publication co-Chairs
+\series default
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Daniele Pighin, Google Inc.
+ 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Pighin, Daniele
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Itemize
+Yuval Marton, Microsoft Corp.
+ 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Marton, Yuval
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Publicity Chair
+\series default
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Barbara Plank, University of Copenhagen 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Plank, Barbara
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Sponsorship Team
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+João Graça, Unbabel Inc.
+ 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Graça, João
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Hang Li, Huawei Technologies (ISC Representative for EMNLP) 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Li, Hang
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Student Scholarship co-Chairs
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Fancisco Guzmán (Qatar Computing Research Institute)
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Guzmán, Fancisco
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Lluís Padró (Technical University of Catalonia)
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Padró, Lluís
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+SIGDAT Liaison
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Noah Smith, Carnegie Mellon University 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Smith, Noah
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Local co-Chairs
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+André Martins, Priberam 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Martins, André
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+João Graça, Unbabel Inc.
+ 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Graça, João
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Program co-Chairs
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Chris Callison-Burch, University of Pennsylvania
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Callison-Burch, Chris
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Jian Su, Institute for Infocomm Research (I2R)
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Su, Jian
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Area Chairs
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+leftmargin=0.5cm, itemsep=6pt, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\emph on
+Computational Psycholinguistics
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Vera Demberg, Saarland University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Demberg, Vera
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Discourse, Dialogue, and Pragmatics
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Kentaro Inui, Tohoku University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Inui, Kentaro
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Oliver Lemon, Heriot Watt University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Lemon, Oliver
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Information Extraction
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Heng Ji, Rensselaer Polytechnic Institute
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Ji, Heng
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Sebastian Riedel, University College London
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Riedel, Sebastian
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Jing Jiang, Singapore Management University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Jiang, Jing
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Information Retrieval and Question Answering
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Zhu Xiaoyan, Tsinghua University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Xiaoyan, Zhu
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Liu Ting, Harbin Institute of Technology
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Ting, Liu
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Language and Vision
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Julia Hockenmaier, University of Illinois Urbana Champaign
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Hockenmaier, Julia
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Machine Translation and Multilinguality
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Zhang Min, SooChow University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Min, Zhang
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Lucia Specia, University of Sheffield
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Specia, Lucia
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Marine Carput, University of Maryland
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Carput, Marine
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+NLP for the Web and Computational Social Science
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Alice Oh, KAIST
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Oh, Alice
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Brendan O'Connor, University of Massachusetts Amherst
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+O'Connor, Brendan
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Phonology, Morphology, and Segmentation
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Greg Kondrak, University of Alberta
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Kondrak, Greg
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Xu Sun, Peking University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Sun, Xu
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Semantics
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Marco Baroni, University of Trento
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Baroni, Marco
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Shiqi Zhao, Baidu
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Zhao, Shiqi
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Percy Liang, Stanford University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Liang, Percy
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Sentiment Analysis and Opinion Mining
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Ku Lun-Wei, Institute of Information Science, Academia Sinica
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Lun-Wei, Ku
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+He Yulan, Aston University
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Yulan, He
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Spoken Language Processing
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Mari Ostendorf, University of Washington
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Ostendorf, Mari
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Statistical Models and Machine Learning Methods for NLP
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Trevor Cohn, University of Melbourne
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Cohn, Trevor
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Jordan Boyd-Graber, University of Colorado
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Boyd-Graber, Jordan
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Summarization and Generation
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Meg Mitchell, Microsoft Research
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Mitchell, Meg
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Furu Wei, Microsoft Research Asia
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Wei, Furu
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Tagging, Chunking, Syntax and Parsing
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Shay Cohen, University of Edinburgh
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Cohen, Shay
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Yue Zhang, Singapore University of Technology and Design
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Zhang, Yue
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Yusuke Miyao, National Institute of Informatics, Japan
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Miyao, Yusuke
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Text Mining and NLP applications
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Sophia Ananiadou, University of Manchester
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Ananiadou, Sophia
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Local Organization Committee
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+itemsep=6pt, leftmargin=0.2cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\shape italic
+Local co-Chairs
+\shape default
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+André Martins, Priberam 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Martins, André
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+João Graça, Unbabel Inc.
+ 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Graça, João
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\shape italic
+Local Publicity Chair
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Isabel Trancoso, University of Lisbon
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Trancoso, Isabel
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\shape italic
+Conference Handbook Chair
+\shape default
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Fernando Batista, University Institute of Lisbon (ISCTE-IUL) 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Batista, Fernando
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\shape italic
+Website and App Chair
+\shape default
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Bruno Martins, University of Lisbon 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Martins, Bruno
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Student Volunteer Coordinator
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Luísa Coheur, University of Lisbon
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Coheur, Luísa
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Local Arrangements Chair
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+nosep, leftmargin=0.5cm, label=
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Helena Moniz, Instituto de Engenharia de Sistemas e Computadores - I&D (INESC-ID
+) 
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Moniz, Helena
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\end_body
+\end_document

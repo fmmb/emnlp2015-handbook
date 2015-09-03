@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#524
+FinalPaperTitle#=%=#Improved Transition-based Parsing by Modeling Characters instead of Words with LSTMs
+ShortPaperTitle#=%=#Improved Transition-based Parsing by Modeling Characters instead of Words with LSTMs
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Miguel Ballesteros
+JobTitle#==#
+Organization#==#Pompeu Fabra University and Carnegie Mellon University
+Abstract#==#We present extensions to a continuous-state dependency parsing method that
+makes it applicable to morphologically rich languages.                               
+     
+Starting
+with a
+high-performance transition-based parser that uses long short-term memory
+(LSTM) recurrent neural networks to learn representations of the parser state,
+we replace lookup-based word representations with representations constructed
+from the orthographic representations of the words, also using LSTMs. This
+allows statistical sharing across word forms that are similar on the surface.
+Experiments for morphologically rich languages show that the parsing model
+benefits from incorporating the character-based encodings of words.
+Author{1}{Firstname}#=%=#Miguel
+Author{1}{Lastname}#=%=#Ballesteros
+Author{1}{Email}#=%=#miguel.ballesteros@upf.edu
+Author{1}{Affiliation}#=%=#Pompeu Fabra University and Carnegie Mellon University
+Author{2}{Firstname}#=%=#Chris
+Author{2}{Lastname}#=%=#Dyer
+Author{2}{Email}#=%=#cdyer@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Noah A.
+Author{3}{Lastname}#=%=#Smith
+Author{3}{Email}#=%=#nasmith@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#119
+FinalPaperTitle#=%=#How Much Information Does a Human Translator Add to the Original?
+ShortPaperTitle#=%=#How Much Information Does a Human Translator Add to the Original?
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Barret Zoph
+JobTitle#==#
+Organization#==#Information Sciences Institute ,
+Department of Computer Science,
+ University of Southern California
+Abstract#==#We ask how much information a human translator adds to an original text, and we
+provide a bound. We address this question in the context of bilingual text
+compression: given a source text, how many bits of additional information are
+required to specify the target text produced by a human translator? We develop
+new compression algorithms and establish a benchmark task.
+Author{1}{Firstname}#=%=#Barret
+Author{1}{Lastname}#=%=#Zoph
+Author{1}{Email}#=%=#barretzoph@gmail.com
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Marjan
+Author{2}{Lastname}#=%=#Ghazvininejad
+Author{2}{Email}#=%=#ghazvini@isi.edu
+Author{2}{Affiliation}#=%=#USC
+Author{3}{Firstname}#=%=#Kevin
+Author{3}{Lastname}#=%=#Knight
+Author{3}{Email}#=%=#knight@isi.edu
+Author{3}{Affiliation}#=%=#USC/ISI
+
+==========

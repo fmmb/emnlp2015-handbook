@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Classification of deceptive opinions using a low dimensionality representation
+ShortPaperTitle#=%=#Classification of deceptive opinions using a low dimensionality representation
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Leticia Cagnina
+JobTitle#==#
+Organization#==#
+Abstract#==#Opinions in social media play such an important role for customers and
+companies that there is a growing tendency to post fake reviews in order to
+change purchase decisions and opinions. In this paper we propose the use of
+different features for a low dimension representation of opinions. We evaluate
+our proposal incorporating the features to a Support Vector Machines
+classifier and we use an available corpus with reviews of hotels in Chicago. We
+perform comparisons with previous works and we conclude that using our proposed
+features it is possible to obtain competitive results with a small amount of
+features for representing the data. Finally, we also investigate
+if the use of emotions can help to discriminate between truthful and deceptive
+opinions as previous works show to happen for deception detection in text in
+general.
+Author{1}{Firstname}#=%=#Leticia
+Author{1}{Lastname}#=%=#Cagnina
+Author{1}{Email}#=%=#lcagnina@unsl.edu.ar
+Author{1}{Affiliation}#=%=#Universidad Nacional de San Luis
+Author{2}{Firstname}#=%=#Paolo
+Author{2}{Lastname}#=%=#Rosso
+Author{2}{Email}#=%=#prosso@dsic.upv.es
+Author{2}{Affiliation}#=%=#NLE Lab, PRHLT Research Center, Universitat Politècnica de València, Valencia, España
+
+==========

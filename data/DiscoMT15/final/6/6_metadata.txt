@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Analysing ParCor and its Translations by State-of-the-art SMT Systems
+ShortPaperTitle#=%=#Analysing ParCor and its Translations by State-of-the-art SMT Systems
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Liane Guillou
+JobTitle#==#
+Organization#==#The University of Edinburgh School of Informatics, Informatics Forum, 10 Crichton St, Edinburgh, Midlothian EH8 9AB
+Abstract#==#Previous work on pronouns in SMT has focussed on third-person pronouns,
+treating them all as anaphoric. Little attention has been paid to other uses or
+other types of pronouns. Believing that further progress requires careful
+analysis of pronouns as a whole, we have analysed a parallel corpus of
+annotated English-German texts to highlight some of the problems that hinder
+progress. We combine this with an assessment of the ability of two
+state-of-the-art systems to translate different pronoun types.
+Author{1}{Firstname}#=%=#Liane
+Author{1}{Lastname}#=%=#Guillou
+Author{1}{Email}#=%=#s1052008@sms.ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Bonnie
+Author{2}{Lastname}#=%=#Webber
+Author{2}{Email}#=%=#bonnie.webber@ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+
+==========

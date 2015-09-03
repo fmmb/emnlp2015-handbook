@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Pronoun Translation and Prediction with or without Coreference Links
+ShortPaperTitle#=%=#Pronoun Translation and Prediction with or without Coreference Links
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Ngoc Quang Luong
+JobTitle#==#
+Organization#==#Idiap Research Institute
+Centre du Parc
+Rue Marconi 19
+PO Box 592
+CH - 1920 Martigny
+Switzerland
+Abstract#==#The Idiap NLP Group has participated in both DiscoMT 2015 sub-tasks: pronoun-
+focused translation and pronoun prediction. The system for the first sub-task
+combines two knowledge sources: grammatical constraints from the hypothesized
+coreference links, and candidate translations from an SMT decoder. The system
+for the second sub-task avoids hypothesizing a coreference link, and uses
+instead a large set of source-side and target-side features from the noun
+phrases surrounding the pronoun to train a pronoun predictor.
+Author{1}{Firstname}#=%=#Ngoc Quang
+Author{1}{Lastname}#=%=#Luong
+Author{1}{Email}#=%=#quangngocluong@gmail.com
+Author{1}{Affiliation}#=%=#Idiap Research Institute
+Author{2}{Firstname}#=%=#Lesly
+Author{2}{Lastname}#=%=#Miculicich Werlen
+Author{2}{Email}#=%=#lsmiculicich@gmail.com
+Author{2}{Affiliation}#=%=#Université de Neuchâtel
+Author{3}{Firstname}#=%=#Andrei
+Author{3}{Lastname}#=%=#Popescu-Belis
+Author{3}{Email}#=%=#apbelis@idiap.ch
+Author{3}{Affiliation}#=%=#Idiap Research Institute
+
+==========

@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#501
+FinalPaperTitle#=%=#Reordering Grammar Induction
+ShortPaperTitle#=%=#Reordering Grammar Induction
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Milos Stanojevic
+JobTitle#==#
+Organization#==#Institute for Logic, Language and Computation
+University of Amsterdam
+Science Park 904, Amsterdam, Netherlands
+Abstract#==#We present a novel approach for unsupervised induction of a Reordering Grammar
+using a modified form of permutation trees (Zhang and Gildea, 2007), which we
+apply to preordering in phrase-based machine translation. Unlike previous
+approaches, we induce in one step both the hierarchical structure and the
+transduction function over it from word-aligned parallel corpora. Furthermore,
+our model (1) handles non-ITG reordering patterns (up to 5-ary branching), 2)
+is learned from all derivations by treating not only labeling but also
+bracketing as latent variable, (3) is entirely unlexicalized at the level of
+reordering rules, and (4) requires no linguistic annotation.
+
+Our model is evaluated both for accuracy in predicting target order, and for
+it’s impact on translation quality. We report significant performance gains
+over phrase reordering, and over two known preordering baselines for
+English-Japanese.
+Author{1}{Firstname}#=%=#Miloš
+Author{1}{Lastname}#=%=#Stanojević
+Author{1}{Email}#=%=#milosh.stanojevic@gmail.com
+Author{1}{Affiliation}#=%=#University of Amsterdam, ILLC
+Author{2}{Firstname}#=%=#Khalil
+Author{2}{Lastname}#=%=#Sima'an
+Author{2}{Email}#=%=#k.simaan@uva.nl
+Author{2}{Affiliation}#=%=#ILLC, University of Amsterdam
+
+==========

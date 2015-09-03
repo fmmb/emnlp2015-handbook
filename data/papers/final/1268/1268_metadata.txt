@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#1268
+FinalPaperTitle#=%=#A Survey of Current Datasets for Vision and Language Research
+ShortPaperTitle#=%=#A Survey of Current Datasets for Vision and Language Research
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Francis Ferraro
+JobTitle#==#
+Organization#==#Johns Hopkins University
+3400 N. Charles St.
+Baltimore, MD 21218
+Abstract#==#Integrating vision and language has long been a dream in work on artificial
+intelligence (AI). In the past two years, we have witnessed an explosion of
+work that brings together vision and language from images to videos and beyond.
+The available corpora have played a crucial role in advancing this area of
+research. In this paper,  we propose a set of quality metrics for evaluating
+and analyzing the vision & language datasets and categorize them accordingly.
+Our analyses show that the most recent datasets have been using more complex
+language and more abstract concepts, however, there are different strengths and
+weaknesses in each.
+Author{1}{Firstname}#=%=#Francis
+Author{1}{Lastname}#=%=#Ferraro
+Author{1}{Email}#=%=#ferraro@cs.jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Nasrin
+Author{2}{Lastname}#=%=#Mostafazadeh
+Author{2}{Email}#=%=#nsrn.mostafazadeh@gmail.com
+Author{2}{Affiliation}#=%=#University of Rochester
+Author{3}{Firstname}#=%=#Ting-Hao
+Author{3}{Lastname}#=%=#Huang
+Author{3}{Email}#=%=#tinghaoh@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Lucy
+Author{4}{Lastname}#=%=#Vanderwende
+Author{4}{Email}#=%=#lucyv@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research
+Author{5}{Firstname}#=%=#Jacob
+Author{5}{Lastname}#=%=#Devlin
+Author{5}{Email}#=%=#jdevlin@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft Research
+Author{6}{Firstname}#=%=#Michel
+Author{6}{Lastname}#=%=#Galley
+Author{6}{Email}#=%=#mgalley@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft Research
+Author{7}{Firstname}#=%=#Margaret
+Author{7}{Lastname}#=%=#Mitchell
+Author{7}{Email}#=%=#memitc@microsoft.com
+Author{7}{Affiliation}#=%=#Microsoft Research
+
+==========

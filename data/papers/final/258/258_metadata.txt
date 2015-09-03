@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#258
+FinalPaperTitle#=%=#Topic Identification and Discovery on Text and Speech
+ShortPaperTitle#=%=#Topic Identification and Discovery on Text and Speech
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Chandler May
+JobTitle#==#
+Organization#==#Human Language Technology Center of Excellence
+Stieff Building
+810 Wyman Park Drive
+Baltimore, Maryland 21211-2840
+Abstract#==#We compare the multinomial i-vector framework from the speech community with
+LDA, SAGE, and LSA as feature learners for topic ID on multinomial speech and
+text data. We also compare the learned representations in their ability to
+discover topics, quantified by distributional similarity to gold-standard
+topics and by human interpretability. We find that topic ID and topic discovery
+are competing objectives. We argue that LSA and i-vectors should be more widely
+considered by the text processing community as pre-processing steps for
+downstream tasks, and also speculate about speech processing tasks that could
+benefit from more interpretable representations like SAGE.
+Author{1}{Firstname}#=%=#Chandler
+Author{1}{Lastname}#=%=#May
+Author{1}{Email}#=%=#cjmay@jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University / HLTCOE
+Author{2}{Firstname}#=%=#Francis
+Author{2}{Lastname}#=%=#Ferraro
+Author{2}{Email}#=%=#ferraro@cs.jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Firstname}#=%=#Alan
+Author{3}{Lastname}#=%=#McCree
+Author{3}{Email}#=%=#alan.mccree@ieee.org
+Author{3}{Affiliation}#=%=#JHU HLTCOE
+Author{4}{Firstname}#=%=#Jonathan
+Author{4}{Lastname}#=%=#Wintrode
+Author{4}{Email}#=%=#jcwintr@cs.jhu.edu
+Author{4}{Affiliation}#=%=#Johns Hopkins University
+Author{5}{Firstname}#=%=#Daniel
+Author{5}{Lastname}#=%=#Garcia-Romero
+Author{5}{Email}#=%=#dgromero@jhu.edu
+Author{5}{Affiliation}#=%=#Human Language Technology Center of Excellence, Johns Hopkins University
+Author{6}{Firstname}#=%=#Benjamin
+Author{6}{Lastname}#=%=#Van Durme
+Author{6}{Email}#=%=#vandurme@cs.jhu.edu
+Author{6}{Affiliation}#=%=#JHU
+
+==========

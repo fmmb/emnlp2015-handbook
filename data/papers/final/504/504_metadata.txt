@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#504
+FinalPaperTitle#=%=#Building a shared world: mapping distributional to model-theoretic semantic spaces
+ShortPaperTitle#=%=#Mapping distributional to model-theoretic semantic spaces
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Aurelie Herbelot
+JobTitle#==#
+Organization#==#University of Stuttgart
+Germany
+Abstract#==#In this paper, we introduce an approach to automatically map a standard
+distributional semantic space onto a set-theoretic model. We predict that there
+is a functional relationship between distributional information  and vectorial
+concept representations in which dimensions are predicates and weights are
+generalised quantifiers. In order to test our prediction, we learn a model of
+such relationship over a publicly available dataset of feature norms annotated
+with natural language quantifiers.  Our initial experimental results show that,
+at least for domain-specific data, we can indeed map between formalisms, and
+generate high-quality vector representations which encapsulate set overlap
+information. We further investigate the generation of natural language
+quantifiers from such vectors.
+Author{1}{Firstname}#=%=#Aurélie
+Author{1}{Lastname}#=%=#Herbelot
+Author{1}{Email}#=%=#aurelie.herbelot@cantab.net
+Author{1}{Affiliation}#=%=#University of Stuttgart
+Author{2}{Firstname}#=%=#Eva Maria
+Author{2}{Lastname}#=%=#Vecchi
+Author{2}{Email}#=%=#evamariavecchi@gmail.com
+Author{2}{Affiliation}#=%=#University of Cambridge
+
+==========

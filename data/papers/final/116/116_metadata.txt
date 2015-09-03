@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#116
+FinalPaperTitle#=%=#Syntactic Dependencies and Distributed Word Representations for Analogy Detection and Mining
+ShortPaperTitle#=%=#Syntactic Dependencies and Distributed Word Representations for Analogy Detection and Mining
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Likun Qiu
+JobTitle#==#
+Organization#==#Ludong University
+Singapore University of Technology and Design
+Abstract#==#Distributed word representations capture relational similarities by means of
+vector arithmetics, giving high accuracies on analogy detection. We empirically
+investigate the use of syntactic dependencies on improving analogy detection
+based on distributed word representations, showing that a dependency-based
+embeddings does not perform better than an ngram-based embeddings, but
+dependency structures can be used to improve analogy detection by filtering
+candidates. In addition, we show that distributed representations of dependency
+structure can be used for measuring relational similarities, thereby help
+analogy mining.
+Author{1}{Firstname}#=%=#Likun
+Author{1}{Lastname}#=%=#Qiu
+Author{1}{Email}#=%=#qiulikun@gmail.com
+Author{1}{Affiliation}#=%=#Ludong University
+Author{2}{Firstname}#=%=#Yue
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{3}{Firstname}#=%=#Yanan
+Author{3}{Lastname}#=%=#Lu
+Author{3}{Email}#=%=#luyanan@whu.edu.cn
+Author{3}{Affiliation}#=%=#Computer school, Wuhan University
+
+==========

@@ -1,0 +1,54 @@
+SubmissionNumber#=%=#582
+FinalPaperTitle#=%=#Exploring Markov Logic Networks for Question Answering
+ShortPaperTitle#=%=#Exploring Markov Logic Networks for Question Answering
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Tushar Khot
+JobTitle#==#
+Organization#==#
+Abstract#==#Elementary-level science exams pose significant knowledge acquisition and
+reasoning challenges for automatic question answering. We develop a system that
+reasons with knowledge derived from textbooks, represented in a subset of
+first-order logic. Automatic extraction, while scalable, often results in
+knowledge that is incomplete and noisy, motivating use of reasoning mechanisms
+that handle uncertainty. 
+
+Markov Logic Networks (MLNs) seem a natural model for expressing such
+knowledge, but the exact way of leveraging MLNs is by no means obvious. We
+investigate three ways of
+applying MLNs to our task. First, we simply use the
+extracted science rules directly as MLN clauses and exploit the structure
+present in hard constraints to improve
+tractability.
+Second, we interpret science rules as describing prototypical
+entities, resulting in a drastically simplified but brittle network. Our
+third approach, called Praline, uses MLNs to align lexical elements as well as
+define and control how inference should be performed in this task. Praline
+demonstrates a 15\% accuracy boost and a 10x reduction in runtime as compared
+to other MLN-based methods, and comparable accuracy to word-based baseline
+approaches.
+Author{1}{Firstname}#=%=#Tushar
+Author{1}{Lastname}#=%=#Khot
+Author{1}{Email}#=%=#tushark@allenai.org
+Author{1}{Affiliation}#=%=#Allen Institute for AI
+Author{2}{Firstname}#=%=#Niranjan
+Author{2}{Lastname}#=%=#Balasubramanian
+Author{2}{Email}#=%=#niranjan@cs.stonybrook.edu
+Author{2}{Affiliation}#=%=#Stony Brook University
+Author{3}{Firstname}#=%=#Eric
+Author{3}{Lastname}#=%=#Gribkoff
+Author{3}{Email}#=%=#eagribko@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Ashish
+Author{4}{Lastname}#=%=#Sabharwal
+Author{4}{Email}#=%=#ashishs@allenai.org
+Author{4}{Affiliation}#=%=#Allen Institute for AI
+Author{5}{Firstname}#=%=#Peter
+Author{5}{Lastname}#=%=#Clark
+Author{5}{Email}#=%=#peterc@allenai.org
+Author{5}{Affiliation}#=%=#Allen Institute for AI
+Author{6}{Firstname}#=%=#Oren
+Author{6}{Lastname}#=%=#Etzioni
+Author{6}{Email}#=%=#orene@allenai.org
+Author{6}{Affiliation}#=%=#Allen Institute for AI
+
+==========

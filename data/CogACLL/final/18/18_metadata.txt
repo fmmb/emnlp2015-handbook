@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Perceptual, conceptual, and frequency effects on error patterns in English color term acquisition
+ShortPaperTitle#=%=#Perceptual, conceptual, and frequency effects on error patterns in English color term acquisition
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Barend Beekhuizen
+JobTitle#==#
+Organization#==#Leiden University
+Abstract#==#Children's overextension errors in word usage can yield insights into the
+underlying representation of meaning.
+We simulate overextension patterns in the domain of color with two
+word-learning models, and look at the contribution of three possible factors:
+perceptual properties of the colors, typological prevalence of certain color
+groupings into categories (as a proxy for cognitive naturalness), and color
+term frequency. We find that the perceptual features provide the strongest
+predictors of the error pattern observed during development, and can
+effectively rule out color term frequency as an explanation. Typological
+prevalence is shown to correlate strongly with the perceptual dimensions of
+color, and hence provides no effect over and above the perceptual dimensions.
+Author{1}{Firstname}#=%=#Barend
+Author{1}{Lastname}#=%=#Beekhuizen
+Author{1}{Email}#=%=#barendbeekhuizen@gmail.com
+Author{1}{Affiliation}#=%=#Leiden University
+Author{2}{Firstname}#=%=#Suzanne
+Author{2}{Lastname}#=%=#Stevenson
+Author{2}{Email}#=%=#suzanne@cs.toronto.edu
+Author{2}{Affiliation}#=%=#University of Toronto
+
+==========

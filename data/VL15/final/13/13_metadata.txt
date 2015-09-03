@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Computational Integration of Human Vision and Natural Language through Bitext Alignment
+ShortPaperTitle#=%=#Integration of Human Vision and Natural Language
+NumberOfPages#=%=#2
+CopyrightSigned#=%=#Preethi Vaidyanathan
+JobTitle#==#
+Organization#==#Rochester Institute of Technology
+Abstract#==#Multimodal integration of visual and linguistic data is a longstanding but
+crucial challenge for modeling human understanding. We propose a framework that
+uses an unsupervised bitext alignment method to integrate visual and linguistic
+data. We present an empirical study of the various parameters of the framework.
+Our results exceed baselines using both exact and delayed temporal
+correspondence. The resulting alignments can be used for image classification
+and retrieval.
+Author{1}{Firstname}#=%=#Preethi
+Author{1}{Lastname}#=%=#Vaidyanathan
+Author{1}{Email}#=%=#preetivaidya1@gmail.com
+Author{1}{Affiliation}#=%=#Rochester Institute of Technology
+Author{2}{Firstname}#=%=#Emily
+Author{2}{Lastname}#=%=#Prud'hommeaux
+Author{2}{Email}#=%=#emilypx@rit.edu
+Author{2}{Affiliation}#=%=#Rochester Institute of Technology
+Author{3}{Firstname}#=%=#Cecilia
+Author{3}{Lastname}#=%=#O. Alm
+Author{3}{Email}#=%=#coagla@rit.edu
+Author{3}{Affiliation}#=%=#Rochester Institute of Technology
+Author{4}{Firstname}#=%=#Jeff
+Author{4}{Lastname}#=%=#B. Pelz
+Author{4}{Email}#=%=#pelz@cis.rit.edu
+Author{4}{Affiliation}#=%=#Rochester Institute of Technology
+Author{5}{Firstname}#=%=#Anne
+Author{5}{Lastname}#=%=#R. Haake
+Author{5}{Email}#=%=#arhics@rit.edu
+Author{5}{Affiliation}#=%=#Rochester Institute of Technology
+
+==========

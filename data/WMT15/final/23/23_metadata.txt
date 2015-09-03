@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#Hierarchical Machine Translation With Discontinuous Phrases
+ShortPaperTitle#=%=#Hierarchical Machine Translation With Discontinuous Phrases
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Miriam Kaeshammer
+JobTitle#==#
+Organization#==#University of Düsseldorf
+Universitätsstraße 1
+40225 Düsseldorf, Germany
+Abstract#==#We present a hierarchical statistical machine translation system which supports
+discontinuous constituents. It is based on synchronous linear context-free
+rewriting systems (SLCFRS), an extension to synchronous context-free grammars
+in which synchronized non-terminals span k>= 1 continuous blocks on either side
+of the bitext. This extension beyond context-freeness is motivated by certain
+complex alignment configurations that are beyond the alignment capacity of
+current translation models and their relatively frequent occurrence in
+hand-aligned data. Our experiments for translating from German to English
+demonstrate the feasibility of training and decoding with more expressive
+translation models such as SLCFRS and show a modest improvement over a
+context-free baseline.
+Author{1}{Firstname}#=%=#Miriam
+Author{1}{Lastname}#=%=#Kaeshammer
+Author{1}{Email}#=%=#kaeshammer@phil.uni-duesseldorf.de
+Author{1}{Affiliation}#=%=#University of Düsseldorf
+
+==========

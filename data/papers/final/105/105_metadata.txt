@@ -1,0 +1,52 @@
+SubmissionNumber#=%=#105
+FinalPaperTitle#=%=#ERSOM: A Structural Ontology Matching Approach Using Automatically Learned Entity Representation
+ShortPaperTitle#=%=#ERSOM: A Structural Ontology Matching Approach Using Automatically Learned Entity Representation
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#As a key representation model of knowledge,
+ontology has been widely used in
+a lot of NLP related tasks, such as semantic
+parsing, information extraction and
+text mining etc. In this paper, we study
+the task of ontology matching, which concentrates
+on finding semantically related
+entities between different ontologies that
+describe the same domain, to solve the
+semantic heterogeneity problem. Previous
+works exploit different kinds of descriptions
+of an entity in ontology directly
+and separately to find the correspondences
+without considering the higher level correlations
+between the descriptions. Besides,
+the structural information of ontology
+haven’t been utilized adequately
+for ontology matching. We propose in
+this paper an ontology matching approach,
+named ERSOM, which mainly includes
+an unsupervised representation learning
+method based on the deep neural networks
+to learn the general representation
+of the entities and an iterative similarity
+propagation method that takes advantage
+of more abundant structure information
+of the ontology to discover more mappings.
+Author{1}{Firstname}#=%=#Chuncheng
+Author{1}{Lastname}#=%=#Xiang
+Author{1}{Email}#=%=#ccxiang@pku.edu.cn
+Author{1}{Affiliation}#=%=#Institute of Computational Linguistic, Peking University
+Author{2}{Firstname}#=%=#Tingsong
+Author{2}{Lastname}#=%=#Jiang
+Author{2}{Email}#=%=#tingsong@pku.edu.cn
+Author{2}{Affiliation}#=%=#Institute of Computational Linguistic, Peking University
+Author{3}{Firstname}#=%=#Baobao
+Author{3}{Lastname}#=%=#Chang
+Author{3}{Email}#=%=#chbb@pku.edu.cn
+Author{3}{Affiliation}#=%=#Institute of Computational Linguistic, Peking Univerisity
+Author{4}{Firstname}#=%=#Zhifang
+Author{4}{Lastname}#=%=#Sui
+Author{4}{Email}#=%=#szf@pku.edu.cn
+Author{4}{Affiliation}#=%=#
+
+==========

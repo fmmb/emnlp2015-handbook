@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#660
+FinalPaperTitle#=%=#Co-Training for Topic Classification of Scholarly Data
+ShortPaperTitle#=%=#Co-Training for Topic Classification of Scholarly Data
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Cornelia Caragea
+JobTitle#==#
+Organization#==#Cornelia Caragea
+University of North Texas, Computer Science and Engineering, TX, USA
+Abstract#==#With the exponential growth of scholarly data during the past few years,
+effective methods for topic classification are greatly needed. Current
+approaches usually require large amounts of expensive labeled data in order to
+make accurate predictions. In this paper, we posit that, in addition to a
+research article’s textual content, its citation network also contains
+valuable information. We describe a co-training approach that uses the text and
+citation information of a research article as two different views to predict
+the topic of the article. We show that this method improves significantly over
+the individual classifiers, while also bringing a substantial reduction in the
+amount of labeled data required for training accurate classifiers.
+Author{1}{Firstname}#=%=#Cornelia
+Author{1}{Lastname}#=%=#Caragea
+Author{1}{Email}#=%=#ccaragea@unt.edu
+Author{1}{Affiliation}#=%=#University of North Texas
+Author{2}{Firstname}#=%=#Florin
+Author{2}{Lastname}#=%=#Bulgarov
+Author{2}{Email}#=%=#florinbulgarov@my.unt.edu
+Author{2}{Affiliation}#=%=#University of North Texas
+Author{3}{Firstname}#=%=#Rada
+Author{3}{Lastname}#=%=#Mihalcea
+Author{3}{Email}#=%=#mihalcea@umich.edu
+Author{3}{Affiliation}#=%=#University of Michigan
+
+==========

@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#494
+FinalPaperTitle#=%=#Do You See What I Mean? Visual Resolution of Linguistic Ambiguities
+ShortPaperTitle#=%=#Do You See What I Mean? Visual Resolution of Linguistic Ambiguities
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yevgeni Berzak
+JobTitle#==#
+Organization#==#CSAIL MIT
+32 Vassar st. #482
+Cambridge MA 02139
+Abstract#==#Understanding language goes hand in hand with the ability to integrate complex
+contextual information obtained via perception. In this work, we present a
+novel task for grounded language understanding: disambiguating a sentence given
+a visual scene which depicts one of the possible interpretations of that
+sentence. To this end, we introduce a new multimodal corpus containing
+ambiguous sentences, representing a wide range of syntactic, semantic and
+discourse ambiguities, coupled with videos that visualize the different
+interpretations for each sentence. We address this task by extending a vision
+model which determines if a sentence is depicted by a video. We demonstrate how
+such a model can be adjusted to recognize different interpretations of the same
+underlying sentence, allowing to disambiguate sentences in a unified fashion
+across the different ambiguity types.
+Author{1}{Firstname}#=%=#Yevgeni
+Author{1}{Lastname}#=%=#Berzak
+Author{1}{Email}#=%=#berzak@mit.edu
+Author{1}{Affiliation}#=%=#CSAIL MIT
+Author{2}{Firstname}#=%=#Andrei
+Author{2}{Lastname}#=%=#Barbu
+Author{2}{Email}#=%=#andrei@0xab.com
+Author{2}{Affiliation}#=%=#CSAIL MIT
+Author{3}{Firstname}#=%=#Daniel
+Author{3}{Lastname}#=%=#Harari
+Author{3}{Email}#=%=#hararid@mit.edu
+Author{3}{Affiliation}#=%=#CSAIL MIT
+Author{4}{Firstname}#=%=#Boris
+Author{4}{Lastname}#=%=#Katz
+Author{4}{Email}#=%=#boris@csail.mit.edu
+Author{4}{Affiliation}#=%=#CSAIL MIT
+Author{5}{Firstname}#=%=#Shimon
+Author{5}{Lastname}#=%=#Ullman
+Author{5}{Email}#=%=#shimon.ullman@weizmann.ac.il
+Author{5}{Affiliation}#=%=#Weizmann Institute of Science
+
+==========

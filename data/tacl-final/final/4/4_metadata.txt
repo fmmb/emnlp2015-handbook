@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#One Vector is Not Enough: Entity-Augmented Distributed Semantics for Discourse Relations
+ShortPaperTitle#=%=#One Vector is Not Enough: Entity-Augmented Distributed Semantics for Discourse Relations
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Yangfeng Ji
+JobTitle#==#
+Organization#==#Georgia Institute of Technology
+North Avenue, Atlanta, GA 30332
+Phone: 404-894-2000
+Abstract#==#Discourse relations bind smaller linguistic units into coherent texts.
+Automatically identifying discourse relations is difficult, because it requires
+understanding the semantics of the linked arguments. A more subtle challenge is
+that it is not enough to represent the meaning of each argument of a discourse
+relation, because the relation may depend on links between lower-level
+components, such as entity mentions. Our solution computes distributed meaning
+representations for each discourse argument by composition up the syntactic
+parse tree. We also perform a downward compositional pass to capture the
+meaning of coreferent entity mentions. Implicit discourse relations are then
+predicted from these two representations, obtaining substantial improvements on
+the Penn Discourse Treebank.
+Author{1}{Firstname}#=%=#Yangfeng
+Author{1}{Lastname}#=%=#Ji
+Author{1}{Email}#=%=#jiyfeng@gatech.edu
+Author{1}{Affiliation}#=%=#School of Interactive Computing, Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Jacob
+Author{2}{Lastname}#=%=#Eisenstein
+Author{2}{Email}#=%=#jacobe@gmail.com
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology
+
+==========

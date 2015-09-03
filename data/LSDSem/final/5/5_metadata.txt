@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Semantics and Discourse Processing for Expressive TTS
+ShortPaperTitle#=%=#Semantics and Discourse Processing for Expressive TTS
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Rodolfo Delmonte
+JobTitle#==#
+Organization#==#Ca Foscari University - Dorsoduro 1075 - 30121 VENEZIA (It)
+Abstract#==#In this paper we present ongoing work to produce an expressive TTS reader that
+can be used both in text and dialogue applications. The system has been
+previously used to read (English) poetry and it has now been extended to apply
+to short stories. The text is fully analyzed both at phonetic and phonological
+level, and at syntactic and semantic level. The core of the system is the
+Prosodic Manager which takes as input discourse structures and relations and
+uses this information to modify parameters for the TTS accordingly. The text is
+transformed into a poem-like structures, where each line corresponds to a
+Breath Group, semantically and syntactically consistent. Stanzas correspond to
+paragraph boundaries. Analogical parameters are related to ToBI theoretical
+indices but their number is doubled.
+Author{1}{Firstname}#=%=#Rodolfo
+Author{1}{Lastname}#=%=#Delmonte
+Author{1}{Email}#=%=#delmont@unive.it
+Author{1}{Affiliation}#=%=#Ca' Foscari University Venice
+Author{2}{Firstname}#=%=#Rocco
+Author{2}{Lastname}#=%=#Tripodi
+Author{2}{Email}#=%=#rocco.trip@gmail.com
+Author{2}{Affiliation}#=%=#Ca' Foscari University of Venice
+
+==========

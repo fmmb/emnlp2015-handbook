@@ -1,0 +1,76 @@
+SubmissionNumber#=%=#79
+FinalPaperTitle#=%=#Findings of the 2015 Workshop on Statistical Machine Translation
+ShortPaperTitle#=%=#Findings of the 2015 Workshop on Statistical Machine Translation
+NumberOfPages#=%=#46
+CopyrightSigned#=%=#Philipp Koehn
+JobTitle#==#
+Organization#==#Johns Hopkins University
+3400 N Charles Street
+Baltimore, MD 21218, USA
+Abstract#==#This paper presents the results of the WMT15 shared tasks, which included a
+standard news translation task, a metrics task, a tuning task, a task for
+run-time estimation of machine translation quality, and an automatic
+post-editing task. This year, 68 machine translation systems from 24
+institutions were submitted to the ten translation directions in the standard
+translation task. An additional 7 anonymized systems were included, and were
+then evaluated both automatically and manually. The quality estimation task had
+three subtasks, with a total of 10 teams, submit- ting 34 entries. The pilot
+automatic post- editing task had a total of 4 teams, submit- ting 7 entries.
+Author{1}{Firstname}#=%=#Ondřej
+Author{1}{Lastname}#=%=#Bojar
+Author{1}{Email}#=%=#bojar@ufal.mff.cuni.cz
+Author{1}{Affiliation}#=%=#Charles University in Prague, Faculty of Mathematics and Physics
+Author{2}{Firstname}#=%=#Rajen
+Author{2}{Lastname}#=%=#Chatterjee
+Author{2}{Email}#=%=#chatterjee@fbk.eu
+Author{2}{Affiliation}#=%=#Fondazione Bruno Kessler
+Author{3}{Firstname}#=%=#Christian
+Author{3}{Lastname}#=%=#Federmann
+Author{3}{Email}#=%=#chrife@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft
+Author{4}{Firstname}#=%=#Barry
+Author{4}{Lastname}#=%=#Haddow
+Author{4}{Email}#=%=#bhaddow@inf.ed.ac.uk
+Author{4}{Affiliation}#=%=#University of Edinburgh
+Author{5}{Firstname}#=%=#Matthias
+Author{5}{Lastname}#=%=#Huck
+Author{5}{Email}#=%=#mhuck@inf.ed.ac.uk
+Author{5}{Affiliation}#=%=#University of Edinburgh
+Author{6}{Firstname}#=%=#Chris
+Author{6}{Lastname}#=%=#Hokamp
+Author{6}{Email}#=%=#chris.hokamp@gmail.com
+Author{6}{Affiliation}#=%=#Dublin City University - CNGL
+Author{7}{Firstname}#=%=#Philipp
+Author{7}{Lastname}#=%=#Koehn
+Author{7}{Email}#=%=#phi@jhu.edu
+Author{7}{Affiliation}#=%=#Johns Hopkins University
+Author{8}{Firstname}#=%=#Varvara
+Author{8}{Lastname}#=%=#Logacheva
+Author{8}{Email}#=%=#v.logacheva@sheffield.ac.uk
+Author{8}{Affiliation}#=%=#University of Sheffield
+Author{9}{Firstname}#=%=#Christof
+Author{9}{Lastname}#=%=#Monz
+Author{9}{Email}#=%=#cmonz@uva.nl
+Author{9}{Affiliation}#=%=#University of Amsterdam
+Author{10}{Firstname}#=%=#Matteo
+Author{10}{Lastname}#=%=#Negri
+Author{10}{Email}#=%=#negri@fbk.eu
+Author{10}{Affiliation}#=%=#Fondazione Bruno Kessler
+Author{11}{Firstname}#=%=#Matt
+Author{11}{Lastname}#=%=#Post
+Author{11}{Email}#=%=#post@cs.jhu.edu
+Author{11}{Affiliation}#=%=#Johns Hopkins University
+Author{12}{Firstname}#=%=#Carolina
+Author{12}{Lastname}#=%=#Scarton
+Author{12}{Email}#=%=#c.scarton@sheffield.ac.uk
+Author{12}{Affiliation}#=%=#University of Sheffield
+Author{13}{Firstname}#=%=#Lucia
+Author{13}{Lastname}#=%=#Specia
+Author{13}{Email}#=%=#l.specia@sheffield.ac.uk
+Author{13}{Affiliation}#=%=#University of Sheffield
+Author{14}{Firstname}#=%=#Marco
+Author{14}{Lastname}#=%=#Turchi
+Author{14}{Email}#=%=#turchi@fbk.eu
+Author{14}{Affiliation}#=%=#Fondazione Bruno Kessler
+
+==========

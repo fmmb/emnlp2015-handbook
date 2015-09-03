@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#37
+FinalPaperTitle#=%=#Analysing domain suitability of a sentiment lexicon by identifying distributionally bipolar words
+ShortPaperTitle#=%=#Analysing suitability of a sentiment lexicon by identifying bipolar words
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Lucie Flekova
+JobTitle#==#
+Organization#==#Technische Universität Darmstadt
+Department of Computer Science
+Ubiquitous Knowledge Processing Lab
+Hochschulstraße 10 
+64289 Darmstadt
+Germany
+Abstract#==#Contemporary sentiment analysis approaches rely heavily on lexicon based
+methods. This is mainly due to their simplicity, although the best empirical
+results can be achieved by more complex techniques.We introduce a method to
+assess suitability of generic sentiment lexicons for a given domain, namely to
+identify frequent bigrams where a polar word switches polarity. Our bigrams are
+scored using Lexicographers Mutual Information and leveraging large
+automatically obtained corpora. Our score matches human perception of polarity
+and demonstrates improvements in classification results using our enhanced
+context-aware method.
+Our method enhances the assessment of lexicon based sentiment detection
+algorithms and can be further used to quantify ambiguous words.
+Author{1}{Firstname}#=%=#Lucie
+Author{1}{Lastname}#=%=#Flekova
+Author{1}{Email}#=%=#flekova@dipf.de
+Author{1}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+Author{2}{Firstname}#=%=#Daniel
+Author{2}{Lastname}#=%=#Preoţiuc-Pietro
+Author{2}{Email}#=%=#danielpr@gmail.com
+Author{2}{Affiliation}#=%=#University of Pennsylvania
+Author{3}{Firstname}#=%=#Eugen
+Author{3}{Lastname}#=%=#Ruppert
+Author{3}{Email}#=%=#ruppert@lt.informatik.tu-darmstadt.de
+Author{3}{Affiliation}#=%=#TU Darmstadt
+
+==========

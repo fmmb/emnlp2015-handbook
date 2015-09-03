@@ -1,0 +1,14 @@
+abbrev LSDSem
+type WORKSHOP
+title First Workshop on Linking Computational Models of Lexical, Sentential and Discourse-level Semantics
+url http://homepages.inf.ed.ac.uk/mroth/LSDSem/
+booktitle Proceedings of the First Workshop on Linking Computational Models of Lexical, Sentential and Discourse-level Semantics
+month September
+year 2015
+location Lisbon, Portugal
+publisher Association for Computational Linguistics
+chairs Michael Roth
+chairs Annie Louis
+chairs Bonnie Webber
+chairs Tim Baldwin
+bib_url http://aclweb.org/anthology/W15-27%02d

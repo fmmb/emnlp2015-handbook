@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#352
+FinalPaperTitle#=%=#Joint Mention Extraction and Classification with Mention Hypergraphs
+ShortPaperTitle#=%=#Joint Mention Extraction and Classification with Mention Hypergraphs
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#We present a novel model for the task of joint mention extraction and
+classification. Unlike existing approaches, our model is able to effectively
+capture overlapping mentions whose lengths are unbounded. Our model is highly
+scalable, with a time complexity that is linear in the number of words in the
+input sentence and linear in the number of possible mention classes. The model
+can be extended to additionally capture mention heads explicitly in a joint
+manner under the same time complexity. We demonstrate the effectiveness of our
+model through extensive experiments on standard datasets.
+Author{1}{Firstname}#=%=#Wei
+Author{1}{Lastname}#=%=#Lu
+Author{1}{Email}#=%=#wei_lu@sutd.edu.sg
+Author{1}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{2}{Firstname}#=%=#Dan
+Author{2}{Lastname}#=%=#Roth
+Author{2}{Email}#=%=#danr@illinois.edu
+Author{2}{Affiliation}#=%=#University of Illinois
+
+==========

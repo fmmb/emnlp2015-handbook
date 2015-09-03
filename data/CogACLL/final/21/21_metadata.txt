@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#Motif discovery in infant- and adult-directed speech
+ShortPaperTitle#=%=#Motif discovery in infant- and adult-directed speech
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Bogdan Ludusan
+JobTitle#==#
+Organization#==#Laboratoire de Sciences Cognitives et Psycholinguistique
+29 rue d'Ulm, 75005 Paris, France
+Abstract#==#Infant-directed speech (IDS) is thought to play a key role in determining
+infant language acquisition. It is thus important to describe how computational
+models of infant language acquisition behave when given an input of IDS, as
+compared to adult-directed speech (ADS). In this paper, we explore how an
+acoustic motif discovery algorithm fares when presented with speech from both
+registers. Results show small but significant differences in performance, with
+lower recall and lower cluster collocation in IDS than ADS, but a higher
+cluster purity in IDS. Overall, these results are inconsistent with a view
+suggesting that IDS is acoustically clearer than ADS in a way that
+systematically facilitates lexical recognition. Similarities and differences
+with human infants' word segmentation are discussed.
+Author{1}{Firstname}#=%=#Bogdan
+Author{1}{Lastname}#=%=#Ludusan
+Author{1}{Email}#=%=#bogdan.ludusan@ens.fr
+Author{1}{Affiliation}#=%=#LSCP - EHESS/ENS/CNRS, Paris
+Author{2}{Firstname}#=%=#Amanda
+Author{2}{Lastname}#=%=#Seidl
+Author{2}{Email}#=%=#aseidl@purdue.edu
+Author{2}{Affiliation}#=%=#Department of Speech, Language, and Hearing Sciences, Purdue University, USA
+Author{3}{Firstname}#=%=#Emmanuel
+Author{3}{Lastname}#=%=#Dupoux
+Author{3}{Email}#=%=#emmanuel.dupoux@gmail.com
+Author{3}{Affiliation}#=%=#Ecole des Hautes Etudes en Sciences Sociales
+Author{4}{Firstname}#=%=#Alex
+Author{4}{Lastname}#=%=#Cristia
+Author{4}{Email}#=%=#alecristia@gmail.com
+Author{4}{Affiliation}#=%=#LSCP, CNRS
+
+==========

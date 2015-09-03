@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#880
+FinalPaperTitle#=%=#Shallow Convolutional Neural Network for Implicit Discourse Relation Recognition
+ShortPaperTitle#=%=#Shallow Convolutional Neural Network for Implicit Discourse Relation Recognition
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Biao Zhang
+JobTitle#==#student
+Organization#==#Xiamen University, Fujian Province of China
+Abstract#==#Implicit discourse relation recognition remains a serious challenge due to the
+absence of discourse connectives. In this paper, we propose a Shallow
+Convolutional Neural Network (SCNN) for implicit discourse relation
+recognition, which contains only one hidden layer but is effective in relation
+recognition. The shallow structure alleviates the overﬁtting problem, while
+the convolution and nonlinear operations help preserve the recognition and
+generalization ability of our model. Experiments on the benchmark data set show
+that our model achieves comparable and even better performance when comparing
+against current state-of-the-art systems.
+Author{1}{Firstname}#=%=#Biao
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#zb@stu.xmu.edu.cn
+Author{1}{Affiliation}#=%=#Xiamen University
+Author{2}{Firstname}#=%=#Jinsong
+Author{2}{Lastname}#=%=#Su
+Author{2}{Email}#=%=#jssu@xmu.edu.cn
+Author{2}{Affiliation}#=%=#Xiamen university
+Author{3}{Firstname}#=%=#Deyi
+Author{3}{Lastname}#=%=#Xiong
+Author{3}{Email}#=%=#deyi.xiong@gmail.com
+Author{3}{Affiliation}#=%=#Soochow University
+Author{4}{Firstname}#=%=#Yaojie
+Author{4}{Lastname}#=%=#Lu
+Author{4}{Email}#=%=#lyj@stu.xmu.edu.cn
+Author{4}{Affiliation}#=%=#Xiamen University
+Author{5}{Firstname}#=%=#Hong
+Author{5}{Lastname}#=%=#Duan
+Author{5}{Email}#=%=#hduan@xmu.edu.cn
+Author{5}{Affiliation}#=%=#Xiamen University
+Author{6}{Firstname}#=%=#Junfeng
+Author{6}{Lastname}#=%=#Yao
+Author{6}{Email}#=%=#yao0010@xmu.edu.cn
+Author{6}{Affiliation}#=%=#Xiamen University
+
+==========

@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#983
+FinalPaperTitle#=%=#Detection of Steganographic Techniques on Twitter
+ShortPaperTitle#=%=#Detection of Steganographic Techniques on Twitter
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose a method to detect hidden data in English text. We target a system
+previously thought secure, which hides messages in tweets. The method brings
+ideas from image steganalysis into the linguistic domain, including the
+training of a feature-rich model for detection. To identify Twitter users
+guilty of steganography, we aggregate evidence; a first, in any domain. We test
+our system on a set of 1M steganographic tweets, and show it to be effective.
+Author{1}{Firstname}#=%=#Alex
+Author{1}{Lastname}#=%=#Wilson
+Author{1}{Email}#=%=#alex.wilson@cs.ox.ac.uk
+Author{1}{Affiliation}#=%=#University of Oxford
+Author{2}{Firstname}#=%=#Phil
+Author{2}{Lastname}#=%=#Blunsom
+Author{2}{Email}#=%=#phil.blunsom@cs.ox.ac.uk
+Author{2}{Affiliation}#=%=#University of Oxford
+Author{3}{Firstname}#=%=#Andrew
+Author{3}{Lastname}#=%=#Ker
+Author{3}{Email}#=%=#Andrew.Ker@cs.ox.ac.uk
+Author{3}{Affiliation}#=%=#University of Oxford
+
+==========

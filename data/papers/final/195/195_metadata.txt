@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#195
+FinalPaperTitle#=%=#CORE: Context-Aware Open Relation Extraction with Factorization Machines
+ShortPaperTitle#=%=#CORE: Context-Aware Open Relation Extraction with Factorization Machines
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Fabio Petroni
+JobTitle#==#
+Organization#==#Sapienza University of Rome,
+Via Ariosto, 25, 00185 Roma, Italy
+Abstract#==#We propose CORE, a novel matrix factorization model that leverages contextual
+information for open relation extraction. Our model is based on factorization
+machines and integrates facts from various sources, such as knowledge bases or
+open information extractors, as well as the context in which these facts have
+been observed. We argue that integrating contextual information---such as
+metadata about extraction sources, lexical context, or type
+information---significantly improves prediction performance. Open information
+extractors, for example, may produce extractions that are unspecific or
+ambiguous when taken out of context. Our experimental study on a large
+real-world dataset indicates that CORE has significantly better prediction
+performance than state-of-the-art approaches when contextual information is
+available.
+Author{1}{Firstname}#=%=#Fabio
+Author{1}{Lastname}#=%=#Petroni
+Author{1}{Email}#=%=#petroni@dis.uniroma1.it
+Author{1}{Affiliation}#=%=#Sapienza University of Rome
+Author{2}{Firstname}#=%=#Luciano
+Author{2}{Lastname}#=%=#Del Corro
+Author{2}{Email}#=%=#corrogg@mpi-inf.mpg.de
+Author{2}{Affiliation}#=%=#Max-Planck-Institut für Informatik
+Author{3}{Firstname}#=%=#Rainer
+Author{3}{Lastname}#=%=#Gemulla
+Author{3}{Email}#=%=#rgemulla@uni-mannheim.de
+Author{3}{Affiliation}#=%=#Universität Mannheim
+
+==========

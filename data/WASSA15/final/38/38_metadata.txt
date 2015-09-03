@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#38
+FinalPaperTitle#=%=#Using Combined Lexical Resources to Identify Hashtag Types
+ShortPaperTitle#=%=#Using Combined Lexical Resources to Identify Hashtag Types
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Credell Simeon
+JobTitle#==#
+Organization#==#University of Regina
+3737 Wascana Parkway
+Regina, Sk S4S 0A2
+Abstract#==#This paper seeks to identify sentiment and non-sentiment bearing hashtags by
+combining existing lexical resources. By using a lexicon-based approach, we
+achieve 86.3% and 94.5% precision in identifying sentiment and non-sentiment
+hashtags, respectively. Moreover, results obtained from both of our
+classification models demonstrate that using combined lexical, emotion and word
+resources is more effective than using a single resource in identifying the two
+types of hashtags.
+Author{1}{Firstname}#=%=#Credell
+Author{1}{Lastname}#=%=#Simeon
+Author{1}{Email}#=%=#csimeon87@gmail.com
+Author{1}{Affiliation}#=%=#University of Regina
+Author{2}{Firstname}#=%=#Robert
+Author{2}{Lastname}#=%=#Hilderman
+Author{2}{Email}#=%=#robert.hilderman@uregina.ca
+Author{2}{Affiliation}#=%=#University of Regina
+
+==========

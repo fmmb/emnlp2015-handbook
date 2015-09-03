@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#Visual Classifier Prediction by Distributional Semantic Embedding of Text Descriptions
+ShortPaperTitle#=%=#Visual Classifier Prediction by Distributional Semantic Embedding of Text Descriptions
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Mohamed Elhoseiny
+JobTitle#==#PhD Student
+Organization#==#Rutgers University
+New Brunswick, NJ, USA
+Abstract#==#In this work, we present our new  zero-shot learning framework for predicting
+kernelized classifiers in the visual domain for categories with no training
+images where the knowledge comes from textual description about these
+categories.  Through our new optimization framework, the proposed approach is
+capable of embedding the class-level knowledge from the text domain as             
+kernel
+classifiers in the visual domain.  We also proposed a distributional semantic
+kernel between text descriptions which is shown to be effective in our setting.
+The proposed framework is not restricted to textual descriptions, and can also
+be applied to other forms knowledge representations. Our approach was applied
+for the challenging task of zero-shot learning of fine-grained categories from
+text descriptions of these categories, and is shown to outperform existing
+methods.
+Author{1}{Firstname}#=%=#Mohamed
+Author{1}{Lastname}#=%=#Elhoseiny
+Author{1}{Email}#=%=#m.elhoseiny@cs.rutgers.edu
+Author{1}{Affiliation}#=%=#Rutgers University
+Author{2}{Firstname}#=%=#Ahmed
+Author{2}{Lastname}#=%=#Elgammal
+Author{2}{Email}#=%=#elgammall@cs.rutgers.edu
+Author{2}{Affiliation}#=%=#Rutgers University
+
+==========

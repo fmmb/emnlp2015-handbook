@@ -1,0 +1,84 @@
+* Thursday, September 17, 2015
++ 09:00--09:05 Opening Remarks
+= 09:05--09:50 Session 1: Shared Tasks # %room Main Auditorium
+79   # Findings of the 2015 Workshop on Statistical Machine Translation
+= 09:50--10:30 Session 2: Data Selection # %room Main Auditorium
+1 09:50--10:10  # Statistical Machine Translation with Automatic Identification of Translationese
+6 10:10--10:30  # Data Selection With Fewer Words
++ 10:30--11:00 Coffee Break
+= 11:00--12:30 Session 3: Poster Session - Shared Task: Translation # %room Lower Level Foyer
+55   # DFKI's experimental hybrid MT system for WMT 2015
+31   # ParFDA for Fast Deployment of Accurate Statistical Machine Translation Systems, Benchmarks, and Statistics
+54   # CUNI in WMT15: Chimera Strikes Again
+57   # CimS - The CIS and IMS Joint Submission to WMT 2015 addressing morphological and syntactic differences in English to German SMT
+14   # The Karlsruhe Institute of Technology Translation Systems for the WMT 2015
+39   # New Language Pairs in TectoMT
+24   # Tuning Phrase-Based Segmented Translation for a Morphologically Complex Target Language
+10   # The AFRL-MITLL WMT15 System: There___s More than One Way to Decode It!
+56   # The KIT-LIMSI Translation System for WMT 2015
+72   # The Edinburgh/JHU Phrase-based Machine Translation Systems for WMT~2015
+44   # Montreal Neural Machine Translation Systems for WMT___15
+67   # GF Wide-coverage English-Finnish MT system for WMT 2015
+48   # LIMSI@WMT'15 : Translation Task
+19   # UdS-Sant: English___German Hybrid Machine Translation System
+22   # The RWTH Aachen German-English Machine Translation System for WMT 2015
+29   # Exact Decoding with Multi Bottom-Up Tree Transducers
+53   # Sheffield Systems for the Finnish-English WMT Translation Task
+52   # Morphological Segmentation and OPUS for Finnish-English Machine Translation
+64   # Abu-MaTran at WMT 2015 Translation Task: Morphological Segmentation and Web Crawling
+60   # The University of Illinois submission to the WMT 2015 Shared Translation Task
+58   # Edinburgh's Syntax-Based Systems at WMT 2015
+= 11:00--12:30 Session 3: Poster Session - Shared Task: Automatic Post-Editing # %room Lower Level Foyer
+42   # The FBK Participation in the WMT15 Automatic Post-editing Shared Task
+4   # USAAR-SAPE: An English--Spanish Statistical Automatic Post-Editing System
+38   # Why Predicting Post-Edition is so Hard? Failure Analysis of LIMSI Submission to the APE Shared Task
++ 12:30--14:00 Lunch
+= 14:00--15:30 Session 4: Invited Talk # %room Main Auditorium
+! 14:00--15:30 A Practical Guide to Real-Time Neural Translation %by Jacob Devlin %a Microsoft Research
++ 15:30--16:00 Coffee Break
+= 16:00--17:00 Session 5: Syntax-Based Translation and Rescoring # %room Main Auditorium
+23 16:00--16:20  # Hierarchical Machine Translation With Discontinuous Phrases
+49 16:20--16:40  # Discontinuous Statistical Machine Translation with Target-Side Dependency Syntax
+28 16:40--17:00  # ListNet-based MT Rescoring
+* Friday, September 18, 2015
+= 09:00--09:50 Session 6: Shared Tasks # %room Main Auditorium
+! 09:00--09:20 Overview of the Quality Estimation Task %by Multiple Speakers
+46   # Results of the WMT15 Metrics Shared Task
+47   # Results of the WMT15 Tuning Shared Task
+= 09:50--10:30 Session 7: Translation Modeling # %room Main Auditorium
+3 09:50--10:10  # Extended Translation Models in Phrase-based Decoding
+43 10:10--10:30  # Investigations on Phrase-based Decoding with Recurrent Neural Network Language and Translation Models
++ 10:30--11:00 Coffee Break
+= 11:00--12:30 Session 8: Poster Session - Shared Task: Quality Estimation # %room Lower Level Foyer
+33   # Referential Translation Machines for Predicting Translation Quality and Related Statistics
+18   # UAlacant word-level machine translation quality estimation system at WMT 2015
+9   # QUality Estimation from ScraTCH (QUETCH): Deep Learning for Word-level Translation Quality Estimation
+16   # LORIA System for the WMT15 Quality Estimation Shared Task
+51   # Data enhancement and selection strategies for the word-level Quality Estimation
+50   # USHEF and USAAR-USHEF participation in the WMT15 QE shared task
+59   # SHEF-NN: Translation Quality Estimation with Neural Networks
+78   # Strategy-Based Technology for Estimating MT Quality
+21   # UGENT-LT3 SCATE System for Machine Translation Quality Estimation
+= 11:00--12:30 Session 8: Poster Session - Shared Task: Metrics # %room Lower Level Foyer
+76   # Multi-level Evaluation for Machine Translation
+37   # VERTa: a Linguistically-motivated Metric at the WMT15 Metrics Task
+40   # UPF-Cobalt Submission to WMT15 Metrics Task
+71   # Machine Translation Evaluation using Recurrent Neural Networks
+8   # Alignment-based sense selection in METEOR and the RATATOUILLE recipe
+5   # chrF: character n-gram F-score for automatic MT evaluation
+36   # BEER 1.1: ILLC UvA submission to metrics and tuning task
+45   # Predicting Machine Translation Adequacy with Document Embeddings
+12   # LeBLEU: N-gram-based Translation Evaluation Score for Morphologically Complex Languages
+27   # CASICT-DCU Participation in WMT2015 Metrics Task
+= 11:00--12:30 Session 8: Poster Session - Shared Task: Tuning # %room Lower Level Foyer
+2   # Drem: The AFRL Submission to the WMT15 Tuning Task
+20   # MT Tuning on RED: A Dependency-Based Evaluation Metric
+75   # Improving evaluation and optimization of MT systems against MEANT
++ 12:30--14:00 Lunch
+= 14:00--15:20 Session 9: Evaluation and System Combination # %room Main Auditorium
+32   # An Investigation of Machine Translation Evaluation Metrics in Cross-lingual Question Answering
+35   # Dependency Analysis of Scrambled References for Better Evaluation of Japanese Translation
+62   # How do Humans Evaluate Machine Translation
+11   # Local System Voting Feature for Machine Translation System Combination
++ 15:20--16:00 Coffee Break
+= 16:00--17:00 Session 10: Closing Session and Open Discussion # %room Main Auditorium

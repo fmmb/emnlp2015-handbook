@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#1470
+FinalPaperTitle#=%=#Trans-gram, Fast Cross-lingual Word-embeddings
+ShortPaperTitle#=%=#Trans-gram, Fast Cross-lingual Word-embeddings
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Guillaume Wenzek
+JobTitle#==#
+Organization#==#105 rue La Fayette
+75010 Paris
+France
+Abstract#==#We introduce "Trans-gram", a simple
+and computationally-efficient method to simultaneously learn and align
+word-embeddings for a variety of languages, using only monolingual data and a
+smaller set of sentence-aligned data.
+We use our new method to compute aligned word-embeddings for twenty-one
+languages using English as a pivot language.
+We show that some linguistic features are aligned across languages for which we
+do not have aligned data, even though those properties do not exist in the
+pivot language.
+We also achieve state of the art results on standard cross-lingual text
+classification and word translation tasks.
+Author{1}{Firstname}#=%=#Jocelyn
+Author{1}{Lastname}#=%=#Coulmance
+Author{1}{Email}#=%=#joc@proxem.com
+Author{1}{Affiliation}#=%=#Proxem
+Author{2}{Firstname}#=%=#Jean-Marc
+Author{2}{Lastname}#=%=#Marty
+Author{2}{Email}#=%=#jmm@proxem.com
+Author{2}{Affiliation}#=%=#Proxem
+Author{3}{Firstname}#=%=#Guillaume
+Author{3}{Lastname}#=%=#Wenzek
+Author{3}{Email}#=%=#guw@proxem.com
+Author{3}{Affiliation}#=%=#Proxem
+Author{4}{Firstname}#=%=#Amine
+Author{4}{Lastname}#=%=#Benhalloum
+Author{4}{Email}#=%=#aba@proxem.com
+Author{4}{Affiliation}#=%=#Proxem
+
+==========

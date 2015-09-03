@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#777
+FinalPaperTitle#=%=#A Framework for Comparing Groups of Documents
+ShortPaperTitle#=%=#A Framework for Comparing Groups of Documents
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Arun S. Maiya
+JobTitle#==#
+Organization#==#Institute for Defense Analyses
+4850 Mark Center Drive
+Alexandria, VA 22311
+Abstract#==#We present a general framework for comparing multiple groups of documents. A
+bipartite graph model is proposed where document groups are represented as one
+node set and the comparison criteria are represented as the other node set.
+Using this model, we present basic algorithms to extract insights into
+similarities and differences among the document groups. Finally, we demonstrate
+the versatility of our framework through an analysis of NSF funding programs
+for basic research.
+Author{1}{Firstname}#=%=#Arun
+Author{1}{Lastname}#=%=#Maiya
+Author{1}{Email}#=%=#arun@maiya.net
+Author{1}{Affiliation}#=%=#Institute for Defense Analyses
+
+==========

@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#33
+FinalPaperTitle#=%=#Referential Translation Machines for Predicting Translation Quality and Related Statistics
+ShortPaperTitle#=%=#Referential Translation Machines for Predicting Translation Quality
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#ERGUN BICICI
+JobTitle#==#
+Organization#==#ADAPT Research Center, School of Computing, Dublin City University, Ireland
+Abstract#==#We use referential translation machines (RTMs) for predicting translation
+performance.
+RTMs pioneer a language independent approach to all similarity tasks and remove
+the need to access any task or domain 
+specific information or resource.
+We improve our RTM models with the ParFDA instance selection
+model~\cite{Bicici:FDA54FDA:WMT15}, with 
+additional features for predicting the translation performance, and with
+improved learning models.
+We develop RTM models for each WMT15 QET (QET15) subtask and obtain
+improvements over QET14 results.
+RTMs achieve top performance in QET15 ranking $1$st in document- and
+sentence-level prediction tasks 
+and $2$nd in word-level prediction task.
+Author{1}{Firstname}#=%=#Ergun
+Author{1}{Lastname}#=%=#Bicici
+Author{1}{Email}#=%=#ergun.bicici@dcu.ie
+Author{1}{Affiliation}#=%=#ADAPT CNGL Centre for Global Intelligent Content, Dublin City University
+Author{2}{Firstname}#=%=#Qun
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#qliu@computing.dcu.ie
+Author{2}{Affiliation}#=%=#Dublin City University
+Author{3}{Firstname}#=%=#Andy
+Author{3}{Lastname}#=%=#Way
+Author{3}{Email}#=%=#away@computing.dcu.ie
+Author{3}{Affiliation}#=%=#CNGL, Dublin City University
+
+==========

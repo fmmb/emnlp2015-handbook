@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#835
+FinalPaperTitle#=%=#Knowledge Base Inference using Bridging Entities
+ShortPaperTitle#=%=#Knowledge Base Inference using Bridging Entities
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Bhushan Kotnis
+JobTitle#==#
+Organization#==#Indian Institute of Science, Bangalore-560012, India.
+Abstract#==#Large scale Knowledge Bases (such as NELL, Yago, Freebase, etc) are often
+sparse, i.e., a large number of valid relations between existing entities are
+missing. Recent research have addressed this problem by augmenting the KB graph
+with additional edges mined from a large text corpus while keeping the set of
+nodes fixed, and then using the Path Ranking Algorithm (PRA) to perform KB
+inference over this augmented graph. In this paper, we extend this line of work
+by augmenting the KB graph not only with edges, but also with bridging
+entities, where both the edges and  bridging entities are mined from a 500
+million web text corpus. Through experiments on real-world datasets, we
+demonstrate the value of bridging entities in improving the performance and
+running times of PRA in the KB inference task.
+Author{1}{Firstname}#=%=#Bhushan
+Author{1}{Lastname}#=%=#Kotnis
+Author{1}{Email}#=%=#bhushan.kotnis@gmail.com
+Author{1}{Affiliation}#=%=#Indian Institute of Science
+Author{2}{Firstname}#=%=#Pradeep
+Author{2}{Lastname}#=%=#Bansal
+Author{2}{Email}#=%=#pradeepb@ee.iisc.ernet.in
+Author{2}{Affiliation}#=%=#Indian Institute of Science
+Author{3}{Firstname}#=%=#Partha P.
+Author{3}{Lastname}#=%=#Talukdar
+Author{3}{Email}#=%=#ppt@serc.iisc.in
+Author{3}{Affiliation}#=%=#Indian Institute of Science
+
+==========

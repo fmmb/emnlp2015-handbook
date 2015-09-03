@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#216
+FinalPaperTitle#=%=#Improving Statistical Machine Translation with a Multilingual Paraphrase Database
+ShortPaperTitle#=%=#Improving Statistical Machine Translation with a Multilingual Paraphrase Database
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Ramtin Mehdizadeh Seraj
+JobTitle#==#
+Organization#==#School of Computing Science 
+Simon Fraser University 
+8888 University Drive 
+Burnaby, BC V5A 1S6, Canada
+Abstract#==#The multilingual Paraphrase Database (PPDB) is a freely available automatically
+created resource of paraphrases in multiple languages. In statistical machine
+translation, paraphrases can be used to provide translation for
+out-of-vocabulary (OOV) phrases. In this paper, we show that a graph
+propagation approach that uses PPDB paraphrases can be used to improve overall
+translation quality. We provide an extensive comparison with previous work and
+show that our PPDB-based method improves the BLEU score by up to 1.79 percent
+points. We show that our approach improves on the state of the art in three
+different settings: when faced with limited amount of parallel training data; a
+domain shift between training and test data; and handling a morphologically
+complex source language. Our PPDB-based method outperforms the use of
+distributional profiles from monolingual source data.
+Author{1}{Firstname}#=%=#Ramtin
+Author{1}{Lastname}#=%=#Mehdizadeh Seraj
+Author{1}{Email}#=%=#rmehdiza@sfu.ca
+Author{1}{Affiliation}#=%=#Simon Fraser University
+Author{2}{Firstname}#=%=#Maryam
+Author{2}{Lastname}#=%=#Siahbani
+Author{2}{Email}#=%=#msiahban@cs.sfu.ca
+Author{2}{Affiliation}#=%=#Simon Fraser University
+Author{3}{Firstname}#=%=#Anoop
+Author{3}{Lastname}#=%=#Sarkar
+Author{3}{Email}#=%=#anoop@cs.sfu.ca
+Author{3}{Affiliation}#=%=#Simon Fraser University
+
+==========

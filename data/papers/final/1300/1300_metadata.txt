@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#1300
+FinalPaperTitle#=%=#Combining Geometric, Textual and Visual Features for Predicting Prepositions in Image Descriptions
+ShortPaperTitle#=%=#Combining Geometric, Textual and Visual Features for Predicting Prepositions in Image Descriptions
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Josiah Wang
+JobTitle#==#Research Associate
+Organization#==#Department of Computer Science
+The University of Sheffield
+Regent Court, 211 Portobello Street
+Sheffield S1 4DP
+United Kingdom
+Abstract#==#We investigate the role that geometric, textual and visual features play in the
+task of predicting a preposition that links two visual entities depicted in an
+image. The task is an important part of the subsequent process of generating
+image descriptions. We explore the prediction of prepositions for a pair of
+entities, both in the case when the labels of such entities are known and
+unknown. In all situations we found clear evidence that all three features
+contribute to the prediction task.
+Author{1}{Firstname}#=%=#Arnau
+Author{1}{Lastname}#=%=#Ramisa
+Author{1}{Email}#=%=#aramisa@iri.upc.edu
+Author{1}{Affiliation}#=%=#Institut de Robòtica i Informàtica Industrial (CSIC-UPC)
+Author{2}{Firstname}#=%=#Josiah
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#j.k.wang@sheffield.ac.uk
+Author{2}{Affiliation}#=%=#University of Sheffield
+Author{3}{Firstname}#=%=#Ying
+Author{3}{Lastname}#=%=#Lu
+Author{3}{Email}#=%=#ying.lu@ec-lyon.fr
+Author{3}{Affiliation}#=%=#École Centrale de Lyon
+Author{4}{Firstname}#=%=#Emmanuel
+Author{4}{Lastname}#=%=#Dellandrea
+Author{4}{Email}#=%=#Emmanuel.Dellandrea@ec-lyon.fr
+Author{4}{Affiliation}#=%=#École Centrale de Lyon
+Author{5}{Firstname}#=%=#Francesc
+Author{5}{Lastname}#=%=#Moreno-Noguer
+Author{5}{Email}#=%=#fmoreno@iri.upc.edu
+Author{5}{Affiliation}#=%=#Institut de Robòtica i Informàtica Industrial (CSIC-UPC)
+Author{6}{Firstname}#=%=#Robert
+Author{6}{Lastname}#=%=#Gaizauskas
+Author{6}{Email}#=%=#r.gaizauskas@sheffield.ac.uk
+Author{6}{Affiliation}#=%=#University of Sheffield
+
+==========

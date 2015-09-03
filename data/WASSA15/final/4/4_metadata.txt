@@ -1,0 +1,51 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Beyond Sentiment: Social Psychological Analysis of Political Facebook Comments in Hungary
+ShortPaperTitle#=%=#Beyond Sentiment: Social Psychological Analysis of Political Facebook Comments in Hungary
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Márton Miháltz
+JobTitle#==#
+Organization#==#Research Institute 
+for Linguistics, Hungarian Academy of Sciences
+Benczúr utca 33, Budapest
+H-1068 Hungary
+Abstract#==#This paper presents the methodology and results of a project for the
+large-scale analysis of public messages in political discourse on Facebook, the
+dominant so-cial media site in Hungary. We propose several novel social
+psychology-motivated dimensions for natural lan-guage processing-based text
+analysis that go beyond the standard sentiment-based analysis approaches.
+Communion de-scribes the moral and emotional aspects of an individual’s
+relations to others, while agency describes individuals in terms of the
+efficiency of their goal-orientated behavior. We treat these by custom lexicons
+that identify positive and negative cues in text. We measure the level of
+optimism in messages by exam-ining the ratio of events talked about in the
+past, present and future by looking at verb tenses and temporal expressions.
+For assessing the level of individualism, we build on research that correlates
+it to pronoun dropping. We also present re-sults that demonstrate the viability
+of our measures on 1.9 million downloaded public Facebook comments by examining
+correlation to party preferences in public opinion poll data.
+Author{1}{Firstname}#=%=#Márton
+Author{1}{Lastname}#=%=#Miháltz
+Author{1}{Email}#=%=#mihaltz.marton@nytud.mta.hu
+Author{1}{Affiliation}#=%=#Research Institute for Linguistics, Hungarian Academy of Sciences
+Author{2}{Firstname}#=%=#Tamás
+Author{2}{Lastname}#=%=#Váradi
+Author{2}{Email}#=%=#varadi.tamas@nytud.mta.hu
+Author{2}{Affiliation}#=%=#Research Institute  for Linguistics, Hungarian Academy of Sciences
+Author{3}{Firstname}#=%=#István
+Author{3}{Lastname}#=%=#Csertő
+Author{3}{Email}#=%=#cserto.istvan@ttk.mta.hu
+Author{3}{Affiliation}#=%=#Institute of Cognitive  Neuroscience And Psychology,  Hungarian Academy of Sciences
+Author{4}{Firstname}#=%=#Éva
+Author{4}{Lastname}#=%=#Fülöp
+Author{4}{Email}#=%=#fulop.eva@ttk.mta.hu
+Author{4}{Affiliation}#=%=#Institute of Cognitive  Neuroscience And Psychology, Hungarian Academy of Sciences
+Author{5}{Firstname}#=%=#Tibor
+Author{5}{Lastname}#=%=#Pólya
+Author{5}{Email}#=%=#polya.tibor@ttk.mta.hu
+Author{5}{Affiliation}#=%=#Institute of Cognitive  Neuroscience And Psychology,  Hungarian Academy of Sciences
+Author{6}{Firstname}#=%=#Pál
+Author{6}{Lastname}#=%=#Kővágó
+Author{6}{Email}#=%=#kovago.pal@ttk.mta.hu
+Author{6}{Affiliation}#=%=#Institute of Psychology, University of Pécs
+
+==========

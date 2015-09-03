@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Improving Topic Models with Latent Feature Word Representations
+ShortPaperTitle#=%=#Improving Topic Models with Latent Feature Word Representations
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Dat Quoc Nguyen
+JobTitle#==#
+Organization#==#
+Abstract#==#Probabilistic topic models are widely used to discover latent topics in
+document collections, while latent feature vector representations of words have
+been used to obtain high performance in many NLP tasks. In this paper, we
+extend two different Dirichlet multinomial topic models by incorporating latent
+feature vector representations of words trained on very large corpora to
+improve the word-topic mapping learnt on a smaller corpus. Experimental results
+show that by using information from the external corpora, our new models
+produce significant improvements on topic coherence, document clustering and
+document classification tasks, especially on datasets with few or short
+documents.
+Author{1}{Firstname}#=%=#Dat Quoc
+Author{1}{Lastname}#=%=#Nguyen
+Author{1}{Email}#=%=#dat.nguyen@students.mq.edu.au
+Author{1}{Affiliation}#=%=#Macquarie University
+Author{2}{Firstname}#=%=#Richard
+Author{2}{Lastname}#=%=#Billingsley
+Author{2}{Email}#=%=#richard.billingsley@mq.edu.au
+Author{2}{Affiliation}#=%=#Macquarie University
+Author{3}{Firstname}#=%=#Lan
+Author{3}{Lastname}#=%=#Du
+Author{3}{Email}#=%=#lan.du@mq.edu.au
+Author{3}{Affiliation}#=%=#Macquarie University
+Author{4}{Firstname}#=%=#Mark
+Author{4}{Lastname}#=%=#Johnson
+Author{4}{Email}#=%=#Mark.Johnson@MQ.edu.au
+Author{4}{Affiliation}#=%=#Macquarie University
+
+==========

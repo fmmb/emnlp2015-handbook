@@ -1,0 +1,53 @@
+SubmissionNumber#=%=#1275
+FinalPaperTitle#=%=#Translation Invariant Word Embeddings
+ShortPaperTitle#=%=#Translation Invariant Word Embeddings
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Matthew Gardner
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+5000 Forbes Ave
+Pittsburgh, PA 15213
+Abstract#==#This work focuses on the task of finding latent vector representations of the
+words in a corpus. In particular, we address the issue of what to do when there
+are multiple languages in the corpus. Prior work has, among other techniques,
+used canonical correlation analysis to project pre-trained vectors in two
+languages into a common space. We propose a simple and scalable method that is
+inspired by the notion that the learned vector representations should be
+invariant to translation between languages. We show empirically that our method
+outperforms prior work on multilingual tasks, matches the performance of prior
+work on monolingual tasks, and scales linearly with the size of the input data
+(and thus the number of languages being embedded).
+Author{1}{Firstname}#=%=#Kejun
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Email}#=%=#huang663@umn.edu
+Author{1}{Affiliation}#=%=#University of Minnesota, Twin Cities
+Author{2}{Firstname}#=%=#Matt
+Author{2}{Lastname}#=%=#Gardner
+Author{2}{Email}#=%=#mg1@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Evangelos
+Author{3}{Lastname}#=%=#Papalexakis
+Author{3}{Email}#=%=#epapalex@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Christos
+Author{4}{Lastname}#=%=#Faloutsos
+Author{4}{Email}#=%=#christos@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+Author{5}{Firstname}#=%=#Nikos
+Author{5}{Lastname}#=%=#Sidiropoulos
+Author{5}{Email}#=%=#nikos@ece.umn.edu
+Author{5}{Affiliation}#=%=#University of Minnesota, Twin Cities
+Author{6}{Firstname}#=%=#Tom
+Author{6}{Lastname}#=%=#Mitchell
+Author{6}{Email}#=%=#tom.mitchell@cs.cmu.edu
+Author{6}{Affiliation}#=%=#Carnegie Mellon University
+Author{7}{Firstname}#=%=#Partha P.
+Author{7}{Lastname}#=%=#Talukdar
+Author{7}{Email}#=%=#ppt@serc.iisc.in
+Author{7}{Affiliation}#=%=#Indian Institute of Science
+Author{8}{Firstname}#=%=#Xiao
+Author{8}{Lastname}#=%=#Fu
+Author{8}{Email}#=%=#xfu@umn.edu
+Author{8}{Affiliation}#=%=#University of Minnesota
+
+==========

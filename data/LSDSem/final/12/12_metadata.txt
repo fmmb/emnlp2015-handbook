@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#An Exploration of Discourse-Based Sentence Spaces for Compositional Distributional Semantics
+ShortPaperTitle#=%=#An Exploration of Discourse-Based Sentence Spaces for Compositional Distributional Semantics
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Tamara Polajnar
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper investigates whether the wider context in which a sentence is
+located can contribute to a distributional representation of sentence meaning.
+We compare a vector space for sentences in which the features are words
+occurring within the sentence, with two new vector spaces that only make use of
+surrounding context. Experiments on simple subject-verb-object similarity tasks
+show that all sentence spaces produce results that are comparable with previous
+work. However, qualitative analysis and user experiments indicate that
+extra-sentential contexts capture more diverse, yet topically coherent
+information.
+Author{1}{Firstname}#=%=#Tamara
+Author{1}{Lastname}#=%=#Polajnar
+Author{1}{Email}#=%=#tamara.polajnar@cl.cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Laura
+Author{2}{Lastname}#=%=#Rimell
+Author{2}{Email}#=%=#laura.rimell@cl.cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Stephen
+Author{3}{Lastname}#=%=#Clark
+Author{3}{Email}#=%=#sc609@cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+
+==========

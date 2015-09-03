@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#250
+FinalPaperTitle#=%=#Learning Semantic Representations for Nonterminals in Hierarchical Phrase-Based Translation
+ShortPaperTitle#=%=#Learning Semantic Representations for Nonterminals in Hierarchical Phrase-Based Translation
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#wang xing
+JobTitle#==#Mr
+Organization#==#Xing Wang
+Soochow Univ. 1 Shizi Street, Suzhou, China 215006
+Abstract#==#In hierarchical phrase-based translation, coarse-grained nonterminal Xs may
+generate inappropriate translations due to the lack of sufficient information
+for phrasal substitution. In this paper we propose a framework to refine
+nonterminals in hierarchical translation rules with realvalued semantic
+representations. The semantic representations are learned via a weighted mean
+value and a minimum distance method using phrase vector representations
+obtained
+from large scale monolingual corpus. Based on the learned semantic vectors, we
+build a semantic nonterminal refinement model to measure semantic similarities
+between phrasal substitutions and nonterminal Xs in translation rules.
+Experiment results on Chinese-English translation show that the proposed model
+significantly improves translation quality on NIST test sets.
+Author{1}{Firstname}#=%=#Xing
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#xingwsuda@gmail.com
+Author{1}{Affiliation}#=%=#Soochow University
+Author{2}{Firstname}#=%=#Deyi
+Author{2}{Lastname}#=%=#Xiong
+Author{2}{Email}#=%=#deyi.xiong@gmail.com
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#Min
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#zhangminmt@hotmail.com
+Author{3}{Affiliation}#=%=#SooChow University
+
+==========

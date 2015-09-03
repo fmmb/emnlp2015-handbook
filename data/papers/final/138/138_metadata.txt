@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#138
+FinalPaperTitle#=%=#Efficient and Expressive Knowledge Base Completion Using Subgraph Feature Extraction
+ShortPaperTitle#=%=#Efficient and Expressive Knowledge Base Completion Using Subgraph Feature Extraction
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Matthew Gardner
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Abstract#==#We explore some of the practicalities of using random walk inference methods,
+such as the Path Ranking Algorithm (PRA), for the task of knowledge base
+completion. We
+show that the random walk probabilities computed (at great expense) by PRA
+provide no discernible benefit to performance on this task, and so they can
+safely be
+dropped. This allows us to define a simpler algorithm for generating feature
+matrices from graphs, which we call subgraph feature extraction (SFE). In
+addition to being conceptually simpler than PRA, SFE is much more efficient,
+reducing computation by an order of magnitude, and more expressive, allowing
+for much richer features than just paths between two nodes in a graph. We show
+experimentally that this technique gives substantially better performance than
+PRA and its variants, improving mean average precision from .432 to .528 on a
+knowledge base completion task using the NELL knowledge base.
+Author{1}{Firstname}#=%=#Matt
+Author{1}{Lastname}#=%=#Gardner
+Author{1}{Email}#=%=#mg1@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Tom
+Author{2}{Lastname}#=%=#Mitchell
+Author{2}{Email}#=%=#tom.mitchell@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

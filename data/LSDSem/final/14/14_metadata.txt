@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Linking discourse modes and situation entity types in a cross-linguistic corpus study
+ShortPaperTitle#=%=#Linking discourse modes and situation entity types in a cross-linguistic corpus study
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Alexis Palmer
+JobTitle#==#
+Organization#==#Institute for Computational Linguistics
+Im Neuenheimer Feld 325
+Heidelberg, Germany
+Abstract#==#The main contribution of this paper is a cross-linguistic empirical analysis of
+two interacting levels of linguistic analysis of written text: situation
+entities (SEs), the semantic types of situations evoked by clauses of text, and
+discourse modes (DMs), a characterization of passages at the sub-document
+level.
+We adapt an existing annotation scheme for SEs in English to be used for German
+data, with a detailed discussion of the most important differences. We create
+the first parallel corpus annotated for SEs, and the
+first DM-annotated corpus. We find that: (a) the adapted scheme is supported by
+evidence from a large-scale experimental study; (b) SEs mainly correspond to
+each other in parallel text, and a large part of the mismatches are systematic;
+(c) the DM annotation task can be performed intuitively with reasonable
+agreement; and (d) the annotated DMs show the predicted differences in the
+distributions of SE types.
+Author{1}{Firstname}#=%=#Kleio-Isidora
+Author{1}{Lastname}#=%=#Mavridou
+Author{1}{Email}#=%=#kleo2405@gmail.com
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Annemarie
+Author{2}{Lastname}#=%=#Friedrich
+Author{2}{Email}#=%=#afried@coli.uni-saarland.de
+Author{2}{Affiliation}#=%=#Saarland University
+Author{3}{Firstname}#=%=#Melissa
+Author{3}{Lastname}#=%=#Peate Sørensen
+Author{3}{Email}#=%=#peatesom@tcd.ie
+Author{3}{Affiliation}#=%=#Saarland University
+Author{4}{Firstname}#=%=#Alexis
+Author{4}{Lastname}#=%=#Palmer
+Author{4}{Email}#=%=#palmer@cl.uni-heidelberg.de
+Author{4}{Affiliation}#=%=#Heidelberg University
+Author{5}{Firstname}#=%=#Manfred
+Author{5}{Lastname}#=%=#Pinkal
+Author{5}{Email}#=%=#pinkal@coli.uni-sb.de
+Author{5}{Affiliation}#=%=#Saarland University
+
+==========

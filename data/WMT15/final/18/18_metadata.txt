@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#UAlacant word-level machine translation quality estimation system at WMT 2015
+ShortPaperTitle#=%=#UAlacant word-level machine translation quality estimation system at WMT 2015
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Miquel Esplà-Gomis
+JobTitle#==#
+Organization#==#Departament de Llenguatges i Sistemes Informàtics. Universitat d'Alacant,  E-03071 Alacant, Spain.
+Abstract#==#This paper describes the Universitat d'Alacant submissions (labelled as
+UAlacant) for the machine translation quality estimation (MTQE) shared task in
+WMT 2015, where we participated in the word-level MTQE sub-task. The method we
+used to produce our submissions uses external sources of bilingual information
+as a "black box" to spot sub-segment correspondences between a source segment S
+and the translation hypothesis T produced by a machine translation system. This
+is done by segmenting both S and T into overlapping sub-segments of variable
+length and translating them in both translation directions, using the available
+sources of bilingual information "on the fly". For our submissions, two sources
+of bilingual information were used: machine translation (Apertium and Google
+Translate) and the bilingual concordancer Reverso Context. After obtaining the
+sub-segment correspondences, a collection of features is extracted from them,
+which are then used by a binary classifer to obtain the final "GOOD" or "BAD"
+word-level quality labels. We prepared two submissions for this year's edition
+of WMT 2015: one using the features produced by our system, and one combining
+them with the baseline features published by the organisers of the task, which
+were ranked third and first for the sub-task, respectively.
+Author{1}{Firstname}#=%=#Miquel
+Author{1}{Lastname}#=%=#Esplà-Gomis
+Author{1}{Email}#=%=#mespla@dlsi.ua.es
+Author{1}{Affiliation}#=%=#Universitat d'Alacant
+Author{2}{Firstname}#=%=#Felipe
+Author{2}{Lastname}#=%=#Sánchez-Martínez
+Author{2}{Email}#=%=#fsanchez@dlsi.ua.es
+Author{2}{Affiliation}#=%=#Universitat d'Alacant
+Author{3}{Firstname}#=%=#Mikel
+Author{3}{Lastname}#=%=#Forcada
+Author{3}{Email}#=%=#mlf@dlsi.ua.es
+Author{3}{Affiliation}#=%=#Universitat d'Alacant
+
+==========

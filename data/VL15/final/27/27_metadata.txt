@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#Describing Spatial Relationships between Objects in Images in English and French
+ShortPaperTitle#=%=#Describing Spatial Relationships between Objects in Images in English and French
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Anja Belz
+JobTitle#==#
+Organization#==#University of Brighton
+Abstract#==#The context for the work we report here is the automatic description of spatial
+relationships between pairs of objects in images. We investigate the task of
+selecting prepositions for such spatial relationships. We describe the two
+datasets of object pairs and prepositions we have created for English and
+French, and report results for predicting prepositions for object pairs in both
+of these languages, using two methods: (a) an existing approach which manually
+fixes the mapping from geometrical features to prepositions, and (b) a Naive
+Bayes classifier trained on the English and French datasets. For the latter we
+use features based on object class labels and geometrical measurements of
+object bounding boxes. We evaluate the automatically generated prepositions on
+unseen data in terms of accuracy against the human-selected prepositions.
+Author{1}{Firstname}#=%=#Anja
+Author{1}{Lastname}#=%=#Belz
+Author{1}{Email}#=%=#a.s.belz@brighton.ac.uk
+Author{1}{Affiliation}#=%=#University of Brighton
+Author{2}{Firstname}#=%=#Adrian
+Author{2}{Lastname}#=%=#Muscat
+Author{2}{Email}#=%=#adrian.muscat@um.edu.mt
+Author{2}{Affiliation}#=%=#University of Malta
+Author{3}{Firstname}#=%=#Maxime
+Author{3}{Lastname}#=%=#Aberton
+Author{3}{Email}#=%=#maxime.aberton@insa-rouen.fr
+Author{3}{Affiliation}#=%=#INSA Rouen
+Author{4}{Firstname}#=%=#Sami
+Author{4}{Lastname}#=%=#Benjelloun
+Author{4}{Email}#=%=#sami.benjelloun@insa-rouen.fr
+Author{4}{Affiliation}#=%=#INSA Rouen
+
+==========

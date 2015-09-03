@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1139
+FinalPaperTitle#=%=#An Analysis of Domestic Abuse Discourse on Reddit
+ShortPaperTitle#=%=#An Analysis of Domestic Abuse Discourse on Reddit
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#J Nicolas Schrading
+JobTitle#==#
+Organization#==#Rochester Institute of Technology
+Abstract#==#Domestic abuse affects people of every race, class, age, and nation. There is
+significant research on the prevalence and effects of domestic abuse; however,
+such research typically involves population-based surveys that have high
+financial costs. This work provides a qualitative analysis of domestic abuse
+using data collected from the social and news-aggregation website reddit.com.
+We develop classifiers to detect submissions discussing domestic abuse,
+achieving accuracies of up to 92%, a substantial error reduction over its
+baseline. Analysis of the top features used in detecting abuse discourse
+provides insight into the dynamics of abusive relationships.
+Author{1}{Firstname}#=%=#Nicolas
+Author{1}{Lastname}#=%=#Schrading
+Author{1}{Email}#=%=#jxs8172@rit.edu
+Author{1}{Affiliation}#=%=#Rochester Institute of Technology
+Author{2}{Firstname}#=%=#Cecilia
+Author{2}{Lastname}#=%=#Ovesdotter Alm
+Author{2}{Email}#=%=#coagla@rit.edu
+Author{2}{Affiliation}#=%=#Rochester Institute of Technology
+Author{3}{Firstname}#=%=#Ray
+Author{3}{Lastname}#=%=#Ptucha
+Author{3}{Email}#=%=#rwpeec@rit.edu
+Author{3}{Affiliation}#=%=#Rochester Institute of Technology
+Author{4}{Firstname}#=%=#Christopher
+Author{4}{Lastname}#=%=#Homan
+Author{4}{Email}#=%=#cmh@cs.rit.edu
+Author{4}{Affiliation}#=%=#Rochester Institute of Technology
+
+==========

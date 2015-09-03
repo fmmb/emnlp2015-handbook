@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Local System Voting Feature for Machine Translation System Combination
+ShortPaperTitle#=%=#Local System Voting Feature for Machine Translation System Combination
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Markus Freitag
+JobTitle#==#
+Organization#==#Lehrstuhl fuer Informatik 6 
+RWTH Aachen University
+52056 Aachen
+Germany
+Abstract#==#In this paper, we enhance the traditional confusion network system combination
+approach with an additional model trained by a neural network. This work is
+motivated by the fact that the commonly used binary system voting models only
+assign each input system a global weight which is responsible for the global
+impact of each input system on all translations. This prevents individual
+systems with low system weights from having influence on the system combination
+output, although in some situations this could be helpful. Further, words which
+have only been seen by one or few systems rarely have a chance of being present
+in the combined output. We train a local system voting model by a neural
+network which is based on the words themselves and the combinatorial
+occurrences of the different system outputs. This gives system combination the
+option to prefer other systems at different word positions even for the same
+sentence.
+Author{1}{Firstname}#=%=#Markus
+Author{1}{Lastname}#=%=#Freitag
+Author{1}{Email}#=%=#freitag@cs.rwth-aachen.de
+Author{1}{Affiliation}#=%=#RWTH Aachen University
+Author{2}{Firstname}#=%=#Jan-Thorsten
+Author{2}{Lastname}#=%=#Peter
+Author{2}{Email}#=%=#peter@cs.rwth-aachen.de
+Author{2}{Affiliation}#=%=#RWTH Aachen University
+Author{3}{Firstname}#=%=#Stephan
+Author{3}{Lastname}#=%=#Peitz
+Author{3}{Email}#=%=#stephan.peitz@rwth-aachen.de
+Author{3}{Affiliation}#=%=#RWTH Aachen University
+Author{4}{Firstname}#=%=#Minwei
+Author{4}{Lastname}#=%=#Feng
+Author{4}{Email}#=%=#fengminwei@gmail.com
+Author{4}{Affiliation}#=%=#IBM Watson Group
+Author{5}{Firstname}#=%=#Hermann
+Author{5}{Lastname}#=%=#Ney
+Author{5}{Email}#=%=#ney@cs.rwth-aachen.de
+Author{5}{Affiliation}#=%=#RWTH Aachen University
+
+==========

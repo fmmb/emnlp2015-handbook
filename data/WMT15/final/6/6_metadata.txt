@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Data Selection With Fewer Words
+ShortPaperTitle#=%=#Data Selection With Fewer Words
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#amittai axelrod
+JobTitle#==#
+Organization#==#university of maryland,
+college park, MD
+Abstract#==#We present a method that improves data selection by combining a hybrid
+word/part-of-speech representation for corpora, with the idea of distinguishing
+between rare and frequent events. We validate our approach using data selection
+for machine translation, and show that it maintains or improves BLEU and TER
+translation scores while substantially improving vocabulary coverage and
+reducing data selection model size. Paradoxically, the coverage improvement is
+achieved by abstracting away over 97% of the total training corpus vocabulary
+using simple part-of-speech tags during the data selection process.
+Author{1}{Firstname}#=%=#amittai
+Author{1}{Lastname}#=%=#axelrod
+Author{1}{Email}#=%=#amittai@umiacs.umd.edu
+Author{1}{Affiliation}#=%=#University of Maryland
+Author{2}{Firstname}#=%=#Philip
+Author{2}{Lastname}#=%=#Resnik
+Author{2}{Email}#=%=#resnik@umd.edu
+Author{2}{Affiliation}#=%=#University of Maryland
+Author{3}{Firstname}#=%=#Xiaodong
+Author{3}{Lastname}#=%=#He
+Author{3}{Email}#=%=#xiaohe@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research
+Author{4}{Firstname}#=%=#Mari
+Author{4}{Lastname}#=%=#Ostendorf
+Author{4}{Email}#=%=#mo@ee.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+
+==========

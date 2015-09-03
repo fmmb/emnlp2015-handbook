@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#481
+FinalPaperTitle#=%=#Modeling Reportable Events as Turning Points in Narrative
+ShortPaperTitle#=%=#Modeling Reportable Events as Turning Points in Narrative
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jessica Ouyang
+JobTitle#==#
+Organization#==#Department of Computer Science
+Columbia University
+1214 Amsterdam Ave, New York, NY 10027
+Abstract#==#We present novel experiments in modeling
+the rise and fall of story characteristics
+within narrative, leading up to the Most
+Reportable Event (MRE), the compelling
+event that is the nucleus of the story. We
+construct a corpus of personal narratives
+from the bulletin board website Reddit,
+using the organization of Reddit content
+into topic-specific communities to automatically
+identify narratives. Leveraging
+the structure of Reddit comment threads,
+we automatically label a large dataset of
+narratives. We present a change-based
+model of narrative that tracks changes in
+formality, affect, and other characteristics
+over the course of a story, and we use
+this model in distant supervision and self-training
+experiments that achieve significant improvements over the baselines at
+the task of identifying MREs.
+Author{1}{Firstname}#=%=#Jessica
+Author{1}{Lastname}#=%=#Ouyang
+Author{1}{Email}#=%=#ouyangj@cs.columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Kathleen
+Author{2}{Lastname}#=%=#McKeown
+Author{2}{Email}#=%=#kathy@cs.columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University
+
+==========

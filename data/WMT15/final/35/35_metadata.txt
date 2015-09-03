@@ -1,0 +1,58 @@
+SubmissionNumber#=%=#35
+FinalPaperTitle#=%=#Dependency Analysis of Scrambled References for Better Evaluation of Japanese Translation
+ShortPaperTitle#=%=#Dependency Analysis of Scrambled References for Better Evaluation of Japanese Translation
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Hideki Isozaki
+JobTitle#==#
+Organization#==#Okayama Prefectural University
+111 Kuboki, Soja-shi, Okayama-ken, Japan, 
+719-1197
+Abstract#==#In English-to-Japanese translation,
+BLEU (Papineni et al., 2002), the de facto
+standard evaluation metric for machine
+translation (MT), has very weak correlation
+with human judgments (Goto et
+al., 2011; Goto et al., 2013). Therefore,
+RIBES (Isozaki et al., 2010; Hirao et
+al., 2014) was proposed. RIBES measures
+similarity of the word order of a
+machine-translated sentence and that of a
+corresponding human-translated reference
+sentence.
+RIBES has much stronger correlation than
+BLEU but most Japanese sentences have
+alternative word orders (scrambling), and
+one reference sentence is not sufficient for
+fair evaluation. Isozaki et al. (2014) proposed
+a solution to this problem. This
+solution generates semantically equivalent
+word orders of reference sentences.
+Automatically generated word orders are
+sometimes incomprehensible or misleading,
+and they introduced a rule that filters
+out such bad sentences. However, their
+rule is too conservative and generated alternative
+word orders for only 30% of reference
+sentences.
+In this paper, we present a rule-free
+method that uses a dependency parser to
+check scrambled sentences and generated
+alternatives for 80% of sentences. The experimental
+results show that our method
+improves sentence-level correlation with
+human judgments. In addition, strong
+system-level correlation of single reference
+RIBES is not damaged very much.
+We expect this method can be applied to
+other languages such as German, Korean,
+Turkish, Hindi, etc.
+Author{1}{Firstname}#=%=#Hideki
+Author{1}{Lastname}#=%=#Isozaki
+Author{1}{Email}#=%=#isozaki@cse.oka-pu.ac.jp
+Author{1}{Affiliation}#=%=#Okayama Prefectural University
+Author{2}{Firstname}#=%=#Natsume
+Author{2}{Lastname}#=%=#Kouchi
+Author{2}{Email}#=%=#cd25017y@oka-pu.ac.jp
+Author{2}{Affiliation}#=%=#Okayama Prefectural University
+
+==========

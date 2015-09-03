@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1433
+FinalPaperTitle#=%=#An Improved Non-monotonic Transition System for Dependency Parsing
+ShortPaperTitle#=%=#An Improved Non-monotonic Transition System for Dependency Parsing
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Matthew Honnibal
+JobTitle#==#
+Organization#==#Department of Computing
+Macquarie University
+Sydney, Australia
+Abstract#==#Transition-based dependency parsers usually use transition systems that
+monotonically extend partial parse states until they identify a complete parse
+tree. Honnibal et al. (2013) showed that greedy parsing accuracy can be
+improved by adding additional non-monotonic transitions that permit the
+parser to “repair” earlier parsing mistakes by “over-writing” earlier
+parsing decisions. This increases the size of the set of complete parse trees
+that each partial parse state can derive, enabling such a parser to escape the
+“garden paths” that can trap monotonic greedy transition-based dependency
+parsers.
+
+We describe a new set of non-monotonic transitions that permits a partial parse
+state to derive a larger set of completed parse trees than previous work, which
+allows our parser to escape from a larger set of garden paths. A parser with
+our new non- monotonic transition system has 91.85% directed attachment
+accuracy, an improvement of 0.6% over a comparable parser using the standard
+monotonic arc-eager transitions.
+Author{1}{Firstname}#=%=#Matthew
+Author{1}{Lastname}#=%=#Honnibal
+Author{1}{Email}#=%=#honnibal@gmail.com
+Author{1}{Affiliation}#=%=#Macquarie University
+Author{2}{Firstname}#=%=#Mark
+Author{2}{Lastname}#=%=#Johnson
+Author{2}{Email}#=%=#Mark.Johnson@MQ.edu.au
+Author{2}{Affiliation}#=%=#Macquarie University
+
+==========

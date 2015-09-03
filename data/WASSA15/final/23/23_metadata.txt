@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#Optimising Agile Social Media Analysis
+ShortPaperTitle#=%=#Optimising Agile Social Media Analysis
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Thomas Kober
+JobTitle#==#
+Organization#==#University of Sussex, Department of Informatics, Brighton, BN1 9RH, UK
+Abstract#==#Agile social media analysis involves building bespoke, one-off classification
+pipelines tailored to the analysis of specific datasets. In this study we
+investigate how the DUALIST architecture can be optimised for agile social
+media analysis. We evaluate several semi-supervised learning algorithms in
+conjunction with a Naive Bayes model, and show how these modifications can
+improve the performance of bespoke classifiers for a variety of tasks on a
+large range of datasets.
+Author{1}{Firstname}#=%=#Thomas
+Author{1}{Lastname}#=%=#Kober
+Author{1}{Email}#=%=#thk22@sussex.ac.uk
+Author{1}{Affiliation}#=%=#University of Sussex
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Weir
+Author{2}{Email}#=%=#d.j.weir@sussex.ac.uk
+Author{2}{Affiliation}#=%=#University of Sussex
+
+==========

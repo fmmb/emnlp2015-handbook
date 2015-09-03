@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#1152
+FinalPaperTitle#=%=#Learning to Identify the Best Contexts for Knowledge-based WSD
+ShortPaperTitle#=%=#Learning to Identify the Best Contexts for Knowledge-based WSD
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Einat Minkov
+JobTitle#==#
+Organization#==#University of Haifa, 199 Aba Khoushy Ave.
+Mount Carmel, Haifa, Israel
+Abstract#==#We outline a learning framework that aims at identifying useful contextual cues
+for knowledge-based word sense disambiguation. The usefulness of
+individual context words is evaluated based on diverse lexico-statistical and
+syntactic
+information, as well as simple word distance. Experiments using two different
+knowledge-based methods and benchmark datasets show signiﬁcant improvements
+due to context modeling, beating the conventional window-based approach.
+Author{1}{Firstname}#=%=#Evgenia
+Author{1}{Lastname}#=%=#Wasserman Pritsker
+Author{1}{Email}#=%=#eugeniaw@is.haifa.ac.il
+Author{1}{Affiliation}#=%=#University of Haifa
+Author{2}{Firstname}#=%=#William
+Author{2}{Lastname}#=%=#Cohen
+Author{2}{Email}#=%=#wcohen@cs.cmu.edu
+Author{2}{Affiliation}#=%=#
+Author{3}{Firstname}#=%=#Einat
+Author{3}{Lastname}#=%=#Minkov
+Author{3}{Email}#=%=#einatm@gmail.com
+Author{3}{Affiliation}#=%=#Univ. of Haifa
+
+==========

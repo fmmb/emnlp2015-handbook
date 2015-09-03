@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#A Maximum Entropy Classifier for Cross-Lingual Pronoun Prediction
+ShortPaperTitle#=%=#A Maximum Entropy Classifier for Cross-Lingual Pronoun Prediction
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Dominikus Wetzel
+JobTitle#==#
+Organization#==#School of Informatics
+University of Edinburgh
+11 Crichton Street, Edinburgh
+Abstract#==#We present a Maximum Entropy classifier for cross-lingual pronoun prediction.
+The features are based on local source- and target-side contexts and antecedent
+information obtained by a co-reference resolution system. With only a small set
+of feature types our best performing system achieves a high accuracy of 72.31%.
+According to the shared task’s official macro-averaged F1-score at 57.07%, we
+are
+among the top systems, at position three out of 14. Feature ablation results
+show the important role of target-side information in general and of the
+resolved target-side antecedent in particular for predicting the correct
+classes.
+Author{1}{Firstname}#=%=#Dominikus
+Author{1}{Lastname}#=%=#Wetzel
+Author{1}{Email}#=%=#d.wetzel@ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Adam
+Author{2}{Lastname}#=%=#Lopez
+Author{2}{Email}#=%=#alopez@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Bonnie
+Author{3}{Lastname}#=%=#Webber
+Author{3}{Email}#=%=#bonnie.webber@ed.ac.uk
+Author{3}{Affiliation}#=%=#University of Edinburgh
+
+==========

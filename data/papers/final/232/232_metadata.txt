@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#232
+FinalPaperTitle#=%=#Modeling Relation Paths for Representation Learning of Knowledge Bases
+ShortPaperTitle#=%=#Modeling Relation Paths for Representation Learning of Knowledge Bases
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yankai Lin
+JobTitle#==#
+Organization#==#Tsinghua University, Beijing, China
+Abstract#==#Representation learning of knowledge bases (KBs) aims to embed both entities
+and relations into a low-dimensional space. Most existing methods only consider
+direct relations in representation learning. We argue that multiple-step
+relation paths also contain rich inference patterns between entities, and
+propose a path-based representation learning model. This model considers
+relation paths as translations between entities for representation learning,
+and addresses two key challenges: (1) Since not all relation paths are
+reliable, we design a path-constraint resource allocation algorithm to measure
+the reliability of relation paths. (2) We represent relation paths via semantic
+composition of relation embeddings. Experimental results on real-world datasets
+show that, as compared with baselines, our model achieves significant and
+consistent improvements on knowledge base completion and relation extraction
+from text.
+Author{1}{Firstname}#=%=#Yankai
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Email}#=%=#linyk14@mails.tsinghua.edu.cn
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Zhiyuan
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#liuzy@tsinghua.edu.cn
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Huanbo
+Author{3}{Lastname}#=%=#Luan
+Author{3}{Email}#=%=#luanhuanbo@gmail.com
+Author{3}{Affiliation}#=%=#Tsinghua University
+Author{4}{Firstname}#=%=#Maosong
+Author{4}{Lastname}#=%=#Sun
+Author{4}{Email}#=%=#sms@mail.tsinghua.edu.cn
+Author{4}{Affiliation}#=%=#Tsinghua University
+Author{5}{Firstname}#=%=#Siwei
+Author{5}{Lastname}#=%=#Rao
+Author{5}{Email}#=%=#siwei.rao@samsung.com
+Author{5}{Affiliation}#=%=#Samsung R&D Institute of China
+Author{6}{Firstname}#=%=#Song
+Author{6}{Lastname}#=%=#Liu
+Author{6}{Email}#=%=#s0101.liu@samsung.com
+Author{6}{Affiliation}#=%=#Samsung R&D Institute of China
+
+==========

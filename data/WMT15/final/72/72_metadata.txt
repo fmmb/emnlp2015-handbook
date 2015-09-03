@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#72
+FinalPaperTitle#=%=#The Edinburgh/JHU Phrase-based Machine Translation Systems for WMT~2015
+ShortPaperTitle#=%=#The Edinburgh/JHU Phrase-based Machine Translation Systems for WMT~2015
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Barry Haddow
+JobTitle#==#
+Organization#==#School of Informatics
+University of Edinburgh
+10 Crichton Street
+Edinburgh
+EH8 9AB
+Scotland
+Abstract#==#This paper describes the submission of the University of Edinburgh and
+the Johns Hopkins University for the shared translation task of the EMNLP~2015
+Tenth Workshop on Statistical Machine Translation (WMT~2015). We set up
+phrase-based statistical machine translation systems for all ten language pairs
+of this year's evaluation campaign, which are English paired with Czech,
+Finnish, French, German, and Russian in both translation directions.
+
+Novel research directions we investigated include:
+neural network language models and bilingual neural network language models,
+a comprehensive use of word classes,
+and sparse lexicalized reordering features.
+Author{1}{Firstname}#=%=#Barry
+Author{1}{Lastname}#=%=#Haddow
+Author{1}{Email}#=%=#bhaddow@inf.ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Matthias
+Author{2}{Lastname}#=%=#Huck
+Author{2}{Email}#=%=#mhuck@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Alexandra
+Author{3}{Lastname}#=%=#Birch
+Author{3}{Email}#=%=#lexi.birch@gmail.com
+Author{3}{Affiliation}#=%=#University of Edinburgh
+Author{4}{Firstname}#=%=#Nikolay
+Author{4}{Lastname}#=%=#Bogoychev
+Author{4}{Email}#=%=#nbogoych@inf.ed.ac.uk
+Author{4}{Affiliation}#=%=#University of Edinburgh
+Author{5}{Firstname}#=%=#Philipp
+Author{5}{Lastname}#=%=#Koehn
+Author{5}{Email}#=%=#phi@jhu.edu
+Author{5}{Affiliation}#=%=#Johns Hopkins University
+
+==========

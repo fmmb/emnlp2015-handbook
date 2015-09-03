@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Negation Scope Detection for Twitter Sentiment Analysis
+ShortPaperTitle#=%=#Negation Scope Detection for Twitter Sentiment Analysis
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Björn Gambäck
+JobTitle#==#Professor
+Organization#==#Norwegian University of Science and Technology
+Abstract#==#The paper describes the first sophisticated negation scope detection system for
+Twitter sentiment analysis. The system has been evaluated both on existing
+corpora from other domains and on a corpus of English Twitter data (tweets)
+annotated for negation. It produces better results than what has been reported
+in other domains and improves the performance on tweets containing negation
+when incorporated into a state-of-the-art Twitter sentiment analyser.
+Author{1}{Firstname}#=%=#Johan
+Author{1}{Lastname}#=%=#Reitan
+Author{1}{Email}#=%=#johan.reitan@gmail.com
+Author{1}{Affiliation}#=%=#Norwegian University of Science and Technology
+Author{2}{Firstname}#=%=#Jørgen
+Author{2}{Lastname}#=%=#Faret
+Author{2}{Email}#=%=#jorgenfar@gmail.com
+Author{2}{Affiliation}#=%=#Norwegian University of Science and Technology
+Author{3}{Firstname}#=%=#Björn
+Author{3}{Lastname}#=%=#Gambäck
+Author{3}{Email}#=%=#gamback@idi.ntnu.no
+Author{3}{Affiliation}#=%=#Norwegian University of Science and Technology
+Author{4}{Firstname}#=%=#Lars
+Author{4}{Lastname}#=%=#Bungum
+Author{4}{Email}#=%=#larsbun@idi.ntnu.no
+Author{4}{Affiliation}#=%=#Norwegian University of Science and Technology
+
+==========

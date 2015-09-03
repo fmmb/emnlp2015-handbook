@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Distributional Semantics in Use
+ShortPaperTitle#=%=#Distributional Semantics in Use
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Gemma Boleda
+JobTitle#==#
+Organization#==#University of Trento
+via Calepina, 14
+I-38122 Trento
+Italy
+Abstract#==#In this position paper we argue that an adequate semantic model
+must account for language in use,
+taking into account how
+discourse context affects the meaning of words and larger linguistic
+units.
+Distributional
+semantic models are very attractive models of meaning mainly
+because they 
+capture conceptual aspects and are automatically induced from natural language
+data.
+However, they need to be extended 
+in order to account for language use in a discourse or dialogue context.
+We discuss phenomena that the new generation
+of distributional semantic models should capture, and propose concrete
+tasks on which they could be tested.
+Author{1}{Firstname}#=%=#Raffaella
+Author{1}{Lastname}#=%=#Bernardi
+Author{1}{Email}#=%=#bernardi@disi.unitn.it
+Author{1}{Affiliation}#=%=#University of Trento
+Author{2}{Firstname}#=%=#Gemma
+Author{2}{Lastname}#=%=#Boleda
+Author{2}{Email}#=%=#gemma.boleda@upf.edu
+Author{2}{Affiliation}#=%=#University of Trento
+Author{3}{Firstname}#=%=#Raquel
+Author{3}{Lastname}#=%=#Fernandez
+Author{3}{Email}#=%=#raquel.fernandez@uva.nl
+Author{3}{Affiliation}#=%=#ILLC, University of Amsterdam
+Author{4}{Firstname}#=%=#Denis
+Author{4}{Lastname}#=%=#Paperno
+Author{4}{Email}#=%=#denis.paperno@unitn.it
+Author{4}{Affiliation}#=%=#University of Trento
+
+==========

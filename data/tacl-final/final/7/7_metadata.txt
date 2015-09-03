@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Problems in Current Text Simplification Research: New Data Can Help
+ShortPaperTitle#=%=#Problems in Current Text Simplification Research: New Data Can Help
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Wei Xu
+JobTitle#==#
+Organization#==#University of Pennsylvania
+Philadelphia, PA, USA
+Abstract#==#Simple Wikipedia has dominated simplification research in the past 5 years. In
+this opinion paper, we argue that focusing on Wikipedia limits simplification
+research. We back up our arguments with corpus analysis and by highlighting
+statements that other researchers have made in the simplification literature.
+We introduce a new simplification dataset that is a significant improvement
+over Simple Wikipedia, and present a novel quantitative-comparative approach to
+study the quality of simplification data resources.
+Author{1}{Firstname}#=%=#Wei
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Email}#=%=#xwe@cis.upenn.edu
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#Chris
+Author{2}{Lastname}#=%=#Callison-Burch
+Author{2}{Email}#=%=#ccb@upenn.edu
+Author{2}{Affiliation}#=%=#University of Pennsylvania
+Author{3}{Firstname}#=%=#Courtney
+Author{3}{Lastname}#=%=#Napoles
+Author{3}{Email}#=%=#cdnapoles@gmail.com
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+
+==========

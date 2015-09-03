@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#456
+FinalPaperTitle#=%=#Hierarchical Recurrent Neural Network for Document Modeling
+ShortPaperTitle#=%=#Hierarchical Recurrent Neural Network for Document Modeling
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Rui Lin
+JobTitle#==#
+Organization#==#Baidu Inc.
+Baidu Technology Park Building No. 1, Xibeiwang East Road 10,Haidian District, Beijing,China
+Abstract#==#This paper proposes a novel hierarchical recurrent neural network language
+model (HRNNLM) for document modeling. After establishing a RNN to capture the
+coherence between sentences in a document, HRNNLM integrates it as the sentence
+history information into the word level RNN to predict the word sequence with
+cross-sentence contextual information. A two-step training approach is
+designed, in which sentence-level and word-level language models are
+approximated for the convergence in a pipeline style. Examined by the standard
+sentence ordering scenario, HRNNLM is proved for its better accuracy in
+modeling the sentence coherence. And at the word level, experimental results
+also indicate a significant lower model perplexity, followed by a practical
+better translation result when applied to a Chinese-English document
+translation reranking task.
+Author{1}{Firstname}#=%=#Rui
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Email}#=%=#linrui@mtlab.hit.edu.cn
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology
+Author{2}{Firstname}#=%=#Shujie
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#shujliu@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research Asia, Beijing, China
+Author{3}{Firstname}#=%=#Muyun
+Author{3}{Lastname}#=%=#Yang
+Author{3}{Email}#=%=#yangmuyun@gmail.com
+Author{3}{Affiliation}#=%=#Harbin Institute of Technology
+Author{4}{Firstname}#=%=#Mu
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#muli@microsoft.com
+Author{4}{Affiliation}#=%=#
+Author{5}{Firstname}#=%=#Ming
+Author{5}{Lastname}#=%=#Zhou
+Author{5}{Email}#=%=#mingzhou@microsoft.com
+Author{5}{Affiliation}#=%=#microsoft research asia
+Author{6}{Firstname}#=%=#Sheng
+Author{6}{Lastname}#=%=#Li
+Author{6}{Email}#=%=#lisheng@hit.edu.cn
+Author{6}{Affiliation}#=%=#Harbin Institute of Technology
+
+==========

@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#474
+FinalPaperTitle#=%=#Open-Domain Name Error Detection using a Multi-Task RNN
+ShortPaperTitle#=%=#Open-Domain Name Error Detection using a Multi-Task RNN
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Hao Cheng
+JobTitle#==#
+Organization#==#Hao Cheng, Department of Electrical Engineering, University of Washington, 185 Stevens Way, Seattle, WA 98195
+Abstract#==#Out-of-vocabulary name errors in speech recognition create significant problems
+for downstream language processing, but the fact that they are rare poses
+challenges for automatic detection, particularly in an open-domain scenario. 
+To address this problem, a multi-task recurrent neural network language model
+for sentence-level name detection is proposed for use in combination with
+out-of-vocabulary word detection. The sentence-level model is also effective
+for leveraging external text data. Experiments show a 26\% improvement in
+name-error detection F-score over a system using n-gram lexical features.
+Author{1}{Firstname}#=%=#Hao
+Author{1}{Lastname}#=%=#Cheng
+Author{1}{Email}#=%=#chenghao@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Hao
+Author{2}{Lastname}#=%=#Fang
+Author{2}{Email}#=%=#hfang@uw.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Mari
+Author{3}{Lastname}#=%=#Ostendorf
+Author{3}{Email}#=%=#ostendor@uw.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

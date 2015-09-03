@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#651
+FinalPaperTitle#=%=#Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings
+ShortPaperTitle#=%=#Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Pengfei Liu
+JobTitle#==#
+Organization#==#The Chinese University of Hong Kong, Hong Kong
+Abstract#==#The tasks in fine-grained opinion mining can be regarded as either a
+token-level sequence labeling problem or as a semantic compositional task. We
+propose a general class of discriminative models based on recurrent neural
+networks (RNNs) and word embeddings that can be successfully applied to such
+tasks without any task-specific feature engineering effort. Our experimental
+results on the task of opinion target identification show that RNNs, without
+using any hand-crafted features, outperform feature-rich CRF-based models. Our
+framework is flexible, allows us to incorporate other linguistic features, and
+achieves results that rival the top perform- ing systems in SemEval-2014.
+Author{1}{Firstname}#=%=#Pengfei
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#pfliu@se.cuhk.edu.hk
+Author{1}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{2}{Firstname}#=%=#Shafiq
+Author{2}{Lastname}#=%=#Joty
+Author{2}{Email}#=%=#sjoty@qf.org.qa
+Author{2}{Affiliation}#=%=#QCRI
+Author{3}{Firstname}#=%=#Helen
+Author{3}{Lastname}#=%=#Meng
+Author{3}{Email}#=%=#hmmeng@se.cuhk.edu.hk
+Author{3}{Affiliation}#=%=#The Chinese University of Hong Kong
+
+==========

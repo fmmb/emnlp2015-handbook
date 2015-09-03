@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#89
+FinalPaperTitle#=%=#Cross Lingual Sentiment Analysis using Modified BRAE
+ShortPaperTitle#=%=#Cross Lingual Sentiment Analysis using Modified BRAE
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#SARTHAK JAIN
+JobTitle#==#
+Organization#==#Delhi Technological University, DL-42, IN
+Abstract#==#Cross-Lingual Learning provides a mechanism to adapt NLP tools available for
+label rich languages to achieve similar tasks for label-scarce languages. An
+efficient cross-lingual tool significantly reduces the cost and effort required
+to manually annotate data. In this paper, we use the Recursive Autoencoder
+architecture to develop a Cross Lingual Sentiment Analysis (CLSA) tool using
+sentence aligned corpora between a pair of resource rich (English) and resource
+poor(Hindi) language. The system is based on the assumption that semantic
+similarity between different phrases also implies sentiment similarity in
+majority of sentences. The resulting system is then analyzed on a newly
+developed Movie Reviews Dataset in Hindi with labels given on a rating scale
+and compare performance of our system against existing systems. It is shown
+that our approach significantly outperforms state of the art systems for
+Sentiment Analysis, especially when labeled data is scarce.
+Author{1}{Firstname}#=%=#Sarthak
+Author{1}{Lastname}#=%=#Jain
+Author{1}{Email}#=%=#successar@gmail.com
+Author{1}{Affiliation}#=%=#Delhi Technological University
+Author{2}{Firstname}#=%=#Shashank
+Author{2}{Lastname}#=%=#Batra
+Author{2}{Email}#=%=#divy.chwl@gmail.com
+Author{2}{Affiliation}#=%=#Indian Institute of Technology, Delhi
+
+==========
