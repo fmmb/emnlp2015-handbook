@@ -1,0 +1,707 @@
+% this is the EMNLP Handbook package
+% 
+% (c) Fernando Batista
+%
+%% This program can be redistributed and/or modified under the terms
+%% of the LaTeX Project Public License Distributed from CTAN archives
+%% in directory macros/latex/base/lppl.txt.
+% 
+\NeedsTeXFormat{LaTeX2e}[1994/06/01]
+\ProvidesPackage{handbook}
+  [2015/04/25 v0.01 LaTeX package for EMNLP handbook macros and definitions]
+
+\RequirePackage{enumitem}
+\RequirePackage{hyperref}
+\RequirePackage{amssymb}
+\RequirePackage{array}
+\def\hi{This is EMNLP handbook package, containing macros and definitions}
+
+% Nice chapters
+\usepackage[Bjornstrup]{fncychap}
+
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{ragged2e}
+\usepackage{multirow}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Citations: the following code requires the biblatex package
+% --------------------------------------------------------------------------------
+
+\DeclareNameFormat{authorswithinitials}{%
+  % name format that prints the list of authors with initals
+  \ifcase\value{uniquename}%
+    \usebibmacro{name:first-last}{#1}{#4}{#5}{#7}%
+  \or
+    \ifuseprefix
+      {\usebibmacro{name:first-last}{#1}{#4}{#5}{#8}}
+      {\usebibmacro{name:first-last}{#1}{#4}{#6}{#8}}%
+  \or
+    \usebibmacro{name:first-last}{#1}{#4}{#5}{#7}%
+  \fi
+  \usebibmacro{name:andothers}}
+
+\DeclareNameFormat{authorlastnames}{%
+  % name format that prints the list of author last names
+  \ifcase\value{uniquename}%
+    \usebibmacro{name:last}{#1}{#4}{#5}{#7}%
+  \or
+    \ifuseprefix
+      {\usebibmacro{name:last}{#1}{#4}{#5}{#8}}
+      {\usebibmacro{name:last}{#1}{#4}{#6}{#8}}%
+  \or
+    \usebibmacro{name:last}{#1}{#4}{#5}{#7}%
+  \fi
+  \usebibmacro{name:andothers}}
+
+\DeclareNameFormat{fullauthornames}{%
+  % name format that prints the list of authors with full author names
+  \ifcase\value{uniquename}%
+    \usebibmacro{name:first-last}{#1}{#3}{#5}{#7}%
+    \or
+    \ifuseprefix
+        {\usebibmacro{name:first-last}{#1}{#3}{#5}{#8}}
+        {\usebibmacro{name:first-last}{#1}{#3}{#6}{#8}}%
+  \or
+  \usebibmacro{name:first-last}{#1}{#3}{#5}{#7}%
+  \fi
+  \usebibmacro{name:andothers}}
+
+% insert the list of authors with first name initials
+\DeclareCiteCommand{\citeauthorslastnamesonly}{%
+  \boolfalse{citetracker}%
+  \boolfalse{pagetracker}%
+  \usebibmacro{prenote}%
+}{\ifciteindex{\indexnames{labelname}}{}%
+  \printnames[authorlastnames]{labelname}%
+}{\multicitedelim}{\usebibmacro{postnote}}
+
+% insert the list of authors with first name initials
+\DeclareCiteCommand{\citeallauthorslastnamesonly}{%
+  \defcounter{maxnames}{99} % now ALL names will be displayed
+  \boolfalse{citetracker}%
+  \boolfalse{pagetracker}%
+  \usebibmacro{prenote}%
+}{\ifciteindex{\indexnames{labelname}}{}%
+  \printnames[authorlastnames]{labelname}%
+}{\multicitedelim}{\usebibmacro{postnote}}
+
+% insert the list of authors with first name initials
+\DeclareCiteCommand{\citeauthorswithinitials}{%
+  \boolfalse{citetracker}%
+  \boolfalse{pagetracker}%
+  \usebibmacro{prenote}%
+}{\ifciteindex{\indexnames{labelname}}{}%
+  \printnames[authorswithinitials]{labelname}%
+}{\multicitedelim}{\usebibmacro{postnote}}
+  
+% insert the list of authors with first name initials
+\DeclareCiteCommand{\citeallauthorswithinitials}{%
+  \defcounter{maxnames}{99} % now ALL names will be displayed
+  \boolfalse{citetracker}%
+  \boolfalse{pagetracker}%
+  \usebibmacro{prenote}%
+}{\ifciteindex{\indexnames{labelname}}{}%
+  \printnames[authorswithinitials]{labelname}%
+}{\multicitedelim}{\usebibmacro{postnote}}
+
+ % insert the list of authors with full names
+\DeclareCiteCommand{\citefullauthornames}{%
+  \boolfalse{citetracker}%
+  \boolfalse{pagetracker}%
+  \usebibmacro{prenote}%
+}{%\ifciteindex{\indexnames{labelname}}{}%
+  \indexnames{labelname}%
+  \printnames[fullauthornames]{labelname}%
+}{\multicitedelim}{\usebibmacro{postnote}}
+                     
+\DeclareFieldFormat[inproceedings]{citetitle}{#1}
+
+
+% Cites full author names, possibly with "et al."
+\DeclareCiteCommand{\citefullauthornames}{%
+  \boolfalse{citetracker}%
+  \boolfalse{pagetracker}%
+  \usebibmacro{prenote}%
+}{%\ifciteindex{\indexnames{labelname}}{}%
+  \indexnames{labelname}%
+  \printnames[fullauthornames]{labelname}%
+}{\multicitedelim}{\usebibmacro{postnote}}
+
+% Cites full author names, without "et. al"
+\DeclareCiteCommand{\citeallfullauthornames}{%
+  \defcounter{maxnames}{99}% now ALL names will be displayed
+  \boolfalse{citetracker}%
+  \boolfalse{pagetracker}%
+  \usebibmacro{prenote}%
+}{%
+  \indexnames{labelname}%
+  \printnames[fullauthornames]{labelname}%
+}{\multicitedelim}{\usebibmacro{postnote}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Usefull macros for entries
+% --------------------------------------------------------------------------------
+
+\newcommand{\paperauthor}[1]{{\em #1}}
+\newcommand{\papertitle}[1]{\citetitle{#1}}
+
+\newcommand{\linktutorial}[2]{
+% #1 tutorial-id, #2 tutorial location
+  \hyperlink{#1}{\citetitle{#1}}\newline
+  {\em \citeallfullauthornames{#1}}\hfill{}(#2)
+  \vspace{2pt}
+}
+
+\newcommand{\linkworkshoptitle}[2]{
+  % #1 ID, #2 workshop prefix
+  \hyperlink{#1}{#2\citetitle{#1}}\hfill{}\pageref{#1}\vspace{6pt}
+}
+
+\newcommand{\papertableentry}[1]{
+  {\hyperlink{#1}{\citetitle{#1}}}\newline
+  {\paperauthor{\citeallauthorslastnamesonly{#1}}}
+}
+
+\newcommand{\posterlistentry}[2]{
+  % #1 id, #2 title prefix
+  \parbox[t]{\linewidth}{\raggedright{#2}\hyperlink{#1}{\citetitle{#1}}\newline
+    \paperauthor{\citeallauthorswithinitials{#1}}}}
+
+\newcommand{\publistentry}[2]{
+  % #1 id, #2 title prefix
+\parbox[t]{\linewidth}{\raggedright{#2}\papertitle{#1}\newline
+\paperauthor{\citeallauthorswithinitials{#1}}}%
+}
+
+\newcommand{\wspaperentry}[1]{
+\noindent\parbox[t]{\linewidth}{\raggedright\papertitle{#1}\newline
+\noindent\paperauthor{\citeallfullauthornames{#1}}}%
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Tutorials related stuff
+% --------------------------------------------------------------------------------
+
+\newenvironment{bio}
+  {\begin{figure}[b]
+    \centerline{\rule{.5\linewidth}{.5pt}}\vspace{2ex}
+    \setlength{\parskip}{1ex}\setlength{\parindent}{0ex}}
+  {\end{figure}}
+
+\newcounter{TutorialCounter}
+
+\newenvironment{tutorial}[3]{%
+  % #1 tutorial ref (e.g. tutorials-001), #2 date and time,  #3 location
+  \stepcounter{TutorialCounter}
+  \phantomsection
+  \hypertarget{#1}{}
+  \addcontentsline{toc}{section}{\textbf{T\theTutorialCounter:} \citetitle{#1}}
+
+  %\section[\textbf{T\theTutorialCounter:} \citetitle{#1}]{Tutorial \theTutorialCounter}
+
+  \begin{center}
+    \begin{Large}
+      \bfseries \citetitle{#1}\\ \vspace{2em}\par
+    \end{Large}
+    {\itshape \citeallfullauthornames{#1}}\vspace{1em}\par
+   #2 \vspace{1em}\\
+   #3
+  \end{center}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Workshops related stuff
+% --------------------------------------------------------------------------------
+
+\newcounter{WorkshopCounter}
+
+\newenvironment{wsschedule}[4]{%
+  % #1 shortID, #2 => title, #3 => label, #4 => location
+  % #1 label, #2 shortID, #3 => title, #4 => location
+  \stepcounter{WorkshopCounter}
+
+  \clearpage
+  \markright{W\theWorkshopCounter: #2}%
+  \section[{\bfseries W\theWorkshopCounter:} #2]{{\bfseries Workshop \theWorkshopCounter:} #2\\#3}
+  \markright{W\theWorkshopCounter: #2}%
+  \hypertarget{#1}{}
+
+  %\markboth{}{}
+  \label{#1}
+  \begin{center}
+    {\ifthenelse{\equal{#4}{0}}{{}}{{Organizers: \paperauthor{\citeallfullauthornames{#1}}}\par}}
+    \medskip{}
+    {\large Venue: #4 \vspace{2em}}\\
+    %% {\huge Workshop Program\vspace{1ex}}
+  \end{center}
+  \begin{list}{{}}{%
+      \settowidth{\labelwidth}{\bfseries 00:00--00:00}
+      \setlength{\labelsep}{1ex}
+      \setlength{\topsep}{0pt}
+      \setlength{\parsep}{0pt}
+      \setlength{\listparindent}{0pt}
+      \setlength{\itemsep}{.5ex}
+      \setlength{\rightmargin}{0pt}
+      \setlength{\leftmargin}{\labelwidth}
+      \addtolength{\leftmargin}{\labelsep}}
+}{\end{list}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Main conference stuff
+% --------------------------------------------------------------------------------
+\newlength{\w}      % width of the space available for paper entries in a multi-track schedule
+\newlength{\tsl}    % with of a time specification in a schedule
+\newlength{\en}     % \en-space
+
+\setlength{\tabcolsep}{.5ex} 
+
+\newenvironment{SingleTrackSchedule}%
+{%
+  \settowidth{\en}{--}
+  \setlength{\w}{\linewidth}%
+  \settowidth{\tsl}{$\,$} % temporary abuse of this length measure
+  \addtolength{\w}{-2\tsl}%
+  \settowidth{\tsl}{00:00}
+  \addtolength{\w}{-2\tsl}%
+  \addtolength{\w}{-2\tabcolsep}%
+  \addtolength{\w}{-1\en}%
+  \begin{longtable}{@{}%
+      >{\raggedleft}p{\tsl}%
+      @{$\,$}%
+      p{1\en}%
+      @{$\,$}%
+      >{\raggedright}p{\tsl}%
+      >{\RaggedRight}p{\w}@{}}
+}{%
+  \end{longtable}%
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Abstracts
+% --------------------------------------------------------------------------------
+
+% insert an abstract into a list of abstracts
+\newcommand{\paperabstract}[3]{%
+  % #1 paper id, #2 time, #3 title prefix
+  \noindent%
+  \begin{minipage}{\linewidth}%
+    \hypertarget{#1}{}
+    \label{#1}%
+      %\rule{\linewidth}{1pt}\linebreak
+          {\bfseries\normalsize #3\papertitle{#1}} \\
+          \hfill\normalsize\paperauthor{\citeallfullauthornames{#1}}
+          \hfill {\small #2}
+  \end{minipage}\vspace{1mm}\\\nopagebreak%
+  \noindent{\small\input{auto/abstracts/#1}\par}\par
+  \medskip{}
+}
+
+% insert an abstract into a list of abstracts (for posters, no time needed)
+\newcommand{\posterabstract}[2]{%
+  % #1 paper id, #2 title prefix
+  \noindent%
+  \begin{minipage}{\linewidth}%
+    \hypertarget{#1}{}
+    \label{#1}%
+          {\bfseries\normalsize #2\papertitle{#1}}\\
+          \normalsize\paperauthor{\citeallfullauthornames{#1}}
+  \end{minipage}\vspace{1mm}\\\nopagebreak%
+  \noindent{\small\input{auto/abstracts/#1}\par}\par
+  \medskip{}
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Other Stuff
+% --------------------------------------------------------------------------------
+
+\newcommand{\leftheader}{}  
+\newcommand{\rightheader}{} 
+% \pagestyle{fancy}
+%   % header spec
+%   \renewcommand{\headrule}{{\color[rgb]{0.132,0.125,.46}% 
+%     \hrule height 2pt width \headwidth}
+%     \vspace{1pt}%
+%     {\color{mygray}%
+%     \hrule height 1pt width \headwidth
+%   \vspace{-4pt}}}
+% 
+%   \fancyhf{}                       % clear header contents
+%   %\fancyhead[LE]{\textit{\nouppercase{\leftmark}}}
+%   %\fancyhead[RO]{\textit{\nouppercase{\rightmark}}} % define header contents
+%   \fancyhead[LE]{\textit{\nouppercase{\leftheader}}}
+%   \fancyhead[RO]{\textit{\nouppercase{\rightheader}}} % define header contents
+% 
+%   % footer spec
+%   \renewcommand{\footrule}{\hrule width \headwidth height 1mm\vskip\footruleskip}
+%   \renewcommand{\footruleskip}{0.5\normalbaselineskip}
+%   \fancyfoot[C]{\thepage}            %define footer conten
+
+%\renewcommand\chapter{\if@openright\cleardoublepage\else\clearpage\fi %let headers/footers show on pages that start a chapter
+%                    \global\@topnum\z@
+%                    \@afterindentfalse
+%                    \secdef\@chapter\@schapter}
+
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}} % show chapter in header w/o numbering
+\renewcommand{\sectionmark}[1]{\markright{#1}{}} % show section in headers w/o numbering
+
+% redefine sections to have a horizontal rule and no numbering
+\def\section{\@ifstar\unnumberedsection\numberedsection}
+\def\numberedsection{\@ifnextchar[%]
+  \numberedsectionwithtwoarguments\numberedsectionwithoneargument}
+\def\unnumberedsection{\@ifnextchar[%]
+  \unnumberedsectionwithtwoarguments\unnumberedsectionwithoneargument}
+\def\numberedsectionwithoneargument#1{\numberedsectionwithtwoarguments[#1]{#1}}
+\def\unnumberedsectionwithoneargument#1{\unnumberedsectionwithtwoarguments[#1]{#1}}
+\def\numberedsectionwithtwoarguments[#1]#2{
+  \ifhmode\par\fi
+  \removelastskip
+  \vskip 3ex\goodbreak
+  \refstepcounter{section}%            % increment counter
+  \begingroup
+  \noindent\begin{minipage}{\columnwidth}
+  \leavevmode\Large\bfseries\raggedright
+%  \thesection\  % leave out numbering
+  #2 \par\nobreak
+  \vskip -.5em
+  \noindent\hrulefill\nobreak
+  \end{minipage}
+  \endgroup
+  \vskip 1ex\nobreak
+  \markright{#1}{} % add mark to right (secondary) header
+  \addcontentsline{toc}{section}{%
+%    \protect\numberline{\thesection}% % leave out number
+    #1}%
+  }
+\def\unnumberedsectionwithtwoarguments[#1]#2{
+  \ifhmode\par\fi
+  \removelastskip
+  \vskip 3ex\goodbreak
+  \begingroup
+  \noindent\begin{minipage}{\columnwidth}
+  \leavevmode\Large\bfseries\raggedright
+  #2\par\nobreak
+  \vskip -.5em
+  \noindent\hrulefill\nobreak
+  \end{minipage}
+  \endgroup
+  \vskip 1ex\nobreak
+  \markright{#1}{} % add mark to right (secondary) header
+  }
+
+% redefine subsections to have a horizontal rule and no numbering
+\def\subsection{\@ifstar\unnumberedsubsection\numberedsubsection}
+\def\numberedsubsection{\@ifnextchar[%]
+  \numberedsubsectionwithtwoarguments\numberedsubsectionwithoneargument}
+\def\unnumberedsubsection{\@ifnextchar[%]
+  \unnumberedsubsectionwithtwoarguments\unnumberedsubsectionwithoneargument}
+\def\numberedsubsectionwithoneargument#1{\numberedsubsectionwithtwoarguments[#1]{#1}}
+\def\unnumberedsubsectionwithoneargument#1{\unnumberedsubsectionwithtwoarguments[#1]{#1}}
+\def\numberedsubsectionwithtwoarguments[#1]#2{
+  \ifhmode\par\fi
+  \removelastskip
+  \vskip 3ex\goodbreak
+  \refstepcounter{subsection}%             % increment counter
+  \begingroup
+  \noindent
+  \leavevmode\normalsize\bfseries\raggedright
+%  \thesubsection\  % leave out numbering
+  #2 \par\nobreak
+  \endgroup
+  \vskip 1ex\nobreak
+  \addcontentsline{toc}{subsection}{%
+%    \protect\numberline{\thesubsection}% % leave out number
+    #1}%
+  }
+\def\unnumberedsubsectionwithtwoarguments[#1]#2{
+  \ifhmode\par\fi
+  \removelastskip
+  \vskip 3ex\goodbreak
+  \begingroup
+  \noindent
+  \leavevmode\normalsize\bfseries\raggedright
+  #2\par\nobreak
+  \endgroup
+  \vskip 1ex\nobreak
+  }
+
+% Clears to an even-numbered page
+\def\clearevenpage{
+     \clearpage 
+     \ifodd\value{page} \hbox{}\newpage\fi
+}
+
+% Clears to the back-cover (for logos)
+\def\cleartobackcover{
+     \clearpage 
+     \ifodd\value{page}\pagestyle{empty}\clearevenpage \else\hbox{}\cleardoublepage\pagestyle{empty}\clearevenpage\fi
+}
+
+% Min: index
+%\makeindex
+
+%\raggedbottom
+%\setlength{\parindent}{0pt}
+% Unicode issues
+% \DeclareUnicodeCharacter{ﬁ}{fi}
+
+% Min: correct column widths
+\newlength{\mycolumnwidth}
+\setlength{\mycolumnwidth}{\columnwidth}
+\addtolength{\mycolumnwidth}{-2ex}
+
+\renewcommand{\textfraction}{.2}
+\renewcommand{\bottomfraction}{.8}
+
+\setlength{\parindent}{1em}
+
+\fancypagestyle{emptyheader} {
+  \fancyhf{}
+  \fancyfoot[C]{\thepage}
+   \renewcommand{\headrule}{}
+}
+
+\newcommand{\setheaders}[2]{%
+  \renewcommand{\leftheader}{#1}%
+  \renewcommand{\rightheader}{#2}}
+%%%%%%%%%%% BreakTime Macro %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\BreakTime}[4]{%
+% adds a gray background to a break or a break-style event
+% #1 start time
+% #2 end   time
+% #3 number of parallel tracks
+% #4 label of the break or break-style event
+\multicolumn{3}{c}{\cellcolor[gray]{.8}} & 
+\multicolumn{#3}{c}{\cellcolor[gray]{.8}} \\[-3ex]\hline 
+\bfseries #1 & -- & \bfseries #2 &
+\multicolumn{#3}{c|}{\bfseries #4}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%% PlenaryEvent Macro %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\PlenaryEvent}[4]{%
+% event with nothing else going on in parallel
+\bfseries #1 & -- & \bfseries #2 &
+\multicolumn{#3}{>{\centering\arraybackslash}p{\w}|@{}}{\bfseries #4}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%% SessionHeader Macro %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\SingleTrackSessionHeader}[3]{%
+% event with nothing else going on in parallel
+\ifthenelse{\equal{{#1}}{{}}}{&}{#1 & -- } & #2 
+\ifthenelse{\equal{#1}{{}}}{}{\hfill}
+&\multicolumn{1}{>{\raggedright\arraybackslash}m{\w}}{\bfseries #3}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% insert an entry into a multi-track schedule cell
+\newcommand{\paperentry}[1]{%
+  \renewcommand{\baselinestretch}{.8}%
+  \setlength{\parindent}{0pt}%
+    \begin{small}%
+      \parbox[t]{\linewidth}{%
+        {\em \papertitle{#1}}
+        \vspace{.5ex}}\par%
+      \vfill
+      \parbox[b]{\linewidth}{\raggedright%
+        \paperauthor{\citeauthorslastnamesonly{#1}}%
+        %% \mbox{}~\dotfill~ {\bfseries p.~\pageref{#1}}
+        }%
+    \end{small}%
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Other stuff
+% --------------------------------------------------------------------------------
+
+\newcommand{\sessionchair}[2]{
+  \emph{Chair: #1 #2}\par\index{#2, #1}}
+
+\newcommand{\papertitleandauthor}[1]{
+  {\bfseries \papertitle{#1}}\\
+  \paperauthor{\citefullauthornames{#1}}}
+
+% FMMB: I REALY WANT TO DELETE THIS....
+\newcommand{\daydate}{DAY, DATE}
+\newcommand{\daydateyear}{DAY, DATE, YEAR}
+\newcommand{\setdaydateyear}[3]{
+  \renewcommand{\daydateyear}{#1, #2, #3\xspace}
+  \renewcommand{\daydate}{#1, #2\xspace}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Chapter Headings
+% --------------------------------------------------------------------------------
+\makeatletter
+\renewcommand*{\@makechapterhead}[1]{%
+  \vspace*{6\p@}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \if@mainmatter%%%%% Fix for frontmatter, mainmatter, and backmatter 040920
+        \DOCH
+      \fi
+    \fi
+    \interlinepenalty\@M
+    \if@mainmatter%%%%% Fix for frontmatter, mainmatter, and backmatter 060424
+      \DOTI{#1}%
+    \else%
+      \DOTIS{#1}%
+    \fi
+  }}
+% For the case \chapter*:
+\renewcommand*{\@makeschapterhead}[1]{%
+  \vspace*{6\p@}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \DOTIS{#1}
+    \vskip 40\p@
+  }}
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Not being Used
+% --------------------------------------------------------------------------------
+
+\newcommand{\linkpapertitle}[2]{
+% #1 paper-id, #2 paper location
+\hyperlink{#1}{\citetitle{#1}}\newline
+{\em \citeallfullauthornames{#1}} \hfill{}(#2)\vspace{6pt}
+}
+
+% insert references to the page ranges 
+\newcommand{\ppp}[1]{pp. \pageref{#1start}--\pageref{#1end}}
+
+\newcommand{\person}[2]{#1 #2\index{#2, #1}}
+
+% insert an entry into a poster session index
+\newcommand{\posterentry}[1]{%
+  \renewcommand{\baselinestretch}{1.2}%
+  \settowidth{\w}{\bfseries p.~\pageref{#1}}%
+  \addtolength{\w}{1em}%
+  \parbox[t]{\linewidth-\w}{\noindent\raggedright{\bfseries\papertitle{#1}}%
+    \linebreak[0]\ {---~{\paperauthor{\citeauthorswithinitials{#1}}}}\mbox{}~\dotfill\makebox[0pt][l]%
+    {\makebox[\w][r]{\bfseries p.~\pageref{#1}}}\vspace{1em}\par}}
+
+\newcommand{\sempaperentry}[1]{%
+  &&$\bullet$&
+  \parbox[t]{\linewidth}{\raggedright\papertitle{#1}\newline
+  {\itshape\paperauthor{\citefullauthornames{#1}}}
+\mbox{}~\dotfill~\pageref{#1}}}
+
+\newcommand{\atpaperentry}[2]{%
+  \footnotesize\parbox[t]{\linewidth}{\noindent%
+    \makebox[0pt][r]{#1\hspace*{\tabcolsep}}{%
+      \paperauthor{\citeauthorswithinitials{#2}}}:
+    \papertitle{#2}\mbox{}~\dotfill{p.~\pageref{#2}\par}}}
+
+\newenvironment{SessionOverview}[7]{
+  \section[#1]{#1 Overview -- #2}
+  \setheaders{#1}{#2}
+  \begin{center}
+    \righthyphenmin2
+    \sloppy
+    \begin{tabular}{>{\RaggedRight}p{0.8in}|>{\RaggedRight}p{0.8in}|>{\RaggedRight}p{0.8in}|>{\RaggedRight}p{0.8in}|>{\RaggedRight}p{0.8in}}
+      \bf Track A & \bf Track B & \bf Track C & \bf Track D & \bf Track E \\
+      \it #3 & \it #4 & \it #5 & \it #6 & \it #7 \\
+      \TrackALoc & \TrackBLoc & \TrackCLoc & \TrackDLoc & \TrackELoc \\
+      \hline\hline}
+{\end{tabular}\end{center}}
+
+\newenvironment{ThreeSessionOverview}[5]{
+  % #1 session, #2 date, #3 track A title, #4 track B title, #5 track C title
+  \begin{center}
+    \righthyphenmin2
+    \sloppy
+    \begin{tabular}{|p{0.33\columnwidth}|p{0.33\columnwidth}|p{0.33\columnwidth}|}
+      \hline
+      \bf Track A & \bf Track B & \bf Track C \\\hline
+      \it #3 & \it #4 & \it #5 \\
+      \TrackALoc & \TrackBLoc & \TrackCLoc \\
+      \hline\hline}
+{\hline\end{tabular}\end{center}}
+
+\newenvironment{TwoTrackSchedule}{
+\settowidth{\en}{--}
+\setlength{\w}{\linewidth}%
+\settowidth{\tsl}{$\,$}
+\addtolength{\w}{-2\tsl}%
+\settowidth{\tsl}{\footnotesize 00:00am}
+\addtolength{\tsl}{2ex}
+\addtolength{\w}{-2\tsl}%
+\addtolength{\w}{-2\tabcolsep}%
+\addtolength{\w}{-1\en}%
+\addtolength{\w}{-1cm}%
+\renewcommand{\arraystretch}{1.1}
+%\setlength{\tmplen}{\tabcolsep}
+%\addtolength{\tmplen}{-.5\arrayrulewidth}
+\begin{longtable}{@{}|%
+    >{\raggedleft}p{\tsl}%
+    @{$\,$}%
+    p{1\en}%
+    @{$\,$}%
+    >{\raggedright}%
+    p{\tsl}|%
+    >{\centering\arraybackslash}p{.5\w}|%
+    >{\centering\arraybackslash}p{.5\w}|@{}}%
+}{\end{longtable}}
+
+\newenvironment{ThreeTrackSchedule}{
+\settowidth{\en}{--}
+\setlength{\w}{\linewidth}%
+\settowidth{\tsl}{$\,$}
+\addtolength{\w}{-2\tsl}%
+\settowidth{\tsl}{00:00am}
+\addtolength{\tsl}{2ex}
+\addtolength{\w}{-2\tsl}%
+\addtolength{\w}{-2\tabcolsep}%
+\addtolength{\w}{-1\en}%
+\addtolength{\w}{-1cm}%
+\renewcommand{\arraystretch}{1.1}
+%\setlength{\tmplen}{\tabcolsep}
+%\addtolength{\tmplen}{-.5\arrayrulewidth}
+\begin{longtable}{@{}%
+    >{\raggedleft}p{\tsl}%
+    @{$\,$}%
+    p{1\en}%
+    @{$\,$}%
+    >{\raggedright}%
+    p{\tsl}|%
+    >{\centering\arraybackslash}p{.333\w}|%
+    >{\centering\arraybackslash}p{.333\w}|%
+    >{\centering\arraybackslash}p{.333\w}@{}}%
+}{\end{longtable}}
+
+\newenvironment{FourTrackSchedule}{
+\settowidth{\en}{--}
+\setlength{\w}{\linewidth}%
+\settowidth{\tsl}{$\,$}
+\addtolength{\w}{-2\tsl}%
+\settowidth{\tsl}{00:00am}
+\addtolength{\tsl}{2ex}
+\addtolength{\w}{-2\tsl}%
+\addtolength{\w}{-2\tabcolsep}%
+\addtolength{\w}{-1\en}%
+\addtolength{\w}{-1cm}%
+\renewcommand{\arraystretch}{1.1}
+%\setlength{\tmplen}{\tabcolsep}
+%\addtolength{\tmplen}{-.5\arrayrulewidth}
+\begin{longtable}{@{}|%
+    >{\raggedleft}p{\tsl}%
+    @{$\,$}%
+    p{1\en}%
+    @{$\,$}%
+    >{\raggedright}%
+    p{\tsl}|%
+    >{\centering\arraybackslash}p{.25\w}|%
+    >{\centering\arraybackslash}p{.25\w}|%
+    >{\centering\arraybackslash}p{.25\w}|%
+    >{\centering\arraybackslash}p{.25\w}|@{}}%
+}{\end{longtable}}
+
+
+\endinput
+%%
+%% End of file `handbook.sty'.
