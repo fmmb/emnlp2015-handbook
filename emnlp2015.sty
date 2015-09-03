@@ -1,0 +1,65 @@
+% this is the EMNLP 2015 package
+% 
+% (c) Fernando Batista
+%
+%% This program can be redistributed and/or modified under the terms
+%% of the LaTeX Project Public License Distributed from CTAN archives
+%% in directory macros/latex/base/lppl.txt.
+% 
+\NeedsTeXFormat{LaTeX2e}[1994/06/01]
+\ProvidesPackage{emnlp2015}
+  [2015/04/25 v0.01 LaTeX package for EMNLP 2015 macros and definitions]
+
+\RequirePackage{enumitem}
+\def\hi{This is EMNLP2015 package, where session titles and locations are defined}
+\let\myDate\date
+\newcommand\GoodBye[1][\bfseries]{{#1Good Bye}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Tutorials
+% --------------------------------------------------------------------------------
+\newcommand{\TutLocA}{\mbox{Small Auditorium}}
+\newcommand{\TutLocB}{\mbox{Room 2}}
+\newcommand{\TutLocC}{\mbox{Small Auditorium}}
+\newcommand{\TutLocD}{\mbox{Room 2}}
+\newcommand{\TutLocE}{\mbox{Small Auditorium}}
+\newcommand{\TutLocF}{\mbox{Room 2}}
+\newcommand{\TutLocG}{\mbox{Room 2}}
+\newcommand{\TutLocH}{\mbox{Small Auditorium}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Workshops
+% --------------------------------------------------------------------------------
+\newcommand{\WShopLocA}{\mbox{Main Auditorium}} % Carefull: existing manual entries in the tex file.
+\newcommand{\WShopLocB}{\mbox{Room 1}}
+\newcommand{\WShopLocC}{\mbox{Room 6}}
+\newcommand{\WShopLocD}{\mbox{Room 3}}
+\newcommand{\WShopLocE}{\mbox{Room 1}}
+\newcommand{\WShopLocF}{\mbox{Room 3}}
+\newcommand{\WShopLocG}{\mbox{Room 6}}
+
+% Defines macros for event venues
+% ==========================================================|
+\newcommand{\CoffeeLoc}{\mbox{Foyers}}
+\newcommand{\RegistrationLoc}{\mbox{Culturgest}}
+\newcommand{\TrackALoc}{\mbox{Main Auditorium}}
+\newcommand{\TrackBLoc}{\mbox{Small Auditorium}}
+\newcommand{\TrackCLoc}{\mbox{Room 2}}
+\newcommand{\TrackDLoc}{\mbox{Lower Level Foyer}}
+\newcommand{\TrackELoc}{\mbox{Lower Level Foyer}}
+\newcommand{\LunchLoc}{\mbox{}}
+\newcommand{\WelcomeLoc}{\mbox{Culturgest}}
+\newcommand{\PosterLoc}{\mbox{Lower Level Foyer}}
+\newcommand{\PlenaryLoc}{\mbox{Main Auditorium}}
+\newcommand{\FarewellLoc}{\mbox{Culturgest}}
+\newcommand{\ConferenceLoc}{\mbox{Pateo Alfacinha}} % Conference Dinner
+
+\newcommand{\UnknownLoc}{\mbox{}}
+
+% Define macros for session titles here
+% ==========================================================|
+
+
+\endinput
+%%
+%% End of file `emnlp2015.sty'.
