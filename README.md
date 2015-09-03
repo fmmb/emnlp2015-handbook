@@ -72,6 +72,9 @@ The handbook requires the usage of [biblatex](https://www.ctan.org/pkg/biblatex)
 
 3) choose biber for bib processing
 
+Please take into account that \addbibresource requires an absolute path name
+
+
 ## Notes concerning the data coming from softconf
 
 The publication chairs are responsible for creating the schedule, and consequently, the order files. They will probably use schedule maker, from which you can import the order file. In fact, most of then will probably use excel or google docs to create/change the schedule and then export to schedule maker. You can get all the info, together with the order file, from proceedings.tgz that can be generated from the START system, and will probably be accessed by you using wget or curl.
