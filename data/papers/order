@@ -100,7 +100,7 @@
 1261   # Key Concept Identification for Medical Information Retrieval
 1389   # Image-Mediated Learning for Zero-Shot Cross-Lingual Document Retrieval
 + 15:10--15:40 Coffee break
-= 15:40--17:20 Session 3A: Sentiment Analysis and Opinion Mining (Long Papers) # %room Main Auditorium %chair1 Jance Wiebe
+= 15:40--17:20 Session 3A: Sentiment Analysis and Opinion Mining (Long Papers) # %room Main Auditorium %chair1 Janyce Wiebe
 73 15:40--16:05  # Detecting Risks in the Banking System by Sentiment Analysis
 269 16:05--16:30  # Sentiment Flow - A General Model of Web Review Argumentation
 602 16:30--16:55  # Neural Networks for Open Domain Targeted Sentiment
@@ -162,14 +162,13 @@
 ! 11:20--11:45 %ext tacl-final:4
 ! 11:45--12:10 %ext tacl-final:12
 = 10:30--12:10 Session 4D: Long Paper Posters # %room Lower Level Foyer %chair1 Sam Bowman
-! 10:30--12:10 Poster Cluster 1: Semantics (P1-9) %by Poster Presenters
+! 10:30--12:10 Poster Cluster 1: Semantics (P1-8) %by Poster Presenters
 318   # Feature-Rich Two-Stage Logistic Regression for Monolingual Alignment
 455   # Semantic Role Labeling with Neural Network Factors
 520   # RELLY: Inferring Hypernym Relationships Between Relational Phrases
 559   # Mise en Place: Unsupervised Interpretation of Instructional Recipes
 597   # Semantic Framework for Comparison Structures in Natural Language
 606   # Sarcastic or Not: Word Embeddings to Predict the Literal or Sarcastic Meaning of Words
-662   # Broad-coverage CCG Semantic Parsing with AMR
 653   # Incorporating Trustiness and Collective Synonym/Contrastive Evidence into Taxonomy Construction
 654   # Learning to Automatically Solve Logic Grid Puzzles
 = 10:30--12:10 Session 4E: Short Paper Posters # %room Lower Level Foyer %chair1 Maja Popovic
@@ -249,10 +248,9 @@
 138 16:30--16:55  # Efficient and Expressive Knowledge Base Completion Using Subgraph Feature Extraction
 674 16:55--17:20  # Representing Text for Joint Embedding of Text and Knowledge Bases
 = 15:40--17:20 Session 6D: Long Paper Posters # %room Lower Level Foyer %chair1 Noah Smith
-! 15:40--17:20 Poster Cluster 1: Statistical Models and Machine Learning Methods (P1-11) %by Poster Presenters
+! 15:40--17:20 Poster Cluster 1: Statistical Models and Machine Learning Methods (P1-10) %by Poster Presenters
 223   # A Utility Model of Authors in the Scientific Community
 261   # Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation
-72   # Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems
 414   # Syntax-Aware Multi-Sense Word Embeddings for Deep Compositional Models of Meaning
 508   # Conversation Trees: A Grammar Model for Topic Structure in Forums
 509   # Fast, Flexible Models for Discovering Topic Correlation across Weakly-Related Collections
@@ -281,9 +279,9 @@
 + 07:30--18:00 Registration
 = 09:00--10:00 Session P4: Plenary Session # %room Main Auditorium
 ! 09:00--09:05 Best Paper Awards %by Chris Callison-Burch and Jian Su
-! 09:05--09:30 Broad-coverage CCG Semantic Parsing with AMR %by Yoav Artzi, Kenton Lee and Luke Zettlemoyer
-! 09:30--09:55 Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems %by Tsung-Hsien Wen, Milica Gasic, Nikola Mrkšić, Pei-Hao Su, David Vandyke and Steve Young
-! 09:55--10:05 A large annotated corpus for learning natural language inference %by Samuel R. Bowman, Gabor Angeli, Christopher Potts and Christopher D. Manning
+662 09:05--09:30  # Broad-coverage CCG Semantic Parsing with AMR
+72 09:30--09:55  # Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems
+536 09:55--10:05 # A large annotated corpus for learning natural language inference
 + 10:05--10:30 Coffee break
 = 10:30--12:10 Session 7A: Semantics (Long +TACL Papers) # %room Main Auditorium %chair1 Luke Zettlemoyer
 262 10:30--10:55  # Do Multi-Sense Embeddings Improve Natural Language Understanding?

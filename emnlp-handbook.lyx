@@ -20,19 +20,19 @@
 \usepackage{ragged2e}
 \usepackage{multirow}
 
-\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/content/tutorials.bib}
-\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/content/workshops.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/content/tutorials.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/content/workshops.bib}
 
-\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/auto/papers/papers.bib}
-\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/auto/tacl-final/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/papers/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/tacl-final/papers.bib}
 
-\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/auto/CogACLL/papers.bib}
-\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/auto/DiscoMT15/papers.bib}
-\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/auto/LSDSem/papers.bib}
-\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/auto/Louhi15/papers.bib}
-\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/auto/VL15/papers.bib}
-\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/auto/WASSA15/papers.bib}
-\addbibresource{/Users/fmmb/Desktop/emnlp2015-handbook/auto/WMT15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/CogACLL/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/DiscoMT15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/LSDSem/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/Louhi15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/VL15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/WASSA15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/WMT15/papers.bib}
 \end_preamble
 \use_default_options false
 \begin_modules
@@ -353,6 +353,13 @@ filename "content/conference-days.lyx"
 \end_layout
 
 \begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -399,10 +406,44 @@ pagestyle{empty}
 \end_layout
 
 \begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{chapter}{Sponsor Ads}
+\end_layout
+
+\end_inset
+
+
 \begin_inset CommandInset include
 LatexCommand include
 filename "content/ads.lyx"
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
 \end_inset
 
 

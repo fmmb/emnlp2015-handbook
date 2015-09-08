@@ -201,6 +201,9 @@ class Session:
     def add_paper(self,paper):
         self.papers.append(paper)
 
+    def get_papers_only(self):
+        return [p for p in self.papers if isinstance(p, Paper)]
+        
     def chair(self):
         """Returns the (first name, last name) of the chair, if found in a %chair keyword"""
         

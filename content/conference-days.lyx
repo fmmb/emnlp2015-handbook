@@ -630,6 +630,13 @@ status open
 
 
 \backslash
+input{auto/papers/Monday-Session-P4-abstracts.tex}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
 input{auto/papers/Monday-Session-7.tex}
 \end_layout
 

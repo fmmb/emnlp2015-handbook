@@ -164,6 +164,11 @@
   {\paperauthor{\citeallauthorslastnamesonly{#1}}}
 }
 
+\newcommand{\paperlistentry}[1]{
+  {\hyperlink{#1}{\citetitle{#1}}}\hfill{}(p.~\pageref{#1})\newline
+  {\paperauthor{\citeallfullauthornames{#1}}}
+}
+
 \newcommand{\posterlistentry}[2]{
   % #1 id, #2 title prefix
   \parbox[t]{\linewidth}{\raggedright{#2}\hyperlink{#1}{\citetitle{#1}}\newline

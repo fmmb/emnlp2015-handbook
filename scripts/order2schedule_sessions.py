@@ -56,82 +56,86 @@ for date in cs.dates:
         poster_sessions = filter(lambda x: isinstance(x, Session) and x.poster, events)
         session_num = parallel_sessions[0].num
 
-        if ( len(parallel_sessions) + len(poster_sessions) == 1 ) or ( session_num == None ):
-            debug("skipping session num=%s InParallel=%d"%(session_num, len(parallel_sessions) + len(poster_sessions) ) )
+        if ( len(parallel_sessions) == 1 ) and ( session_num is not None ) and ( len(parallel_sessions[0].get_papers_only() ) > 0 ):
+            # I want to deal with those for example for the Best Paper Session
+            pass
+        elif ( len(parallel_sessions) + len(poster_sessions) == 1 ) or ( session_num == None ):
+            debug("skipping session num=%s InParallel=%d"%( session_num, len(parallel_sessions) + len(poster_sessions) ) )
             continue
 
-        path = os.path.join(args.output_dir, '%s-Session-%s.tex' % (day, parallel_sessions[0].num))
-        out = open(path, 'w')
-        print >> sys.stderr, "\\input{%s}" % (path)
+        if len(parallel_sessions) + len(poster_sessions) > 1:
+            path = os.path.join(args.output_dir, '%s-Session-%s.tex' % (day, parallel_sessions[0].num))
+            out = open(path, 'w')
+            print >> sys.stderr, "\\input{%s}" % (path)
 
-        # PARALLEL SESSIONS
-        # Print the Session overview (single-page at-a-glance grid)
-        if len(parallel_sessions) > 1:
+            # PARALLEL SESSIONS
+            # Print the Session overview (single-page at-a-glance grid)
+            if len(parallel_sessions) > 1:
 
-            # Session with the maximum number of papers
-            papers_per_session = [ len(ps.papers) for ps in parallel_sessions]
-            max_num_papers = max(papers_per_session)
-            s_maxpapers = papers_per_session.index( max(papers_per_session) )
-            times = [timef(p.time.split('--')[0]) for p in parallel_sessions[s_maxpapers].papers]
+                # Session with the maximum number of papers
+                papers_per_session = [ len(ps.papers) for ps in parallel_sessions]
+                max_num_papers = max(papers_per_session)
+                s_maxpapers = papers_per_session.index( max(papers_per_session) )
+                times = [timef(p.time.split('--')[0]) for p in parallel_sessions[s_maxpapers].papers]
 
-            print >>out, '\\section[Session %s]{Session %s Overview}'%(session_num,  session_num)
-            print >>out, '\\begin{center}'
-            print >>out, '\\righthyphenmin2 \\sloppy'
-            print >>out, '\\begin{tabular}{|p{0.33\\columnwidth}|p{0.33\\columnwidth}|p{0.33\\columnwidth}|}'
-            print >>out, '\\hline'
-            print >>out, '\\bf Track A & \\bf Track B & \\bf Track C \\\\\\hline'
-            print >>out, ' & '.join(["\\it %s"%s.desc for s in parallel_sessions]), '\\\\'
-            print >>out, '\\TrackALoc & \\TrackBLoc & \\TrackCLoc \\\\'
-            print >>out, '\\hline\\hline'
+                print >>out, '\\section[Session %s]{Session %s Overview}'%(session_num,  session_num)
+                print >>out, '\\begin{center}'
+                print >>out, '\\righthyphenmin2 \\sloppy'
+                print >>out, '\\begin{tabular}{|p{0.33\\columnwidth}|p{0.33\\columnwidth}|p{0.33\\columnwidth}|}'
+                print >>out, '\\hline'
+                print >>out, '\\bf Track A & \\bf Track B & \\bf Track C \\\\\\hline'
+                print >>out, ' & '.join(["\\it %s"%s.desc for s in parallel_sessions]), '\\\\'
+                print >>out, '\\TrackALoc & \\TrackBLoc & \\TrackCLoc \\\\'
+                print >>out, '\\hline\\hline'
 
-            for paper_num in xrange(max_num_papers):
-                if paper_num > 0: print >>out, '  \\hline'
-                print >>out, '  \\marginnote{\\rotatebox{90}{%s}}[2mm]' % (times[paper_num])
-                res = []
-                for session in parallel_sessions:
-                    if len(session.papers) > paper_num:
-                        if session.papers[paper_num].id is None:
-                            res.append ('EXT: %s' % ( session.papers[paper_num].title ) )
+                for paper_num in xrange(max_num_papers):
+                    if paper_num > 0: print >>out, '  \\hline'
+                    print >>out, '  \\marginnote{\\rotatebox{90}{%s}}[2mm]' % (times[paper_num])
+                    res = []
+                    for session in parallel_sessions:
+                        if len(session.papers) > paper_num:
+                            if session.papers[paper_num].id is None:
+                                res.append ('EXT: %s' % ( session.papers[paper_num].title ) )
+                            else:
+                                res.append ('{%s}\\papertableentry{%s}' % ( session.papers[paper_num].prefix, session.papers[paper_num].id ) )
                         else:
-                            res.append ('{%s}\\papertableentry{%s}' % ( session.papers[paper_num].prefix, session.papers[paper_num].id ) )
-                    else:
-                        res.append("")
-                print >>out, ' & '.join( res )
-                print >>out, '  \\\\'
+                            res.append("")
+                    print >>out, ' & '.join( res )
+                    print >>out, '  \\\\'
 
-            print >>out, '\\hline\\end{tabular}\\end{center}\n'
-        else:
-            debug("skipping parallel sessions len=%d"%len(parallel_sessions), parallel_sessions) 
-
-        for track, session in enumerate(poster_sessions, len(parallel_sessions)):
-            chair = session.chair()
-            print >>out, '\\bigskip{}'
-            if chair[1] == '':
-                print >>out, '\\noindent \\textbf{Track %s:} \\emph{%s}\\smallskip{}\n'%(chr(track+65), session.desc)
+                print >>out, '\\hline\\end{tabular}\\end{center}\n'
             else:
-                print >>out, '\\noindent \\textbf{Track %s:} \\emph{%s} \\hfill \\emph{\\sessionchair{%s}{%s}}\\smallskip{}\n'%(
-                    chr(track+65), session.desc, chair[0], chair[1] )
-            print >>out, '\\noindent {\\PosterLoc \hfill \emph{%s}}'% (timef(session.time))
-            print >>out, '\\noindent \\rule[0.5ex]{1\\columnwidth}{1pt}'
-            print >>out, '\\begin{itemize}'
-            for paper_num in xrange(len(session.papers)):
-                if session.papers[paper_num].id is None:
-                    print >>out, '\\item []\\textbf{%s}' % session.papers[paper_num].title
+                debug("skipping index for session <%s> <%s>"% ( parallel_sessions[0].name, parallel_sessions[0].desc )) 
+
+            for track, session in enumerate(poster_sessions, len(parallel_sessions)):
+                chair = session.chair()
+                print >>out, '\\bigskip{}'
+                if chair[1] == '':
+                    print >>out, '\\noindent \\textbf{Track %s:} \\emph{%s}\\smallskip{}\n'%(chr(track+65), session.desc)
                 else:
-                    print >>out, '\\item \\posterlistentry{%s}{%s}' %(session.papers[paper_num].id, session.papers[paper_num].prefix )
-            print >>out, '\\end{itemize}\n'
-        print >>out, '\\clearpage'
-        out.close()
+                    print >>out, '\\noindent \\textbf{Track %s:} \\emph{%s} \\hfill \\emph{\\sessionchair{%s}{%s}}\\smallskip{}\n'%(
+                        chr(track+65), session.desc, chair[0], chair[1] )
+                print >>out, '\\noindent {\\PosterLoc \hfill \emph{%s}}'% (timef(session.time))
+                print >>out, '\\noindent \\rule[0.5ex]{1\\columnwidth}{1pt}'
+                print >>out, '\\begin{itemize}'
+                for paper_num in xrange(len(session.papers)):
+                    if session.papers[paper_num].id is None:
+                        print >>out, '\\item []\\textbf{%s}' % session.papers[paper_num].title
+                    else:
+                        print >>out, '\\item \\posterlistentry{%s}{%s}' %(session.papers[paper_num].id, session.papers[paper_num].prefix )
+                print >>out, '\\end{itemize}\n'
+            print >>out, '\\clearpage'
+            out.close()
 
         path = os.path.join(args.output_dir, '%s-Session-%s-abstracts.tex' % (day, parallel_sessions[0].num))
         out = open(path, 'w')
         print >> sys.stderr, "\\input{%s}" % (path)
 
-        if len(parallel_sessions) > 1:
+        if len(parallel_sessions) > 0:
             # Now print the abstracts of the papers in each of the sessions
             # Print the papers
             print >>out, '\\newpage'
-            print >>out, '\\section*{Abstracts: Parallel Session %s}' % (parallel_sessions[0].num)
+            print >>out, '\\section*{Abstracts: Session %s}' % (parallel_sessions[0].num)
             print >>out, '\\bigskip{}'
             for i, session in enumerate(parallel_sessions):
                     chair = session.chair()
@@ -145,6 +149,8 @@ for date in cs.dates:
                         if paper.id is not None: print >>out, '\\paperabstract{%s}{%s}{%s}' % (paper.id, paper.time, paper.prefix)
                     print >>out, '\\clearpage'
             print >>out, '\n'
+        else:
+            debug("########## Skipping Abstracts for session <%s> <%s>"% ( session.name, session.desc) ) 
 
         # POSTER SESSIONS
         for session in poster_sessions:

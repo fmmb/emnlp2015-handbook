@@ -88,13 +88,13 @@ for date in cs.dates:
                                 if p.id is None:
                                     print >>out, ' & & & \\textit{%s}\\\\' % ( p.title )
                                 else:
-                                    print >>out, ' & & & \\publistentry{%s}{%s}\\\\'% ( p.id, p.prefix )
+                                    print >>out, ' & & & \\paperlistentry{%s}\\\\'% ( p.id )
                             else:
                                 start, stop = p.time.split("--")
                                 if p.id is None:
                                     print >>out, ' %s & -- & %s & \\textit{%s}\\\\' % ( start, stop, p.title )
                                 else:
-                                    print >>out, ' %s & -- & %s & \\publistentry{%s}{%s}\\\\'% ( start, stop, p.id, p.prefix )
+                                    print >>out, ' %s & -- & %s & \\paperlistentry{%s}\\\\'% ( start, stop, p.id )
                 else:
                     raise ValueError("Unknown type!!!")
 
