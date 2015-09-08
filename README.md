@@ -81,6 +81,9 @@ The publication chairs are responsible for creating the schedule, and consequent
 At some point, changes will mostly focus on the schedule, so downloading a huge file containing everything, just for extracting the order file may nopt be a good idea. Another option is to enter ACLPUB in START, go to the order tab and copy the contents of the order file. However, if the option "Use the Schedule Maker to produce the order file" is selected, you must click "Import order from ScheduleMaker", making sure that the option "Use the Schedule Maker to produce the order file" is remains selected. This way, you can generate the order file, even though it will not be the information source for the proceedings. You can then copy the result content to your local order file. 
 
 
+## PDF quality: Printing vs. web
+
+After producing the printing version, containing the best quality graphics (18.6Mb), I decided to produce a lightweight version for the web (8.1 Mb) simply by using images with lower quality. The lower quality images were stored in the content/images-web directory. The file content/ads-web.lyx in the alternate lower quality version of the content/ads.lyx file.
 
 
 
