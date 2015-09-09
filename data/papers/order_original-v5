@@ -1,8 +1,7 @@
 * Friday, September 18, 2015
 = 18:30--20:00 Welcome Reception # %room Culturgest
 * Saturday, September 19, 2015
-+ 07:30--18:00 Registration
-+ 08:00--08:40 Morning Coffee
+= 07:30--18:00 Registration
 = 08:40--10:00 Session P1: Plenary Session # %room Main Auditorium
 ! 08:40--09:00 Opening Remarks and Introductory Speeches %by General Chair, Program Co-Chairs and Local Co-Chairs
 ! 09:00--10:00 Invited Talk: Deep Learning of Semantic Representations %by Yoshua Bengio %u http://www.emnlp2015.org/invited-speakers.html#i1
@@ -11,36 +10,34 @@
 303 10:30--10:55  # Language Understanding for Text-based Games using Deep Reinforcement Learning
 480 10:55--11:20  # Distributional vectors encode referential attributes
 504 11:20--11:45  # Building a shared world: mapping distributional to model-theoretic semantic spaces
-! 11:45--12:10 %ext tacl-final:13
+! 11:45--12:10 [TACL] Deriving Boolean Structures from Distributional Vectors %by Germán Kruszewski, Denis Paperno and Marco Baroni %u https://aclweb.org/anthology/Q/Q15/Q15-1027.pdf 
 = 10:30--12:10 Session 1B: Machine Translation (Long + TACL Papers) # %room Small Auditorium %chair1 John DeNero
 444 10:30--10:55  # Dependency Graph-to-String Translation
 501 10:55--11:20  # Reordering Grammar Induction
 630 11:20--11:45  # Syntax-based Rewriting for Simultaneous Machine Translation
-! 11:45--12:10 %ext tacl-final:3
+! 11:45--12:10 [TACL] Modelling and Optimizing on Syntactic N-Grams for Statistical Machine Translation %by Rico Sennrich %u https://aclweb.org/anthology/Q/Q15/Q15-1013.pdf 
 = 10:30--12:10 Session 1C: NLP for the Web and Social Media, including Computational Social Science (Long Papers) # %room Room 2 %chair1 Brendan O'Connor
 215 10:30--10:55  # Identifying Political Sentiment between Nation States with Social Media
 312 10:55--11:20  # Open Extraction of Fine-Grained Political Statements
 538 11:20--11:45  # Using Personal Traits For Brand Preference Prediction
 694 11:45--12:10  # Semantic Annotation for Microblog Topics Using Wikipedia Temporal Information
-= 10:30--12:10 Session 1D: Long Paper Posters # %room Lower Level Foyer %chair1 Saif Mohammad
-! 10:30--12:10 Poster Cluster 1: Summarization (P1-4) %by Poster Presenters
+= 10:30--12:10 Session 1D (P1-4): Summarization (Long Paper Posters) # %room Lower Level Foyer %chair1 Saif Mohammad
 44   # System Combination for Multi-document Summarization
 234   # Phrase-based Compressive Cross-Language Summarization
 263   # Re-evaluating Automatic Summarization with BLEU and 192 Shades of ROUGE
 603   # Indicative Tweet Generation: An Extractive Summarization Problem?
-! 10:30--12:10 Poster Cluster 2: Language and Vision (P5) %by Poster Presenters
+= 10:30--12:10 Session 1D (P5): Language and Vision (Long Paper Posters) # %room Lower Level Foyer %chair1 Saif Mohammad
 256   # Visual Bilingual Lexicon Induction with Transferred ConvNet Features
-! 10:30--12:10 Poster Cluster 3: Sentiment Analysis and Opinion Mining (P6-9) %by Poster Presenters
+= 10:30--12:10 Session 1D (P6-9): Sentiment Analysis and Opinion Mining (Long Paper Posters) # %room Lower Level Foyer %chair1 Saif Mohammad
 89   # Cross Lingual Sentiment Analysis using Modified BRAE
 152   # Monotone Submodularity in Opinion Summaries
 617   # Joint Prediction for Entity/Event-Level Sentiment Analysis using Probabilistic Soft Logic Models
 646   # Learning to Recognize Affective Polarity in Similes
-= 10:30--12:10 Session 1E: Short Paper Posters # %room Lower Level Foyer %chair1 Kevin Duh
-! 10:30--12:10 Poster Cluster 1: Language and Vision (P1-3) %by Poster Presenters
+= 10:30--12:10 Session 1E (P1-3): Language and Vision (Short Paper Posters) # %room Lower Level Foyer %chair1 Kevin Duh
 912   # Cross-document Event Coreference Resolution based on Cross-media Features
 1268   # A Survey of Current Datasets for Vision and Language Research
 1300   # Combining Geometric, Textual and Visual Features for Predicting Prepositions in Image Descriptions
-! 10:30--12:10 Poster Cluster 2: Statistical Models and Machine Learning Methods (P4-16) %by Poster Presenters
+= 10:30--12:10 Session 1E (P4-16): Statistical Models and Machine Learning Methods (Short Paper Posters) # %room Lower Level Foyer %chair1 Kevin Duh
 751   # On A Strictly Convex IBM Model 1
 762   # Factorization of Latent Variables in Distributional Semantic Models
 1048   # Non-lexical neural architecture for fine-grained POS Tagging
@@ -59,19 +56,18 @@
 458 13:30--13:55  # Evaluation methods for unsupervised word embeddings
 473 13:55--14:20  # Efficient Methods for Incorporating Knowledge into Topic Models
 632 14:20--14:45  # Traversing Knowledge Graphs in Vector Space
-! 14:45--15:10 %ext tacl-final:10
+! 14:45--15:10 [TACL] Improving Topic Models with Latent Feature Word Representations %by Dat Quoc Nguyen, Richard Billingsley, Lan Du and Mark Johnson %u https://aclweb.org/anthology/Q/Q15/Q15-1022.pdf 
 = 13:30--15:10 Session 2B: Tagging, Chunking and Parsing (Long +TACL Papers) # %room Small Auditorium %chair1 Eugene Charniak
 54 13:30--13:55  # Density-Driven Cross-Lingual Transfer of Dependency Parsers
 162 13:55--14:20  # A Neural Network Model for Low-Resource Universal Dependency Parsing
 524 14:20--14:45  # Improved Transition-based Parsing by Modeling Characters instead of Words with LSTMs
-! 14:45--15:10 %ext tacl-final:16
+! 14:45--15:10 [TACL] Approximation-Aware Dependency Parsing by Belief Propagation %by Matthew R. Gormley, Mark Dredze and Jason Eisner %u https://aclweb.org/anthology/Q/Q15/Q15-1035.pdf 
 = 13:30--15:10 Session 2C: Summarization (Long Papers) # %room Room 2 %chair1 Yvette Graham
 178 13:30--13:55  # Sentence Compression by Deletion with LSTMs
 236 13:55--14:20  # An Empirical Comparison Between N-gram and Syntactic Language Models for Word Ordering
 345 14:20--14:45  # A Neural Attention Model for Abstractive Sentence Summarization
 616 14:45--15:10  # Scientific Article Summarization Using Citation-Context and Article's Discourse Structure
-= 13:30--15:10 Session 2D: Long Paper Posters # %room Lower Level Foyer %chair1 Nate Chambers
-! 13:30--15:10 Poster Cluster 1: Text Mining and NLP Applications (P1-9) %by Poster Presenters
+= 13:30--15:10 Session 2D (P1-9): Text Mining and NLP Applications (Long Paper Posters) # %room Lower Level Foyer %chair1 Nate Chambers
 102   # Hashtag Recommendation Using Dirichlet Process Mixture Models Incorporating Types of Hashtags
 259   # A Graph-based Readability Assessment Method using Word Coupling
 432   # More Features Are Not Always Better: Evaluating Generalizing Models in Incident Type Classification of Tweets
@@ -81,8 +77,7 @@
 544   # Human Evaluation of Grammatical Error Correction Systems
 608   # Learning a Deep Hybrid Model for Semi-Supervised Text Classification
 614   # Joint Embedding of Query and Ad by Leveraging Implicit Feedback
-= 13:30--15:10 Session 2E: Short Paper Posters # %room Lower Level Foyer %chair1 Wei Lu
-! 13:30--15:10 Poster Cluster 1: Information Extraction (P1-11) %by Poster Presenters
+= 13:30--15:10 Session 2E (P1-11): Information Extraction (Short Paper Posters) # %room Lower Level Foyer %chair1 Wei Lu
 821   # Automatic Extraction of Time Expressions Accross Domains in French Narratives
 902   # Semi-Supervised Bootstrapping of Relationship Extractors with Distributional Semantics
 995   # Extraction and generalisation of variables from scientific publications
@@ -94,7 +89,7 @@
 1383   # A Baseline Temporal Tagger for all Languages
 1440   # Named Entity Recognition for Chinese Social Media with Jointly Trained Embeddings
 1464   # Inferring Binary Relation Schemas for Open Information Extraction
-! 13:30--15:10 Poster Cluster 2: Information Retrieval and Question Answering (P12-16) %by Poster Presenters
+= 13:30--15:10 Session 2E (P12-16): Information Retrieval and Question Answering (Short Paper Posters) # %room Lower Level Foyer %chair1 Wei Lu
 887   # LDTM: A Latent Document Type Model for Cumulative Citation Recommendation
 933   # Online Sentence Novelty Scoring for Topical Document Streams
 1249   # Global Thread-level Inference for Comment Classification in Community Question Answering
@@ -109,15 +104,14 @@
 = 15:40--17:20 Session 3B: Semantics (Long +TACL Papers) # %room Small Auditorium %chair1 Regina Barzilay
 536 15:40--16:05  # A large annotated corpus for learning natural language inference
 635 16:05--16:30  # Question-Answer Driven Semantic Role Labeling: Using Natural Language to Annotate Natural Language
-! 16:30--16:55 %ext tacl-final:1
-! 16:55--17:20 %ext tacl-final:18
+! 16:30--16:55 [TACL] It’s All Fun and Games until Someone Annotates: Video Games with a Purpose for Linguistic Annotation. %by David Jurgens and Roberto Navigli %u https://aclweb.org/anthology/Q/Q14/Q14-1035.pdf 
+! 16:55--17:20 [TACL] Semantic Proto-Roles %by Drew Reisinger, Rachel Rudinger, Francis Ferraro, Kyle Rawlins and Benjamin Van Durme %u https://aclweb.org/anthology/Q/Q15/Q15-1034.pdf 
 = 15:40--17:20 Session 3C: Information Retrieval and Question Answering (Long Papers) # %room Room 2 %chair1 Scott Wen-tau Yih
 64 15:40--16:05  # Name List Only? Target Entity Disambiguation in Short Texts
 150 16:05--16:30  # Biography-Dependent Collaborative Entity Archiving for Slot Filling
 350 16:30--16:55  # Stochastic Top-k ListNet
 582 16:55--17:20  # Exploring Markov Logic Networks for Question Answering
-= 15:40--17:20 Session 3D: Long + TACL Paper Posters # %room Lower Level Foyer %chair1 Einat Minkov
-! 15:40--17:20 Poster Cluster 1: Information Extraction (P1-9) %by Poster Presenters
+= 15:40--17:20 Session 3D (P1-9): Information Extraction (Long + TACL Paper Posters) # %room Lower Level Foyer %chair1 Einat Minkov
 221   # Language and Domain Independent Entity Linking with Quantified Collective Validation
 232   # Modeling Relation Paths for Representation Learning of Knowledge Bases
 385   # Corpus-level Fine-grained Entity Typing Using Contextual Information
@@ -125,10 +119,9 @@
 474   # Open-Domain Name Error Detection using a Multi-Task RNN
 526   # Extracting Relations between Non-Standard Entities using Distant Supervision and Imitation Learning
 708   # Sieve-Based Spatial Relation Extraction with Expanding Parse Trees
-! %ext tacl-final:6
-! %ext tacl-final:8
-= 15:40--17:20 Session 3E: Short Paper Posters # %room Lower Level Foyer %chair1 Wei Xu
-! 15:40--17:20 Poster Cluster 1: Text Mining and NLP Applications (P1-13) %by Poster Presenters
+! [TACL] Cross-Document Co-Reference Resolution using Sample-Based Clustering with Knowledge Enrichment %by Sourav Dutta and Gerhard Weikum %u https://aclweb.org/anthology/Q/Q15/Q15-1002.pdf 
+! [TACL] Combining Minimally-supervised Methods for Arabic Named Entity Recognition %by Maha Althobaiti, Udo Kruschwitz and Massimo Poesio %u https://aclweb.org/anthology/Q/Q15/Q15-1018.pdf 
+= 15:40--17:20 Session 3E (P1-13): Text Mining and NLP Applications (Short Paper Posters) # %room Lower Level Foyer %chair1 Wei Xu
 1393   # Mr. Bennet, his coachman, and the Archbishop walk into a bar but only one of them gets recognized: On The Difficulty of Detecting Characters in Literary Texts
 785   # Convolutional Sentence Kernel from Word Embeddings for Short Text Categorization
 850   # Predicting the Structure of Cooking Recipes
@@ -143,8 +136,7 @@
 776   # Multi-label Text Categorization with Joint Learning Predictions-as-Features Method
 777   # A Framework for Comparing Groups of Documents
 * Sunday, September 20, 2015
-+ 07:30--18:00 Registration
-+ 08:00--09:00 Morning Coffee
+= 07:30--18:00 Registration
 = 09:00--10:00 Session P2: Plenary Session # %room Main Auditorium
 !  Invited Talk: Measuring How Elected Officials and Constituents Communicate %by Justin Grimmer %u http://www.emnlp2015.org/invited-speakers.html#i2
 + 10:00--10:30 Coffee break
@@ -161,10 +153,9 @@
 = 10:30--12:10 Session 4C: Discourse (Long +TACL Papers) # %room Room 2 %chair1 Pascal Denis
 417 10:30--10:55  # Discourse parsing for multi-party chat dialogues
 568 10:55--11:20  # Joint prediction in MST-style discourse parsing for argumentation mining
-! 11:20--11:45 %ext tacl-final:4
-! 11:45--12:10 %ext tacl-final:12
-= 10:30--12:10 Session 4D: Long Paper Posters # %room Lower Level Foyer %chair1 Sam Bowman
-! 10:30--12:10 Poster Cluster 1: Semantics (P1-8) %by Poster Presenters
+! 11:20--11:45 [TACL] One Vector is Not Enough: Entity-Augmented Distributed Semantics for Discourse Relations %by Yangfeng Ji and Jacob Eisenstein %u https://aclweb.org/anthology/Q/Q15/Q15-1024.pdf 
+! 11:45--12:10 [TACL] Latent Structures for Coreference Resolution %by Sebastian Martschat and Michael Strube %u https://aclweb.org/anthology/Q/Q15/Q15-1029.pdf 
+= 10:30--12:10 Session 4D (P1-8): Semantics (Long Paper Posters) # %room Lower Level Foyer %chair1 Sam Bowman
 318   # Feature-Rich Two-Stage Logistic Regression for Monolingual Alignment
 455   # Semantic Role Labeling with Neural Network Factors
 520   # RELLY: Inferring Hypernym Relationships Between Relational Phrases
@@ -173,8 +164,7 @@
 606   # Sarcastic or Not: Word Embeddings to Predict the Literal or Sarcastic Meaning of Words
 653   # Incorporating Trustiness and Collective Synonym/Contrastive Evidence into Taxonomy Construction
 654   # Learning to Automatically Solve Logic Grid Puzzles
-= 10:30--12:10 Session 4E: Short Paper Posters # %room Lower Level Foyer %chair1 Maja Popovic
-! 10:30--12:10 Poster Cluster 1: Machine Translation and Multilinguality (P1-13) %by Poster Presenters
+= 10:30--12:10 Session 4E (P1-13): Machine Translation and Multilinguality (Short Paper Posters) # %room Lower Level Foyer %chair1 Maja Popovic
 804   # Improving fast_align by Reordering
 950   # Touch-Based Pre-Post-Editing of Machine Translation Output
 1058   # A Discriminative Training Procedure for Continuous Translation Models
@@ -188,29 +178,28 @@
 1451   # Rule Selection with Soft Syntactic Features for String-to-Tree Statistical Machine Translation
 1455   # Motivating Personality-aware Machine Translation
 1470   # Trans-gram, Fast Cross-lingual Word-embeddings
-! 10:30--12:10 Poster Cluster 2: Computational Psycholinguistics (P14-16) %by Poster Presenters
+= 10:30--12:10 Session 4E (P14-16): Computational Psycholinguistics (Short Paper Posters) # %room Lower Level Foyer %chair1 Maja Popovic
 1274   # The Overall Markedness of Discourse Relations
 1314   # Experiments in Open Domain Deception Detection
 1323   # A model of rapid phonotactic generalization
 + 12:10--12:50 Lunch
 = 12:50--13:30 Session P3: SIGDAT business meeting # %room Main Auditorium
 = 13:30--15:10 Session 5A: Text Mining and NLP Applications (Long + TACL Papers) # %room Main Auditorium %chair1 Marie-Francine Moens
-! 13:30--13:55 %ext tacl-final:14
+! 13:30--13:55 [TACL] Unsupervised Identification of Translationese %by Ella Rabinovich and Shuly Wintner %u https://aclweb.org/anthology/Q/Q15/Q15-1030.pdf 
 658 13:55--14:20  # Automatically Solving Number Word Problems by Semantic Parsing and Reasoning
-! 14:20--14:45 %ext tacl-final:2
-! 14:45--15:10 %ext tacl-final:7
+! 14:20--14:45 [TACL] Which Step Do I Take First? Troubleshooting with Bayesian Models %by Annie Louis and Mirella Lapata %u https://aclweb.org/anthology/Q/Q15/Q15-1006.pdf 
+! 14:45--15:10 [TACL] Problems in Current Text Simplification Research: New Data Can Help %by Wei Xu, Chris Callison-Burch and Courtney Napoles %u https://aclweb.org/anthology/Q/Q15/Q15-1021.pdf 
 = 13:30--15:10 Session 5B: Semantics (Long +TACL Papers) # %room Small Auditorium %chair1 Benjamin Van Durme
 222 13:30--13:55  # Parsing English into Abstract Meaning Representation Using Syntax-Based Machine Translation
 564 13:55--14:20  # The Forest Convolutional Network: Compositional Distributional Semantics with a Neural Chart and without Binarization
 615 14:20--14:45  # Alignment-Based Compositional Semantics for Instruction Following
-! 14:45--15:10 %ext tacl-final:17
+! 14:45--15:10 [TACL] Context-aware Frame-Semantic Role Labeling %by Michael Roth and Mirella Lapata %u https://aclweb.org/anthology/Q/Q15/Q15-1032.pdf 
 = 13:30--15:10 Session 5C: Phonology and Word Segmentation (Long Papers) # %room Room 2 %chair1 Yue Zhang
 164 13:30--13:55  # Do we need bigram alignment models? On the effect of alignment quality on transduction accuracy in G2P
 336 13:55--14:20  # Keyboard Logs as Natural Annotations for Word Segmentation
 470 14:20--14:45  # Long Short-Term Memory Neural Networks for Chinese Word Segmentation
 681 14:45--15:10  # Semi-supervised Chinese Word Segmentation based on Bilingual Information
-= 13:30--15:10 Session 5D: Long Paper Posters # %room Lower Level Foyer %chair1 Boxing Chen
-! 13:30--15:10 Poster Cluster 1: Machine Translation and Multilinguality (P1-8) %by Poster Presenters
+= 13:30--15:10 Session 5D (P1-8): Machine Translation and Multilinguality (Long Paper Posters) # %room Lower Level Foyer %chair1 Boxing Chen
 328   # Hierarchical Back-off Modeling of Hiero Grammar based on Non-parametric Bayesian Model
 354   # Consistency-Aware Search for Word Alignment
 381   # Graph-Based Collective Lexical Selection for Statistical Machine Translation
@@ -219,8 +208,7 @@
 477   # Detecting Content-Heavy Sentences: A Cross-Language Case Study
 663   # Search-Aware Tuning for Hierarchical Phrase-based Decoding
 685   # Part-of-speech Taggers for Low-resource Languages using CCA Features
-= 13:30--15:10 Session 5E: Short Paper Posters # %room Lower Level Foyer %chair1 Stephen Clark
-! 13:30--15:10 Poster Cluster 1: Tagging, Syntax and Parsing (P1-12) %by Poster Presenters
+= 13:30--15:10 Session 5E (P1-12): Tagging, Syntax and Parsing (Short Paper Posters) # %room Lower Level Foyer %chair1 Stephen Clark
 794   # An Improved Tag Dictionary for Faster Part-of-Speech Tagging
 837   # Improving Arabic Diacritization through Syntactic Analysis
 839   # Combining Discrete and Continuous Features for Deterministic Transition-based Dependency Parsing
@@ -249,8 +237,7 @@
 494 16:05--16:30  # Do You See What I Mean? Visual Resolution of Linguistic Ambiguities
 138 16:30--16:55  # Efficient and Expressive Knowledge Base Completion Using Subgraph Feature Extraction
 674 16:55--17:20  # Representing Text for Joint Embedding of Text and Knowledge Bases
-= 15:40--17:20 Session 6D: Long Paper Posters # %room Lower Level Foyer %chair1 Noah Smith
-! 15:40--17:20 Poster Cluster 1: Statistical Models and Machine Learning Methods (P1-10) %by Poster Presenters
+= 15:40--17:20 Session 6D (P1-10): Statistical Models and Machine Learning Methods (Long Paper Posters) # %room Lower Level Foyer %chair1 Noah Smith
 223   # A Utility Model of Authors in the Scientific Community
 261   # Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation
 414   # Syntax-Aware Multi-Sense Word Embeddings for Deep Compositional Models of Meaning
@@ -261,8 +248,7 @@
 684   # Posterior calibration and exploratory analysis for natural language processing models
 715   # A Generative Word Embedding Model and its Low Rank Positive Semidefinite Solution
 717   # Reading Documents for Bayesian Online Change Point Detection
-= 15:40--17:20 Session 6E: Short Paper Posters # %room Lower Level Foyer %chair1 Ido Dagan
-! 15:40--17:20 Poster Cluster 1: Semantics (P1-13) %by Poster Presenters
+= 15:40--17:20 Session 6E (P1-13): Semantics (Short Paper Posters) # %room Lower Level Foyer %chair1 Ido Dagan
 827   # Recognizing Textual Entailment Using Probabilistic Inference
 865   # Chinese Semantic Role Labeling with Bidirectional Recurrent Neural Networks
 872   # Unsupervised Negation Focus Identification with Word-Topic Graph Model
@@ -278,19 +264,18 @@
 1394   # A Strong Lexical Matching Method for the Machine Comprehension Test
 = 19:00--23:00 Conference Dinner # %room Pateo Alfacinha
 * Monday, September 21, 2015
-+ 07:30--18:00 Registration
-+ 08:00--09:00 Morning Coffee
+= 07:30--18:00 Registration
 = 09:00--10:00 Session P4: Plenary Session # %room Main Auditorium
 ! 09:00--09:05 Best Paper Awards %by Chris Callison-Burch and Jian Su
 662 09:05--09:30  # Broad-coverage CCG Semantic Parsing with AMR
 72 09:30--09:55  # Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems
-536 09:55--10:05 # A large annotated corpus for learning natural language inference
+! 09:55--10:05 A Large Annotated Corpus for Learning Natural Language Inference %by Samuel R. Bowman, Gabor Angeli, Christopher Potts and Christopher D. Manning
 + 10:05--10:30 Coffee break
 = 10:30--12:10 Session 7A: Semantics (Long +TACL Papers) # %room Main Auditorium %chair1 Luke Zettlemoyer
 262 10:30--10:55  # Do Multi-Sense Embeddings Improve Natural Language Understanding?
 491 10:55--11:20  # Learning Semantic Composition to Detect Non-compositionality of Multiword Expressions
 667 11:20--11:45  # Solving General Arithmetic Word Problems
-! 11:45--12:10 %ext tacl-final:9
+! 11:45--12:10 [TACL] From Paraphrase Database to Compositional Paraphrase Model and Back %by John Wieting, Mohit Bansal, Kevin Gimpel, Karen Livescu and Dan Roth %u https://aclweb.org/anthology/Q/Q15/Q15-1025.pdf 
 = 10:30--12:10 Session 7B: Information Extraction (Long Papers) # %room Small Auditorium %chair1 Shiqi Zhao
 165 10:30--10:55  # Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks
 195 10:55--11:20  # CORE: Context-Aware Open Relation Extraction with Factorization Machines
@@ -301,20 +286,18 @@
 539 10:55--11:20  # Personality Profiling of Fictional Characters using Sense-Level Links between Lexical Resources
 121 11:20--11:45  # Leave-one-out Word Alignment without Garbage Collector Effects
 565 11:45--12:10  # Generalized Agreement for Bidirectional Word Alignment
-= 10:30--12:10 Session 7D: Long +TACL Paper Posters # %room Lower Level Foyer %chair1 David McClosky
-! 10:30--12:10 Poster Cluster 1: Word Segmentation, Tagging and Parsing (P1-6) %by Poster Presenters
+= 10:30--12:10 Session 7D (P1-6): Word Segmentation, Tagging and Parsing (Long +TACL Paper Posters) # %room Lower Level Foyer %chair1 David McClosky
 316   # A Transition-based Model for Joint Segmentation, POS-tagging and Normalization
 247   # Multilingual discriminative lexicalized phrase structure parsing
 406   # Hierarchical Low-Rank Tensors for Multilingual Transfer Parsing
 442   # Diversity in Spectral Learning for Natural Language Parsing
 472   # Transition-based Dependency Parsing Using Two Heterogeneous Gated Recursive Neural Networks
-! %ext tacl-final:15
-= 10:30--12:10 Session 7E: Short Paper Posters # %room Lower Level Foyer %chair1 Jun-Ping Ng
-! 10:30--12:10 Poster Cluster 1: Spoken Language Processing (P1-3) %by Poster Presenters
+! [TACL] A Graph-based Lattice Dependency Parser for Joint Morphological Segmentation and Syntactic Analysis %by Wolfgang Seeker and Özlem Çetinoğlu %u https://aclweb.org/anthology/Q/Q15/Q15-1026.pdf 
+= 10:30--12:10 Session 7E (P1-3): Spoken Language Processing (Short Paper Posters) # %room Lower Level Foyer %chair1 Jun-Ping Ng
 908   # Turn-taking phenomena in incremental dialogue systems
 1032   # Hierarchical Latent Words Language Models for Robust Modeling to Out-Of Domain Tasks
 1211   # A Coarse-Grained Model for Optimal Coupling of ASR and SMT Systems for Speech Translation
-! 10:30--12:10 Poster Cluster 2: Summarization (P4-18) %by Poster Presenters
+= 10:30--12:10 Session 7E (P4-18): Summarization (Short Paper Posters) # %room Lower Level Foyer %chair1 Jun-Ping Ng
 806   # Abstractive Multi-document Summarization with Semantic Information Extraction
 812   # Concept-based Summarization using Integer Linear Programming: From Concept Pruning to Multiple Optimal Solutions
 941   # GhostWriter: Using an LSTM for Automatic Rap Lyric Generation
@@ -354,20 +337,18 @@
 744 14:30--14:45  # Bayesian Optimization of Text Representations
 960 14:45--15:00  # A Comparative Study on Regularization Strategies for Embedding-based Neural Networks
 1294 15:00--15:15  # Efficient Hyper-parameter Optimization for NLP Applications
-= 13:30--15:15 Session 8D: Long Paper Posters # %room Lower Level Foyer %chair1 Tim Baldwin
-! 13:30--15:15 Poster Cluster 1: NLP for the Web and Social Media, including Computational Social Science (P1-6) %by Poster Presenters
+= 13:30--15:15 Session 8D (P1-6): NLP for the Web and Social Media, including Computational Social Science (Long Paper Posters) # %room Lower Level Foyer %chair1 Tim Baldwin
 228   # Improved Arabic Dialect Classification with Social Media Data
 249   # Exploiting Debate Portals for Semi-Supervised Argumentation Mining in User-Generated Web Discourse
 459   # Confounds and Consequences in Geotagged Twitter Data
 481   # Modeling Reportable Events as Turning Points in Narrative
 598   # Towards the Extraction of Customer-to-Customer Suggestions from Reviews
 621   # Using Content-level Structures for Summarizing Microblog Repost Trees
-! 13:30--15:15 Poster Cluster 2: Discourse (P7-9) %by Poster Presenters
+= 13:30--15:15 Session 8D (P7-9): Discourse (Long Paper Posters) # %room Lower Level Foyer %chair1 Tim Baldwin
 363   # Intra-sentential Zero Anaphora Resolution using Subject Sharing Recognition
 587   # Estimation of Discourse Segmentation Labels from Crowd Data
 677   # Comparing Word Representations for Implicit Discourse Relation Classification
-= 13:30--15:15 Session 8E: Short Paper Posters # %room Lower Level Foyer %chair1 Owen Rambow
-! 13:30--15:15 Poster Cluster 1: Discourse (P1-9) %by Poster Presenters
+= 13:30--15:15 Session 8E (P1-9): Discourse (Short Paper Posters) # %room Lower Level Foyer %chair1 Owen Rambow
 276   # Better Document-level Sentiment Analysis from RST Discourse Parsing
 748   # Closing the Gap: Domain Adaptation from Explicit to Implicit Discourse Relations
 799   # Wikification of Concept Mentions within Spoken Dialogues Using Domain Constraints from Wikipedia
@@ -377,7 +358,7 @@
 1056   # Learning Word Meanings and Grammar for Describing Everyday Activities in Smart Environments
 1091   # Discourse Element Identification in Student Essays based on Global and Local Cohesion
 1115   # Adapting Coreference Resolution for Narrative Processing
-! 13:30--15:15 Poster Cluster 2: Phonology, Morphology and Word Segmentation (P10-15) %by Poster Presenters
+= 13:30--15:15 Session 8E (P10-15): Phonology, Morphology and Word Segmentation (Short Paper Posters) # %room Lower Level Foyer %chair1 Owen Rambow
 815   # Joint Lemmatization and Morphological Tagging with Lemming
 816   # Transducer Disambiguation with Sparse Topological Features
 894   # Arabic Diacritization with Recurrent Neural Networks
@@ -389,7 +370,7 @@
 60 15:40--16:05  # When Are Tree Structures Necessary for Deep Learning of Representations?
 323 16:05--16:30  # Discriminative Neural Sentence Modeling by Tree-Based Convolution
 588 16:30--16:55  # Multi-Timescale Long Short-Term Memory Neural Network for Modelling Sentences and Documents
-! 16:55--17:20 %ext tacl-final:11
+! 16:55--17:20 [TACL] Learning Structural Kernels for Natural Language Processing %by Daniel Beck, Trevor Cohn, Christian Hardmeier and Lucia Specia %u https://aclweb.org/anthology/Q/Q15/Q15-1033.pdf 
 = 15:40--17:20 Session 9B: Text Mining and NLP Applications (Long Papers) # %room Small Auditorium %chair1 Shuming Shi
 147 15:40--16:05  # Verbal and Nonverbal Clues for Real-life Deception Detection
 454 16:05--16:30  # Social Media Text Classification under Negative Covariate Shift
@@ -400,8 +381,7 @@
 580 16:05--16:30  # A Dynamic Programming Algorithm for Computing N-gram Posteriors from Lattices
 638 16:30--16:55  # Bilingual Structured Language Models for Statistical Machine Translation
 382 16:55--17:20  # Compact, Efficient and Unlimited Capacity: Language Modeling with Compressed Suffix Trees
-= 15:40--17:20 Session 9D: Long Paper Posters # %room Lower Level Foyer %chair1 Nathan Schneider
-! 15:40--17:20 Poster Cluster 1: Semantics (P1-8) %by Poster Presenters
+= 15:40--17:20 Session 9D (P1-8): Semantics (Long Paper Posters) # %room Lower Level Foyer %chair1 Nathan Schneider
 105   # ERSOM: A Structural Ontology Matching Approach Using Automatically Learned Entity Representation
 109   # A Single Word is not Enough: Ranking Multiword Expressions Using Distributional Semantics
 116   # Syntactic Dependencies and Distributed Word Representations for Analogy Detection and Mining
@@ -410,8 +390,7 @@
 204   # Automatic recognition of habituals: a three-way classification of clausal aspect
 243   # Distributed Representations for Unsupervised Semantic Role Labeling
 308   # A Tableau Prover for Natural Logic and Language
-= 15:40--17:20 Session 9E: Short Paper Posters # %room Lower Level Foyer %chair1 Kang Liu
-! 15:40--17:20 Poster Cluster 1: Sentiment Analysis and Opinion Mining (P1-9) %by Poster Presenters
+= 15:40--17:20 Session 9E (P1-9): Sentiment Analysis and Opinion Mining (Short Paper Posters) # %room Lower Level Foyer %chair1 Kang Liu
 772   # JEAM: A Novel Model for Cross-Domain Sentiment Classification Based on Emotion Analysis
 796   # PhraseRNN: Phrase Recursive Neural Network for Aspect-based Sentiment Analysis
 832   # ASTD: Arabic Sentiment Tweets Dataset
@@ -421,7 +400,7 @@
 1313   # Deep Convolutional Neural Network Textual Features and Multiple Kernel Learning for Utterance-level Multimodal Sentiment Analysis
 1331   # SLSA: A Sentiment Lexicon for Standard Arabic
 1387   # Reinforcing the Topic of Embeddings with Theta Pure Dependence for Text Classification
-! 15:40--17:20 Poster Cluster 2: NLP for the Web and Social Media, including Computational Social Science (P10-17) %by Poster Presenters
+= 15:40--17:20 Session 9E (P10-17): NLP for the Web and Social Media, including Computational Social Science (Short Paper Posters) # %room Lower Level Foyer %chair1 Kang Liu
 943   # That's So Annoying!!!: A Lexical and Frame-Semantic Embedding Based Data Augmentation Approach to Automatic Categorization of Annoying Behaviors using #petpeeve Tweets
 983   # Detection of Steganographic Techniques on Twitter
 994   # #SupportTheCause: Identifying Motivations to Participate in Online Health Campaigns

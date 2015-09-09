@@ -20,19 +20,19 @@
 \usepackage{ragged2e}
 \usepackage{multirow}
 
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/content/tutorials.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/content/workshops.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/content/tutorials.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/content/workshops.bib}
 
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/papers/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/tacl-final/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/papers/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/tacl-final/papers.bib}
 
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/CogACLL/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/DiscoMT15/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/LSDSem/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/Louhi15/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/VL15/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/WASSA15/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/WMT15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/CogACLL/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/DiscoMT15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/LSDSem/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/Louhi15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/VL15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/WASSA15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/WMT15/papers.bib}
 \end_preamble
 \use_default_options false
 \begin_modules
@@ -435,7 +435,7 @@ addcontentsline{toc}{chapter}{Sponsor Ads}
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "content/ads.lyx"
+filename "content/ads-web.lyx"
 
 \end_inset
 

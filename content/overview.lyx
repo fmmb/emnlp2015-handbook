@@ -20,19 +20,19 @@
 \usepackage{ragged2e}
 \usepackage{multirow}
 
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/content/tutorials.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/content/workshops.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/content/tutorials.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/content/workshops.bib}
 
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/papers/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/tacl-final/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/papers/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/tacl-final/papers.bib}
 
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/CogACLL/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/DiscoMT15/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/LSDSem/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/Louhi15/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/VL15/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/WASSA15/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/WMT15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/CogACLL/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/DiscoMT15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/LSDSem/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/Louhi15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/VL15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/WASSA15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/WMT15/papers.bib}
 \end_preamble
 \use_default_options false
 \master ../emnlp-handbook.lyx
@@ -219,6 +219,13 @@ small
 \end_layout
 
 \begin_layout Standard
+\begin_inset VSpace -4ex*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \noindent
 
 \series bold
@@ -254,7 +261,7 @@ height "1pt"
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -307,6 +314,13 @@ end{SingleTrackSchedule}
 \end_layout
 
 \begin_layout Standard
+\begin_inset VSpace -2ex*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \noindent
 
 \series bold
@@ -342,7 +356,7 @@ height "1pt"
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -412,6 +426,13 @@ end{SingleTrackSchedule}
 \end_layout
 
 \begin_layout Standard
+\begin_inset VSpace -2ex*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \noindent
 
 \series bold
@@ -462,6 +483,13 @@ input{auto/papers/Saturday-overview.tex}
 \end_layout
 
 \begin_layout Standard
+\begin_inset VSpace -2ex*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \noindent
 
 \series bold
@@ -506,6 +534,13 @@ status open
 input{auto/papers/Sunday-overview.tex}
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -2ex*
 \end_inset
 
 

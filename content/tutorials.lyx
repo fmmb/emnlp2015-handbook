@@ -13,8 +13,8 @@
 \definecolor{mygray}{gray}{0.75}
 \definecolor{dkblue}{rgb}{0,0,0.4}
 
-%\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/tutorials/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/content/tutorials.bib}
+%\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/tutorials/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/content/tutorials.bib}
 \end_preamble
 \use_default_options false
 \master ../emnlp-handbook.lyx

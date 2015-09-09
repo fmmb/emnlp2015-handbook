@@ -13,19 +13,19 @@
 \definecolor{mygray}{gray}{0.75}
 \definecolor{dkblue}{rgb}{0,0,0.4}
 
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/content/workshops.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/content/workshops.bib}
 
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/CogACLL/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/DiscoMT15/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/FakeConfPapers/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/FakeConfPubExp/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/FakeWorkshopPubExp/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/LSDSem/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/Louhi15/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/VL15/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/WASSA15/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/WMT15/papers.bib}
-\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/handbook/auto/papers/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/CogACLL/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/DiscoMT15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/FakeConfPapers/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/FakeConfPubExp/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/FakeWorkshopPubExp/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/LSDSem/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/Louhi15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/VL15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/WASSA15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/WMT15/papers.bib}
+\addbibresource{/Users/fmmb/Dropbox/Events/EMNLP2015/emnlp2015-handbook/auto/papers/papers.bib}
 \end_preamble
 \use_default_options false
 \master ../emnlp-handbook.lyx
