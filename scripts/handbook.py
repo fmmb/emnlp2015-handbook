@@ -111,7 +111,7 @@ class PaperItem:
             self.id = '%s-%s' % (subconf, threedigits(self.id))
             
     def __str__(self):
-        return "%s %s" % (self.id, self.time)
+        return "id=%s time=%s poster=%s prefix=%s" % (self.id, self.time, self.poster, self.prefix)
 
 class ExternalItem:
     ''' Examples:
@@ -146,7 +146,7 @@ class ExternalItem:
         #print >> sys.stderr, "DEBUG: External Item ID:%s TIME:%s POSTER:%s Prefix:%s Title:%s" % (self.id, self.time, self.poster, self.prefix, self.title)    
             
     def __str__(self):
-        return "%s %s %s %s" % (self.id, self.time, self.poster, self.title)
+        return "%s %s %s %s %s" % (self.id, self.time, self.poster, self.title, self.prefix)
 
 class Session:
     ''' Examples:
