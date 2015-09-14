@@ -86,16 +86,6 @@ for subconf in args.subconferences:
                 print "Skipping: %s"% line
                 
 
-        elif line.startswith('!'):
-            if session_name is None:
-                print "* WARNING: paper without a session name"
-                continue
-
-            if sessions[daydate][session_track].has_key(session_name):
-                paper_id, timerange, _ = line.split(' ', 2)
-                start, stop = timerange.split('--')
-
-
         elif re.match(r'\d+ \d+:\d+', line):
             """For the overview, we don't print sessions or papers, but we do need to look at
             oral presentations in order to determine the time range of the session (if any applies)"""
