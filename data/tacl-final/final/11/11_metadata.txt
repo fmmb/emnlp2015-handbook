@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#11
-FinalPaperTitle#=%=#Learning Structural Kernels for Natural Language Processing
-ShortPaperTitle#=%=#Learning Structural Kernels for Natural Language Processing
+FinalPaperTitle#=%=#Learning Structural Kernels for Natural Language Processing
+ShortPaperTitle#=%=#Learning Structural Kernels for Natural Language Processing
 NumberOfPages#=%=#13
 CopyrightSigned#=%=#Daniel Emilio Beck
 JobTitle#==#
