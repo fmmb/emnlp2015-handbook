@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env ipython
 # -*- coding: utf-8 -*-
 # Matt Post, June 2014
 
@@ -26,13 +26,19 @@ sys.stdout = codecs.getwriter('utf8')(sys.stdout)
 
 PARSER = argparse.ArgumentParser(description="Generate overview schedules for *ACL handbooks")
 PARSER.add_argument("subconferences", nargs='+')
-PARSER.add_argument("-template", dest="template", default='input/placard.jinja2', help="location of Jinja2 LaTeX template")
+PARSER.add_argument("-template", dest="template", default='content/placard.jinja2', help="location of Jinja2 LaTeX template")
 PARSER.add_argument("-output_dir", dest="output_dir", default="auto/placards")
-PARSER.add_argument("-logo", dest="logo", default="content/fmatter/logos/harbor.png")
+PARSER.add_argument("-logo", dest="logo", default="content/images/EMNLP-2015-Logo.jpg")
 args = PARSER.parse_args()
 
 if not os.path.exists(args.output_dir):
     os.makedirs(args.output_dir)
+
+def timef(time):
+    return time
+
+def timerangef(timerange):
+    return '--'.join(map(timef, timerange.split('--')))
 
 def minus12(time):
     hours, minutes = time.split(':')
@@ -54,7 +60,7 @@ class Vividict(dict):
 sessions = Vividict()
 
 for subconf in args.subconferences:
-    for line in open('data/%s/proceedings/order' % subconf):
+    for line in open('data/%s/order' % subconf):
         line = line.rstrip()
 
         # print "LINE", line
@@ -65,7 +71,7 @@ for subconf in args.subconferences:
             
         elif line.startswith('='):
             session_name = line[2:]
-            match = re.match(r'Session \d([A-E])', session_name)
+            match = re.search(r'Session \d([A-E])', session_name)
             if match is not None:
                 session_track = match.group(1)
                 if not sessions[daydate][session_track].has_key(session_name):
@@ -87,11 +93,11 @@ for subconf in args.subconferences:
                 paper_id, timerange, _ = line.split(' ', 2)
                 start, stop = timerange.split('--')
 
-                p = Paper('data/%s/proceedings/final/%s/%s_metadata.txt' % (subconf, paper_id, paper_id))
+                p = Paper('data/%s/final/%s/%s_metadata.txt' % (subconf, paper_id, paper_id))
                 if not sessions[daydate][session_track][session_name].has_key('papers'):
                     sessions[daydate][session_track][session_name]['papers'] = []
                 sessions[daydate][session_track][session_name]['papers'].append({
-                    'time': minus12range(timerange),
+                    'time': timerangef(timerange),
                     'title': p.escaped_title(),
                     'authors': (', '.join(map(unicode, p.authors)))
                 })
