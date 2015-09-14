@@ -89,7 +89,7 @@ def latex_escape(str):
 def threedigits(str):
     return '%03d' % (int(str))
 
-class Paper:
+class PaperItem:
     def __init__(self, line, subconf):
         self.line = line
         self.id = None
@@ -202,7 +202,7 @@ class Session:
         self.papers.append(paper)
 
     def get_papers_only(self):
-        return [p for p in self.papers if isinstance(p, Paper)]
+        return [p for p in self.papers if isinstance(p, PaperItem)]
         
     def chair(self):
         """Returns the (first name, last name) of the chair, if found in a %chair keyword"""
@@ -269,7 +269,7 @@ class ConfSchedule:
                     # FMMB: This should never be happening
                     raise ValueError
 
-                self.sessions[session_name].add_paper(Paper(line, subconf_name))
+                self.sessions[session_name].add_paper(PaperItem(line, subconf_name))
 
             elif line.startswith('!'):
                 if not self.sessions.has_key(session_name): raise ValueError("Session name should be set <%s>"%session_name)
