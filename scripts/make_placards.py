@@ -70,8 +70,9 @@ for subconf in args.subconferences:
             daydate = '%s, %s' % (day, date)
             
         elif line.startswith('='):
-            session_name = line[2:]
-            match = re.search(r'Session \d([A-E])', session_name)
+            line = line.split(" ",1)[1]
+            session_name = line.split("#",1)[0]
+            match = re.search(r'Session \d+([A-Z])|Session ([A-Z])\d+', session_name)
             if match is not None:
                 session_track = match.group(1)
                 if not sessions[daydate][session_track].has_key(session_name):
@@ -81,6 +82,19 @@ for subconf in args.subconferences:
                         'track': session_track,
                         'papers': []
                     }
+            else:
+                print "Skipping: %s"% line
+                
+
+        elif line.startswith('!'):
+            if session_name is None:
+                print "* WARNING: paper without a session name"
+                continue
+
+            if sessions[daydate][session_track].has_key(session_name):
+                paper_id, timerange, _ = line.split(' ', 2)
+                start, stop = timerange.split('--')
+
 
         elif re.match(r'\d+ \d+:\d+', line):
             """For the overview, we don't print sessions or papers, but we do need to look at
@@ -126,7 +140,8 @@ for day, data in sessions.iteritems():
                 'title': session,
                 'papers': sorted(data[track][session]['papers'], lambda x,y: sort_times(x,y))
             })
-
-        out = codecs.open('%s/%s-%s.tex' % (args.output_dir, day, track), 'w', 'utf-8')
+        fname = '%s/%s-%s.tex' % (args.output_dir, re.sub(", | ","-", day) , track)
+        out = codecs.open(fname , 'w', 'utf-8')
         out.write(template.render(all_data))
         out.close()
+        print "wrote: %s"% fname

@@ -1,49 +1,58 @@
 % This is a template file used to generate A1-sized placards
 % summarizing all the talks that take place in a particular room.
 
-\documentclass{book}
+\documentclass{extbook}
 
 \usepackage{pdfpages}
+\usepackage[a4paper,inner=1.25cm,outer=1.25cm,bottom=1.5cm,top=1.5cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{array}
+\usepackage{url}
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{ragged2e}
 
-% set paper size and margins; needs to be adapted for A5 ideally, we
-% should have a document class for conference handbooks where A5
-% vs. letter-halved is a class option
-\usepackage[
-  paperheight=841mm,
-  paperwidth=594mm,
-  inner=1.5in,
-  outer=1.5in,
-  bottom=2in,
-  top=2in,
-  twoside]{geometry}
-\usepackage{handbook}
 \usepackage{emnlp2015}
 
-\renewcommand{\footnotesize}{\fontsize{18}{22}\selectfont}
-\renewcommand{\small}{\fontsize{24}{28}\selectfont}
-\renewcommand{\normalsize}{\fontsize{32}{36}\selectfont}
-\renewcommand{\large}{\fontsize{36}{40}\selectfont}
-\renewcommand{\Large}{\fontsize{64}{66}\selectfont}
-\renewcommand{\huge}{\fontsize{72}{80}\selectfont}
+%\renewcommand{\footnotesize}{\fontsize{6}{7}\selectfont}
+%\renewcommand{\small}{\fontsize{8}{9}\selectfont}
+%\renewcommand{\normalsize}{\fontsize{10}{11}\selectfont}
+%\renewcommand{\large}{\fontsize{12}{14}\selectfont}
+%\renewcommand{\Large}{\fontsize{18}{20}\selectfont}
+%\renewcommand{\huge}{\fontsize{24}{28}\selectfont}
+
+\pagestyle{fancy}
+\markboth{}{}
+\renewcommand{\headrule}{}
+\fancyfoot[L]{ {\small EMNLP 2015: Conference on Empirical Methods in Natural Language Processing} }
+\fancyfoot[C]{ }
+\fancyfoot[R]{\small\url{emnlp2015.org} }
 
 \begin{document}
+\noindent \begin{minipage}[t]{0.6\columnwidth}
+\textbf{\Large{}{{ date }} }
 
-\section{Day at a Glance --- {{ date }}}
+\textbf{\Large{}\rule[0.5ex]{1\columnwidth}{1pt}}
 
-\begin{tabular}{p{8in}b{10in}}
-  \includegraphics[width=6in]{content/images/EMNLP-2015-Logo.jpg}
-  & \huge{\bfseries Track {{ track }}}\newline\Track{{ track }}Loc\vfill
-\end{tabular}
+\textbf{\huge{}Track {{ track }} }{\huge \par}
+
+{\huge{}\Track{{ track }}Loc }{\huge \par}
+
+\end{minipage}{\hfill{}}\raisebox{-0.70\height}{\includegraphics[width=5.5cm]{content/images/EMNLP-2015-Logo.jpg}}
+
+\vspace{1.25cm}
 
 \renewcommand{\arraystretch}{1.5}
-\fancyfoot[L]{ {\small EMNLP 2015: Conference on Empirical Methods in Natural Language Processing\hfill\url{emnlp2015.org}}}
 
 {% for session in sessions %}
-\begin{tabular}{p{3in}p{16in}}
-  \multicolumn{2}{l}{\bfseries\large {{ session.title }}} \\\hline
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}{{ session.title }}} \\\hline
 
     {% for paper in session.papers %}
-    {{ paper.time }}
+{{ paper.time }}
     &	{{ paper.title }} \newline 
     {\itshape {{ paper.authors }}} \\
     {% endfor %}
