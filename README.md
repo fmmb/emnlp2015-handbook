@@ -89,7 +89,7 @@ After producing the printing version, containing the best quality graphics (18.6
 ## Generating placards and chair names
 
 
-    ./scripts/make_placards.py  papers
+    ./scripts/make_placards.py papers
 
-    ./scripts/make_chair_names.py data/papers/order > auto/placards/chair_names.tex
-    pdflatex auto/placards/chair_names.tex
+    ./scripts/make_chair_names.py data/papers/order > misc/placards/chair_names.tex
+    pdflatex misc/placards/chair_names.tex
