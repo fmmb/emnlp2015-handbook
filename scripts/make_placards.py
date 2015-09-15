@@ -1,6 +1,7 @@
 #!/usr/bin/env ipython
 # -*- coding: utf-8 -*-
 # Matt Post, June 2014
+# Fernando Batista, September 2015
 
 """
 Generates the placards posted outside each room listing the sessions hosted there.

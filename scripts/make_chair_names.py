@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# Fernando Batista, September 2015
 
 import re
 import os
