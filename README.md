@@ -37,7 +37,7 @@ Now you can generate the workshop schedules:
       fi
     done
 
-At later stages of your work you probably will need to add info that has not been properly transferred to your order file, or to correct existing info. That will eventually hapen only for the main conference. For example: during EMNLP 2015, at some point %ext keywords disapeared from the order file, but they are important for getting the paper abstract. So, you will probably need to export info from schedule maker to excel to to google docs, and from there export to a tab separated values file (.TSV). Such .TSV file will contain all the information, so you can use a script to port it to your order file.
+At later stages of your work you probably will need to add info that has not been properly transferred to your order file, or to correct existing info. That will eventually hapen only for the main conference. For example: during EMNLP 2015, at some point %ext keywords disapeared from the order file, but they are important for getting the paper abstract. So, you will probably need to export info from schedule maker to excel or to google docs, and from there export to a tab separated values file (.TSV). Such .TSV file will contain all the information, so you can use a script to port it to your order file.
 
     ./scripts/merge-tacl-data/merge-tacl-data.py data/papers/order_original data/papers/schedule.tsv > data/papers/order
   
@@ -50,7 +50,7 @@ The resulting files must be included in your latex code, using the \input comman
 
 ## Some comments about LyX and biblatex
 
-I am using [LyX](http://www.lyx.org) to write my latex code. I find it particularly interesting for tables, but you can stick with latex if you want. In this repository I am keeping both versions, but be aware that the .tex files are being genberated by LyX and may not be updated, so look at the modification times.
+I am using [LyX](http://www.lyx.org) to write my latex code. I find it particularly interesting for tables, but you can stick with latex if you want. In this repository I am keeping both versions, but be aware that the .tex files are being genberated by LyX and may not up-to-date, so look at the modification times.
 
 The handbook requires the usage of [biblatex](https://www.ctan.org/pkg/biblatex). However, current versions of LyX require the following procedure to properly work: 
 1) Create the file ~/Library/Application\ Support/LyX-2.1/layouts/biblatex.module with the following content
@@ -77,8 +77,8 @@ Please take into account that \addbibresource requires an absolute path name
 
 ## Notes concerning the data coming from softconf
 
-The publication chairs are responsible for creating the schedule, and consequently, the order files. They will probably use ScheduleMaker, from which you can import the order file. In fact, most of then will probably use excel or google docs to create/change the schedule and then export to ScheduleMaker. You can get all the info, together with the order file, from proceedings.tgz that can be generated from the START system, and will probably be accessed by you using wget or curl.
-At some point, changes will mostly focus on the schedule, so downloading a huge file containing everything, just for extracting the order file may nopt be a good idea. Another option is to enter ACLPUB in START, go to the order tab and copy the contents of the order file. However, if the option "Use the Schedule Maker to produce the order file" is selected, you must click "Import order from ScheduleMaker", making sure that the option "Use the Schedule Maker to produce the order file" is remains selected. This way, you can generate the order file, even though it will not be the information source for the proceedings. You can then copy the result content to your local order file. 
+The publication chairs are responsible for creating the schedule, and consequently, the order files. They will probably use ScheduleMaker, from which you can import the order file. In fact, most of them will probably use excel or google docs to create/change the schedule and then export to ScheduleMaker. You can get all the info, together with the order file, from proceedings.tgz that can be generated from the START system, and will probably be accessed by you using wget or curl.
+At some point, changes will mostly focus on the schedule, so downloading a huge file containing everything, just for extracting the order file may not be a good idea. An alternate option is to enter ACLPUB in START, go to the order tab and copy the contents of the order file. However, if the option "Use the Schedule Maker to produce the order file" is selected, you must click "Import order from ScheduleMaker", making sure that the option "Use the Schedule Maker to produce the order file" is remains selected. This way, you can generate the order file, even though it will not be the information source for the proceedings. You can then copy the result content to your local order file. 
 
 
 ## PDF quality: Printing vs. web
@@ -86,10 +86,11 @@ At some point, changes will mostly focus on the schedule, so downloading a huge 
 After producing the printing version, containing the best quality graphics (18.6Mb), I decided to produce a lightweight version for the web (8.1 Mb) simply by using images with lower quality. The lower quality images were stored in the content/images-web directory. The file content/ads-web.lyx in the alternate lower quality version of the content/ads.lyx file.
 
 
-## Generating placards and chair names
-
+## Generating placards, chair names and usefull signs
 
     ./scripts/make_placards.py papers
 
     ./scripts/make_chair_names.py data/papers/order > misc/placards/chair_names.tex
     pdflatex misc/placards/chair_names.tex
+    
+    
