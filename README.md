@@ -86,7 +86,7 @@ At some point, changes will mostly focus on the schedule, so downloading a huge 
 After producing the printing version, containing the best quality graphics (18.6Mb), I decided to produce a lightweight version for the web (8.1 Mb) simply by using images with lower quality. The lower quality images were stored in the content/images-web directory. The file content/ads-web.lyx in the alternate lower quality version of the content/ads.lyx file.
 
 
-## Generating placards, chair names and usefull signs
+## Generating placards, chair names and useful signs
 
     ./scripts/make_placards.py papers
 
