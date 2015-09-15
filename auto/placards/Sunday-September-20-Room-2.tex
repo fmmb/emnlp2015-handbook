@@ -1,0 +1,92 @@
+% This is a template file used to generate A1-sized placards
+% summarizing all the talks that take place in a particular room.
+
+\documentclass{extbook}
+
+\usepackage{pdfpages}
+\usepackage[a4paper,inner=1.25cm,outer=1.25cm,bottom=2cm,top=4cm,headsep=2.5cm,footskip=1cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{array}
+\usepackage{url}
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{ragged2e}
+
+%\usepackage{emnlp2015}
+
+%\renewcommand{\footnotesize}{\fontsize{6}{7}\selectfont}
+%\renewcommand{\small}{\fontsize{8}{9}\selectfont}
+%\renewcommand{\normalsize}{\fontsize{10}{11}\selectfont}
+%\renewcommand{\large}{\fontsize{12}{14}\selectfont}
+%\renewcommand{\Large}{\fontsize{18}{20}\selectfont}
+%\renewcommand{\huge}{\fontsize{24}{28}\selectfont}
+
+\pagestyle{fancy}
+\markboth{}{}
+\renewcommand{\headrule}{}
+
+\lhead{
+\textbf{\Large{}Sunday, September 20 }\newline
+\textbf{\Large{}\rule[0.5ex]{.6\columnwidth}{1pt}}\newline
+\textbf{\huge{}Room 2 }\newline
+}
+\rhead{\raisebox{-0.01\height}{\includegraphics[width=5.5cm]{content/images/EMNLP-2015-Logo.jpg}}}
+
+\fancyfoot[L]{ {\small EMNLP 2015: Conference on Empirical Methods in Natural Language Processing} }
+\fancyfoot[C]{ }
+\fancyfoot[R]{\small\url{emnlp2015.org} }
+
+\begin{document}
+
+\bigskip{}
+
+\renewcommand{\arraystretch}{1.5}
+
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}10:30--12:10 Session 4C: Discourse } \\\hline
+ 10:30--10:55
+ & Discourse parsing for multi-party chat dialogues \newline {\itshape Stergos Afantenos, Eric Kow, Nicholas Asher, Jérémy Perret} \\ 
+ 10:55--11:20
+ & Joint prediction in MST-style discourse parsing for argumentation mining \newline {\itshape Andreas Peldszus, Manfred Stede} \\ 
+ 11:20--11:45
+ & [TACL] One Vector is Not Enough: Entity-Augmented Distributed Semantics for Discourse Relations \newline {\itshape Yangfeng Ji, Jacob Eisenstein} \\ 
+ 11:45--12:10
+ & [TACL] Latent Structures for Coreference Resolution \newline {\itshape Sebastian Martschat, Michael Strube} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}13:30--15:10 Session 5C: Phonology and Word Segmentation } \\\hline
+ 13:30--13:55
+ & Do we need bigram alignment models? On the effect of alignment quality on transduction accuracy in G2P \newline {\itshape Steffen Eger} \\ 
+ 13:55--14:20
+ & Keyboard Logs as Natural Annotations for Word Segmentation \newline {\itshape Fumihiko Takahasi, Shinsuke Mori} \\ 
+ 14:20--14:45
+ & Long Short-Term Memory Neural Networks for Chinese Word Segmentation \newline {\itshape Xinchi Chen, Xipeng Qiu, Chenxi Zhu, Pengfei Liu, Xuanjing Huang} \\ 
+ 14:45--15:10
+ & Semi-supervised Chinese Word Segmentation based on Bilingual Information \newline {\itshape Wei Chen, Bo Xu} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}15:40--17:20 Session 6C: Language and Vision / Information Extraction } \\\hline
+ 15:40--16:05
+ & Solving Geometry Problems: Combining Text and Diagram Interpretation \newline {\itshape Minjoon Seo, Hannaneh Hajishirzi, Ali Farhadi, Oren Etzioni, Clint Malcolm} \\ 
+ 16:05--16:30
+ & Do You See What I Mean? Visual Resolution of Linguistic Ambiguities \newline {\itshape Yevgeni Berzak, Andrei Barbu, Daniel Harari, Boris Katz, Shimon Ullman} \\ 
+ 16:30--16:55
+ & Efficient and Expressive Knowledge Base Completion Using Subgraph Feature Extraction \newline {\itshape Matt Gardner, Tom Mitchell} \\ 
+ 16:55--17:20
+ & Representing Text for Joint Embedding of Text and Knowledge Bases \newline {\itshape Kristina Toutanova, Danqi Chen, Patrick Pantel, Hoifung Poon, Pallavi Choudhury, Michael Gamon} \\ 
+
+\end{tabular}
+
+
+\end{document}

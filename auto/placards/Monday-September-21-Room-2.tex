@@ -1,0 +1,98 @@
+% This is a template file used to generate A1-sized placards
+% summarizing all the talks that take place in a particular room.
+
+\documentclass{extbook}
+
+\usepackage{pdfpages}
+\usepackage[a4paper,inner=1.25cm,outer=1.25cm,bottom=2cm,top=4cm,headsep=2.5cm,footskip=1cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{array}
+\usepackage{url}
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{ragged2e}
+
+%\usepackage{emnlp2015}
+
+%\renewcommand{\footnotesize}{\fontsize{6}{7}\selectfont}
+%\renewcommand{\small}{\fontsize{8}{9}\selectfont}
+%\renewcommand{\normalsize}{\fontsize{10}{11}\selectfont}
+%\renewcommand{\large}{\fontsize{12}{14}\selectfont}
+%\renewcommand{\Large}{\fontsize{18}{20}\selectfont}
+%\renewcommand{\huge}{\fontsize{24}{28}\selectfont}
+
+\pagestyle{fancy}
+\markboth{}{}
+\renewcommand{\headrule}{}
+
+\lhead{
+\textbf{\Large{}Monday, September 21 }\newline
+\textbf{\Large{}\rule[0.5ex]{.6\columnwidth}{1pt}}\newline
+\textbf{\huge{}Room 2 }\newline
+}
+\rhead{\raisebox{-0.01\height}{\includegraphics[width=5.5cm]{content/images/EMNLP-2015-Logo.jpg}}}
+
+\fancyfoot[L]{ {\small EMNLP 2015: Conference on Empirical Methods in Natural Language Processing} }
+\fancyfoot[C]{ }
+\fancyfoot[R]{\small\url{emnlp2015.org} }
+
+\begin{document}
+
+\bigskip{}
+
+\renewcommand{\arraystretch}{1.5}
+
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}10:30--12:10 Session 7C: Computational Psycholinguistics / Machine Translation } \\\hline
+ 10:30--10:55
+ & A Computational Cognitive Model of Novel Word Generalization \newline {\itshape Aida Nematzadeh, Erin Grant, Suzanne Stevenson} \\ 
+ 10:55--11:20
+ & Personality Profiling of Fictional Characters using Sense-Level Links between Lexical Resources \newline {\itshape Lucie Flekova, Iryna Gurevych} \\ 
+ 11:20--11:45
+ & Leave-one-out Word Alignment without Garbage Collector Effects \newline {\itshape Xiaolin Wang, Masao Utiyama, Andrew Finch, Taro Watanabe, Eiichiro Sumita} \\ 
+ 11:45--12:10
+ & Generalized Agreement for Bidirectional Word Alignment \newline {\itshape Chunyang Liu, Yang Liu, Maosong Sun, Huanbo Luan, Heng Yu} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}13:30--15:15 Session 8C: Statistical Models and Machine Learning Methods / MT } \\\hline
+ 13:30--13:45
+ & Joint Event Trigger Identification and Event Coreference Resolution with Structured Perceptron \newline {\itshape Jun Araki, Teruko Mitamura} \\ 
+ 13:45--14:00
+ & A Joint Dependency Model of Morphological and Syntactic Structure for Statistical Machine Translation \newline {\itshape Rico Sennrich, Barry Haddow} \\ 
+ 14:00--14:15
+ & Variable-Length Word Encodings for Neural Translation Models \newline {\itshape Rohan Chitnis, John DeNero} \\ 
+ 14:15--14:30
+ & A Binarized Neural Network Joint Model for Machine Translation \newline {\itshape Jingyi Zhang, Masao Utiyama, Eiichiro Sumita, Graham Neubig, Satoshi Nakamura} \\ 
+ 14:30--14:45
+ & Bayesian Optimization of Text Representations \newline {\itshape Dani Yogatama, Lingpeng Kong, Noah A. Smith} \\ 
+ 14:45--15:00
+ & A Comparative Study on Regularization Strategies for Embedding-based Neural Networks \newline {\itshape Hao Peng, Lili Mou, Ge Li, Yunchuan Chen, Yangyang Lu, Zhi Jin} \\ 
+ 15:00--15:15
+ & Efficient Hyper-parameter Optimization for NLP Applications \newline {\itshape Lidan Wang, Minwei Feng, Bowen Zhou, Bing Xiang, Sridhar Mahadevan} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}15:40--17:20 Session 9C: Spoken Language Processing and Language Modeling } \\\hline
+ 15:40--16:05
+ & Topic Identification and Discovery on Text and Speech \newline {\itshape Chandler May, Francis Ferraro, Alan McCree, Jonathan Wintrode, Daniel Garcia-Romero, Benjamin Van Durme} \\ 
+ 16:05--16:30
+ & A Dynamic Programming Algorithm for Computing N-gram Posteriors from Lattices \newline {\itshape Dogan Can, Shrikanth Narayanan} \\ 
+ 16:30--16:55
+ & Bilingual Structured Language Models for Statistical Machine Translation \newline {\itshape Ekaterina Garmash, Christof Monz} \\ 
+ 16:55--17:20
+ & Compact, Efficient and Unlimited Capacity: Language Modeling with Compressed Suffix Trees \newline {\itshape Ehsan Shareghi, Matthias Petri, Gholamreza Haffari, Trevor Cohn} \\ 
+
+\end{tabular}
+
+
+\end{document}

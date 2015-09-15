@@ -1,0 +1,92 @@
+% This is a template file used to generate A1-sized placards
+% summarizing all the talks that take place in a particular room.
+
+\documentclass{extbook}
+
+\usepackage{pdfpages}
+\usepackage[a4paper,inner=1.25cm,outer=1.25cm,bottom=2cm,top=4cm,headsep=2.5cm,footskip=1cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{array}
+\usepackage{url}
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{ragged2e}
+
+%\usepackage{emnlp2015}
+
+%\renewcommand{\footnotesize}{\fontsize{6}{7}\selectfont}
+%\renewcommand{\small}{\fontsize{8}{9}\selectfont}
+%\renewcommand{\normalsize}{\fontsize{10}{11}\selectfont}
+%\renewcommand{\large}{\fontsize{12}{14}\selectfont}
+%\renewcommand{\Large}{\fontsize{18}{20}\selectfont}
+%\renewcommand{\huge}{\fontsize{24}{28}\selectfont}
+
+\pagestyle{fancy}
+\markboth{}{}
+\renewcommand{\headrule}{}
+
+\lhead{
+\textbf{\Large{}Saturday, September 19 }\newline
+\textbf{\Large{}\rule[0.5ex]{.6\columnwidth}{1pt}}\newline
+\textbf{\huge{}Small Auditorium }\newline
+}
+\rhead{\raisebox{-0.01\height}{\includegraphics[width=5.5cm]{content/images/EMNLP-2015-Logo.jpg}}}
+
+\fancyfoot[L]{ {\small EMNLP 2015: Conference on Empirical Methods in Natural Language Processing} }
+\fancyfoot[C]{ }
+\fancyfoot[R]{\small\url{emnlp2015.org} }
+
+\begin{document}
+
+\bigskip{}
+
+\renewcommand{\arraystretch}{1.5}
+
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}10:30--12:10 Session 1B: Machine Translation } \\\hline
+ 10:30--10:55
+ & Dependency Graph-to-String Translation \newline {\itshape Liangyou Li, Andy Way, Qun Liu} \\ 
+ 10:55--11:20
+ & Reordering Grammar Induction \newline {\itshape Miloš Stanojević, Khalil Sima'an} \\ 
+ 11:20--11:45
+ & Syntax-based Rewriting for Simultaneous Machine Translation \newline {\itshape He He, Alvin Grissom II, John Morgan, Jordan Boyd-Graber, Hal Daumé III} \\ 
+ 11:45--12:10
+ & [TACL] Modelling and Optimizing on Syntactic N-Grams for Statistical Machine Translation \newline {\itshape Rico Sennrich} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}13:30--15:10 Session 2B: Tagging, Chunking and Parsing } \\\hline
+ 13:30--13:55
+ & Density-Driven Cross-Lingual Transfer of Dependency Parsers \newline {\itshape Mohammad Sadegh Rasooli, Michael Collins} \\ 
+ 13:55--14:20
+ & A Neural Network Model for Low-Resource Universal Dependency Parsing \newline {\itshape Long Duong, Trevor Cohn, Steven Bird, Paul Cook} \\ 
+ 14:20--14:45
+ & Improved Transition-based Parsing by Modeling Characters instead of Words with LSTMs \newline {\itshape Miguel Ballesteros, Chris Dyer, Noah A. Smith} \\ 
+ 14:45--15:10
+ & [TACL] Approximation-Aware Dependency Parsing by Belief Propagation \newline {\itshape Matthew R. Gormley, Mark Dredze, Jason Eisner} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}15:40--17:20 Session 3B: Semantics } \\\hline
+ 15:40--16:05
+ & A large annotated corpus for learning natural language inference \newline {\itshape Samuel R. Bowman, Gabor Angeli, Christopher Potts, Christopher D. Manning} \\ 
+ 16:05--16:30
+ & Question-Answer Driven Semantic Role Labeling: Using Natural Language to Annotate Natural Language \newline {\itshape Luheng He, Mike Lewis, Luke Zettlemoyer} \\ 
+ 16:30--16:55
+ & [TACL] It's All Fun and Games until Someone Annotates: Video Games with a Purpose for Linguistic Annotation. \newline {\itshape David Jurgens, Roberto Navigli} \\ 
+ 16:55--17:20
+ & [TACL] Semantic Proto-Roles \newline {\itshape Drew Reisinger, Rachel Rudinger, Francis Ferraro, Kyle Rawlins, Benjamin Van Durme} \\ 
+
+\end{tabular}
+
+
+\end{document}

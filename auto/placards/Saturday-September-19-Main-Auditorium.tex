@@ -1,0 +1,102 @@
+% This is a template file used to generate A1-sized placards
+% summarizing all the talks that take place in a particular room.
+
+\documentclass{extbook}
+
+\usepackage{pdfpages}
+\usepackage[a4paper,inner=1.25cm,outer=1.25cm,bottom=2cm,top=4cm,headsep=2.5cm,footskip=1cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{array}
+\usepackage{url}
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{ragged2e}
+
+%\usepackage{emnlp2015}
+
+%\renewcommand{\footnotesize}{\fontsize{6}{7}\selectfont}
+%\renewcommand{\small}{\fontsize{8}{9}\selectfont}
+%\renewcommand{\normalsize}{\fontsize{10}{11}\selectfont}
+%\renewcommand{\large}{\fontsize{12}{14}\selectfont}
+%\renewcommand{\Large}{\fontsize{18}{20}\selectfont}
+%\renewcommand{\huge}{\fontsize{24}{28}\selectfont}
+
+\pagestyle{fancy}
+\markboth{}{}
+\renewcommand{\headrule}{}
+
+\lhead{
+\textbf{\Large{}Saturday, September 19 }\newline
+\textbf{\Large{}\rule[0.5ex]{.6\columnwidth}{1pt}}\newline
+\textbf{\huge{}Main Auditorium }\newline
+}
+\rhead{\raisebox{-0.01\height}{\includegraphics[width=5.5cm]{content/images/EMNLP-2015-Logo.jpg}}}
+
+\fancyfoot[L]{ {\small EMNLP 2015: Conference on Empirical Methods in Natural Language Processing} }
+\fancyfoot[C]{ }
+\fancyfoot[R]{\small\url{emnlp2015.org} }
+
+\begin{document}
+
+\bigskip{}
+
+\renewcommand{\arraystretch}{1.5}
+
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}08:40--10:00 Session P1: Plenary Session } \\\hline
+ 08:40--09:00
+ & Opening Remarks and Introductory Speeches \newline {\itshape General Chair, Program Co-Chairs and Local Co-Chairs} \\ 
+ 09:00--10:00
+ & Invited Talk: Deep Learning of Semantic Representations \newline {\itshape Yoshua Bengio} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}10:30--12:10 Session 1A: Semantics } \\\hline
+ 10:30--10:55
+ & Language Understanding for Text-based Games using Deep Reinforcement Learning \newline {\itshape Karthik Narasimhan, Tejas Kulkarni, Regina Barzilay} \\ 
+ 10:55--11:20
+ & Distributional vectors encode referential attributes \newline {\itshape Abhijeet Gupta, Gemma Boleda, Marco Baroni, Sebastian Padó} \\ 
+ 11:20--11:45
+ & Building a shared world: mapping distributional to model-theoretic semantic spaces \newline {\itshape Aurélie Herbelot, Eva Maria Vecchi} \\ 
+ 11:45--12:10
+ & [TACL] Deriving Boolean Structures from Distributional Vectors \newline {\itshape Germán Kruszewski, Denis Paperno, Marco Baroni} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}13:30--15:10 Session 2A: Statistical Models and Machine Learning Methods } \\\hline
+ 13:30--13:55
+ & Evaluation methods for unsupervised word embeddings \newline {\itshape Tobias Schnabel, Igor Labutov, David Mimno, Thorsten Joachims} \\ 
+ 13:55--14:20
+ & Efficient Methods for Incorporating Knowledge into Topic Models \newline {\itshape Yi Yang, Doug Downey, Jordan Boyd-Graber} \\ 
+ 14:20--14:45
+ & Traversing Knowledge Graphs in Vector Space \newline {\itshape Kelvin Guu, John Miller, Percy Liang} \\ 
+ 14:45--15:10
+ & [TACL] Improving Topic Models with Latent Feature Word Representations \newline {\itshape Dat Quoc Nguyen, Richard Billingsley, Lan Du, Mark Johnson} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}15:40--17:20 Session 3A: Sentiment Analysis and Opinion Mining } \\\hline
+ 15:40--16:05
+ & Detecting Risks in the Banking System by Sentiment Analysis \newline {\itshape Clemens Nopp, Allan Hanbury} \\ 
+ 16:05--16:30
+ & Sentiment Flow - A General Model of Web Review Argumentation \newline {\itshape Henning Wachsmuth, Johannes Kiesel, Benno Stein} \\ 
+ 16:30--16:55
+ & Neural Networks for Open Domain Targeted Sentiment \newline {\itshape Meishan Zhang, Yue Zhang, Duy Tin Vo} \\ 
+ 16:55--17:20
+ & Extracting Condition-Opinion Relations Toward Fine-grained Opinion Mining \newline {\itshape Yuki Nakayama, Atsushi Fujii} \\ 
+
+\end{tabular}
+
+
+\end{document}

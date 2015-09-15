@@ -1,0 +1,118 @@
+% This is a template file used to generate A1-sized placards
+% summarizing all the talks that take place in a particular room.
+
+\documentclass{extbook}
+
+\usepackage{pdfpages}
+\usepackage[a4paper,inner=1.25cm,outer=1.25cm,bottom=2cm,top=4cm,headsep=2.5cm,footskip=1cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{array}
+\usepackage{url}
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{ragged2e}
+
+%\usepackage{emnlp2015}
+
+%\renewcommand{\footnotesize}{\fontsize{6}{7}\selectfont}
+%\renewcommand{\small}{\fontsize{8}{9}\selectfont}
+%\renewcommand{\normalsize}{\fontsize{10}{11}\selectfont}
+%\renewcommand{\large}{\fontsize{12}{14}\selectfont}
+%\renewcommand{\Large}{\fontsize{18}{20}\selectfont}
+%\renewcommand{\huge}{\fontsize{24}{28}\selectfont}
+
+\pagestyle{fancy}
+\markboth{}{}
+\renewcommand{\headrule}{}
+
+\lhead{
+\textbf{\Large{}Monday, September 21 }\newline
+\textbf{\Large{}\rule[0.5ex]{.6\columnwidth}{1pt}}\newline
+\textbf{\huge{}Main Auditorium }\newline
+}
+\rhead{\raisebox{-0.01\height}{\includegraphics[width=5.5cm]{content/images/EMNLP-2015-Logo.jpg}}}
+
+\fancyfoot[L]{ {\small EMNLP 2015: Conference on Empirical Methods in Natural Language Processing} }
+\fancyfoot[C]{ }
+\fancyfoot[R]{\small\url{emnlp2015.org} }
+
+\begin{document}
+
+\bigskip{}
+
+\renewcommand{\arraystretch}{1.3}
+
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}09:00--10:00 Session P4: Plenary Session } \\\hline
+ 09:00--09:05
+ & Best Paper Awards \newline {\itshape Chris Callison-Burch and Jian Su} \\ 
+ 09:05--09:30
+ & Broad-coverage CCG Semantic Parsing with AMR \newline {\itshape Yoav Artzi, Kenton Lee, Luke Zettlemoyer} \\ 
+ 09:30--09:55
+ & Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems \newline {\itshape Tsung-Hsien Wen, Milica Gasic, Nikola Mrkšić, Pei-Hao Su, David Vandyke, Steve Young} \\ 
+ 09:55--10:05
+ & A large annotated corpus for learning natural language inference \newline {\itshape Samuel R. Bowman, Gabor Angeli, Christopher Potts, Christopher D. Manning} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}10:30--12:10 Session 7A: Semantics } \\\hline
+ 10:30--10:55
+ & Do Multi-Sense Embeddings Improve Natural Language Understanding? \newline {\itshape Jiwei Li, Dan Jurafsky} \\ 
+ 10:55--11:20
+ & Learning Semantic Composition to Detect Non-compositionality of Multiword Expressions \newline {\itshape Majid Yazdani, Meghdad Farahmand, James Henderson} \\ 
+ 11:20--11:45
+ & Solving General Arithmetic Word Problems \newline {\itshape Subhro Roy, Dan Roth} \\ 
+ 11:45--12:10
+ & [TACL] From Paraphrase Database to Compositional Paraphrase Model and Back \newline {\itshape John Wieting, Mohit Bansal, Kevin Gimpel, Karen Livescu, Dan Roth} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}13:30--15:15 Session 8A: Fun and Quirky Topics } \\\hline
+ 13:30--13:45
+ & A quantitative analysis of gender differences in movies using psycholinguistic normatives \newline {\itshape Anil Ramakrishna, Nikolaos Malandrakis, Elizabeth Staruk, Shrikanth Narayanan} \\ 
+ 13:45--14:00
+ & EMNLP versus ACL: Analyzing NLP research over time \newline {\itshape Sujatha Das Gollapalli, Xiaoli Li} \\ 
+ 14:00--14:15
+ & Answering Elementary Science Questions by Constructing Coherent Scenes using Background Knowledge \newline {\itshape Yang Li, Peter Clark} \\ 
+ 14:15--14:30
+ & WikiQA: A Challenge Dataset for Open-Domain Question Answering \newline {\itshape Yi Yang, Wen-tau Yih, Christopher Meek} \\ 
+ 14:30--14:45
+ & Personalized Machine Translation: Predicting Translational Preferences \newline {\itshape Shachar Mirkin, Jean-Luc Meunier} \\ 
+ 14:45--15:00
+ & Talking to the crowd: What do people react to in online discussions? \newline {\itshape Aaron Jaech, Victoria Zayats, Hao Fang, Mari Ostendorf, Hannaneh Hajishirzi} \\ 
+ 15:00--15:15
+ & What Your Username Says About You \newline {\itshape Aaron Jaech, Mari Ostendorf} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}15:40--17:20 Session 9A: Statistical Models and Machine Learning Methods } \\\hline
+ 15:40--16:05
+ & When Are Tree Structures Necessary for Deep Learning of Representations? \newline {\itshape Jiwei Li, Thang Luong, Dan Jurafsky, Eduard Hovy} \\ 
+ 16:05--16:30
+ & Discriminative Neural Sentence Modeling by Tree-Based Convolution \newline {\itshape Lili Mou, Hao Peng, Ge Li, Yan Xu, Lu Zhang, Zhi Jin} \\ 
+ 16:30--16:55
+ & Multi-Timescale Long Short-Term Memory Neural Network for Modelling Sentences and Documents \newline {\itshape Pengfei Liu, Xipeng Qiu, Xinchi Chen, Shiyu Wu, Xuanjing Huang} \\ 
+ 16:55--17:20
+ & [TACL] Learning Structural Kernels for Natural Language Processing \newline {\itshape Daniel Beck, Trevor Cohn, Christian Hardmeier, Lucia Specia} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}17:30--17:50 Session P5: Closing Remarks } \\\hline
+
+\end{tabular}
+
+
+\end{document}

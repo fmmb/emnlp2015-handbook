@@ -171,6 +171,7 @@ for subconf in args.subconferences:
             if (match is not None) and kw.has_key("room"):
                 session_track = match.group(1)
                 session_room = kw['room']
+                session_name = re.sub("\([^(]+\)\s*$","", session_name)
                 session_info = { 'date': daydate, 'title': session_name, 'track': session_track, 'room': session_room, 'chair': kw.get('chair1') }
                 mysessions.add(daydate, session_room, session_name, session_info )
             else:

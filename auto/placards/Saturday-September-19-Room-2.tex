@@ -1,0 +1,93 @@
+% This is a template file used to generate A1-sized placards
+% summarizing all the talks that take place in a particular room.
+
+\documentclass{extbook}
+
+\usepackage{pdfpages}
+\usepackage[a4paper,inner=1.25cm,outer=1.25cm,bottom=2cm,top=4cm,headsep=2.5cm,footskip=1cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{array}
+\usepackage{url}
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{ragged2e}
+
+%\usepackage{emnlp2015}
+
+%\renewcommand{\footnotesize}{\fontsize{6}{7}\selectfont}
+%\renewcommand{\small}{\fontsize{8}{9}\selectfont}
+%\renewcommand{\normalsize}{\fontsize{10}{11}\selectfont}
+%\renewcommand{\large}{\fontsize{12}{14}\selectfont}
+%\renewcommand{\Large}{\fontsize{18}{20}\selectfont}
+%\renewcommand{\huge}{\fontsize{24}{28}\selectfont}
+
+\pagestyle{fancy}
+\markboth{}{}
+\renewcommand{\headrule}{}
+
+\lhead{
+\textbf{\Large{}Saturday, September 19 }\newline
+\textbf{\Large{}\rule[0.5ex]{.6\columnwidth}{1pt}}\newline
+\textbf{\huge{}Room 2 }\newline
+}
+\rhead{\raisebox{-0.01\height}{\includegraphics[width=5.5cm]{content/images/EMNLP-2015-Logo.jpg}}}
+
+\fancyfoot[L]{ {\small EMNLP 2015: Conference on Empirical Methods in Natural Language Processing} }
+\fancyfoot[C]{ }
+\fancyfoot[R]{\small\url{emnlp2015.org} }
+
+\begin{document}
+
+\bigskip{}
+
+\renewcommand{\arraystretch}{1.5}
+
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}10:30--12:10 Session 1C: NLP for the Web and Social Media, } \\
+  \multicolumn{2}{r}{\bfseries\large{}including Computational Social Science } \\\hline
+ 10:30--10:55
+ & Identifying Political Sentiment between Nation States with Social Media \newline {\itshape Nathanael Chambers, Victor Bowen, Ethan Genco, Xisen Tian, Eric Young, Ganesh Harihara, Eugene Yang} \\ 
+ 10:55--11:20
+ & Open Extraction of Fine-Grained Political Statements \newline {\itshape David Bamman, Noah A. Smith} \\ 
+ 11:20--11:45
+ & Using Personal Traits For Brand Preference Prediction \newline {\itshape Chao Yang, Shimei Pan, Jalal Mahmud, Huahai Yang, Padmini Srinivasan} \\ 
+ 11:45--12:10
+ & Semantic Annotation for Microblog Topics Using Wikipedia Temporal Information \newline {\itshape Tuan Tran, Nam Khanh Tran, Asmelash Teka Hadgu, Robert Jäschke} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}13:30--15:10 Session 2C: Summarization } \\\hline
+ 13:30--13:55
+ & Sentence Compression by Deletion with LSTMs \newline {\itshape Katja Filippova, Enrique Alfonseca, Carlos A. Colmenares, Lukasz Kaiser, Oriol Vinyals} \\ 
+ 13:55--14:20
+ & An Empirical Comparison Between N-gram and Syntactic Language Models for Word Ordering \newline {\itshape Jiangming Liu, Yue Zhang} \\ 
+ 14:20--14:45
+ & A Neural Attention Model for Abstractive Sentence Summarization \newline {\itshape Alexander M. Rush, Sumit Chopra, Jason Weston} \\ 
+ 14:45--15:10
+ & Scientific Article Summarization Using Citation-Context and Article's Discourse Structure \newline {\itshape Arman Cohan, Nazli Goharian} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}15:40--17:20 Session 3C: Information Retrieval and Question Answering } \\\hline
+ 15:40--16:05
+ & Name List Only? Target Entity Disambiguation in Short Texts \newline {\itshape Yixin Cao, Juanzi Li, Xiaofei Guo, Shuanhu Bai, Heng Ji, Jie Tang} \\ 
+ 16:05--16:30
+ & Biography-Dependent Collaborative Entity Archiving for Slot Filling \newline {\itshape Yu Hong, Xiaobin Wang, Yadong Chen, Jian Wang, Tongtao Zhang, Heng Ji} \\ 
+ 16:30--16:55
+ & Stochastic Top-k ListNet \newline {\itshape Tianyi Luo, Dong Wang, Rong Liu, Yiqiao Pan} \\ 
+ 16:55--17:20
+ & Exploring Markov Logic Networks for Question Answering \newline {\itshape Tushar Khot, Niranjan Balasubramanian, Eric Gribkoff, Ashish Sabharwal, Peter Clark, Oren Etzioni} \\ 
+
+\end{tabular}
+
+
+\end{document}

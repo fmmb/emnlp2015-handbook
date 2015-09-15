@@ -4,7 +4,7 @@
 \documentclass{extbook}
 
 \usepackage{pdfpages}
-\usepackage[a4paper,inner=1.25cm,outer=1.25cm,bottom=1.5cm,top=1.5cm]{geometry}
+\usepackage[a4paper,inner=1.25cm,outer=1.25cm,bottom=2cm,top=4cm,headsep=2.5cm,footskip=1cm]{geometry}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage{fancyhdr}
@@ -27,33 +27,31 @@
 \pagestyle{fancy}
 \markboth{}{}
 \renewcommand{\headrule}{}
+
+\lhead{
+\textbf{\Large{}{{ date }} }\newline
+\textbf{\Large{}\rule[0.5ex]{.6\columnwidth}{1pt}}\newline
+\textbf{\huge{}{{ room }} }\newline
+}
+\rhead{\raisebox{-0.01\height}{\includegraphics[width=5.5cm]{content/images/EMNLP-2015-Logo.jpg}}}
+
 \fancyfoot[L]{ {\small EMNLP 2015: Conference on Empirical Methods in Natural Language Processing} }
 \fancyfoot[C]{ }
 \fancyfoot[R]{\small\url{emnlp2015.org} }
 
 \begin{document}
-\noindent \begin{minipage}[t]{0.6\columnwidth}
-\textbf{\Large{}{{ date }} }
 
-\textbf{\Large{}\rule[0.5ex]{1\columnwidth}{1pt}}
-
-\textbf{\huge{}{{ room }} }{\huge \par}
-
-\end{minipage}{\hfill{}}\raisebox{-0.70\height}{\includegraphics[width=5.5cm]{content/images/EMNLP-2015-Logo.jpg}}
-
-\vspace{1.25cm}
+\bigskip{}
 
 \renewcommand{\arraystretch}{1.5}
 
 {% for session in sessions %}
+\vfill{}
 \noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
   \multicolumn{2}{l}{\bfseries\large{}{{ session.title }}} \\\hline
-
-    {% for paper in session.papers %}
-{{ paper.time }}
-    &	{{ paper.title }} \newline 
-    {\itshape {{ paper.authors }}} \\
-    {% endfor %}
+{% for paper in session.papers %} {{ paper.time }}
+{% if paper.authors == "" %} & {{ paper.title }} \\ {% else %} & {{ paper.title }} \newline {\itshape {{ paper.authors }}} \\ {% endif %}
+{% endfor %}
 \end{tabular}
 {% endfor %}
 

@@ -1,0 +1,93 @@
+% This is a template file used to generate A1-sized placards
+% summarizing all the talks that take place in a particular room.
+
+\documentclass{extbook}
+
+\usepackage{pdfpages}
+\usepackage[a4paper,inner=1.25cm,outer=1.25cm,bottom=2cm,top=4cm,headsep=2.5cm,footskip=1cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{array}
+\usepackage{url}
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{ragged2e}
+
+%\usepackage{emnlp2015}
+
+%\renewcommand{\footnotesize}{\fontsize{6}{7}\selectfont}
+%\renewcommand{\small}{\fontsize{8}{9}\selectfont}
+%\renewcommand{\normalsize}{\fontsize{10}{11}\selectfont}
+%\renewcommand{\large}{\fontsize{12}{14}\selectfont}
+%\renewcommand{\Large}{\fontsize{18}{20}\selectfont}
+%\renewcommand{\huge}{\fontsize{24}{28}\selectfont}
+
+\pagestyle{fancy}
+\markboth{}{}
+\renewcommand{\headrule}{}
+
+\lhead{
+\textbf{\Large{}Sunday, September 20 }\newline
+\textbf{\Large{}\rule[0.5ex]{.6\columnwidth}{1pt}}\newline
+\textbf{\huge{}Small Auditorium }\newline
+}
+\rhead{\raisebox{-0.01\height}{\includegraphics[width=5.5cm]{content/images/EMNLP-2015-Logo.jpg}}}
+
+\fancyfoot[L]{ {\small EMNLP 2015: Conference on Empirical Methods in Natural Language Processing} }
+\fancyfoot[C]{ }
+\fancyfoot[R]{\small\url{emnlp2015.org} }
+
+\begin{document}
+
+\bigskip{}
+
+\renewcommand{\arraystretch}{1.5}
+
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}10:30--12:10 Session 4B: Statistical Models and Machine Learning Methods } \\\hline
+ 10:30--10:55
+ & How Much Information Does a Human Translator Add to the Original? \newline {\itshape Barret Zoph, Marjan Ghazvininejad, Kevin Knight} \\ 
+ 10:55--11:20
+ & Hierarchical Recurrent Neural Network for Document Modeling \newline {\itshape Rui Lin, Shujie Liu, Muyun Yang, Mu Li, Ming Zhou, Sheng Li} \\ 
+ 11:20--11:45
+ & Auto-Sizing Neural Networks: With Applications to n-gram Language Models \newline {\itshape Kenton Murray, David Chiang} \\ 
+ 11:45--12:10
+ & Dual Decomposition Inference for Graphical Models over Strings \newline {\itshape Nanyun Peng, Ryan Cotterell, Jason Eisner} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}13:30--15:10 Session 5B: Semantics } \\\hline
+ 13:30--13:55
+ & Parsing English into Abstract Meaning Representation Using Syntax-Based Machine Translation \newline {\itshape Michael Pust, Ulf Hermjakob, Kevin Knight, Daniel Marcu, Jonathan May} \\ 
+ 13:55--14:20
+ & The Forest Convolutional Network: Compositional Distributional Semantics with a Neural Chart and without Binarization \newline {\itshape Phong Le, Willem Zuidema} \\ 
+ 14:20--14:45
+ & Alignment-Based Compositional Semantics for Instruction Following \newline {\itshape Jacob Andreas, Dan Klein} \\ 
+ 14:45--15:10
+ & [TACL] Context-aware Frame-Semantic Role Labeling \newline {\itshape Michael Roth, Mirella Lapata} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}15:40--17:20 Session 6B: Sentiment Analysis and Opinion Mining}\\
+  \multicolumn{2}{r}{\bfseries\large{}Tagging, Chunking and Parsing } \\\hline
+ 15:40--16:05
+ & Document Modeling with Gated Recurrent Neural Network for Sentiment Classification \newline {\itshape Duyu Tang, Bing Qin, Ting Liu} \\ 
+ 16:05--16:30
+ & Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings \newline {\itshape Pengfei Liu, Shafiq Joty, Helen Meng} \\ 
+ 16:30--16:55
+ & Joint A* CCG Parsing and Semantic Role Labelling \newline {\itshape Mike Lewis, Luheng He, Luke Zettlemoyer} \\ 
+ 16:55--17:20
+ & Improving Semantic Parsing with Enriched Synchronous Context-Free Grammar \newline {\itshape Junhui Li, Muhua Zhu, Wei Lu, Guodong Zhou} \\ 
+
+\end{tabular}
+
+
+\end{document}

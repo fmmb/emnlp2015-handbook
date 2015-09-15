@@ -1,0 +1,96 @@
+% This is a template file used to generate A1-sized placards
+% summarizing all the talks that take place in a particular room.
+
+\documentclass{extbook}
+
+\usepackage{pdfpages}
+\usepackage[a4paper,inner=1.25cm,outer=1.25cm,bottom=2cm,top=4cm,headsep=2.5cm,footskip=1cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{array}
+\usepackage{url}
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{ragged2e}
+
+%\usepackage{emnlp2015}
+
+%\renewcommand{\footnotesize}{\fontsize{6}{7}\selectfont}
+%\renewcommand{\small}{\fontsize{8}{9}\selectfont}
+%\renewcommand{\normalsize}{\fontsize{10}{11}\selectfont}
+%\renewcommand{\large}{\fontsize{12}{14}\selectfont}
+%\renewcommand{\Large}{\fontsize{18}{20}\selectfont}
+%\renewcommand{\huge}{\fontsize{24}{28}\selectfont}
+
+\pagestyle{fancy}
+\markboth{}{}
+\renewcommand{\headrule}{}
+
+\lhead{
+\textbf{\Large{}Monday, September 21 }\newline
+\textbf{\Large{}\rule[0.5ex]{.6\columnwidth}{1pt}}\newline
+\textbf{\huge{}Small Auditorium }\newline
+}
+\rhead{\raisebox{-0.01\height}{\includegraphics[width=5.5cm]{content/images/EMNLP-2015-Logo.jpg}}}
+
+\fancyfoot[L]{ {\small EMNLP 2015: Conference on Empirical Methods in Natural Language Processing} }
+\fancyfoot[C]{ }
+\fancyfoot[R]{\small\url{emnlp2015.org} }
+
+\begin{document}
+
+\bigskip{}
+
+\renewcommand{\arraystretch}{1.5}
+
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}10:30--12:10 Session 7B: Information Extraction } \\\hline
+ 10:30--10:55
+ & Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks \newline {\itshape Daojian Zeng, Kang Liu, Yubo Chen, Jun Zhao} \\ 
+ 10:55--11:20
+ & CORE: Context-Aware Open Relation Extraction with Factorization Machines \newline {\itshape Fabio Petroni, Luciano Del Corro, Rainer Gemulla} \\ 
+ 11:20--11:45
+ & Improved Relation Extraction with Feature-Rich Compositional Embedding Models \newline {\itshape Matthew R. Gormley, Mo Yu, Mark Dredze} \\ 
+ 11:45--12:10
+ & Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Paths \newline {\itshape Yan Xu, Lili Mou, Ge Li, Yunchuan Chen, Hao Peng, Zhi Jin} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}13:30--15:15 Session 8B: Semantics } \\\hline
+ 13:30--13:45
+ & Knowledge Base Inference using Bridging Entities \newline {\itshape Bhushan Kotnis, Pradeep Bansal, Partha P. Talukdar} \\ 
+ 13:45--14:00
+ & Specializing Word Embeddings for Similarity or Relatedness \newline {\itshape Douwe Kiela, Felix Hill, Stephen Clark} \\ 
+ 14:00--14:15
+ & Evaluation of Word Vector Representations by Subspace Alignment \newline {\itshape Yulia Tsvetkov, Manaal Faruqui, Wang Ling, Guillaume Lample, Chris Dyer} \\ 
+ 14:15--14:30
+ & Higher-order logical inference with compositional semantics \newline {\itshape Koji Mineshima, Pascual Martínez-Gómez, Yusuke Miyao, Daisuke Bekki} \\ 
+ 14:30--14:45
+ & Any-language frame-semantic parsing \newline {\itshape Anders Johannsen, Héctor Martínez Alonso, Anders Søgaard} \\ 
+ 15:00--15:15
+ & What's in an Embedding? Analyzing Word Embeddings through Multilingual Evaluation \newline {\itshape Arne Köhn} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}15:40--17:20 Session 9B: Text Mining and NLP Applications } \\\hline
+ 15:40--16:05
+ & Verbal and Nonverbal Clues for Real-life Deception Detection \newline {\itshape Verónica Pérez-Rosas, Mohamed Abouelenien, Rada Mihalcea, Yao Xiao, CJ Linton, Mihai Burzo} \\ 
+ 16:05--16:30
+ & Social Media Text Classification under Negative Covariate Shift \newline {\itshape Geli Fei, Bing Liu} \\ 
+ 16:30--16:55
+ & Co-Training for Topic Classification of Scholarly Data \newline {\itshape Cornelia Caragea, Florin Bulgarov, Rada Mihalcea} \\ 
+ 16:55--17:20
+ & Humor Recognition and Humor Anchor Extraction \newline {\itshape Diyi Yang, Alon Lavie, Chris Dyer, Eduard Hovy} \\ 
+
+\end{tabular}
+
+
+\end{document}

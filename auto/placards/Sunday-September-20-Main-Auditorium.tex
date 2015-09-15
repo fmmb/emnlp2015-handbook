@@ -1,0 +1,106 @@
+% This is a template file used to generate A1-sized placards
+% summarizing all the talks that take place in a particular room.
+
+\documentclass{extbook}
+
+\usepackage{pdfpages}
+\usepackage[a4paper,inner=1.25cm,outer=1.25cm,bottom=2cm,top=4cm,headsep=2.5cm,footskip=1cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{array}
+\usepackage{url}
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{ragged2e}
+
+%\usepackage{emnlp2015}
+
+%\renewcommand{\footnotesize}{\fontsize{6}{7}\selectfont}
+%\renewcommand{\small}{\fontsize{8}{9}\selectfont}
+%\renewcommand{\normalsize}{\fontsize{10}{11}\selectfont}
+%\renewcommand{\large}{\fontsize{12}{14}\selectfont}
+%\renewcommand{\Large}{\fontsize{18}{20}\selectfont}
+%\renewcommand{\huge}{\fontsize{24}{28}\selectfont}
+
+\pagestyle{fancy}
+\markboth{}{}
+\renewcommand{\headrule}{}
+
+\lhead{
+\textbf{\Large{}Sunday, September 20 }\newline
+\textbf{\Large{}\rule[0.5ex]{.6\columnwidth}{1pt}}\newline
+\textbf{\huge{}Main Auditorium }\newline
+}
+\rhead{\raisebox{-0.01\height}{\includegraphics[width=5.5cm]{content/images/EMNLP-2015-Logo.jpg}}}
+
+\fancyfoot[L]{ {\small EMNLP 2015: Conference on Empirical Methods in Natural Language Processing} }
+\fancyfoot[C]{ }
+\fancyfoot[R]{\small\url{emnlp2015.org} }
+
+\begin{document}
+
+\bigskip{}
+
+\renewcommand{\arraystretch}{1.5}
+
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}09:00--10:00 Session P2: Plenary Session } \\\hline
+ 
+ & Invited Talk: Measuring How Elected Officials and Constituents Communicate \newline {\itshape Justin Grimmer} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}10:30--12:10 Session 4A: Information Extraction } \\\hline
+ 10:30--10:55
+ & C3EL: A Joint Model for Cross-Document Co-Reference Resolution and Entity Linking \newline {\itshape Sourav Dutta, Gerhard Weikum} \\ 
+ 10:55--11:20
+ & Joint Mention Extraction and Classification with Mention Hypergraphs \newline {\itshape Wei Lu, Dan Roth} \\ 
+ 11:20--11:45
+ & FINET: Context-Aware Fine-Grained Named Entity Typing \newline {\itshape Luciano Del Corro, Abdalghani Abujabal, Rainer Gemulla, Gerhard Weikum} \\ 
+ 11:45--12:10
+ & Joint Entity Recognition and Disambiguation \newline {\itshape Gang Luo, Xiaojiang Huang, Chin-Yew Lin, Zaiqing Nie} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}12:50--13:30 Session P3: SIGDAT business meeting } \\\hline
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}13:30--15:10 Session 5A: Text Mining and NLP Applications } \\\hline
+ 13:30--13:55
+ & [TACL] Unsupervised Identification of Translationese \newline {\itshape Ella Rabinovich, Shuly Wintner} \\ 
+ 13:55--14:20
+ & Automatically Solving Number Word Problems by Semantic Parsing and Reasoning \newline {\itshape Shuming Shi, Yuehui Wang, Chin-Yew Lin, Xiaojiang Liu, Yong Rui} \\ 
+ 14:20--14:45
+ & [TACL] Which Step Do I Take First? Troubleshooting with Bayesian Models \newline {\itshape Annie Louis, Mirella Lapata} \\ 
+ 14:45--15:10
+ & [TACL] Problems in Current Text Simplification Research: New Data Can Help \newline {\itshape Wei Xu, Chris Callison-Burch, Courtney Napoles} \\ 
+
+\end{tabular}
+
+\vfill{}
+\noindent\begin{tabular}{p{0.1\textwidth}p{0.85\textwidth}}
+  \multicolumn{2}{l}{\bfseries\large{}15:40--17:20 Session 6A: Machine Translation } \\\hline
+ 15:40--16:05
+ & Improving Statistical Machine Translation with a Multilingual Paraphrase Database \newline {\itshape Ramtin Mehdizadeh Seraj, Maryam Siahbani, Anoop Sarkar} \\ 
+ 16:05--16:30
+ & Learning Semantic Representations for Nonterminals in Hierarchical Phrase-Based Translation \newline {\itshape Xing Wang, Deyi Xiong, Min Zhang} \\ 
+ 16:30--16:55
+ & A Comparison between Count and Neural Network Models Based on Joint Translation and Reordering Sequences \newline {\itshape Andreas Guta, Tamer Alkhouli, Jan-Thorsten Peter, Joern Wuebker, Hermann Ney} \\ 
+ 16:55--17:20
+ & Effective Approaches to Attention-based Neural Machine Translation \newline {\itshape Thang Luong, Hieu Pham, Christopher D. Manning} \\ 
+
+\end{tabular}
+
+
+\end{document}
