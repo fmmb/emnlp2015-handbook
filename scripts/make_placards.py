@@ -21,6 +21,7 @@ import argparse
 import jinja2
 from collections import defaultdict
 from paper_info import Paper
+from handbook import *
 
 sys.stdout = codecs.getwriter('utf8')(sys.stdout)
 
@@ -29,10 +30,15 @@ PARSER.add_argument("subconferences", nargs='+')
 PARSER.add_argument("-template", dest="template", default='content/placard.jinja2', help="location of Jinja2 LaTeX template")
 PARSER.add_argument("-output_dir", dest="output_dir", default="auto/placards")
 PARSER.add_argument("-logo", dest="logo", default="content/images/EMNLP-2015-Logo.jpg")
+PARSER.add_argument("-debug", action='store_false', default=True, help="Turns on debug information")
 args = PARSER.parse_args()
 
 if not os.path.exists(args.output_dir):
     os.makedirs(args.output_dir)
+
+def debug(m):
+    if args.debug:
+        print >> sys.stderr, "Debug: %s"%m
 
 def timef(time):
     return time
@@ -40,17 +46,14 @@ def timef(time):
 def timerangef(timerange):
     return '--'.join(map(timef, timerange.split('--')))
 
-def minus12(time):
-    hours, minutes = time.split(':')
-    if hours.startswith('0'):
-        hours = hours[1:]
-    if int(hours) >= 13:
-        hours = `int(hours) - 12`
-
-    return '%s:%s' % (hours, minutes)
-
-def minus12range(timerange):
-    return '--'.join(map(minus12, timerange.split('--')))
+def sort_times2(a, b):
+    if (a['time'] == "") or (b['time'] == ""):
+        return True
+    ahour, amin = a['time'].split('--')[0].split(':')
+    bhour, bmin = b['time'].split('--')[0].split(':')
+    if ahour == bhour:
+        return cmp(int(amin), int(bmin))
+    return cmp(int(ahour), int(bhour))
 
 class Vividict(dict):
     def __missing__(self, key):
@@ -59,78 +62,160 @@ class Vividict(dict):
 
 sessions = Vividict()
 
+class CollectionOfSessions:
+    def __init__(self):
+        self.sessions = {}
+
+    def add(self, date, room, name, info):
+        #print "ADDING:", date, room, name
+        if not self.sessions.has_key(date):
+            self.sessions[date] = {}
+        if not self.sessions[date].has_key(room):
+            self.sessions[date][room] = {}
+        if not self.sessions[date][room].has_key(name):
+            self.sessions[date][room][name] = info 
+            self.sessions[date][room][name]['papers'] = [] 
+        else:
+            debug("Error: Session already exists")
+
+    def exists(self, date, room, name):
+        if not self.sessions.has_key(date):
+            return False
+        if not self.sessions[date].has_key(room):
+            return False
+        if not self.sessions[date][room].has_key(name):
+            return False
+        return True
+
+    def add_paper(self, date, room, name, info):
+        if not self.exists(date, room, name):
+            raise ValueError("Session does not exist")
+        self.sessions[date][room][name]['papers'].append(info)
+
+class MyPaper:
+    def __init__(self, line, subconf):
+        self.line = line
+        self.id = None
+        self.time = ""
+        self.poster = True
+        self.prefix = "" # Important for compatibility issues
+        self.subconf = subconf
+
+        self.id, content = line.split(' ', 1)
+        if re.search(r'^\d+', content) is not None:
+            self.time, comment = content.split(' ', 1)
+            self.time = timerangef(self.time)
+            self.poster = False
+        else:
+            comment = content
+
+    def __str__(self):
+        return "id=%s time=%s poster=%s prefix=%s" % (self.id, self.time, self.poster, self.prefix)
+
+class MyExternalItem:
+    ''' Examples:
+            ! 10:30--12:10 Long Paper Cluster 1: Summarization (P1-4) %by Poster Presenters
+            ! 11:45--12:10 %ext tacl-final:3
+            ! %ext tacl-final:6
+    '''
+    def __init__(self, line, subconf):
+        self.line = line
+        self.id = None     # if remains None we can conclude is the first example above
+        self.time = ""     # if remains None then we are talking about the 3rd example
+        self.poster = True # 2nd example occurs when ID and TIME are not NONE
+        self.title = None
+        self.prefix = ""
+        self.subconf = subconf
+        self.authors = ""
+
+        content = line.split(' ', 1)[1]
+        if re.search(r'^\d+', content) is not None:
+            self.time, rest = content.split(' ', 1)
+            self.time = timerangef(self.time)
+            self.poster = False
+            if not validate_time(self.time): raise ValueError("Incorrect value for time <%s>"% self.time)
+            content = rest
+
+        keys = extract_keywords(content)
+        self.title = extract_title(content)
+        if keys.has_key('ext'):
+            tokens = keys['ext'].split(':')
+            self.subconf = tokens[0]
+            self.id = tokens[1]
+            if tokens[0] == "tacl-final": self.prefix = "[TACL] "
+        elif keys.has_key('by'):
+            self.title =  self.title.strip()
+            self.authors = keys['by']
+            self.poster = False
+        
+
+    def __str__(self):
+        return "%s %s %s %s %s" % (self.id, self.time, self.poster, self.title, self.prefix)
+
+mysessions = CollectionOfSessions()
+
 for subconf in args.subconferences:
     for line in open('data/%s/order' % subconf):
         line = line.rstrip()
 
-        # print "LINE", line
-
+        ##print "LINE", line
         if line.startswith('*'):
             day, date, year = line[2:].split(', ')
             daydate = '%s, %s' % (day, date)
             
         elif line.startswith('='):
             line = line.split(" ",1)[1]
+            kw = extract_keywords(line)
             session_name = line.split("#",1)[0]
             match = re.search(r'Session \d+([A-Z])|Session ([A-Z])\d+', session_name)
-            if match is not None:
+            if (match is not None) and kw.has_key("room"):
                 session_track = match.group(1)
-                if not sessions[daydate][session_track].has_key(session_name):
-                    sessions[daydate][session_track][session_name] = {
-                        'date': '%s, %s' % (day, date),
-                        'title': session_name,
-                        'track': session_track,
-                        'papers': []
-                    }
+                session_room = kw['room']
+                session_info = { 'date': daydate, 'title': session_name, 'track': session_track, 'room': session_room, 'chair': kw.get('chair1') }
+                mysessions.add(daydate, session_room, session_name, session_info )
             else:
-                print "Skipping: %s"% line
-                
+                print >> sys.stderr, "Skipping session: %s"% line
 
-        elif re.match(r'\d+ \d+:\d+', line):
-            """For the overview, we don't print sessions or papers, but we do need to look at
-            oral presentations in order to determine the time range of the session (if any applies)"""
-            if session_name is None:
-                print "* WARNING: paper without a session name"
-                continue
+        elif line.startswith('!'):
+            item = MyExternalItem(line, subconf)
+            if item.id is not None:
+                p = Paper('data/%s/final/%s/%s_metadata.txt' % (item.subconf, item.id, item.id))
+                paper_info = {'time': item.time, 'title': "%s%s"% (item.prefix, p.escaped_title()), 'authors': (', '.join(map(unicode, p.authors))) } 
+                mysessions.add_paper(daydate, session_room, session_name, paper_info )
+            else:
+                paper_info = {'time': item.time, 'title': item.title, 'authors': item.authors }
+                mysessions.add_paper(daydate, session_room, session_name, paper_info )
 
-            if sessions[daydate][session_track].has_key(session_name):
-                paper_id, timerange, _ = line.split(' ', 2)
-                start, stop = timerange.split('--')
+        elif re.match(r'\d+ ', line):
+            if not mysessions.exists(daydate, session_room, session_name):
+                raise ValueError("Session does not exist")
+            
+            item = MyPaper( line, subconf )
 
-                p = Paper('data/%s/final/%s/%s_metadata.txt' % (subconf, paper_id, paper_id))
-                if not sessions[daydate][session_track][session_name].has_key('papers'):
-                    sessions[daydate][session_track][session_name]['papers'] = []
-                sessions[daydate][session_track][session_name]['papers'].append({
-                    'time': timerangef(timerange),
-                    'title': p.escaped_title(),
-                    'authors': (', '.join(map(unicode, p.authors)))
-                })
+            p = Paper('data/%s/final/%s/%s_metadata.txt' % (item.subconf, item.id, item.id))
+   
+            paper_info = {'time': item.time, 'title': p.escaped_title(), 'authors': (', '.join(map(unicode, p.authors))) } 
+            mysessions.add_paper(daydate, session_room, session_name, paper_info )
 
+#sys.exit(0)
 templateEnv = jinja2.Environment(loader = jinja2.FileSystemLoader( searchpath="." ))
 template = templateEnv.get_template(args.template)
 
-def sort_times(a, b):
-    ahour, amin = a['time'].split('--')[0].split(':')
-    bhour, bmin = b['time'].split('--')[0].split(':')
-    if ahour == bhour:
-        return cmp(int(amin), int(bmin))
-    return cmp(int(ahour), int(bhour))
-
-for day, data in sessions.iteritems():
-    for track in data.keys():
+for day, data in mysessions.sessions.iteritems():
+    for room in data.keys():
 
         all_data = {
             'date': day,
             'sessions': [],
-            'track': track,
+            'room': room,
         }
 
-        for session in sorted(data[track].keys()):
+        for session in sorted(data[room].keys()):
             all_data['sessions'].append({
                 'title': session,
-                'papers': sorted(data[track][session]['papers'], lambda x,y: sort_times(x,y))
+                'papers': sorted(data[room][session]['papers'], lambda x,y: sort_times2(x,y))
             })
-        fname = '%s/%s-%s.tex' % (args.output_dir, re.sub(", | ","-", day) , track)
+        fname = '%s/%s-%s.tex' % (args.output_dir, re.sub(", | ","-", day) , re.sub(" ","-", room) )
         out = codecs.open(fname , 'w', 'utf-8')
         out.write(template.render(all_data))
         out.close()
