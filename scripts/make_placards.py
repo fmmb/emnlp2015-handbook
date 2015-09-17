@@ -48,7 +48,7 @@ def timerangef(timerange):
     return '--'.join(map(timef, timerange.split('--')))
 
 def sort_times2(a, b):
-    if (a['time'] == "") or (b['time'] == ""):
+    if not ( re.search("--", a['time']) and re.search("--", b['time']) ):
         return True
     ahour, amin = a['time'].split('--')[0].split(':')
     bhour, bmin = b['time'].split('--')[0].split(':')
@@ -76,6 +76,11 @@ class CollectionOfSessions:
         if not self.sessions[date][room].has_key(name):
             self.sessions[date][room][name] = info 
             self.sessions[date][room][name]['papers'] = [] 
+            if re.search("poster", info['title'], re.I):
+                self.sessions[date][room][name]['posters'] = True
+                self.sessions[date][room][name]['poster_id'] = 1
+            else:
+                self.sessions[date][room][name]['posters'] = False
         else:
             debug("Error: Session already exists")
 
@@ -91,6 +96,9 @@ class CollectionOfSessions:
     def add_paper(self, date, room, name, info):
         if not self.exists(date, room, name):
             raise ValueError("Session does not exist")
+        if ( info['time'] == "" ) and self.sessions[date][room][name]['posters']:
+            info['time'] = "\\hfill{}%s-%d"% ( self.sessions[date][room][name]['track'], self.sessions[date][room][name]['poster_id'] )
+            self.sessions[date][room][name]['poster_id'] += 1
         self.sessions[date][room][name]['papers'].append(info)
 
 class MyPaper:
@@ -154,7 +162,6 @@ class MyExternalItem:
         return "%s %s %s %s %s" % (self.id, self.time, self.poster, self.title, self.prefix)
 
 mysessions = CollectionOfSessions()
-
 for subconf in args.subconferences:
     for line in open('data/%s/order' % subconf):
         line = line.rstrip()
