@@ -52,8 +52,9 @@ The resulting files must be included in your latex code, using the \input comman
 
 I am using [LyX](http://www.lyx.org) to write my latex code. I find it particularly interesting for tables, but you can stick with latex if you want. In this repository I am keeping both versions, but be aware that the .tex files are being genberated by LyX and may not up-to-date, so look at the modification times.
 
-The handbook requires the usage of [biblatex](https://www.ctan.org/pkg/biblatex). However, current versions of LyX require the following procedure to properly work: 
-1) Create the file ~/Library/Application\ Support/LyX-2.1/layouts/biblatex.module with the following content
+The handbook requires the usage of [biblatex](https://www.ctan.org/pkg/biblatex). However, current versions of LyX require the following procedure to properly work:
+
+1. Create the file `~/Library/Application\ Support/LyX-2.1/layouts/biblatex.module` with the following content:
 
     #\DeclareLyXModule{Biblatex-citation-styles}
     #DescriptionBegin
