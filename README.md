@@ -69,11 +69,11 @@ The handbook requires the usage of [biblatex](https://www.ctan.org/pkg/biblatex)
         # this is biblatex actually
         Provides natbib         1
 
-2. Run Tools->Reconfigure, restart LyX and select the module "Biblatex-citation-styles" from Document->Settings->Modules.
+2. Run `Tools->Reconfigure`, restart LyX and select the module `Biblatex-citation-styles` from `Document->Settings->Modules`.
 
 3. choose biber for bib processing
 
-Please take into account that \addbibresource requires an absolute path name
+Please take into account that `\addbibresource` requires an absolute path name
 
 
 ## Notes concerning the data coming from softconf
