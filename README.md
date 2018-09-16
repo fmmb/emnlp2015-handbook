@@ -54,7 +54,7 @@ I am using [LyX](http://www.lyx.org) to write my latex code. I find it particula
 
 The handbook requires the usage of [biblatex](https://www.ctan.org/pkg/biblatex). However, current versions of LyX require the following procedure to properly work:
 
-### Create the file `~/Library/Application\ Support/LyX-2.1/layouts/biblatex.module` with the following content:
+A) Create the file `~/Library/Application\ Support/LyX-2.1/layouts/biblatex.module` with the following content:
 
     #\DeclareLyXModule{Biblatex-citation-styles}
     #DescriptionBegin
@@ -69,9 +69,9 @@ The handbook requires the usage of [biblatex](https://www.ctan.org/pkg/biblatex)
     # this is biblatex actually
     Provides natbib         1
 
-### Run Tools->Reconfigure, restart LyX and select the module "Biblatex-citation-styles" from Document->Settings->Modules.
+B) Run Tools->Reconfigure, restart LyX and select the module "Biblatex-citation-styles" from Document->Settings->Modules.
 
-### choose biber for bib processing
+C) choose biber for bib processing
 
 Please take into account that \addbibresource requires an absolute path name
 
